@@ -7,7 +7,7 @@
 }
 
 .theme-color3 {
-  --theme-color: #7520dd;
+  --theme-color: #c8101a;
 }
 
 .theme-color4 {
@@ -5979,6 +5979,7 @@ header .main-navbar .nav-menu>li.mega-menu.home-menu .megamenu-image-title {
 .banner-poster {
   height: 850px;
   background-color: #eff2f7;
+  background-size: cover;
   display: -webkit-box !important;
   display: -ms-flexbox !important;
   display: flex !important;
@@ -5988,6 +5989,20 @@ header .main-navbar .nav-menu>li.mega-menu.home-menu .megamenu-image-title {
   position: relative;
   overflow: hidden;
 }
+
+.bg-cornfield{
+  background-image: url(https://cdn.britannica.com/33/75933-050-826C8817/Rows-corn-field-Nebraska.jpg);
+}
+
+.bg-nut{
+  background-image: url(https://scontent.ftbs5-3.fna.fbcdn.net/v/t39.30808-6/301161688_422595416641592_3989812734657317657_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=MslZJlJ1R30AX9xEMdh&_nc_ht=scontent.ftbs5-3.fna&oh=00_AfCMZBGAtEETBTOx58RpbahEtvVegqnpHlvr94z8F2sk5g&oe=639595E6);
+}
+
+.bg-corn{
+  background-image: url(https://www.agdaily.com/wp-content/uploads/2018/11/bg-corn-lovelyday12.jpg);
+}
+
+
 
 @media (max-width: 767px) {
   .banner-poster {
@@ -6135,6 +6150,7 @@ header .main-navbar .nav-menu>li.mega-menu.home-menu .megamenu-image-title {
   bottom: 60px;
   left: 100px;
   width: 25%;
+  filter: drop-shadow(2px 2px 2px black);
 }
 
 [dir="rtl"] .banner-poster .price-number {
@@ -6185,7 +6201,7 @@ header .main-navbar .nav-menu>li.mega-menu.home-menu .megamenu-image-title {
 
 .banner-poster .price-number h2 {
   font-size: calc(22px + (45 - 22) * ((100vw - 320px) / (1920 - 320)));
-  color: #212529;
+  color: #ffffff;
 }
 
 .banner-poster .price-number h2 span {
@@ -20030,7 +20046,11 @@ hr {
 
 [dir="rtl"] .slick-slide {
   float: left;
-}
+
+/**=====================
+     new css
+==========================**/}
+
 
 /**=====================
      responsive css start
