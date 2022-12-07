@@ -6045,17 +6045,18 @@ header .main-navbar .nav-menu>li.mega-menu.home-menu .megamenu-image-title {
   font-size: calc(42px + (240 - 42) * ((100vw - 320px) / (1920 - 320)));
   font-family: "Montserrat", sans-serif;
   font-weight: 900;
-  color: #212529;
+  color: #ffffff;
 }
 
 .banner-poster .slider-bg .bg-circle {
-  width: calc(100px + (600 - 100) * ((100vw - 320px) / (1920 - 320)));
-  height: calc(100px + (600 - 100) * ((100vw - 320px) / (1920 - 320)));
-  border-radius: 50%;
-  background: linear-gradient(160deg, #a11d19 0%, #9d1c1e 100%);
-  position: absolute;
-  -webkit-animation: rounded 15s infinite linear;
-  animation: rounded 15s infinite linear;
+    width: calc(100px + (600 - 100) * ((100vw - 320px) / (1920 - 320)));
+    height: calc(100px + (600 - 100) * ((100vw - 320px) / (1920 - 320)));
+    border-radius: 50%;
+    border-top-right-radius: 0%;
+    background: linear-gradient(160deg, #a11d19 0%, #9d1c1e 100%);
+    position: absolute;
+    /* -webkit-animation: rounded 15s infinite linear; */
+    /* animation: rounded 15s infinite linear;*/
 }
 
 .banner-poster .slider-bg .bg-circle.gradient-purple {
