@@ -661,6 +661,7 @@ $(document).ready(function () {
     slidesToShow: 1,
     slidesToScroll: 1,
     fade: true,
+    autoplay: true,
     arrows: true,
     responsive: [{
       breakpoint: 480,
