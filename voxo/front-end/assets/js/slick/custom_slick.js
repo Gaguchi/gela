@@ -307,7 +307,7 @@ $(".slide-6").slick({
   speed: 500,
   arrows: false,
   slidesToShow: 6,
-  slidesToScroll: 1,
+  slidesToScroll: 2,
   responsive: [{
       breakpoint: 1630,
       settings: {

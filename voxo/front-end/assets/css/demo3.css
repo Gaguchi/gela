@@ -5977,7 +5977,7 @@ header .main-navbar .nav-menu>li.mega-menu.home-menu .megamenu-image-title {
 }
 
 .banner-poster {
-  height: 850px;
+  height: calc(100vh - 150px);
   background-color: #eff2f7;
   background-size: cover;
   display: -webkit-box !important;
@@ -6006,15 +6006,14 @@ header .main-navbar .nav-menu>li.mega-menu.home-menu .megamenu-image-title {
 
 @media (max-width: 767px) {
   .banner-poster {
-    height: auto;
-    padding-top: 50px;
+    height: calc(100vh - 150px);
     display: block !important;
   }
 }
 
 @media (max-width: 360px) {
   .banner-poster {
-    height: auto;
+    height: calc(100vh - 150px);
     width: 100%;
     display: inline-block !important;
   }
@@ -6035,18 +6034,20 @@ header .main-navbar .nav-menu>li.mega-menu.home-menu .megamenu-image-title {
 
 @media (max-width: 767px) {
   .banner-poster .slider-bg {
-    width: 100%;
+    height: 100%;
     position: relative;
     margin-top: 10px;
   }
 }
 
 .banner-poster .slider-bg .bg-text span {
-  font-size: calc(42px + (240 - 42) * ((100vw - 320px) / (1920 - 320)));
+  font-size: calc(32px + (240 - 42) * ((30vw - 20px) / (1920 - 320)));
   font-family: "Montserrat", sans-serif;
   font-weight: 900;
   color: #ffffff;
-  position: relative;
+  position: absolute;
+  bottom: 20px;
+  right: 10px;
   filter: drop-shadow(2px 2px 2px black);
   z-index: 1;
 }
@@ -6061,8 +6062,8 @@ header .main-navbar .nav-menu>li.mega-menu.home-menu .megamenu-image-title {
 }
 
 .banner-poster .slider-bg .bg-circle {
-    width: calc(100px + (600 - 100) * ((100vw - 320px) / (1920 - 320)));
-    height: calc(100px + (600 - 100) * ((100vw - 320px) / (1920 - 320)));
+    width: calc(100px + (600 - 100) * ((100vw - 0px) / (1920 - 320)));
+    height: calc(100px + (600 - 100) * ((100vw - 0px) / (1920 - 320)));
     border-radius: 50%;
     border-top-right-radius: 0%;
     background: linear-gradient(160deg, #a11d19 0%, #9d1c1e 100%);
@@ -6085,7 +6086,7 @@ header .main-navbar .nav-menu>li.mega-menu.home-menu .megamenu-image-title {
 }
 
 .banner-poster .slider-bg .shoes-1 {
-  width: calc(150px + (800 - 150) * ((100vw - 320px) / (1920 - 320)));
+  width: calc(160px + (800 - 150) * ((100vw - 0px) / (1920 - 320)));
   position: absolute;
   -webkit-animation: run-shoes 15s infinite linear;
   animation: run-shoes 15s infinite linear;
@@ -6201,8 +6202,9 @@ header .main-navbar .nav-menu>li.mega-menu.home-menu .megamenu-image-title {
   .banner-poster .price-number {
     width: 100%;
     left: 0;
+    bottom: 50px;
     padding: 0 15px;
-    position: relative;
+    position: absolute;
     display: inline-block;
     margin-top: 65px;
   }
