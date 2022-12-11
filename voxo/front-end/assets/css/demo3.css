@@ -6883,6 +6883,14 @@ header .main-navbar .nav-menu>li.mega-menu.home-menu .megamenu-image-title {
   margin-right: 20px;
 }
 
+.service-section .service-wrap .service-icon img {
+  width: 65px;
+  height: 65px;
+  fill: var(--theme-color);
+  stroke: var(--theme-color);
+  margin-right: 20px;
+}
+
 [dir="rtl"] .service-section .service-wrap .service-icon svg {
   margin-right: 0;
   margin-left: 20px;
