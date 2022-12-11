@@ -6092,6 +6092,13 @@ header .main-navbar .nav-menu>li.mega-menu.home-menu .megamenu-image-title {
   animation: run-shoes 15s infinite linear;
 }
 
+.banner-poster .slider-bg .shoes-logo {
+  width: calc(100px + (800 - 150) * ((100vw - 100px) / (1920 - 320)));
+  position: absolute;
+  opacity: 60%;
+  max-width: 700px;
+}
+
 .banner-poster .sugestion-product {
   position: absolute;
   width: 20%;
