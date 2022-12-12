@@ -5991,15 +5991,15 @@ header .main-navbar .nav-menu>li.mega-menu.home-menu .megamenu-image-title {
 }
 
 .bg-cornfield{
-  background-image: url(https://cdn.britannica.com/33/75933-050-826C8817/Rows-corn-field-Nebraska.jpg);
+  background-color: rgba(0, 0, 0, 0);
 }
 
 .bg-nut{
-  background-image: url(https://scontent.ftbs5-3.fna.fbcdn.net/v/t39.30808-6/301161688_422595416641592_3989812734657317657_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=MslZJlJ1R30AX9xEMdh&_nc_ht=scontent.ftbs5-3.fna&oh=00_AfCMZBGAtEETBTOx58RpbahEtvVegqnpHlvr94z8F2sk5g&oe=639595E6);
+  background-color: rgba(0, 0, 0, 0);
 }
 
 .bg-corn{
-  background-image: url(https://www.agdaily.com/wp-content/uploads/2018/11/bg-corn-lovelyday12.jpg);
+  background-color: rgba(0, 0, 0, 0);
 }
 
 
@@ -6095,8 +6095,10 @@ header .main-navbar .nav-menu>li.mega-menu.home-menu .megamenu-image-title {
 .banner-poster .slider-bg .shoes-logo {
   width: calc(100px + (800 - 150) * ((100vw - 100px) / (1920 - 320)));
   position: absolute;
-  opacity: 60%;
-  max-width: 700px;
+  opacity: 100%;
+  top: 20px;
+  left: 10px;
+  max-width: 350px;
 }
 
 .banner-poster .sugestion-product {
@@ -6895,6 +6897,25 @@ header .main-navbar .nav-menu>li.mega-menu.home-menu .megamenu-image-title {
   margin-right: 0;
   margin-left: 20px;
 }
+
+/*preloader*/
+.preloader{
+  /*
+  Making the preloader floating over other elements.
+  The preloader is visible by default. 
+  */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: 1000;
+  background: whitesmoke;
+}
+
 
 @media (max-width: 1460px) {
   .service-section .service-wrap .service-icon svg {

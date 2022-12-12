@@ -304,32 +304,35 @@ $(".slide-5_1").slick({
 $(".slide-6").slick({
   dots: true,
   infinite: true,
-  speed: 500,
   arrows: false,
   slidesToShow: 6,
-  slidesToScroll: 3,
+  slidesToScroll: 6,
   responsive: [{
       breakpoint: 1630,
       settings: {
         slidesToShow: 5,
+        slidesToScroll: 5,
       },
     },
     {
       breakpoint: 1200,
       settings: {
         slidesToShow: 4,
+        slidesToScroll: 4,
       },
     },
     {
       breakpoint: 992,
       settings: {
         slidesToShow: 3,
+        slidesToScroll: 3,
       },
     },
     {
       breakpoint: 705,
       settings: {
         slidesToShow: 2,
+        slidesToScroll: 2,
       },
     },
   ],

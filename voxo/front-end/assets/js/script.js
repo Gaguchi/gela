@@ -724,7 +724,7 @@ $('.dropdown .dropdown-menu li').click(function () {
     25. Text effect
  ==========================*/
 
- var words = ['ოდიში აგრო','ჰერბიციდები', 'პესტიციდები', 'ფუნგიციდები', 'სასუქები'],
+ var words = ['ოდიში აგრო','ქ. ზუგდიდი', 'სოხუმის ქ. 192', 'ჰერბიციდები', 'პესტიციდები', 'ფუნგიციდები', 'სასუქები'],
  part,
  i = 0,
  offset = 0,
@@ -770,3 +770,12 @@ setInterval(function () {
 $(document).ready(function () {
 wordflick();
 });
+
+/*=====================
+    25. Preloader
+ ==========================*/
+
+window.onload = function(){
+    //hide the preloader
+    document.querySelector(".preloader").style.display = "none";
+}
