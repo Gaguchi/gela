@@ -22,10 +22,8 @@
                 <div class="banner-poster bg-corn">
 
                     <div class="slider-bg">
-                        <div class="bg-text">
-                            <span>ოდიში აგრო</span>
-                        </div>
 
+                        <img class="shoes-odishi-logo img-fluid blur-up lazyload" alt="" src="assets/images/odishi_logo_white.svg">
                         <img class="shoes-logo img-fluid blur-up lazyload" alt="" src="assets/images/Avgust_logo.svg">
                         <img class="shoes-1 img-fluid blur-up lazyload" alt="" src="assets/images/shoes/slider-1.png">
                     </div>
@@ -46,10 +44,7 @@
                 <div class="banner-poster bg-nut">
 
                     <div class="slider-bg">
-                        <div class="bg-text">
-                            <span>ოდიში აგრო</span>
-                        </div>
-
+                        <img class="shoes-odishi-logo img-fluid blur-up lazyload" alt="" src="assets/images/odishi_logo_white.svg">
                         <img class="shoes-logo img-fluid blur-up lazyload" alt="" src="assets/images/Avgust_logo.svg">
                         <img class="shoes-1 img-fluid blur-up lazyload" alt="" src="assets/images/shoes/slider-2.png">
                     </div>
@@ -69,10 +64,7 @@
                 <!-- Slider 3 Start -->
                 <div class="banner-poster bg-nut">
                     <div class="slider-bg">
-                        <div class="bg-text">
-                            <span>ოდიში აგრო</span>
-                        </div>
-
+                        <img class="shoes-odishi-logo img-fluid blur-up lazyload" alt="" src="assets/images/odishi_logo_white.svg">
                         <img class="shoes-logo img-fluid blur-up lazyload" alt="" src="assets/images/WWI_logo.svg">
                         <img class="shoes-1 img-fluid blur-up lazyload" alt="" src="assets/images/shoes/slider-3.png">
                     </div>
@@ -93,10 +85,7 @@
                 <div class="banner-poster bg-nut">
 
                     <div class="slider-bg">
-                        <div class="bg-text">
-                            <span>ოდიში აგრო</span>
-                        </div>
-
+                        <img class="shoes-odishi-logo img-fluid blur-up lazyload" alt="" src="assets/images/odishi_logo_white.svg">
                         <img class="shoes-logo img-fluid blur-up lazyload" alt="" src="assets/images/WWI_logo.svg">
                         <img class="shoes-1 img-fluid blur-up lazyload" alt="" src="assets/images/shoes/slider-4.png">
                     </div>
@@ -117,10 +106,7 @@
                 <div class="banner-poster bg-nut">
 
                     <div class="slider-bg">
-                        <div class="bg-text">
-                            <span>ოდიში აგრო</span>
-                        </div>
-
+                        <img class="shoes-odishi-logo img-fluid blur-up lazyload" alt="" src="assets/images/odishi_logo_white.svg">
                         <img class="shoes-logo img-fluid blur-up lazyload" alt="" src="assets/images/UPL_logo.svg">
                         <img class="shoes-1 img-fluid blur-up lazyload" alt="" src="assets/images/shoes/slider-5.png">
                     </div>

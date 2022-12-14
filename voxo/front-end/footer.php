@@ -1,3 +1,86 @@
+  
+    <!-- Subscribe Section Start -->
+    <section class="subscribe-section section-b-space">
+        <div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-md-6">
+                        <div class="subscribe-details">
+                            <h2 class="mb-3">Subscribe Our News</h2>
+                            <h6>Subscribe and receive our newsletters to follow the news about our fresh and fantastic
+                                Shoes Products.</h6>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 mt-md-0 mt-3">
+                        <div class="subsribe-input">
+                            <div class="input-group">
+                                <input type="text" class="form-control" placeholder="Your Email Address"
+                                    aria-label="Recipient's username">
+                                <button class="btn btn-solid-default btn-spacing" type="button">Button</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Subscribe Section End -->
+
+    <!-- brand section start -->
+    <section class="section-b-space">
+        <div class="container">
+            <div class="row">
+                <div class="col">
+                    <div class="brand-slider">
+                        <div>
+                            <div class="brand-image">
+                                <img src="assets/images/brand/1.png" class="img-fluid blur-up lazyload"
+                                    alt="brand logo">
+                            </div>
+                        </div>
+                        <div>
+                            <div class="brand-image">
+                                <img src="assets/images/brand/2.png" class="img-fluid blur-up lazyload"
+                                    alt="brand logo">
+                            </div>
+                        </div>
+                        <div>
+                            <div class="brand-image">
+                                <img src="assets/images/brand/3.png" class="img-fluid blur-up lazyload"
+                                    alt="brand logo">
+                            </div>
+                        </div>
+                        <div>
+                            <div class="brand-image">
+                                <img src="assets/images/brand/4.png" class="img-fluid blur-up lazyload"
+                                    alt="brand logo">
+                            </div>
+                        </div>
+                        <div>
+                            <div class="brand-image">
+                                <img src="assets/images/brand/5.png" class="img-fluid blur-up lazyload"
+                                    alt="brand logo">
+                            </div>
+                        </div>
+                        <div>
+                            <div class="brand-image">
+                                <img src="assets/images/brand/6.png" class="img-fluid blur-up lazyload"
+                                    alt="brand logo">
+                            </div>
+                        </div>
+                        <div>
+                            <div class="brand-image">
+                                <img src="assets/images/brand/4.png" class="img-fluid blur-up lazyload"
+                                    alt="brand logo">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- brand section end -->
   <!-- footer start -->
   <footer class="footer-sm-space">
         <div class="main-footer">
@@ -357,7 +440,7 @@
     <!-- Cart Successful End -->
 
     <!-- theme Setting Start -->
-    <div class="theme-setting">
+    <!-- <div class="theme-setting">
         <ul>
             <li>
                 <button id="darkButton" class="btn btn-sm dark-buttton">Dark</button>
@@ -370,7 +453,7 @@
                     title="Choose your color">
             </li>
         </ul>
-    </div>
+    </div> -->
     <!-- theme Setting End -->
     <!-- tap to top Section Start -->
     <div class="tap-to-top">

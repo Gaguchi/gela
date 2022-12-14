@@ -72,8 +72,7 @@
                                         <img src="assets/images/odishi_logo.svg" class="img-fluid blur-up lazyload" alt="logo" style="max-height: 50px;">
                                     </a>
                                 </div>
-                                
-                                <!-- <div class="category-menu">
+                                <div class="category-menu">
                                     <button type="button"
                                         class="btn btn-solid-default toggle-category d-sm-block d-none">
                                         All categories
@@ -290,7 +289,7 @@
                                             </li>
                                         </ul>
                                     </div>
-                                </div> -->
+                                </div> 
                             </div>
                             <nav>
                                 <div class="main-navbar">
@@ -817,7 +816,7 @@
                                     </div>
                                 </div>
                             </nav>
-                            <div class="menu-right">
+                            <div class="menu-right" style="display: none;">
                                 <ul>
                                     <li>
                                         <div class="search-box theme-bg-color">
@@ -916,7 +915,7 @@
                                     </li>
                                 </ul>
                             </div>
-                            <div class="search-full">
+                            <div class="search-full" style="display: none;">
                                 <div class="input-group">
                                     <span class="input-group-text">
                                         <i data-feather="search" class="font-light"></i>

@@ -162,12 +162,24 @@ body{
      reset css start
 ==========================**/
 
-.hidden{
+.hidden-section{
   position: absolute;
   left: 110vw;
-  display: none;
+  opacity: 0;
 }
 
+.unhidden-section{
+  animation: appear 0.5s;
+}
+
+@keyframes appear {
+  0% {
+    transform: translate(300px, 0px);
+  }
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
 
 section,
 .section-t-space {
@@ -290,6 +302,7 @@ section,
      typography css start
 ==========================**/
 body {
+  overflow-x: hidden;
   font-family: Rubik, sans-serif;
   position: relative;
   font-size: 14px;
@@ -6117,6 +6130,16 @@ header .main-navbar .nav-menu>li.mega-menu.home-menu .megamenu-image-title {
   max-width: 350px;
 }
 
+.banner-poster .slider-bg .shoes-odishi-logo {
+  width: calc(100px + (800 - 150) * ((100vw - 100px) / (1920 - 320)));
+  position: absolute;
+  filter: drop-shadow(1px 1px black);
+  opacity: 100%;
+  bottom: 20px;
+  right: 20px;
+  max-width: 350px;
+}
+
 .banner-poster .sugestion-product {
   position: absolute;
   width: 20%;
@@ -6967,8 +6990,8 @@ header .main-navbar .nav-menu>li.mega-menu.home-menu .megamenu-image-title {
       display: none; } }
 
 .service-section .service-wrap .service-icon img {
-  width: 75px;
-  height: 75px;
+  width: 40px;
+  height: 40px;
   fill: var(--theme-color);
   stroke: var(--theme-color);
 }

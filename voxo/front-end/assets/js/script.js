@@ -803,8 +803,8 @@ $('#shop-1').on('click', function (e) {
     if (!$(this).hasClass("active")){
         $("#shop-2").removeClass("active");
         $(this).addClass("active");
-        $(".products-section-2").removeClass("active").addClass("hidden");
-        $(".products-section-1").removeClass("hidden").addClass("active");
+        $(".products-section-2").removeClass("unhidden-section").addClass("hidden-section");
+        $(".products-section-1").removeClass("hidden-section").addClass("unhidden-section");
     }
     });
 
@@ -812,7 +812,7 @@ $('#shop-2').on('click', function (e) {
     if (!$(this).hasClass("active")){
         $("#shop-1").removeClass("active");
         $(this).addClass("active");
-        $(".products-section-1").removeClass("active").addClass("hidden");
-        $(".products-section-2").removeClass("hidden").addClass("active");
+        $(".products-section-1").removeClass("unhidden-section").addClass("hidden-section");
+        $(".products-section-2").removeClass("hidden-section").addClass("unhidden-section");
     }
     });
