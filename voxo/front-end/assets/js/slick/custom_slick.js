@@ -640,14 +640,14 @@ $(".quick-view-slider").each(function (key, item) {
     speed: 1500,
     fade: true,
     arrows: false,
-    autoplay: true,
+    autoplay: false,
     slidesToShow: 1,
     slidesToScroll: 1,
     asNavFor: sliderNavId,
   });
 
   $(sliderNavId).slick({
-    slidesToShow: 3,
+    slidesToShow: 1,
     slidesToScroll: 1,
     asNavFor: sliderId,
     swipe: false,

@@ -206,8 +206,8 @@
        ==========================*/
     $("#quick-view").on("show.bs.modal", function (event) {
         $(window).trigger("resize");
-        $(".quick-view-slider").slick("slickNext");
-        $(".quick-nav").slick("slickNext");
+        // $(".quick-view-slider").slick("slickNext");
+        // $(".quick-nav").slick("slickNext");
     });
 
     /*=====================
@@ -779,3 +779,40 @@ window.onload = function(){
     //hide the preloader
     document.querySelector(".preloader").style.display = "none";
 }
+
+
+/*=====================
+    26. create video element
+ ==========================*/
+
+ const box = document.createElement('p'); // is a node
+ box.innerHTML = 'test satu dua tiga';
+
+
+ $(window).on('load', function() {
+    $( "#generate-video" ).prepend( '<video id="background-video" autoplay loop muted poster="https://assets.codepen.io/6093409/river.jpg"><source src="assets/videos/cornfield.mp4" type="video/mp4"></video>' );
+});
+
+
+/*=====================
+    27. shop element
+ ==========================*/
+
+
+$('#shop-1').on('click', function (e) {
+    if (!$(this).hasClass("active")){
+        $("#shop-2").removeClass("active");
+        $(this).addClass("active");
+        $(".products-section-2").removeClass("active").addClass("hidden");
+        $(".products-section-1").removeClass("hidden").addClass("active");
+    }
+    });
+
+$('#shop-2').on('click', function (e) {
+    if (!$(this).hasClass("active")){
+        $("#shop-1").removeClass("active");
+        $(this).addClass("active");
+        $(".products-section-1").removeClass("active").addClass("hidden");
+        $(".products-section-2").removeClass("hidden").addClass("active");
+    }
+    });
