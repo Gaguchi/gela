@@ -93,7 +93,7 @@
                                     <svg class="svg-icon">
                                         <use class="fill-color" xlink:href="assets/svg/icons.svg#logo"></use>
                                     </svg>
-                                    <img src="assets/images/logo.png" class="img-fluid blur-up lazyload" alt="logo" style="max-height: 50px;">
+                                    <img src="assets/images/odishi_logo.svg" class="img-fluid blur-up lazyload" alt="logo" style="max-height: 50px;">
                                 </a>
                             </div>
 
