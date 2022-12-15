@@ -11,7 +11,7 @@ body{
 }
 
 .theme-color3 {
-  --theme-color: #c8101a;
+  --theme-color: #458c65;
 }
 
 .theme-color4 {
@@ -6898,7 +6898,10 @@ header .main-navbar .nav-menu>li.mega-menu.home-menu .megamenu-image-title {
   border-radius: 0;
 }
 
-/*preloader*/
+/**=====================
+    Preloader
+==========================**/
+
 .preloader{
   /*
   Making the preloader floating over other elements.
@@ -6915,6 +6918,26 @@ header .main-navbar .nav-menu>li.mega-menu.home-menu .megamenu-image-title {
   z-index: 1000;
   background: whitesmoke;
 }
+
+.preloader-svg{
+  max-width: 150px;
+}
+
+.preloader-svg-spin{
+  -webkit-animation-name: spinner;
+  transform-origin: 55%;
+  animation-name: spinner;
+  -webkit-animation-timing-function: linear;
+  animation-timing-function: linear;
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+  -webkit-animation-duration: 3s;
+  animation-duration: 3s;
+  -webkit-transform-style: preserve-3d;
+  transform-style: preserve-3d;
+}
+
+
 
 /**=====================
     service section css start
