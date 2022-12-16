@@ -460,7 +460,7 @@
                                     class="w-100 bg-img blur-up lazyload" alt="">
                             </a>
                             <div class="circle-shape"></div>
-                            <span class="background-text">Furniture</span>
+                            <span class="background-text">Odishiagro</span>
                             <div class="label-block">
                                 <span class="label label-theme">30% Off</span>
                             </div>
@@ -530,7 +530,7 @@
                                     class="w-100 bg-img blur-up lazyload" alt="">
                             </a>
                             <div class="circle-shape"></div>
-                            <span class="background-text">Furniture</span>
+                            <span class="background-text">Odishiagro</span>
                             <div class="label-block">
                                 <span class="label label-theme float-start">New</span>
                             </div>
@@ -600,7 +600,7 @@
                                     class="w-100 bg-img blur-up lazyload" alt="">
                             </a>
                             <div class="circle-shape"></div>
-                            <span class="background-text">Furniture</span>
+                            <span class="background-text">Odishiagro</span>
                             <div class="label-block">
                                 <span class="label label-black">New</span>
                                 <span class="label label-theme">50% Off</span>
@@ -671,7 +671,7 @@
                                     class="w-100 bg-img blur-up lazyload" alt="">
                             </a>
                             <div class="circle-shape"></div>
-                            <span class="background-text">Furniture</span>
+                            <span class="background-text">Odishiagro</span>
                             <div class="label-block">
                                 <span class="label label-theme float-start">New</span>
                                 <span class="label label-black float-end">50% Off</span>
@@ -742,7 +742,7 @@
                                     class="w-100 bg-img blur-up lazyload" alt="">
                             </a>
                             <div class="circle-shape"></div>
-                            <span class="background-text">Furniture</span>
+                            <span class="background-text">Odishiagro</span>
                             <div class="label-block">
                                 <span class="label label-black">New</span>
                                 <span class="label label-theme">50% Off</span>
@@ -813,7 +813,7 @@
                                     class="w-100 bg-img blur-up lazyload" alt="">
                             </a>
                             <div class="circle-shape"></div>
-                            <span class="background-text">Furniture</span>
+                            <span class="background-text">Odishiagro</span>
                             <div class="label-block">
                                 <span class="label label-theme float-start">New</span>
                                 <span class="label label-black float-end">50% Off</span>
@@ -884,7 +884,7 @@
                                     class="w-100 bg-img blur-up lazyload" alt="">
                             </a>
                             <div class="circle-shape"></div>
-                            <span class="background-text">Furniture</span>
+                            <span class="background-text">Odishiagro</span>
                             <div class="label-block">
                                 <span class="label label-black">New</span>
                                 <span class="label label-theme">50% Off</span>
@@ -955,7 +955,7 @@
                                     class="w-100 bg-img blur-up lazyload" alt="">
                             </a>
                             <div class="circle-shape"></div>
-                            <span class="background-text">Furniture</span>
+                            <span class="background-text">Odishiagro</span>
                             <div class="label-block">
                                 <span class="label label-theme float-start">New</span>
                                 <span class="label label-black float-end">50% Off</span>

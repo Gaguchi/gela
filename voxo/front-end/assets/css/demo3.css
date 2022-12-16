@@ -7189,7 +7189,7 @@ header .main-navbar .nav-menu>li.mega-menu.home-menu .megamenu-image-title {
 
 .product-box .img-wrapper .circle-shape {
   position: absolute;
-  background-color: rgba(232, 115, 22, 0.04);
+  background-color: rgb(23 232 22 / 4%);
   top: -80px;
   left: -80px;
   width: 100%;
@@ -7208,7 +7208,7 @@ header .main-navbar .nav-menu>li.mega-menu.home-menu .megamenu-image-title {
   width: 390px;
   height: 390px;
   position: absolute;
-  background-color: rgba(232, 115, 22, 0.04);
+  background-color: rgb(23 232 22 / 4%);
   top: -130px;
   left: -130px;
   border-radius: 50%;
@@ -7220,7 +7220,7 @@ header .main-navbar .nav-menu>li.mega-menu.home-menu .megamenu-image-title {
 .product-box .img-wrapper .background-text {
   text-transform: uppercase;
   position: absolute;
-  top: 90px;
+  top: 0px;
   right: -30px;
   -webkit-writing-mode: vertical-rl;
   -ms-writing-mode: tb-rl;
@@ -7228,7 +7228,7 @@ header .main-navbar .nav-menu>li.mega-menu.home-menu .megamenu-image-title {
   text-orientation: mixed;
   font-weight: bolder;
   font-size: 68px;
-  color: rgba(232, 115, 22, 0.1);
+  color: rgb(23 232 22 / 14%);
   -webkit-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;
