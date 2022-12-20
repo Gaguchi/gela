@@ -50,7 +50,7 @@
     <link rel="stylesheet" type="text/css" href="assets/css/vendors/slick/slick-theme.css">
 
     <!-- Theme css -->
-    <link id="color-link" rel="stylesheet" type="text/css" href="assets/css/demo2.css">
+    <link id="color-link" rel="stylesheet" type="text/css" href="assets/css/demo3.css">
 
 </head>
 
@@ -1099,21 +1099,20 @@
                                 <div id="collapseTwo" class="accordion-collapse collapse show"
                                     data-bs-parent="#accordionExample">
                                     <div class="accordion-body category-scroll">
-                                        <ul class="category-list">
+                                        <ul class="category-list" id="filters-brand">
                                             <li>
                                                 <div class="form-check ps-0 custome-form-check">
-                                                    <input class="checkbox_animated check-it" type="checkbox"
+                                                    <input class="checkbox_animated check-it" type="checkbox" value="branda"
                                                         id="flexCheckDefault1">
-                                                    <label class="form-check-label" for="flexCheckDefault1">Zara</label>
+                                                    <label class="form-check-label" for="flexCheckDefault1">brandA</label>
                                                     <p class="font-light">(25)</p>
                                                 </div>
                                             </li>
                                             <li>
                                                 <div class="form-check ps-0 custome-form-check">
-                                                    <input class="checkbox_animated check-it" type="checkbox"
+                                                    <input class="checkbox_animated check-it" type="checkbox" value="brandb" 
                                                         id="flexCheckDefault2">
-                                                    <label class="form-check-label" for="flexCheckDefault2">Allen
-                                                        Solly</label>
+                                                    <label class="form-check-label" for="flexCheckDefault2">brandB</label>
                                                     <p class="font-light">(25)</p>
                                                 </div>
                                             </li>
@@ -1266,22 +1265,21 @@
                                 <div id="collapseOne" class="accordion-collapse collapse show"
                                     aria-labelledby="headingOne">
                                     <div class="accordion-body category-scroll">
-                                        <ul class="category-list">
+                                        <ul class="category-list" id="filters-category">
                                             <li>
                                                 <div class="form-check ps-0 custome-form-check">
-                                                    <input class="checkbox_animated check-it" type="checkbox"
+                                                    <input class="checkbox_animated check-it" type="checkbox" value="categorya"
                                                         id="flexCheckDefault10">
                                                     <label class="form-check-label"
-                                                        for="flexCheckDefault10">Shirts</label>
+                                                        for="flexCheckDefault10">categoryA</label>
                                                     <p class="font-light">(25)</p>
                                                 </div>
                                             </li>
                                             <li>
                                                 <div class="form-check ps-0 custome-form-check">
-                                                    <input class="checkbox_animated check-it" type="checkbox"
+                                                    <input class="checkbox_animated check-it" type="checkbox" value="categoryb"
                                                         id="flexCheckDefault11">
-                                                    <label class="form-check-label" for="flexCheckDefault11">T-shirts
-                                                        Solly</label>
+                                                    <label class="form-check-label" for="flexCheckDefault11">categoryB</label>
                                                     <p class="font-light">(25)</p>
                                                 </div>
                                             </li>
@@ -1402,7 +1400,7 @@
                                     <div>
                                         <div class="row g-3">
                                             <div class="col-12">
-                                                <div class="product-image">
+                                                <div class="product-image" >
                                                     <a href="javascript:void(0)">
                                                         <img src="assets/images/fashion/product/front/1.jpg"
                                                             class="blur-up lazyload" alt="">
@@ -1419,7 +1417,7 @@
                                                 </div>
                                             </div>
 
-                                            <div class="col-12">
+                                            <div class="col-12" class="categoryb">
                                                 <div class="product-image">
                                                     <a href="javascript:void(0)">
                                                         <img src="assets/images/fashion/product/front/2.jpg"
@@ -1683,7 +1681,7 @@
                     <!-- Prodcut setion -->
                     <div
                         class="row g-sm-4 g-3 product-load-more mt-1 custom-gy-5 product-style-2 ratio_asos product-list-section list-style">
-                        <div>
+                        <div  class="productcheck categorya brandb" data-category="categorya brandb">
                             <div class="product-box">
                                 <div class="img-wrapper">
                                     <div class="front">
@@ -1748,7 +1746,7 @@
                                     </div>
                                     <div class="main-price">
                                         <a href="product-left-sidebar.html" class="font-default">
-                                            <h5 class="ms-0">Slim Fit Plastic Coat</h5>
+                                            <h5 class="ms-0">categorya brandb</h5>
                                         </a>
                                         <div class="listing-content">
                                             <span class="font-light">Regular Fit</span>
@@ -1767,7 +1765,7 @@
                         </div>
 
                         <div>
-                            <div class="product-box">
+                            <div class="product-box productcheck categoryb branda" data-category="categoryb branda">
                                 <div class="img-wrapper">
                                     <div class="front">
                                         <a href="product-left-sidebar.html">
@@ -1831,7 +1829,7 @@
                                     </div>
                                     <div class="main-price">
                                         <a href="product-left-sidebar.html" class="font-default">
-                                            <h5 class="ms-0">Blue Leather Jacket</h5>
+                                            <h5 class="ms-0">categoryb branda</h5>
                                         </a>
                                         <div class="listing-content">
                                             <span class="font-light">Jacket</span>

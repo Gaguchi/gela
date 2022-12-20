@@ -16459,9 +16459,22 @@ hr {
   margin-top: 0px;
 }
 
+header#home {
+  -webkit-box-shadow: 0 2px 7px 3px rgb(168 168 168 / 40%);
+  box-shadow: 0 2px 7px 3px rgb(168 168 168 / 40%);
+}
+
 /**=====================
      Product Page CSS Start
 ==========================**/
+.hideproduct{
+  display: none;
+}
+
+.showproduct{
+  display:inline;
+}
+
 .pro-popular .product-slider .slick-prev {
   background-color: #ddd !important;
 }
