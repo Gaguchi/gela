@@ -103,7 +103,7 @@
                         <div class="main-menu">
                             <div class="menu-left">
                                 <div class="brand-logo" style="width: 100px;">
-                                    <a href="index.html">
+                                    <a href="index.php">
                                         <img src="assets/images/odishi_logo.svg" class="img-fluid blur-up lazyload"
                                             alt="logo" style="max-height: 50px;">
                                     </a>

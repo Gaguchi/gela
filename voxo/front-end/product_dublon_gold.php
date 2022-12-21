@@ -15,11 +15,6 @@
                                                 <img src="assets/images/fashion/1.jpg" id="zoom_01"
                                                     data-zoom-image="assets/images/fashion/1.jpg"
                                                     class="img-fluid w-100 image_zoom_cls-0 blur-up lazyload" alt="">
-
-                                                <div class="label-tag">
-                                                    <h6><i class="fas fa-star"></i> 4.8 <span
-                                                            class="font-light">120</span></h6>
-                                                </div>
                                             </div>
                                         </div>
                                     </div>
@@ -30,35 +25,22 @@
                                 <div class="cloth-details-size">
 
                                     <div class="details-image-concept">
-                                        <h2>Brand New t-Shirt</h2>
+                                        <h2>დუბლინ გოლდი</h2>
                                     </div>
 
                                     <div class="label-section">
-                                        <span class="badge badge-grey-color">#1 Best seller</span>
-                                        <span class="label-text">in fashion</span>
+                                        <span class="badge badge-grey-color">ჰერბიციდი</span>
                                     </div>
 
-                                    <h3 class="price-detail">$32.96 <del>$459.00</del><span>55% off</span></h3>
+                                    <h3 class="price-detail">₾32.96 <del>₾459.00</del><span>55% ფასდაკლება</span></h3>
 
                                     <div class="color-image">
                                         <div class="image-select">
-                                            <h5>Color :</h5>
+                                            <h5>გამოიყენება :</h5>
                                             <ul class="image-section">
                                                 <li>
                                                     <a href="javascript:void(0)">
-                                                        <img src="assets/images/fashion/product/front/5.jpg"
-                                                            class="img-fluid blur-up lazyload" alt="">
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="javascript:void(0)">
-                                                        <img src="assets/images/fashion/product/front/6.jpg"
-                                                            class="img-fluid blur-up lazyload" alt="">
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="javascript:void(0)">
-                                                        <img src="assets/images/fashion/product/front/7.jpg"
+                                                        <img src="assets/images/fashion/product/front/corn.jpg"
                                                             class="img-fluid blur-up lazyload" alt="">
                                                     </a>
                                                 </li>
@@ -67,26 +49,20 @@
                                     </div>
 
                                     <div id="selectSize" class="addeffect-section product-description border-product">
-                                        <h6 class="product-title size-text">select size
+                                        <h6 class="product-title size-text">აირჩიეთ მოცულობა
                                             <a href="javascript:void(0)" data-bs-toggle="modal"
                                                 data-bs-target="#sizemodal">size chart</a>
                                         </h6>
 
-                                        <h6 class="error-message">please select size</h6>
+                                        <h6 class="error-message">მოცულობა</h6>
 
                                         <div class="size-box">
                                             <ul>
                                                 <li>
-                                                    <a href="javascript:void(0)">s</a>
+                                                    <a href="javascript:void(0)">70 გრ</a>
                                                 </li>
                                                 <li>
-                                                    <a href="javascript:void(0)">m</a>
-                                                </li>
-                                                <li>
-                                                    <a href="javascript:void(0)">l</a>
-                                                </li>
-                                                <li>
-                                                    <a href="javascript:void(0)">xl</a>
+                                                    <a href="javascript:void(0)">750 გრ</a>
                                                 </li>
                                             </ul>
                                         </div>
@@ -133,32 +109,6 @@
                                         </li>
                                     </ul>
 
-                                    <div class="mt-2 mt-md-3 border-product">
-                                        <h6 class="product-title hurry-title d-block">Hurry Up! Left <span>10</span>
-                                            in
-                                            stock</h6>
-                                        <div class="progress">
-                                            <div class="progress-bar" role="progressbar" style="width: 78%"></div>
-                                        </div>
-                                        <div class="font-light timer-5">
-                                            <h5>Order in the next to get</h5>
-                                            <ul class="timer1">
-                                                <li class="counter">
-                                                    <h5 id="days">&#9251;</h5> Days :
-                                                </li>
-                                                <li class="counter">
-                                                    <h5 id="hours">&#9251;</h5> Hour :
-                                                </li>
-                                                <li class="counter">
-                                                    <h5 id="minutes">&#9251;</h5> Min :
-                                                </li>
-                                                <li class="counter">
-                                                    <h5 id="seconds">&#9251;</h5> Sec
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </div>
-
                                     <div class="border-product">
                                         <h6 class="product-title d-block">share it</h6>
                                         <div class="product-icon">
@@ -202,16 +152,13 @@
                         <nav>
                             <div class="nav nav-tabs" id="nav-tab" role="tablist">
                                 <button class="nav-link active" id="nav-home-tab" data-bs-toggle="tab"
-                                    data-bs-target="#desc" type="button">Description</button>
+                                    data-bs-target="#desc" type="button">დახასიათება</button>
 
                                 <button class="nav-link" id="nav-speci-tab" data-bs-toggle="tab" data-bs-target="#speci"
-                                    type="button">Specifications</button>
-
-                                <button class="nav-link" id="nav-size-tab" data-bs-toggle="tab"
-                                    data-bs-target="#nav-guide" type="button">Sizing Guide</button>
+                                    type="button">ქიმიური შემადგენლობა</button>
 
                                 <button class="nav-link" id="nav-question-tab" data-bs-toggle="tab"
-                                    data-bs-target="#question" type="button">Q & A</button>
+                                    data-bs-target="#question" type="button">უსაფრთხოების ზომები</button>
                             </div>
                         </nav>
 
@@ -219,94 +166,46 @@
                             <div class="tab-pane fade show active" id="desc">
                                 <div class="shipping-chart">
                                     <div class="part">
-                                        <h4 class="inner-title mb-2">Give you a complete account of the system</h4>
-                                        <p class="font-light">Nor again is there anyone who loves or pursues or
-                                            desires
-                                            to
-                                            obtain pain of itself, because it is pain, but because occasionally
-                                            circumstances occur in which toil and pain can procure him some great
-                                            pleasure.
-                                            To take a trivial example, which of us ever undertakes laborious
-                                            physical
-                                            exercise, except to obtain some advantage from it? But who has any right
-                                            to
-                                            find
-                                            fault with a man who chooses to enjoy a pleasure that has no annoying
-                                            consequences, or one who avoids a pain that produces no resultant
-                                            pleasure.
+                                        <h4 class="inner-title mb-2">დუბლიონის ოქრო</h4>
+                                        <p class="font-light">კომბინირებული ჰერბიციდი ერთწლიანი და მრავალწლიანი მარცვლეულის, ერთწლოვანი და ზოგიერთი მრავალწლიანი ორფეხა სარეველების წინააღმდეგ სიმინდის კულტურებში
                                         </p>
                                     </div>
 
                                     <div class="row g-3 align-items-center">
                                         <div class="col-lg-8">
-                                            <p class="font-light">Lorem ipsum dolor sit amet, consectetur
-                                                adipisicing
-                                                elit.
-                                                Ab, autem nemo? Tempora vitae assumenda laudantium unde magni,
-                                                soluta
-                                                repudiandae quam, neque voluptate deleniti consequatur laboriosam
-                                                veritatis?
-                                                Tempore dolor molestias voluptatum! Minima possimus, pariatur sed,
-                                                quasi
-                                                provident dolorum unde molestias, assumenda consequuntur odit magni
-                                                blanditiis obcaecati? Ea corporis odit dolorem fuga, fugiat soluta
-                                                consequuntur magni.</p>
+                                            <h4 class="inner-title mb-2">ძირითადი უპირატესობები</h4>
+                                            <ol>
+                                                <li>მოქმედების ძალიან ფართო სპექტრი ორი აქტიური ნივთიერების კომბინაციის გამო, რომლებიც ავსებენ ერთმანეთს</li>
+                                                <li>კულტურის დაცვის ხანგრძლივი პერიოდი</li>
+                                                <li>ეკონომიური გამოყენება დაბალი მოხმარების სიჩქარის გამო</li>
+                                                <li>თანამედროვე, ადვილად გამოსაყენებელი, ტრანსპორტირება და შესანახი მოსამზადებელი ფორმა</li>
+                                            </ol>
 
                                             <div class="part mt-3">
-                                                <h5 class="inner-title mb-2">fabric:</h5>
-                                                <p class="font-light">Art silk is manufactured by synthetic fibres
-                                                    like
-                                                    rayon. It's light in weight and is soft on the skin for comfort
-                                                    in
-                                                    summers.Art silk is manufactured by synthetic fibres like rayon.
-                                                    It's
-                                                    light in weight and is soft on the skin for comfort in summers.
+                                                <h4 class="inner-title mb-2">პრეპარატის დანიშვნა:</h4>
+                                                <p class="font-light">კომბინირებული სისტემური ჰერბიციდი მრავალი სახის წლიური და მრავალწლოვანი ბალახის და ერთწლოვანი და ზოგიერთი მრავალწლიანი ორფეხა სარეველების კონტროლისთვის სიმინდის კულტურებში.
                                                 </p>
-                                                <p class="font-light">Lorem Ipsum is simply dummy text of the
-                                                    printing
-                                                    and typesetting industry. Lorem Ipsum has been the industry's
-                                                    standard dummy text ever since the 1500s</p>
+                                                <br>
+                                                <h4 class="inner-title mb-2">გამოყენების რეკომენდაციები:</h4>
+                                                <p class="font-light">დუბლინ გოლდი რეგისტრირებულია სიმინდის კულტურებზე გამოსაყენებლად (გარდა ზეთიანი სიმინდისა). სიმინდი მუშავდება მე-2 ფაზაში - 6 ფოთოლი ტახტის ბალახის სიმაღლეზე 10 - 15 სმ, 1 ფაზაში - 4 ფოთოლი ერთწლოვანი ორფოთლიანი და მარცვლოვანი სარეველა.არასასურველია პრეპარატის გამოყენება შაქარზე და პოპკორნზე, მშობლის ხაზებზე თესლის წარმოებისთვის.</p>
                                             </div>
                                         </div>
 
                                         <div class="col-lg-4">
-                                            <img src="assets/images/fashion/slider/1.jpg"
+                                            <img src="assets/images/fashion/slider/corn1.jpg"
                                                 class="img-fluid rounded blur-up lazyload" alt="">
                                         </div>
 
                                         <div class="col-lg-8 order-lg-2 mt-4">
-                                            <p class="font-light">Lorem ipsum dolor sit amet, consectetur
-                                                adipisicing
-                                                elit.
-                                                Ab, autem nemo? Tempora vitae assumenda laudantium unde magni,
-                                                soluta
-                                                repudiandae quam, neque voluptate deleniti consequatur laboriosam
-                                                veritatis?
-                                                Tempore dolor molestias voluptatum! Minima possimus, pariatur sed,
-                                                quasi
-                                                provident dolorum unde molestias, assumenda consequuntur odit magni
-                                                blanditiis obcaecati? Ea corporis odit dolorem fuga, fugiat soluta
-                                                consequuntur magni.</p>
+                                                <h4 class="inner-title mb-2">სამუშაო ხსნარის მომზადება:</h4>
+                                            <p class="font-light">სამუშაო ხსნარი მზადდება შესხურებამდე დაუყოვნებლივ. გაზომეთ დუბლინ გოლდის საჭირო რაოდენობა თითო შემასხურებლის შევსებაზე. პრეპარატის დედახსნარის მოსამზადებლად კონტეინერი (ვედრო) ივსება წყლით 1/4-ით, შემდეგ ემატება გაზომილი რაოდენობის ჰერბიციდი, აურიეთ საფუძვლიანად, ზემოდან ავსებენ წყალს მოცულობის 3/4-მდე. შემდეგ მუშა ხსნარს ამზადებენ შემდეგნაირად: გამფრქვევი ავზი ივსება დაახლოებით ნახევრად წყლით, ჩართულია მიქსერი, მასში ასხამენ ჰერბიციდის სადედე ხსნარს, ემატება ადიუ წებოს შესაბამისი რაოდენობა და წყალი იხსნება. დაემატა სრულ მოცულობას. სადედე ხსნარის მოსამზადებელ ჭურჭელს რამდენჯერმე რეცხავენ წყლით და ასხამენ შემასხურებელ ავზში.</p>
                                             <div class="part mt-3">
-                                                <p class="font-light">Lorem ipsum, dolor sit amet consectetur
-                                                    adipisicing
-                                                    elit. Odio repellat numquam perspiciatis eum quis ab, sed dicta
-                                                    tenetur
-                                                    fugit culpa, aut distinctio deserunt quisquam ipsam
-                                                    reprehenderit
-                                                    iure?
-                                                    Adipisci, optio enim? Voluptates voluptatum neque id ad commodi
-                                                    quisquam
-                                                    dolorem vitae inventore quasi! Officiis facere, iusto tempore
-                                                    atque
-                                                    magnam voluptas. Architecto laboriosam deleniti hic veritatis
-                                                    nesciunt.
-                                                    Aut officia quasi inventore et. Debitis.</p>
+                                                <p class="font-light">Მნიშვნელოვანი! ადიუ ბოლოს უნდა დაემატოს შემასხურებელ ავზს, წინააღმდეგ შემთხვევაში, უხვი ქაფის გამო, წებოვანი ნივთიერების დამატებისას შესაძლოა, ხსნარის ნაწილი გადმოვიღვაროს მფრქვეველი ავზიდან.</p>
                                             </div>
                                         </div>
 
                                         <div class="col-lg-4 order-lg-0 mt-4">
-                                            <img src="assets/images/fashion/slider/2.jpg"
+                                            <img src="assets/images/fashion/slider/corn2.jpg"
                                                 class="img-fluid rounded blur-up lazyload" alt="">
                                         </div>
                                     </div>
@@ -315,136 +214,19 @@
 
                             <div class="tab-pane fade" id="speci">
                                 <div class="pro mb-4">
-                                    <p class="font-light">The Model is wearing a white blouse from our stylist's
-                                        collection, see the image for a mock-up of what the actual blouse would look
-                                        like.it has text written on it in a black cursive language which looks great
-                                        on a white color.</p>
+                                                <h3 class="inner-title mb-2">Ძირითადი ინგრედიენტები:</h3>
                                     <div class="table-responsive">
                                         <table class="table table-part">
                                             <tr>
-                                                <th>Product Dimensions</th>
-                                                <td>15 x 15 x 3 cm; 250 Grams</td>
+                                                <th>ნიკოსულფურონი</th>
+                                                <td>600 გ/კგ</td>
                                             </tr>
                                             <tr>
-                                                <th>Date First Available</th>
-                                                <td>5 April 2021</td>
-                                            </tr>
-                                            <tr>
-                                                <th>Manufacturer‏</th>
-                                                <td>Aditya Birla Fashion and Retail Limited</td>
-                                            </tr>
-                                            <tr>
-                                                <th>ASIN</th>
-                                                <td>B06Y28LCDN</td>
-                                            </tr>
-                                            <tr>
-                                                <th>Item model number</th>
-                                                <td>AMKP317G04244</td>
-                                            </tr>
-                                            <tr>
-                                                <th>Department</th>
-                                                <td>Men</td>
-                                            </tr>
-                                            <tr>
-                                                <th>Item Weight</th>
-                                                <td>250 G</td>
-                                            </tr>
-                                            <tr>
-                                                <th>Item Dimensions LxWxH</th>
-                                                <td>15 x 15 x 3 Centimeters</td>
-                                            </tr>
-                                            <tr>
-                                                <th>Net Quantity</th>
-                                                <td>1 U</td>
-                                            </tr>
-                                            <tr>
-                                                <th>Included Components‏</th>
-                                                <td>1-T-shirt</td>
-                                            </tr>
-                                            <tr>
-                                                <th>Generic Name</th>
-                                                <td>T-shirt</td>
+                                                <th>თიფენსულფურონ-მეთილი</th>
+                                                <td>150 გ/კგ</td>
                                             </tr>
                                         </table>
                                     </div>
-                                </div>
-                            </div>
-
-                            <div class="tab-pane fade overflow-auto" id="nav-guide">
-                                <div class="table-responsive">
-                                    <table class="table table-pane mb-0">
-                                        <tbody>
-                                            <tr class="bg-color">
-                                                <th class="my-2">US Sizes</th>
-                                                <td>6</td>
-                                                <td>6.5</td>
-                                                <td>7</td>
-                                                <td>8</td>
-                                                <td>8.5</td>
-                                                <td>9</td>
-                                                <td>9.5</td>
-                                                <td>10</td>
-                                                <td>10.5</td>
-                                                <td>11</td>
-                                            </tr>
-
-                                            <tr>
-                                                <th>Euro Sizes</th>
-                                                <td>39</td>
-                                                <td>39</td>
-                                                <td>40</td>
-                                                <td>40-41</td>
-                                                <td>41</td>
-                                                <td>41-42</td>
-                                                <td>42</td>
-                                                <td>42-43</td>
-                                                <td>43</td>
-                                                <td>43-44</td>
-                                            </tr>
-
-                                            <tr class="bg-color">
-                                                <th>UK Sizes</th>
-                                                <td>5.5</td>
-                                                <td>6</td>
-                                                <td>6.5</td>
-                                                <td>7</td>
-                                                <td>7.5</td>
-                                                <td>8</td>
-                                                <td>8.5</td>
-                                                <td>9</td>
-                                                <td>10.5</td>
-                                                <td>11</td>
-                                            </tr>
-
-                                            <tr>
-                                                <th>Inches</th>
-                                                <td>9.25"</td>
-                                                <td>9.5"</td>
-                                                <td>9.625"</td>
-                                                <td>9.75"</td>
-                                                <td>9.9735"</td>
-                                                <td>10.125"</td>
-                                                <td>10.25"</td>
-                                                <td>10.5"</td>
-                                                <td>10.765"</td>
-                                                <td>10.85</td>
-                                            </tr>
-
-                                            <tr class="bg-color">
-                                                <th>CM</th>
-                                                <td>23.5</td>
-                                                <td>24.1</td>
-                                                <td>24.4</td>
-                                                <td>25.4</td>
-                                                <td>25.7</td>
-                                                <td>26</td>
-                                                <td>26.7</td>
-                                                <td>27</td>
-                                                <td>27.3</td>
-                                                <td>27.5</td>
-                                            </tr>
-                                        </tbody>
-                                    </table>
                                 </div>
                             </div>
 
@@ -453,45 +235,9 @@
                                     <ul>
                                         <li>
                                             <div class="que">
-                                                <i class="fas fa-question"></i>
+                                                <i class="fas fa-exclamation"></i>
                                                 <div class="que-details">
-                                                    <h6>Is it compatible with all WordPress themes?</h6>
-                                                    <p class="font-light">If you want to see a demonstration version of
-                                                        the premium plugin, you can see that in this page. If you want
-                                                        to see a demonstration version of the premium plugin, you can
-                                                        see that in this page. If you want to see a demonstration
-                                                        version of the premium plugin, you can see that in this page.
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </li>
-
-                                        <li>
-                                            <div class="que">
-                                                <i class="fas fa-question"></i>
-                                                <div class="que-details">
-                                                    <h6>How can I try the full-featured plugin? </h6>
-                                                    <p class="font-light">Compatibility with all themes is impossible,
-                                                        because they are too many, but generally if themes are developed
-                                                        according to WordPress and WooCommerce guidelines, YITH plugins
-                                                        are compatible with them. Compatibility with all themes is
-                                                        impossible, because they are too many, but generally if themes
-                                                        are developed according to WordPress and WooCommerce guidelines,
-                                                        YITH plugins are compatible with them.</p>
-                                                </div>
-                                            </div>
-                                        </li>
-
-                                        <li>
-                                            <div class="que">
-                                                <i class="fas fa-question"></i>
-                                                <div class="que-details">
-                                                    <h6>Is it compatible with all WordPress themes?</h6>
-                                                    <p class="font-light">If you want to see a demonstration version of
-                                                        the premium plugin, you can see that in this page. If you want
-                                                        to see a demonstration version of the premium plugin, you can
-                                                        see that in this page. If you want to see a demonstration
-                                                        version of the premium plugin, you can see that in this page.
+                                                    <p class="font-light">აუცილებელია პირადი დამცავი აღჭურვილობის გამოყენება სასუნთქი გზების, მხედველობისა და კანის მთლიანობისთვის.
                                                     </p>
                                                 </div>
                                             </div>
