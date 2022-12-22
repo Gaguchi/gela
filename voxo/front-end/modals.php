@@ -1,6 +1,6 @@
 
     <!-- Quick view modal start -->
-    <div class="modal fade quick-view-modal" id="quick-view-1">
+    <div class="modal fade quick-view-modal" id="quick-view-ballerina">
         <div class="modal-dialog modal-lg modal-dialog-centered">
             <div class="modal-content">
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
@@ -53,7 +53,7 @@
     </div>
     <!-- Quick view modal end -->
     <!-- Quick view modal start -->
-    <div class="modal fade quick-view-modal" id="quick-view-2">
+    <div class="modal fade quick-view-modal" id="quick-view-tornado">
         <div class="modal-dialog modal-lg modal-dialog-centered">
             <div class="modal-content">
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
@@ -106,7 +106,7 @@
     </div>
     <!-- Quick view modal end -->
     <!-- Quick view modal start -->
-    <div class="modal fade quick-view-modal" id="quick-view-3">
+    <div class="modal fade quick-view-modal" id="quick-view-tornado-500">
         <div class="modal-dialog modal-lg modal-dialog-centered">
             <div class="modal-content">
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
@@ -159,7 +159,7 @@
     </div>
     <!-- Quick view modal end -->
     <!-- Quick view modal start -->
-    <div class="modal fade quick-view-modal" id="quick-view-4">
+    <div class="modal fade quick-view-modal" id="quick-view-dublon">
         <div class="modal-dialog modal-lg modal-dialog-centered">
             <div class="modal-content">
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
@@ -212,7 +212,7 @@
     </div>
     <!-- Quick view modal end -->
     <!-- Quick view modal start -->
-    <div class="modal fade quick-view-modal" id="quick-view-5">
+    <div class="modal fade quick-view-modal" id="quick-view-dublon-gold">
         <div class="modal-dialog modal-lg modal-dialog-centered">
             <div class="modal-content">
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
@@ -265,7 +265,7 @@
     </div>
     <!-- Quick view modal end -->
     <!-- Quick view modal start -->
-    <div class="modal fade quick-view-modal" id="quick-view-6">
+    <div class="modal fade quick-view-modal" id="quick-view-nixon">
         <div class="modal-dialog modal-lg modal-dialog-centered">
             <div class="modal-content">
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
@@ -318,7 +318,7 @@
     </div>
     <!-- Quick view modal end -->
     <!-- Quick view modal start -->
-    <div class="modal fade quick-view-modal" id="quick-view-7">
+    <div class="modal fade quick-view-modal" id="quick-view-actec">
         <div class="modal-dialog modal-lg modal-dialog-centered">
             <div class="modal-content">
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
@@ -371,7 +371,7 @@
     </div>
     <!-- Quick view modal end -->
     <!-- Quick view modal start -->
-    <div class="modal fade quick-view-modal" id="quick-view-8">
+    <div class="modal fade quick-view-modal" id="quick-view-lusfovita">
         <div class="modal-dialog modal-lg modal-dialog-centered">
             <div class="modal-content">
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
@@ -424,7 +424,7 @@
     </div>
     <!-- Quick view modal end -->
     <!-- Quick view modal start -->
-    <div class="modal fade quick-view-modal" id="quick-view-9">
+    <div class="modal fade quick-view-modal" id="quick-view-monkolaksil">
         <div class="modal-dialog modal-lg modal-dialog-centered">
             <div class="modal-content">
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>

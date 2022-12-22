@@ -30,7 +30,7 @@
                                             </li>
                                             <li>
                                                 <a href="javascript:void(0)" data-bs-toggle="modal"
-                                                    data-bs-target="#quick-view-1">
+                                                    data-bs-target="#quick-view-ballerina">
                                                     <i data-feather="eye"></i>
                                                 </a>
                                             </li>
@@ -79,7 +79,7 @@
                                             </li>
                                             <li>
                                                 <a href="javascript:void(0)" data-bs-toggle="modal"
-                                                    data-bs-target="#quick-view-2">
+                                                    data-bs-target="#quick-view-tornado">
                                                     <i data-feather="eye"></i>
                                                 </a>
                                             </li>
@@ -125,7 +125,7 @@
                                             </li>
                                             <li>
                                                 <a href="javascript:void(0)" data-bs-toggle="modal"
-                                                    data-bs-target="#quick-view-3">
+                                                    data-bs-target="#quick-view-tornado-500">
                                                     <i data-feather="eye"></i>
                                                 </a>
                                             </li>
@@ -174,7 +174,7 @@
                                             </li>
                                             <li>
                                                 <a href="javascript:void(0)" data-bs-toggle="modal"
-                                                    data-bs-target="#quick-view-4">
+                                                    data-bs-target="#quick-view-dublon">
                                                     <i data-feather="eye"></i>
                                                 </a>
                                             </li>
@@ -220,7 +220,7 @@
                                             </li>
                                             <li>
                                                 <a href="javascript:void(0)" data-bs-toggle="modal"
-                                                    data-bs-target="#quick-view-5">
+                                                    data-bs-target="#quick-view-dublon-gold">
                                                     <i data-feather="eye"></i>
                                                 </a>
                                             </li>
@@ -265,7 +265,7 @@
                                             </li>
                                             <li>
                                                 <a href="javascript:void(0)" data-bs-toggle="modal"
-                                                    data-bs-target="#quick-view-6">
+                                                    data-bs-target="#quick-view-nixon">
                                                     <i data-feather="eye"></i>
                                                 </a>
                                             </li>
@@ -311,7 +311,7 @@
                                             </li>
                                             <li>
                                                 <a href="javascript:void(0)" data-bs-toggle="modal"
-                                                    data-bs-target="#quick-view-7">
+                                                    data-bs-target="#quick-view-actec">
                                                     <i data-feather="eye"></i>
                                                 </a>
                                             </li>
@@ -357,7 +357,7 @@
                                             </li>
                                             <li>
                                                 <a href="javascript:void(0)" data-bs-toggle="modal"
-                                                    data-bs-target="#quick-view-8">
+                                                    data-bs-target="#quick-view-lusfovita">
                                                     <i data-feather="eye"></i>
                                                 </a>
                                             </li>
@@ -403,7 +403,7 @@
                                             </li>
                                             <li>
                                                 <a href="javascript:void(0)" data-bs-toggle="modal"
-                                                    data-bs-target="#quick-view-9">
+                                                    data-bs-target="#quick-view-monkolaksil">
                                                     <i data-feather="eye"></i>
                                                 </a>
                                             </li>
