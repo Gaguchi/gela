@@ -390,23 +390,6 @@
                                 <div class="product-details">
                                     <div class="rating-details">
                                         <span class="font-light grid-content">Jacket</span>
-                                        <ul class="rating mt-0">
-                                            <li>
-                                                <i class="fas fa-star theme-color"></i>
-                                            </li>
-                                            <li>
-                                                <i class="fas fa-star theme-color"></i>
-                                            </li>
-                                            <li>
-                                                <i class="fas fa-star theme-color"></i>
-                                            </li>
-                                            <li>
-                                                <i class="fas fa-star"></i>
-                                            </li>
-                                            <li>
-                                                <i class="fas fa-star"></i>
-                                            </li>
-                                        </ul>
                                     </div>
                                     <div class="main-price">
                                         <a href="product-left-sidebar.html" class="font-default">
