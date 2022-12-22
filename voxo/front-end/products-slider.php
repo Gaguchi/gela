@@ -474,7 +474,7 @@
                                     </li>
                                     <li>
                                         <a href="javascript:void(0)" data-bs-toggle="modal"
-                                            data-bs-target="#quick-view-1">
+                                            data-bs-target="#quick-view-ballerina">
                                             <i data-feather="eye"></i>
                                         </a>
                                     </li>
@@ -499,23 +499,6 @@
                                 </a>
                             </div>
                             <div class="main-price">
-                                <ul class="rating mb-1 mt-0">
-                                    <li>
-                                        <i class="fas fa-star theme-color"></i>
-                                    </li>
-                                    <li>
-                                        <i class="fas fa-star theme-color"></i>
-                                    </li>
-                                    <li>
-                                        <i class="fas fa-star"></i>
-                                    </li>
-                                    <li>
-                                        <i class="fas fa-star"></i>
-                                    </li>
-                                    <li>
-                                        <i class="fas fa-star"></i>
-                                    </li>
-                                </ul>
                                 <h3 class="theme-color">$32.87</h3>
                             </div>
                         </div>
@@ -544,7 +527,7 @@
                                     </li>
                                     <li>
                                         <a href="javascript:void(0)" data-bs-toggle="modal"
-                                            data-bs-target="#quick-view">
+                                            data-bs-target="#quick-view-tornado">
                                             <i data-feather="eye"></i>
                                         </a>
                                     </li>
@@ -569,23 +552,6 @@
                                 </a>
                             </div>
                             <div class="main-price">
-                                <ul class="rating mb-1 mt-0">
-                                    <li>
-                                        <i class="fas fa-star theme-color"></i>
-                                    </li>
-                                    <li>
-                                        <i class="fas fa-star theme-color"></i>
-                                    </li>
-                                    <li>
-                                        <i class="fas fa-star theme-color"></i>
-                                    </li>
-                                    <li>
-                                        <i class="fas fa-star theme-color"></i>
-                                    </li>
-                                    <li>
-                                        <i class="fas fa-star"></i>
-                                    </li>
-                                </ul>
                                 <h3 class="theme-color">$32.87</h3>
                             </div>
                         </div>
@@ -615,7 +581,7 @@
                                     </li>
                                     <li>
                                         <a href="javascript:void(0)" data-bs-toggle="modal"
-                                            data-bs-target="#quick-view">
+                                            data-bs-target="#quick-view-tornado-500">
                                             <i data-feather="eye"></i>
                                         </a>
                                     </li>
@@ -640,23 +606,6 @@
                                 </a>
                             </div>
                             <div class="main-price">
-                                <ul class="rating mb-1 mt-0">
-                                    <li>
-                                        <i class="fas fa-star theme-color"></i>
-                                    </li>
-                                    <li>
-                                        <i class="fas fa-star theme-color"></i>
-                                    </li>
-                                    <li>
-                                        <i class="fas fa-star"></i>
-                                    </li>
-                                    <li>
-                                        <i class="fas fa-star"></i>
-                                    </li>
-                                    <li>
-                                        <i class="fas fa-star"></i>
-                                    </li>
-                                </ul>
                                 <h3 class="theme-color">$32.87</h3>
                             </div>
                         </div>
@@ -686,7 +635,7 @@
                                     </li>
                                     <li>
                                         <a href="javascript:void(0)" data-bs-toggle="modal"
-                                            data-bs-target="#quick-view">
+                                            data-bs-target="#quick-view-dublon">
                                             <i data-feather="eye"></i>
                                         </a>
                                     </li>
@@ -711,23 +660,6 @@
                                 </a>
                             </div>
                             <div class="main-price">
-                                <ul class="rating mb-1 mt-0">
-                                    <li>
-                                        <i class="fas fa-star theme-color"></i>
-                                    </li>
-                                    <li>
-                                        <i class="fas fa-star theme-color"></i>
-                                    </li>
-                                    <li>
-                                        <i class="fas fa-star"></i>
-                                    </li>
-                                    <li>
-                                        <i class="fas fa-star"></i>
-                                    </li>
-                                    <li>
-                                        <i class="fas fa-star"></i>
-                                    </li>
-                                </ul>
                                 <h3 class="theme-color">$32.87</h3>
                             </div>
                         </div>
@@ -757,7 +689,7 @@
                                     </li>
                                     <li>
                                         <a href="javascript:void(0)" data-bs-toggle="modal"
-                                            data-bs-target="#quick-view">
+                                            data-bs-target="#quick-view-dublon-gold">
                                             <i data-feather="eye"></i>
                                         </a>
                                     </li>
@@ -782,23 +714,6 @@
                                 </a>
                             </div>
                             <div class="main-price">
-                                <ul class="rating mb-1 mt-0">
-                                    <li>
-                                        <i class="fas fa-star theme-color"></i>
-                                    </li>
-                                    <li>
-                                        <i class="fas fa-star theme-color"></i>
-                                    </li>
-                                    <li>
-                                        <i class="fas fa-star"></i>
-                                    </li>
-                                    <li>
-                                        <i class="fas fa-star"></i>
-                                    </li>
-                                    <li>
-                                        <i class="fas fa-star"></i>
-                                    </li>
-                                </ul>
                                 <h3 class="theme-color">$32.87</h3>
                             </div>
                         </div>
@@ -828,7 +743,7 @@
                                     </li>
                                     <li>
                                         <a href="javascript:void(0)" data-bs-toggle="modal"
-                                            data-bs-target="#quick-view">
+                                            data-bs-target="#quick-view-nixon">
                                             <i data-feather="eye"></i>
                                         </a>
                                     </li>
@@ -853,23 +768,6 @@
                                 </a>
                             </div>
                             <div class="main-price">
-                                <ul class="rating mb-1 mt-0">
-                                    <li>
-                                        <i class="fas fa-star theme-color"></i>
-                                    </li>
-                                    <li>
-                                        <i class="fas fa-star theme-color"></i>
-                                    </li>
-                                    <li>
-                                        <i class="fas fa-star"></i>
-                                    </li>
-                                    <li>
-                                        <i class="fas fa-star"></i>
-                                    </li>
-                                    <li>
-                                        <i class="fas fa-star"></i>
-                                    </li>
-                                </ul>
                                 <h3 class="theme-color">$32.87</h3>
                             </div>
                         </div>
@@ -899,7 +797,7 @@
                                     </li>
                                     <li>
                                         <a href="javascript:void(0)" data-bs-toggle="modal"
-                                            data-bs-target="#quick-view">
+                                            data-bs-target="#quick-view-actec">
                                             <i data-feather="eye"></i>
                                         </a>
                                     </li>
@@ -924,23 +822,6 @@
                                 </a>
                             </div>
                             <div class="main-price">
-                                <ul class="rating mb-1 mt-0">
-                                    <li>
-                                        <i class="fas fa-star theme-color"></i>
-                                    </li>
-                                    <li>
-                                        <i class="fas fa-star theme-color"></i>
-                                    </li>
-                                    <li>
-                                        <i class="fas fa-star"></i>
-                                    </li>
-                                    <li>
-                                        <i class="fas fa-star"></i>
-                                    </li>
-                                    <li>
-                                        <i class="fas fa-star"></i>
-                                    </li>
-                                </ul>
                                 <h3 class="theme-color">$32.87</h3>
                             </div>
                         </div>
@@ -970,7 +851,7 @@
                                     </li>
                                     <li>
                                         <a href="javascript:void(0)" data-bs-toggle="modal"
-                                            data-bs-target="#quick-view">
+                                            data-bs-target="#quick-view-lusfovita">
                                             <i data-feather="eye"></i>
                                         </a>
                                     </li>
@@ -995,23 +876,6 @@
                                 </a>
                             </div>
                             <div class="main-price">
-                                <ul class="rating mb-1 mt-0">
-                                    <li>
-                                        <i class="fas fa-star theme-color"></i>
-                                    </li>
-                                    <li>
-                                        <i class="fas fa-star theme-color"></i>
-                                    </li>
-                                    <li>
-                                        <i class="fas fa-star"></i>
-                                    </li>
-                                    <li>
-                                        <i class="fas fa-star"></i>
-                                    </li>
-                                    <li>
-                                        <i class="fas fa-star"></i>
-                                    </li>
-                                </ul>
                                 <h3 class="theme-color">$32.87</h3>
                             </div>
                         </div>
