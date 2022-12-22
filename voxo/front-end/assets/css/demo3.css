@@ -16647,7 +16647,8 @@ header#home {
 
 .addeffect-section .size-box ul li {
   height: 35px;
-  width: 65px;
+  width: auto;
+  padding: 0px 10px 0px 10px;
   border-radius: 5px;
   margin-right: 10px;
   cursor: pointer;
@@ -18026,7 +18027,7 @@ header#home {
 }
 
 .part .inner-title {
-  font-weight: 400;
+  font-weight: 600;
   text-transform: capitalize;
   font-size: 18px;
 }

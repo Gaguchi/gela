@@ -12,8 +12,8 @@
                                     <div class="details-image ratio_asos">
                                         <div>
                                             <div class="product-image-tag">
-                                                <img src="assets/images/fashion/1.jpg" id="zoom_01"
-                                                    data-zoom-image="assets/images/fashion/1.jpg"
+                                                <img src="assets/images/products/ballerina.jpg" id="zoom_01"
+                                                    data-zoom-image="assets/images/products/ballerina.jpg"
                                                     class="img-fluid w-100 image_zoom_cls-0 blur-up lazyload" alt="">
                                             </div>
                                         </div>
@@ -199,7 +199,7 @@
                                                 class="img-fluid rounded blur-up lazyload" alt="">
                                         </div>
 
-                                        <div class="col-lg-8 order-lg-2 mt-4">
+                                        <div class="part col-lg-8 order-lg-2 mt-4">
                                                 <h4 class="inner-title mb-2">სამუშაო ხსნარის მომზადება:</h4>
                                             <p class="font-light">სამუშაო ხსნარი მზადდება შესხურებამდე დაუყოვნებლივ. გაზომეთ წამლის საჭირო რაოდენობა მფრქვეველის ერთი შევსებისთვის. პრეპარატი შეჰყავთ პირდაპირ გამფრქვევის ავზში, იმ პირობით, რომ ჰიდრავლიკური აგიტატორი კარგად მუშაობს. ამ შემთხვევაში, გამფრქვევი ავზი უნდა იყოს მინიმუმ ნახევრად სავსე წყლით.
 
