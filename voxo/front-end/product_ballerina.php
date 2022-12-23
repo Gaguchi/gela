@@ -32,7 +32,7 @@
                                         <span class="badge badge-grey-color">ჰერბიციდი</span>
                                     </div>
 
-                                    <h3 class="price-detail">₾40</h3>
+                                    <h3 class="price-detail">₾<span id="pricetag">22</span></h3>
 
                                     <div class="color-image">
                                         <div class="image-select">
@@ -58,10 +58,10 @@
 
                                         <div class="size-box">
                                             <ul>
-                                                <li>
+                                                <li class="pricechange active" id="activeprice" value="22">
                                                     <a href="javascript:void(0)">500 მლ.გრ.</a>
                                                 </li>
-                                                <li>
+                                                <li class="pricechange" value="40">
                                                     <a href="javascript:void(0)">5 ლ.</a>
                                                 </li>
                                             </ul>
@@ -72,7 +72,7 @@
                                         <div class="qty-box">
                                             <div class="input-group">
                                                 <span class="input-group-prepend">
-                                                    <button type="button" class="btn quantity-left-minus"
+                                                    <button type="button" class="priceupdate btn quantity-left-minus"
                                                         data-type="minus" data-field="">
                                                         <i class="fas fa-minus"></i>
                                                     </button>
@@ -80,7 +80,7 @@
                                                 <input type="text" name="quantity" class="form-control input-number"
                                                     value="1">
                                                 <span class="input-group-prepend">
-                                                    <button type="button" class="btn quantity-right-plus"
+                                                    <button type="button" class="priceupdate btn quantity-right-plus"
                                                         data-type="plus" data-field="">
                                                         <i class="fas fa-plus"></i>
                                                     </button>

@@ -12,8 +12,8 @@
                                     <div class="details-image ratio_asos">
                                         <div>
                                             <div class="product-image-tag">
-                                                <img src="assets/images/products/ammofos.jpg" id="zoom_01"
-                                                    data-zoom-image="assets/images/products/ammofos.jpg"
+                                                <img src="assets/images/products/borei-neo.jpg" id="zoom_01"
+                                                    data-zoom-image="assets/images/products/borei-neo.jpg"
                                                     class="img-fluid w-100 image_zoom_cls-0 blur-up lazyload" alt="">
                                             </div>
                                         </div>
@@ -25,14 +25,14 @@
                                 <div class="cloth-details-size">
 
                                     <div class="details-image-concept">
-                                        <h2>ამოფოსი 12.52</h2>
+                                        <h2>ბორეი-ნეო</h2>
                                     </div>
 
                                     <div class="label-section">
-                                        <span class="badge badge-grey-color">სასუქი</span>
+                                        <span class="badge badge-grey-color">ინსექტიციდი</span>
                                     </div>
 
-                                    <h3 class="price-detail">₾<span id="pricetag">160.00</span> <del id="oldprice"></del> <span id="discount"></span></h3>
+                                    <h3 class="price-detail">₾<span id="pricetag">5</span></h3>
 
                                     <div class="color-image">
                                         <div class="image-select">
@@ -58,8 +58,17 @@
 
                                         <div class="size-box">
                                             <ul>
-                                                <li class="pricechange active" id="activeprice" value="160">
-                                                    <a href="javascript:void(0)">100 მლ.</a>
+                                                <li class="pricechange active" id="activeprice" value="5">
+                                                    <a href="javascript:void(0)">10 მლ.გრ.</a>
+                                                </li>
+                                                <li class="pricechange" value="10">
+                                                    <a href="javascript:void(0)">50 მლ.გრ.</a>
+                                                </li>
+                                                <li class="pricechange" value="30">
+                                                    <a href="javascript:void(0)">200 მლ.გრ.</a>
+                                                </li>
+                                                <li class="pricechange" value="115">
+                                                    <a href="javascript:void(0)">1ლ.</a>
                                                 </li>
                                             </ul>
                                         </div>
@@ -163,25 +172,25 @@
                             <div class="tab-pane fade show active" id="desc">
                                 <div class="shipping-chart">
                                     <div class="part">
-                                        <h4 class="inner-title mb-2">კოლოსალი</h4>
-                                        <p class="font-light">პროფილაქტიკური და სამკურნალო სისტემური ფუნგიციდი მარცვლეულის, ბრინჯის, რაფსის და ყურძნის დაავადებების კონტროლისთვის</p>
+                                        <h4 class="inner-title mb-2">ბორეი-ნეო</h4>
+                                        <p class="font-light">სისტემური ჰერბიციდი ყოველწლიური ორკოტილედონების წინააღმდეგ, მათ შორის 2,4-D და MCPA-ს მიმართ რეზისტენტული და ზოგიერთი მრავალწლიანი ფესვის გასროლის სარეველა მარცვლეულის, სიმინდის, ფეტვისა და სორგოს კულტურებში.</p>
                                     </div>
                                     <div class="row g-3 align-items-center">
                                         <div class="col-lg-8">
                                             <h4 class="inner-title mb-2">ძირითადი უპირატესობები</h4>
                                             <ol>
-                                                <li>სისტემის შესანიშნავი თვისებები და მოქმედების მაღალი სიჩქარე</li>
-                                                <li>მოქმედების ფართო სპექტრი - მარცვლეული კულტურების ყველაზე მავნე დაავადებების აღკვეთა</li>
-                                                <li>დაავადების პრევენცია და მკურნალობა</li>
-                                                <li>დაცვის ხანგრძლივი პერიოდი</li>
+                                                <li>მოქმედების მაღალი სიჩქარე და დაცვის ხანგრძლივი პერიოდი სამი აქტიური ინგრედიენტის უნიკალური კომბინაციის გამო, რომლებიც მიეკუთვნებიან ორ სხვადასხვა ქიმიურ კლასს და განსხვავდებიან მათი მოქმედების მექანიზმით.</li>
+                                                <li>მარცვლეულისა და სხვა კულტურების მავნებლების კომპლექსის საიმედო კონტროლი, ფარული მწერების განადგურება და ფოთლის ქვედა მხრიდან კვება</li>
+                                                <li>მაღალი ინსექტიციდური აქტივობის შენარჩუნება ტემპერატურისა და ჰაერის ტენიანობის ფართო დიაპაზონში</li>
+                                                <li>საავიაციო გამოყენების შესაძლებლობა ხორბლის კულტურებზე, კალიების და წიწვოვანი და ფოთლოვანი ხეების მავნებლების წინააღმდეგ</li>
                                             </ol>
 
                                             <div class="part mt-3">
                                                 <h4 class="inner-title mb-2">პრეპარატის დანიშვნა:</h4>
-                                                <p class="font-light">პრევენციული და თერაპიული მოქმედების სისტემური ფუნგიციდი კულტურების დასაცავად დაავადებათა კომპლექსისგან.</p>
+                                                <p class="font-light">სამკომპონენტიანი ინსექტიციდი მავნებლების კომპლექსისგან კულტურების ფართო სპექტრის დასაცავად.</p>
                                                 <br>
                                                 <h4 class="inner-title mb-2">გამოყენების რეკომენდაციები:</h4>
-                                                <p class="font-light">პრეპარატის სამუშაო ხსნარში რეკომენდებულია Allur ან Polyphem დამხმარე საშუალებების დამატება.</p>
+                                                <p class="font-light">ნერგების მავნებლების წინააღმდეგ ნათესებს ასხურებენ ნერგებზე, კულტურების სხვა მავნებლების წინააღმდეგ - ვეგეტაციის პერიოდში, როცა მავნებლები ჩნდებიან, კალიების წინააღმდეგ - ლარვების განვითარებისას. ვაშლის ყვავილის ხოჭოს წინააღმდეგ ვაშლის ხის დამუშავება ტარდება კვირტების იზოლაციის პერიოდში. რეკომენდებულია ინსექტიციდის სამუშაო ხსნარში ადიუვანტის (მაგალითად, Allur ან Polyfem) დამატება.სამუშაო ხსნარის მოსამზადებლად წყალი უნდა მომზადდეს Soylent კონდიციონერის გამოყენებით.</p>
                                             </div>
                                         </div>
 
@@ -192,9 +201,11 @@
 
                                         <div class="part col-lg-8 order-lg-2 mt-4">
                                                 <h4 class="inner-title mb-2">სამუშაო ხსნარის მომზადება:</h4>
-                                            <p class="font-light">რეკომენდებულია სამუშაო სითხის მომზადება პრეპარატის გამოყენებამდე დაუყოვნებლივ.
+                                            <p class="font-light">გამოყენებამდე საგულდაგულოდ შეანჯღრიეთ პროდუქტი თავდაპირველ შეფუთვაში.
 
-შეურიეთ პრეპარატი თავდაპირველ შეფუთვაში, გაზომეთ პრეპარატის საჭირო რაოდენობა მფრქვეველის ერთი შევსებისთვის. შეავსეთ გამფრქვევი ავზი 1/2 წყლით. განუწყვეტელი მორევით დაასხით წამლის გაზომილი რაოდენობა მფრქვეველის ავზში. შეავსეთ გამფრქვევი ავზი წყლით სრული ტევადობით. შერევა უნდა გაგრძელდეს მცენარეების დამუშავების დროს.</p>
+სამუშაო სითხის მოსამზადებლად ავზი ნახევრამდე შეავსეთ წყლით, ჩართეთ შემრევი მოწყობილობა, დაასხით წამლის გათვლილი რაოდენობა, შემდეგ მიქსერის გაშვებით, მიიტანეთ ავზი სრულ მოცულობამდე წყლით. შესხურების პროცესში სამუშაო სითხე მუდმივად უნდა იყოს შერეული.
+
+სამუშაო სითხე უნდა იქნას გამოყენებული მომზადების დღეს.</p>
                                         </div>
                                         <div class="col-lg-4 order-lg-0 mt-4">
                                             <img src="assets/images/fashion/slider/corn2.jpg"
@@ -210,8 +221,16 @@
                                     <div class="table-responsive">
                                         <table class="table table-part">
                                             <tr>
-                                                <th>ტებუკონაზოლი</th>
-                                                <td>250 გ/ლ.</td>
+                                                <th>ალფა-ციპერმეტრინი</th>
+                                                <td>125 გ/ლ</td>
+                                            </tr>
+                                            <tr>
+                                                <th>იმიდაკლოპრიდი</th>
+                                                <td>100 გ/ლ</td>
+                                            </tr>
+                                            <tr>
+                                                <th>კლოთიანიდინი</th>
+                                                <td>50 გ/ლ</td>
                                             </tr>
                                         </table>
                                     </div>

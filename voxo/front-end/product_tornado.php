@@ -12,8 +12,8 @@
                                     <div class="details-image ratio_asos">
                                         <div>
                                             <div class="product-image-tag">
-                                                <img src="assets/images/products/ammofos.jpg" id="zoom_01"
-                                                    data-zoom-image="assets/images/products/ammofos.jpg"
+                                                <img src="assets/images/products/tornado.jpg" id="zoom_01"
+                                                    data-zoom-image="assets/images/products/tornado.jpg"
                                                     class="img-fluid w-100 image_zoom_cls-0 blur-up lazyload" alt="">
                                             </div>
                                         </div>
@@ -25,14 +25,14 @@
                                 <div class="cloth-details-size">
 
                                     <div class="details-image-concept">
-                                        <h2>ამოფოსი 12.52</h2>
+                                        <h2>ტორნადო</h2>
                                     </div>
 
                                     <div class="label-section">
-                                        <span class="badge badge-grey-color">სასუქი</span>
+                                        <span class="badge badge-grey-color">ჰერბიციდი</span>
                                     </div>
 
-                                    <h3 class="price-detail">₾<span id="pricetag">160.00</span> <del id="oldprice"></del> <span id="discount"></span></h3>
+                                    <h3 class="price-detail">₾<span id="pricetag">45</span> <del id="oldprice"></del> <span id="discount"></span></h3>
 
                                     <div class="color-image">
                                         <div class="image-select">
@@ -58,8 +58,8 @@
 
                                         <div class="size-box">
                                             <ul>
-                                                <li class="pricechange active" id="activeprice" value="160">
-                                                    <a href="javascript:void(0)">100 მლ.</a>
+                                                <li class="pricechange active" id="activeprice" value="45">
+                                                    <a href="javascript:void(0)">1 ლ.</a>
                                                 </li>
                                             </ul>
                                         </div>
@@ -163,25 +163,24 @@
                             <div class="tab-pane fade show active" id="desc">
                                 <div class="shipping-chart">
                                     <div class="part">
-                                        <h4 class="inner-title mb-2">კოლოსალი</h4>
-                                        <p class="font-light">პროფილაქტიკური და სამკურნალო სისტემური ფუნგიციდი მარცვლეულის, ბრინჯის, რაფსის და ყურძნის დაავადებების კონტროლისთვის</p>
+                                        <h4 class="inner-title mb-2">ტორნადო</h4>
+                                        <p class="font-light">უწყვეტი მოქმედების უნივერსალური ჰერბიციდი</p>
                                     </div>
                                     <div class="row g-3 align-items-center">
                                         <div class="col-lg-8">
                                             <h4 class="inner-title mb-2">ძირითადი უპირატესობები</h4>
                                             <ol>
-                                                <li>სისტემის შესანიშნავი თვისებები და მოქმედების მაღალი სიჩქარე</li>
-                                                <li>მოქმედების ფართო სპექტრი - მარცვლეული კულტურების ყველაზე მავნე დაავადებების აღკვეთა</li>
-                                                <li>დაავადების პრევენცია და მკურნალობა</li>
-                                                <li>დაცვის ხანგრძლივი პერიოდი</li>
+                                                <li>თითქმის ყველა სახის სარეველების განადგურება, მათ შორის მავნე, ასევე არასასურველი ხეების და ბუჩქების მცენარეულობა</li>
+                                                <li>გამოყენების უნარი მთელ ტემპერატურულ დიაპაზონში, სადაც მცენარეები სიცოცხლისუნარიანია</li>
+                                                <li>მოსავლის როტაციაში გამოყენების სრული უსაფრთხოება</li>
                                             </ol>
 
                                             <div class="part mt-3">
                                                 <h4 class="inner-title mb-2">პრეპარატის დანიშვნა:</h4>
-                                                <p class="font-light">პრევენციული და თერაპიული მოქმედების სისტემური ფუნგიციდი კულტურების დასაცავად დაავადებათა კომპლექსისგან.</p>
+                                                <p class="font-light">არასელექტიური სისტემური ჰერბიციდი წლიური და მრავალწლიანი სარეველების და არასასურველი ხეებისა და ბუჩქების განადგურებისთვის.</p>
                                                 <br>
                                                 <h4 class="inner-title mb-2">გამოყენების რეკომენდაციები:</h4>
-                                                <p class="font-light">პრეპარატის სამუშაო ხსნარში რეკომენდებულია Allur ან Polyphem დამხმარე საშუალებების დამატება.</p>
+                                                <p class="font-light">ტორნადო გამოიყენება მცენარეული სარეველების ერთჯერადი შესხურებისთვის. წლიური მარცვლეული ყველაზე დაუცველია 5 სმ-ზე მეტ სიმაღლეზე მილში შესვლამდე, მრავალწლოვანი მარცვლეული - მინიმუმ 5-6 ფოთლით და 10-20 სმ სიმაღლით, წლიური ორფოთლიანი - ორი ფოთლის სტადიიდან ყვავილობამდე; მრავალწლოვანი ორწიფოები - როზეტის ფაზაში ყვავილობის დაწყებამდე და ყვავილობამდე (ეკლი - როზეტის ფაზაში დიამეტრით 10 - 20 სმ, მდოგვი - როზეტის ფაზაში - თვალთვალი, ბადე - როზეტის ფაზაში 10 - 12 სმ).</p>
                                             </div>
                                         </div>
 
@@ -192,9 +191,9 @@
 
                                         <div class="part col-lg-8 order-lg-2 mt-4">
                                                 <h4 class="inner-title mb-2">სამუშაო ხსნარის მომზადება:</h4>
-                                            <p class="font-light">რეკომენდებულია სამუშაო სითხის მომზადება პრეპარატის გამოყენებამდე დაუყოვნებლივ.
+                                            <p class="font-light">სამუშაო ხსნარის მოსამზადებლად წყალი უნდა იყოს სუფთა. წყალში სილის ან თიხის ნაწილაკების დიდმა რაოდენობამ შეიძლება გაანეიტრალოს პრეპარატის აქტიური ნივთიერება და შეამციროს მისი ეფექტურობა. მყარი წყლის გამოყენებისას (ელექტროგამტარობა 500 მიკროზიმენს/სმ-ზე მეტი), უნდა იქნას გამოყენებული მოქმედი ხსნარის დაბალი სიხშირე და პრეპარატის უფრო მაღალი დოზები და სამუშაო ხსნარს უნდა დაემატოს სოილენტის წყლის კონდიციონერი. ჯერ უნდა დაემატოს! მოხმარების საჭირო მაჩვენებელი შეირჩევა სპეციალურად მიღებული წყლის შემადგენლობის მიხედვით, პრეპარატში შემავალი ინდიკატორის საღებავის დახმარებით.
 
-შეურიეთ პრეპარატი თავდაპირველ შეფუთვაში, გაზომეთ პრეპარატის საჭირო რაოდენობა მფრქვეველის ერთი შევსებისთვის. შეავსეთ გამფრქვევი ავზი 1/2 წყლით. განუწყვეტელი მორევით დაასხით წამლის გაზომილი რაოდენობა მფრქვეველის ავზში. შეავსეთ გამფრქვევი ავზი წყლით სრული ტევადობით. შერევა უნდა გაგრძელდეს მცენარეების დამუშავების დროს.</p>
+სამუშაო ხსნარის რეკომენდებული კონცენტრაცია არის 1 - 3%.</p>
                                         </div>
                                         <div class="col-lg-4 order-lg-0 mt-4">
                                             <img src="assets/images/fashion/slider/corn2.jpg"
@@ -210,8 +209,8 @@
                                     <div class="table-responsive">
                                         <table class="table table-part">
                                             <tr>
-                                                <th>ტებუკონაზოლი</th>
-                                                <td>250 გ/ლ.</td>
+                                                <th>გლიფოსატი (იზოპროპილამინის მარილი)</th>
+                                                <td>360 გ/ლ მჟავა.</td>
                                             </tr>
                                         </table>
                                     </div>

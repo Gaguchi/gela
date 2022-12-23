@@ -12,8 +12,8 @@
                                     <div class="details-image ratio_asos">
                                         <div>
                                             <div class="product-image-tag">
-                                                <img src="assets/images/products/ammofos.jpg" id="zoom_01"
-                                                    data-zoom-image="assets/images/products/ammofos.jpg"
+                                                <img src="assets/images/products/colossal.jpg" id="zoom_01"
+                                                    data-zoom-image="assets/images/products/colossal.jpg"
                                                     class="img-fluid w-100 image_zoom_cls-0 blur-up lazyload" alt="">
                                             </div>
                                         </div>
@@ -25,14 +25,14 @@
                                 <div class="cloth-details-size">
 
                                     <div class="details-image-concept">
-                                        <h2>ამოფოსი 12.52</h2>
+                                        <h2>კოლოსალი</h2>
                                     </div>
 
                                     <div class="label-section">
-                                        <span class="badge badge-grey-color">სასუქი</span>
+                                        <span class="badge badge-grey-color">ფუნგიციდი</span>
                                     </div>
 
-                                    <h3 class="price-detail">₾<span id="pricetag">160.00</span> <del id="oldprice"></del> <span id="discount"></span></h3>
+                                    <h3 class="price-detail">₾<span id="pricetag">10.00</span> <del id="oldprice"></del> <span id="discount"></span></h3>
 
                                     <div class="color-image">
                                         <div class="image-select">
@@ -58,8 +58,11 @@
 
                                         <div class="size-box">
                                             <ul>
-                                                <li class="pricechange active" id="activeprice" value="160">
+                                                <li class="pricechange active" id="activeprice" value="10">
                                                     <a href="javascript:void(0)">100 მლ.</a>
+                                                </li>
+                                                <li class="pricechange" value="75">
+                                                    <a href="javascript:void(0)">1 ლ.</a>
                                                 </li>
                                             </ul>
                                         </div>

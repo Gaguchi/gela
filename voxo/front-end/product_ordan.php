@@ -12,8 +12,8 @@
                                     <div class="details-image ratio_asos">
                                         <div>
                                             <div class="product-image-tag">
-                                                <img src="assets/images/products/ammofos.jpg" id="zoom_01"
-                                                    data-zoom-image="assets/images/products/ammofos.jpg"
+                                                <img src="assets/images/products/ordan.jpg" id="zoom_01"
+                                                    data-zoom-image="assets/images/products/ordan.jpg"
                                                     class="img-fluid w-100 image_zoom_cls-0 blur-up lazyload" alt="">
                                             </div>
                                         </div>
@@ -25,14 +25,14 @@
                                 <div class="cloth-details-size">
 
                                     <div class="details-image-concept">
-                                        <h2>ამოფოსი 12.52</h2>
+                                        <h2>ორდანი</h2>
                                     </div>
 
                                     <div class="label-section">
-                                        <span class="badge badge-grey-color">სასუქი</span>
+                                        <span class="badge badge-grey-color">ჰერბიციდი</span>
                                     </div>
 
-                                    <h3 class="price-detail">₾<span id="pricetag">160.00</span> <del id="oldprice"></del> <span id="discount"></span></h3>
+                                    <h3 class="price-detail">₾<span id="pricetag">50.00</span> <del id="oldprice"></del> <span id="discount"></span></h3>
 
                                     <div class="color-image">
                                         <div class="image-select">
@@ -58,8 +58,8 @@
 
                                         <div class="size-box">
                                             <ul>
-                                                <li class="pricechange active" id="activeprice" value="160">
-                                                    <a href="javascript:void(0)">100 მლ.</a>
+                                                <li class="pricechange active" id="activeprice" value="50">
+                                                    <a href="javascript:void(0)">1 კგ.</a>
                                                 </li>
                                             </ul>
                                         </div>
@@ -163,25 +163,24 @@
                             <div class="tab-pane fade show active" id="desc">
                                 <div class="shipping-chart">
                                     <div class="part">
-                                        <h4 class="inner-title mb-2">კოლოსალი</h4>
-                                        <p class="font-light">პროფილაქტიკური და სამკურნალო სისტემური ფუნგიციდი მარცვლეულის, ბრინჯის, რაფსის და ყურძნის დაავადებების კონტროლისთვის</p>
+                                        <h4 class="inner-title mb-2">ორდანი</h4>
+                                        <p class="font-light">ლოკალურ-სისტემური მოქმედების ორკომპონენტიანი ფუნგიციდი კარტოფილის, პომიდვრის, კიტრის, ხახვისა და ყურძნის დაავადებების კომპლექსისგან დასაცავად.</p>
                                     </div>
                                     <div class="row g-3 align-items-center">
                                         <div class="col-lg-8">
                                             <h4 class="inner-title mb-2">ძირითადი უპირატესობები</h4>
                                             <ol>
-                                                <li>სისტემის შესანიშნავი თვისებები და მოქმედების მაღალი სიჩქარე</li>
-                                                <li>მოქმედების ფართო სპექტრი - მარცვლეული კულტურების ყველაზე მავნე დაავადებების აღკვეთა</li>
-                                                <li>დაავადების პრევენცია და მკურნალობა</li>
-                                                <li>დაცვის ხანგრძლივი პერიოდი</li>
+                                                <li>მაღალი ეფექტურობა პერონოსპორულ სოკოებთან ბრძოლაში</li>
+                                                <li>ორმაგი ფუნგიციდური აქტივობა - კონტაქტური და ლოკალურ-სისტემური</li>
+                                                <li>გამოყენება წინააღმდეგობის საწინააღმდეგო პროგრამებში</li>
                                             </ol>
 
                                             <div class="part mt-3">
                                                 <h4 class="inner-title mb-2">პრეპარატის დანიშვნა:</h4>
-                                                <p class="font-light">პრევენციული და თერაპიული მოქმედების სისტემური ფუნგიციდი კულტურების დასაცავად დაავადებათა კომპლექსისგან.</p>
+                                                <p class="font-light">კონტაქტური და ლოკალურ-სისტემური მოქმედების კომბინირებული ფუნგიციდი პერონოსპორული სოკოებით გამოწვეული დაავადებების კონტროლისთვის, მეტაქსილის და სხვა ფუნგიციდების მიმართ რეზისტენტული პოპულაციების ჩათვლით.</p>
                                                 <br>
                                                 <h4 class="inner-title mb-2">გამოყენების რეკომენდაციები:</h4>
-                                                <p class="font-light">პრეპარატის სამუშაო ხსნარში რეკომენდებულია Allur ან Polyphem დამხმარე საშუალებების დამატება.</p>
+                                                <p class="font-light">ორდანი ყველაზე ეფექტურია პროფილაქტიკური მიზნით ან დაავადების ადრეულ სტადიაზე გამოყენებისას, როდესაც დაავადების სიმპტომები მცენარეებზე ჯერ არ გამოჩენილა.</p>
                                             </div>
                                         </div>
 
@@ -192,9 +191,7 @@
 
                                         <div class="part col-lg-8 order-lg-2 mt-4">
                                                 <h4 class="inner-title mb-2">სამუშაო ხსნარის მომზადება:</h4>
-                                            <p class="font-light">რეკომენდებულია სამუშაო სითხის მომზადება პრეპარატის გამოყენებამდე დაუყოვნებლივ.
-
-შეურიეთ პრეპარატი თავდაპირველ შეფუთვაში, გაზომეთ პრეპარატის საჭირო რაოდენობა მფრქვეველის ერთი შევსებისთვის. შეავსეთ გამფრქვევი ავზი 1/2 წყლით. განუწყვეტელი მორევით დაასხით წამლის გაზომილი რაოდენობა მფრქვეველის ავზში. შეავსეთ გამფრქვევი ავზი წყლით სრული ტევადობით. შერევა უნდა გაგრძელდეს მცენარეების დამუშავების დროს.</p>
+                                            <p class="font-light">სამუშაო ხსნარი მზადდება უშუალოდ გამოყენებამდე. გამფრქვევი ავზი ივსება წყლით 1/4-ით, უწყვეტი მორევით, მას ემატება თითო შევსებაზე გაზომილი წამლის რაოდენობა. გამფრქვევი ავზი აგრძელებს წყლით შევსებას სამუშაო ხსნარის შერევისას მისი ერთგვაროვნების მისაღწევად. მცენარეების დამუშავებისას მორევა გრძელდება.</p>
                                         </div>
                                         <div class="col-lg-4 order-lg-0 mt-4">
                                             <img src="assets/images/fashion/slider/corn2.jpg"
@@ -210,8 +207,12 @@
                                     <div class="table-responsive">
                                         <table class="table table-part">
                                             <tr>
-                                                <th>ტებუკონაზოლი</th>
-                                                <td>250 გ/ლ.</td>
+                                                <th>სპილენძის ოქსიქლორიდი</th>
+                                                <td>689 გ/კგ</td>
+                                            </tr>
+                                            <tr>
+                                                <th>ციმოქსანილი</th>
+                                                <td>42 გ/კგ</td>
                                             </tr>
                                         </table>
                                     </div>

@@ -16974,7 +16974,7 @@ header#home {
 }
 
 .price-detail del {
-  font-size: 14px;
+  font-size: 24px;
   color: #aaaaaa;
   font-weight: 400;
 }
@@ -16983,6 +16983,19 @@ header#home {
   /* font-size: 16px;
   color: var(--theme-color);
   padding-left: 10px; */
+}
+
+#oldprice{
+}
+
+#discount{
+  font-size: 24px;
+  color: var(--theme-color);
+  font-weight: 400;
+}
+
+.make-visible{
+  display: inline;
 }
 
 [dir="rtl"] .price-detail span {
