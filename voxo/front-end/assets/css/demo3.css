@@ -16980,9 +16980,9 @@ header#home {
 }
 
 .price-detail span {
-  font-size: 16px;
+  /* font-size: 16px;
   color: var(--theme-color);
-  padding-left: 10px;
+  padding-left: 10px; */
 }
 
 [dir="rtl"] .price-detail span {
@@ -17878,6 +17878,7 @@ header#home {
   border: 1px solid #ced4da;
   background-color: #eff2f7;
   font-weight: 600;
+  width: 30%;
   padding: 1.5rem !important;
   white-space: nowrap;
 }

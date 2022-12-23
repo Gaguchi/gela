@@ -771,15 +771,6 @@ $(document).ready(function () {
 wordflick();
 });
 
-/*=====================
-    25. Preloader
- ==========================*/
-
-window.onload = function(){
-    //hide the preloader
-    document.querySelector(".preloader").style.display = "none";
-}
-
 
 /*=====================
     26. create video element
@@ -895,3 +886,33 @@ $("#filters-category :checkbox").click(function() {
     
     });
     
+
+/*=====================
+    25. Preloader
+ ==========================*/
+
+ window.onload = function(){
+    //hide the preloader
+    document.querySelector(".preloader").style.display = "none";
+}
+
+
+
+/*=====================
+    25. Price Change
+ ==========================*/
+ var price = 0;
+ 
+ $(".pricechange").click(function() {
+    $(".pricechange").removeAttr("id");
+    $(this).attr("id","activeprice");
+    console.log($("#activeprice").attr('value'));
+    price = $("#activeprice").attr('value')*$(".input-number").val();
+    $("#pricetag").text(price);
+});
+
+
+$(".priceupdate").click(function() {
+    price = $("#activeprice").attr('value')*$(".input-number").val();
+    $("#pricetag").text(price);
+});
