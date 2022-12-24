@@ -58,10 +58,10 @@
 
                                         <div class="size-box">
                                             <ul>
-                                                <li class="pricechange active" id="activeprice" value="45">
+                                                <li class="pricechange active" id="activeprice" value="50" realvalue="45">
                                                     <a href="javascript:void(0)" >70 გრ</a>
                                                 </li>
-                                                <li class="pricechange" value="555">
+                                                <li class="pricechange" value="570" realvalue="555">
                                                     <a href="javascript:void(0)" >750 გრ</a>
                                                 </li>
                                             </ul>

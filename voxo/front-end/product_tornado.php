@@ -58,7 +58,7 @@
 
                                         <div class="size-box">
                                             <ul>
-                                                <li class="pricechange active" id="activeprice" value="45">
+                                                <li class="pricechange active" id="activeprice" value="45" realvalue="40">
                                                     <a href="javascript:void(0)">1 ლ.</a>
                                                 </li>
                                             </ul>
