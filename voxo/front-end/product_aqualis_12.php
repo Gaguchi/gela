@@ -12,8 +12,8 @@
                                     <div class="details-image ratio_asos">
                                         <div>
                                             <div class="product-image-tag">
-                                                <img src="assets/images/products/sulfoammofos.jpg" id="zoom_01"
-                                                    data-zoom-image="assets/images/products/sulfoammofos.jpg"
+                                                <img src="assets/images/products/aqualis-12.jpg" id="zoom_01"
+                                                    data-zoom-image="assets/images/products/aqualis-12.jpg"
                                                     class="img-fluid w-100 image_zoom_cls-0 blur-up lazyload" alt="">
                                             </div>
                                         </div>
@@ -25,14 +25,14 @@
                                 <div class="cloth-details-size">
 
                                     <div class="details-image-concept">
-                                        <h2>სულფოამოფოსი 20.20.14</h2>
+                                        <h2>აკვალის 12.8.31</h2>
                                     </div>
 
                                     <div class="label-section">
-                                        <span class="badge badge-grey-color">კომბინირებული სასუქი</span>
+                                        <span class="badge badge-grey-color">წყალხსნადი სასუქი</span>
                                     </div>
 
-                                    <h3 class="price-detail">₾<span id="pricetag">135.00</span> <del id="oldprice"></del> <span id="discount"></span></h3>
+                                    <h3 class="price-detail">₾<span id="pricetag">140.00</span> <del id="oldprice"></del> <span id="discount"></span></h3>
 
                                     <div class="color-image">
                                         <div class="image-select">
@@ -58,8 +58,8 @@
 
                                         <div class="size-box">
                                             <ul>
-                                                <li class="pricechange active" id="activeprice" value="135" realvalue="130">
-                                                    <a href="javascript:void(0)">50 კგ.</a>
+                                                <li class="pricechange active" id="activeprice" value="140" realvalue="135">
+                                                    <a href="javascript:void(0)">25 კგ.</a>
                                                 </li>
                                             </ul>
                                         </div>
@@ -163,23 +163,25 @@
                             <div class="tab-pane fade show active" id="desc">
                                 <div class="shipping-chart">
                                     <div class="part">
-                                        <h4 class="inner-title mb-2">სულფოამოფოსი 20.20.14</h4>
-                                        <p class="font-light">უნივერსალური მარცვლოვანი აზოტ-ფოსფორიანი სასუქი გოგირდის შემცველობით</p>
+                                        <h4 class="inner-title mb-2">აკვალის 12.8.31</h4>
+                                        <p class="font-light">კალიუმის საბოლოო ხარისხი დაბალი ფოსფორის შემცველობით</p>
                                     </div>
                                     <div class="row g-3 align-items-center">
                                         <div class="part col-lg-8">
                                             <h4 class="inner-title mb-2">ძირითადი უპირატესობები</h4>
                                             <ol>
-                                                <li>საუკეთესო გამოსავალი მარცვლეული, ზეთოვანი და პარკოსნები</li>
-                                                <li>ამონიუმის სახით აზოტის შემცველობის გამო უზრუნველყოფილია კულტურების ხანგრძლივი კვება</li>
-                                                <li>შეიცავს გოგირდს მოსავლიანობისა და პროდუქტის ხარისხის გასაუმჯობესებლად</li>
-                                                <li>შეიცავს "საწყის" ფოსფორს ხსნად ფორმაში, რომელიც კარგად შეიწოვება მცენარეთა მიერ, რაც ხელს უწყობს ფესვთა მასის განვითარებას მცენარის განვითარების ადრეულ ეტაპებზე</li>
-                                                <li>პროდუქცია არის არამყარი, არ მტვრიანი, არაჰიგროსკოპიული, აქვს კარგი შენახვისა და ტრანსპორტირების მახასიათებლები</li>
+                                                <li>წყალში 100% ხსნადობა</li>
+                                                <li>აუმჯობესებს პროდუქციის გემოს, პრეზენტაციას და შენახვის ვადას</li>
+                                                <li>კვალი ელემენტების კომპლექსი: B, Cu, Mn, Zn, Fe, Mo შემადგენლობაში</li>
+                                                <li>Cu, Mn, Zn, Fe - ჩელატური სახით</li>
+                                                <li>სინერგიული ეფექტი KAS-32-თან გამოყენებისას</li>
+                                                <li>გაზარდეთ ძირეული კულტურების შაქრიანობა</li>
+                                                <li>სტრესის ფაქტორებისადმი წინააღმდეგობის გაზრდა</li>
                                             </ol>
 
                                             <div class="part mt-3">
                                                 <h4 class="inner-title mb-2">პრეპარატის დანიშვნა:</h4>
-                                                <p class="font-light">ფოსფატები არის წყალში ხსნადი სახით, რომლებიც ადვილად ხელმისაწვდომია მცენარეებისთვის. იგი გამოიყენება ყველა ტიპის ნიადაგზე, როგორც ძირითადი და წინასწარი თესვისთვის ნებისმიერი კულტურისთვის. მისი გამოყენება შესაძლებელია როგორც ინდივიდუალურად, ასევე სასუქის ნარევებში. ყველაზე დიდი ეფექტურობა მიიღწევა, როდესაც გამოიყენება შემოდგომაზე ზამთრის კულტურების ქვეშ და როგორც ძირითადი სასუქი ძირეული კულტურებისთვის.</p>
+                                                <p class="font-light">გამოიყენება ვეგეტაციის ბოლოს და მოსავლის აღების პერიოდში. უზრუნველყოფს დაჩქარებულ მომწიფებას, აუმჯობესებს პროდუქტის ხარისხს. კალიუმის მაღალი შემცველობა უფრო სწრაფად მომწიფებისთვის, ძლიერი და ლამაზი კანი უფრო დიდ ნაყოფებზე. აზოტი ძირითადად ნიტრატის სახითაა. მაგნიუმი და კვალი ელემენტები მოსავლის სრული სიმწიფისთვის.</p>
                                             </div>
                                         </div>
 
@@ -197,16 +199,46 @@
                                     <div class="table-responsive">
                                         <table class="table table-part">
                                             <tr>
-                                                <th>მთლიანი აზოტი (N) ჩათვლით. ამონიუმის აზოტი NH4, არანაკლებ</th><td>20.0±1%</td>
+                                                <th>აზოტის საერთო (N), არანაკლებ</th><td>12.2%</td>
+                                            </tr>
+                                            <tr class="subtable">
+                                                <th><span>ამონიუმის აზოტი, არანაკლებ</span></th><td>2.9%</td>
+                                            </tr>
+                                            <tr class="subtable">
+                                                <th><span>ნიტრატი აზოტი, არანაკლებ</span></th><td>9.3%</td>
                                             </tr>
                                             <tr>
-                                                <th>სულ ფოსფატები P2O5-ის მიხედვით, არანაკლებ</th><td>20.0±1%</td>
+                                                <th>სულ ფოსფატები P2O5-ის მიხედვით, არანაკლებ</th><td>8%</td>
                                             </tr>
                                             <tr>
-                                                <th>სულფატები გოგირდის მხრივ, არანაკლებ</th><td>13.5%</td>
+                                                <th>კალიუმი, არანაკლებ</th><td>31%</td>
                                             </tr>
                                             <tr>
-                                                <th>წყლის მასიური ფრაქცია, არა მეტი</th><td>1.5%</td>
+                                                <th>გოგირდი, არანაკლებ</th><td>3%</td>
+                                            </tr>
+                                            <tr>
+                                                <th>მაგნიუმის ოქსიდი, არაუმეტეს (MgO)</th><td>2%</td>
+                                            </tr>
+                                            <tr>
+                                                <th>მიკროელემენტებს</th><td></td>
+                                            </tr>
+                                            <tr class="subtable">
+                                                <th><span>ბ</span></th><td>0.02%</td>
+                                            </tr>
+                                            <tr class="subtable">
+                                                <th><span>კუ</span></th><td>0.005%</td>
+                                            </tr>
+                                            <tr class="subtable">
+                                                <th><span>მნ</span></th><td>0.005%</td>
+                                            </tr>
+                                            <tr class="subtable">
+                                                <th><span>ზნ</span></th><td>0.01%</td>
+                                            </tr>
+                                            <tr class="subtable">
+                                                <th><span>ფე</span></th><td>0.07%</td>
+                                            </tr>
+                                            <tr class="subtable">
+                                                <th><span>მო</span></th><td>0.004%</td>
                                             </tr>
                                         </table>
                                     </div>

@@ -12,8 +12,8 @@
                                     <div class="details-image ratio_asos">
                                         <div>
                                             <div class="product-image-tag">
-                                                <img src="assets/images/products/sulfoammofos.jpg" id="zoom_01"
-                                                    data-zoom-image="assets/images/products/sulfoammofos.jpg"
+                                                <img src="assets/images/products/actek.jpg" id="zoom_01"
+                                                    data-zoom-image="assets/images/products/actek.jpg"
                                                     class="img-fluid w-100 image_zoom_cls-0 blur-up lazyload" alt="">
                                             </div>
                                         </div>
@@ -25,14 +25,14 @@
                                 <div class="cloth-details-size">
 
                                     <div class="details-image-concept">
-                                        <h2>სულფოამოფოსი 20.20.14</h2>
+                                        <h2>აცტეკი</h2>
                                     </div>
 
                                     <div class="label-section">
-                                        <span class="badge badge-grey-color">კომბინირებული სასუქი</span>
+                                        <span class="badge badge-grey-color">ფუნგიციდი</span>
                                     </div>
 
-                                    <h3 class="price-detail">₾<span id="pricetag">135.00</span> <del id="oldprice"></del> <span id="discount"></span></h3>
+                                    <h3 class="price-detail">₾<span id="pricetag">33.00</span> <del id="oldprice"></del> <span id="discount"></span></h3>
 
                                     <div class="color-image">
                                         <div class="image-select">
@@ -58,8 +58,8 @@
 
                                         <div class="size-box">
                                             <ul>
-                                                <li class="pricechange active" id="activeprice" value="135" realvalue="130">
-                                                    <a href="javascript:void(0)">50 კგ.</a>
+                                                <li class="pricechange active" id="activeprice" value="33" realvalue="30">
+                                                    <a href="javascript:void(0)">100 გრ.</a>
                                                 </li>
                                             </ul>
                                         </div>
@@ -163,26 +163,13 @@
                             <div class="tab-pane fade show active" id="desc">
                                 <div class="shipping-chart">
                                     <div class="part">
-                                        <h4 class="inner-title mb-2">სულფოამოფოსი 20.20.14</h4>
-                                        <p class="font-light">უნივერსალური მარცვლოვანი აზოტ-ფოსფორიანი სასუქი გოგირდის შემცველობით</p>
+                                        <h4 class="inner-title mb-2">დანიშნულება</h4>
+                                        <p class="font-light">აცტეკი წარმოადგენს ტრანსლამინარულ ინსექტო-აკარიციდს, რომელიც ებრძვის სასოფლო სამეურნეო კულტურების ყველა სახეობის მავნე ტკიპებსა და ჭიჭინობელებს. იგი მოქმედებს ტკიპების განვითარების ყველა ფაზაზე, მათ შორის ტკიპას კვერცხებზეც. პრეპარატი მოქმედებს შეხებით და საჭმლის მომნელებელი სისტემის საშუალებით. შესხურებისთანავე იჭრება მცენარის წვენში და ანადგურებს იმ ტკიპასაც, რომელიც წამლობისას არ იმყოფებოდა კონტაქტში. მას გააჩნია შერჩევითი მოქმედების უნარი.</p>
                                     </div>
                                     <div class="row g-3 align-items-center">
                                         <div class="part col-lg-8">
-                                            <h4 class="inner-title mb-2">ძირითადი უპირატესობები</h4>
-                                            <ol>
-                                                <li>საუკეთესო გამოსავალი მარცვლეული, ზეთოვანი და პარკოსნები</li>
-                                                <li>ამონიუმის სახით აზოტის შემცველობის გამო უზრუნველყოფილია კულტურების ხანგრძლივი კვება</li>
-                                                <li>შეიცავს გოგირდს მოსავლიანობისა და პროდუქტის ხარისხის გასაუმჯობესებლად</li>
-                                                <li>შეიცავს "საწყის" ფოსფორს ხსნად ფორმაში, რომელიც კარგად შეიწოვება მცენარეთა მიერ, რაც ხელს უწყობს ფესვთა მასის განვითარებას მცენარის განვითარების ადრეულ ეტაპებზე</li>
-                                                <li>პროდუქცია არის არამყარი, არ მტვრიანი, არაჰიგროსკოპიული, აქვს კარგი შენახვისა და ტრანსპორტირების მახასიათებლები</li>
-                                            </ol>
-
-                                            <div class="part mt-3">
-                                                <h4 class="inner-title mb-2">პრეპარატის დანიშვნა:</h4>
-                                                <p class="font-light">ფოსფატები არის წყალში ხსნადი სახით, რომლებიც ადვილად ხელმისაწვდომია მცენარეებისთვის. იგი გამოიყენება ყველა ტიპის ნიადაგზე, როგორც ძირითადი და წინასწარი თესვისთვის ნებისმიერი კულტურისთვის. მისი გამოყენება შესაძლებელია როგორც ინდივიდუალურად, ასევე სასუქის ნარევებში. ყველაზე დიდი ეფექტურობა მიიღწევა, როდესაც გამოიყენება შემოდგომაზე ზამთრის კულტურების ქვეშ და როგორც ძირითადი სასუქი ძირეული კულტურებისთვის.</p>
-                                            </div>
-                                        </div>
-
+                                            <h4 class="inner-title mb-2">რეზისტენტობის მართვა</h4>
+                                        <p class="font-light">პრეპარატი არის 21A ჯგუფის ინსექტიციდი. 21A ჯგუფის პრეპარატების მრავალჯერადმა შესხურებამ შეიძლება გამოიწვიოს რეზისტენტობა. ასეთ შემთხვევაში მონაცვლეობით გამოიყენეთ ალტერნატიული პროდუქტები სხვა ქიმიური ჯგუფიდან.</p>
                                         <div class="col-lg-4">
                                             <img src="assets/images/fashion/slider/corn1.jpg"
                                                 class="img-fluid rounded blur-up lazyload" alt="">
@@ -197,16 +184,7 @@
                                     <div class="table-responsive">
                                         <table class="table table-part">
                                             <tr>
-                                                <th>მთლიანი აზოტი (N) ჩათვლით. ამონიუმის აზოტი NH4, არანაკლებ</th><td>20.0±1%</td>
-                                            </tr>
-                                            <tr>
-                                                <th>სულ ფოსფატები P2O5-ის მიხედვით, არანაკლებ</th><td>20.0±1%</td>
-                                            </tr>
-                                            <tr>
-                                                <th>სულფატები გოგირდის მხრივ, არანაკლებ</th><td>13.5%</td>
-                                            </tr>
-                                            <tr>
-                                                <th>წყლის მასიური ფრაქცია, არა მეტი</th><td>1.5%</td>
+                                                <th>ტებუფენპირადი</th><td>200 გ/კგ</td>
                                             </tr>
                                         </table>
                                     </div>

@@ -29,10 +29,10 @@
                                     </div>
 
                                     <div class="label-section">
-                                        <span class="badge badge-grey-color">სასუქი</span>
+                                        <span class="badge badge-grey-color">კომბინირებული სასუქი</span>
                                     </div>
 
-                                    <h3 class="price-detail">₾<span id="pricetag">160.00</span> <del id="oldprice"></del> <span id="discount"></span></h3>
+                                    <h3 class="price-detail">₾<span id="pricetag">165.00</span> <del id="oldprice"></del> <span id="discount"></span></h3>
 
                                     <div class="color-image">
                                         <div class="image-select">
@@ -58,8 +58,8 @@
 
                                         <div class="size-box">
                                             <ul>
-                                                <li class="pricechange active" id="activeprice" value="160">
-                                                    <a href="javascript:void(0)">100 მლ.</a>
+                                                <li class="pricechange active" id="activeprice" value="165" realvalue="160">
+                                                    <a href="javascript:void(0)">50 კგ.</a>
                                                 </li>
                                             </ul>
                                         </div>
@@ -163,41 +163,28 @@
                             <div class="tab-pane fade show active" id="desc">
                                 <div class="shipping-chart">
                                     <div class="part">
-                                        <h4 class="inner-title mb-2">კოლოსალი</h4>
-                                        <p class="font-light">პროფილაქტიკური და სამკურნალო სისტემური ფუნგიციდი მარცვლეულის, ბრინჯის, რაფსის და ყურძნის დაავადებების კონტროლისთვის</p>
+                                        <h4 class="inner-title mb-2">ამოფოსი 12.52</h4>
+                                        <p class="font-light">მრავალმხრივი, მაღალი ხარისხის მარცვლოვანი სასუქი, რომელიც შეიცავს აზოტს და ფოსფორს</p>
                                     </div>
                                     <div class="row g-3 align-items-center">
-                                        <div class="col-lg-8">
+                                        <div class="part col-lg-8">
                                             <h4 class="inner-title mb-2">ძირითადი უპირატესობები</h4>
                                             <ol>
-                                                <li>სისტემის შესანიშნავი თვისებები და მოქმედების მაღალი სიჩქარე</li>
-                                                <li>მოქმედების ფართო სპექტრი - მარცვლეული კულტურების ყველაზე მავნე დაავადებების აღკვეთა</li>
-                                                <li>დაავადების პრევენცია და მკურნალობა</li>
-                                                <li>დაცვის ხანგრძლივი პერიოდი</li>
+                                                <li>ძირითადი და სათესი სასუქი ყველა კულტურისთვის</li>
+                                                <li>ყველაზე გავრცელებული და ეფექტური ფოსფატური სასუქი</li>
+                                                <li>ადვილად ხსნადი ფოსფორის მაღალი შემცველობა - 95%</li>
+                                                <li>ხელს უწყობს ჯანსაღი ფესვთა სისტემის ფორმირებას</li>
+                                                <li>პროდუქტი არ იშლება ან მტვერი, აქვს კარგი შენახვისა და ტრანსპორტირების მახასიათებლები</li>
                                             </ol>
 
                                             <div class="part mt-3">
                                                 <h4 class="inner-title mb-2">პრეპარატის დანიშვნა:</h4>
-                                                <p class="font-light">პრევენციული და თერაპიული მოქმედების სისტემური ფუნგიციდი კულტურების დასაცავად დაავადებათა კომპლექსისგან.</p>
-                                                <br>
-                                                <h4 class="inner-title mb-2">გამოყენების რეკომენდაციები:</h4>
-                                                <p class="font-light">პრეპარატის სამუშაო ხსნარში რეკომენდებულია Allur ან Polyphem დამხმარე საშუალებების დამატება.</p>
+                                                <p class="font-light">ფოსფატები არის წყალში ხსნადი სახით, რომლებიც ადვილად ხელმისაწვდომია მცენარეებისთვის. იგი გამოიყენება ყველა ტიპის ნიადაგზე, როგორც ძირითადი და წინასწარი თესვისთვის ნებისმიერი კულტურისთვის. მისი გამოყენება შესაძლებელია როგორც ინდივიდუალურად, ასევე სასუქის ნარევებში. ყველაზე დიდი ეფექტურობა მიიღწევა, როდესაც გამოიყენება შემოდგომაზე ზამთრის კულტურების ქვეშ და როგორც ძირითადი სასუქი ძირეული კულტურებისთვის.</p>
                                             </div>
                                         </div>
 
                                         <div class="col-lg-4">
                                             <img src="assets/images/fashion/slider/corn1.jpg"
-                                                class="img-fluid rounded blur-up lazyload" alt="">
-                                        </div>
-
-                                        <div class="part col-lg-8 order-lg-2 mt-4">
-                                                <h4 class="inner-title mb-2">სამუშაო ხსნარის მომზადება:</h4>
-                                            <p class="font-light">რეკომენდებულია სამუშაო სითხის მომზადება პრეპარატის გამოყენებამდე დაუყოვნებლივ.
-
-შეურიეთ პრეპარატი თავდაპირველ შეფუთვაში, გაზომეთ პრეპარატის საჭირო რაოდენობა მფრქვეველის ერთი შევსებისთვის. შეავსეთ გამფრქვევი ავზი 1/2 წყლით. განუწყვეტელი მორევით დაასხით წამლის გაზომილი რაოდენობა მფრქვეველის ავზში. შეავსეთ გამფრქვევი ავზი წყლით სრული ტევადობით. შერევა უნდა გაგრძელდეს მცენარეების დამუშავების დროს.</p>
-                                        </div>
-                                        <div class="col-lg-4 order-lg-0 mt-4">
-                                            <img src="assets/images/fashion/slider/corn2.jpg"
                                                 class="img-fluid rounded blur-up lazyload" alt="">
                                         </div>
                                     </div>
@@ -210,8 +197,16 @@
                                     <div class="table-responsive">
                                         <table class="table table-part">
                                             <tr>
-                                                <th>ტებუკონაზოლი</th>
-                                                <td>250 გ/ლ.</td>
+                                                <th>აზოტის საერთო (N), არანაკლებ</th>
+                                                <td>12.0%</td>
+                                            </tr>
+                                            <tr>
+                                                <th>ფოსფატების მასური ფრაქცია, არანაკლებ</th>
+                                                <td>52.0%</td>
+                                            </tr>
+                                            <tr>
+                                                <th>წყლის მასიური ფრაქცია, მეტი არა</th>
+                                                <td>1.0%</td>
                                             </tr>
                                         </table>
                                     </div>

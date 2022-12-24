@@ -12,8 +12,8 @@
                                     <div class="details-image ratio_asos">
                                         <div>
                                             <div class="product-image-tag">
-                                                <img src="assets/images/products/sulfoammofos.jpg" id="zoom_01"
-                                                    data-zoom-image="assets/images/products/sulfoammofos.jpg"
+                                                <img src="assets/images/products/karbamid.jpg" id="zoom_01"
+                                                    data-zoom-image="assets/images/products/karbamid.jpg"
                                                     class="img-fluid w-100 image_zoom_cls-0 blur-up lazyload" alt="">
                                             </div>
                                         </div>
@@ -25,14 +25,14 @@
                                 <div class="cloth-details-size">
 
                                     <div class="details-image-concept">
-                                        <h2>სულფოამოფოსი 20.20.14</h2>
+                                        <h2>კარბამიდი</h2>
                                     </div>
 
                                     <div class="label-section">
-                                        <span class="badge badge-grey-color">კომბინირებული სასუქი</span>
+                                        <span class="badge badge-grey-color">სასუქი</span>
                                     </div>
 
-                                    <h3 class="price-detail">₾<span id="pricetag">135.00</span> <del id="oldprice"></del> <span id="discount"></span></h3>
+                                    <h3 class="price-detail">₾<span id="pricetag">180.00</span> <del id="oldprice"></del> <span id="discount"></span></h3>
 
                                     <div class="color-image">
                                         <div class="image-select">
@@ -58,7 +58,7 @@
 
                                         <div class="size-box">
                                             <ul>
-                                                <li class="pricechange active" id="activeprice" value="135" realvalue="130">
+                                                <li class="pricechange active" id="activeprice" value="180" realvalue="175">
                                                     <a href="javascript:void(0)">50 კგ.</a>
                                                 </li>
                                             </ul>
@@ -163,23 +163,24 @@
                             <div class="tab-pane fade show active" id="desc">
                                 <div class="shipping-chart">
                                     <div class="part">
-                                        <h4 class="inner-title mb-2">სულფოამოფოსი 20.20.14</h4>
-                                        <p class="font-light">უნივერსალური მარცვლოვანი აზოტ-ფოსფორიანი სასუქი გოგირდის შემცველობით</p>
+                                        <h4 class="inner-title mb-2">კარბამიდი</h4>
+                                        <p class="font-light">კარბამიდი (შარდოვანა) - ყველაზე კონცენტრირებული მარცვლოვანი აზოტის სასუქი (46,2% აზოტი)</p>
                                     </div>
                                     <div class="row g-3 align-items-center">
                                         <div class="part col-lg-8">
                                             <h4 class="inner-title mb-2">ძირითადი უპირატესობები</h4>
                                             <ol>
-                                                <li>საუკეთესო გამოსავალი მარცვლეული, ზეთოვანი და პარკოსნები</li>
-                                                <li>ამონიუმის სახით აზოტის შემცველობის გამო უზრუნველყოფილია კულტურების ხანგრძლივი კვება</li>
-                                                <li>შეიცავს გოგირდს მოსავლიანობისა და პროდუქტის ხარისხის გასაუმჯობესებლად</li>
-                                                <li>შეიცავს "საწყის" ფოსფორს ხსნად ფორმაში, რომელიც კარგად შეიწოვება მცენარეთა მიერ, რაც ხელს უწყობს ფესვთა მასის განვითარებას მცენარის განვითარების ადრეულ ეტაპებზე</li>
-                                                <li>პროდუქცია არის არამყარი, არ მტვრიანი, არაჰიგროსკოპიული, აქვს კარგი შენახვისა და ტრანსპორტირების მახასიათებლები</li>
+                                                <li>ძირითადი სასუქი და ზედა გასახდელი ყველა მოსავლისთვის ყველა ტიპის ნიადაგზე</li>
+                                                <li>აზოტის მაღალი შემცველობა 46.2%</li>
+                                                <li>ის კარგად შეიწოვება მცენარეთა მიერ და უზრუნველყოფს აზოტს დიდი ხნის განმავლობაში</li>
+                                                <li>იდეალურია, როგორც ფოთლოვანი გამოყენება რძის სიმწიფემდე</li>
+                                                <li>100% წყალში ხსნადობის საშუალებას იძლევა გამოიყენოს როგორც ფოთლოვანი ზედა გასახდელი</li>
+                                                <li>კარგად შეეფერება გოგრის, ბრინჯის და პარკოსნების გამოყენებას</li>
                                             </ol>
 
                                             <div class="part mt-3">
                                                 <h4 class="inner-title mb-2">პრეპარატის დანიშვნა:</h4>
-                                                <p class="font-light">ფოსფატები არის წყალში ხსნადი სახით, რომლებიც ადვილად ხელმისაწვდომია მცენარეებისთვის. იგი გამოიყენება ყველა ტიპის ნიადაგზე, როგორც ძირითადი და წინასწარი თესვისთვის ნებისმიერი კულტურისთვის. მისი გამოყენება შესაძლებელია როგორც ინდივიდუალურად, ასევე სასუქის ნარევებში. ყველაზე დიდი ეფექტურობა მიიღწევა, როდესაც გამოიყენება შემოდგომაზე ზამთრის კულტურების ქვეშ და როგორც ძირითადი სასუქი ძირეული კულტურებისთვის.</p>
+                                                <p class="font-light">აზოტის ამიდური ფორმა უზრუნველყოფს მცენარეთა ხანგრძლივ კვებას. ვარგისია ყველა კულტურების ქვეშ გამოსაყენებლად, როგორც სასუქი ძირითადი და თესვისწინა გამოყენებისთვის, აგრეთვე ფოთლოვანი ზედა გასახდელი და ფერტიგაცია. ნიადაგზე ზედაპირული გამოყენებისთვის საჭიროა დროული შეყვანა. ნიადაგში შესვლისას აზოტის ამონიუმის ფორმაში გადადის, რამდენიმე დღის შემდეგ კი ნიტრატულ ფორმაში.</p>
                                             </div>
                                         </div>
 
@@ -197,16 +198,21 @@
                                     <div class="table-responsive">
                                         <table class="table table-part">
                                             <tr>
-                                                <th>მთლიანი აზოტი (N) ჩათვლით. ამონიუმის აზოტი NH4, არანაკლებ</th><td>20.0±1%</td>
+                                                <th>აზოტის საერთო (N), არანაკლებ</th>
+                                                <td>46.2%</td>
                                             </tr>
                                             <tr>
-                                                <th>სულ ფოსფატები P2O5-ის მიხედვით, არანაკლებ</th><td>20.0±1%</td>
+                                                <th>ბიურეტის მასიური ფრაქცია, არა მეტი</th>
+                                                <td>1.4%</td>
                                             </tr>
                                             <tr>
-                                                <th>სულფატები გოგირდის მხრივ, არანაკლებ</th><td>13.5%</td>
+                                                <th>წყლის მასიური ფრაქცია, არა მეტი</th><td> 0.6%</td>
                                             </tr>
-                                            <tr>
-                                                <th>წყლის მასიური ფრაქცია, არა მეტი</th><td>1.5%</td>
+                                            <tr class="subtable">
+                                                <th><span>გაშრობის მეთოდით, არა მეტი</span></th><td>0.4%</td>
+                                            </tr>
+                                            <tr class="subtable">
+                                                <th><span>ფიშერის მეთოდის მიხედვით, არა მეტი</span></th><td> 0.6%</td>
                                             </tr>
                                         </table>
                                     </div>

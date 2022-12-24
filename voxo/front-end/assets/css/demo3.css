@@ -17891,6 +17891,7 @@ header#home {
   border: 1px solid #ced4da;
   background-color: #eff2f7;
   font-weight: 600;
+  color: black;
   width: 30%;
   padding: 1.5rem !important;
   white-space: nowrap;
@@ -17899,8 +17900,18 @@ header#home {
 .cloth-review .tab-pane .pro .table-part tr td {
   border: 1px solid #ced4da;
   text-align: left;
+  font-weight: 600;
   padding: 1.5rem !important;
   white-space: nowrap;
+}
+
+.subtable th{    
+  border-bottom: 1px solid #fafcff!important;
+  background-color: #fafcff !important;
+}
+
+.subtable th span {
+  padding-left: 40px;
 }
 
 [dir="rtl"] .cloth-review .tab-pane .pro .table-part tr td {
