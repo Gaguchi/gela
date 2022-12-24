@@ -12,8 +12,8 @@
                                     <div class="details-image ratio_asos">
                                         <div>
                                             <div class="product-image-tag">
-                                                <img src="assets/images/products/cooper-88.jpg" id="zoom_01"
-                                                    data-zoom-image="assets/images/products/cooper-88.jpg"
+                                                <img src="assets/images/products/ramin.jpg" id="zoom_01"
+                                                    data-zoom-image="assets/images/products/ramin.jpg"
                                                     class="img-fluid w-100 image_zoom_cls-0 blur-up lazyload" alt="">
                                             </div>
                                         </div>
@@ -25,14 +25,14 @@
                                 <div class="cloth-details-size">
 
                                     <div class="details-image-concept">
-                                        <h2>კუპერ 88</h2>
+                                        <h2>რამინი</h2>
                                     </div>
 
                                     <div class="label-section">
                                         <span class="badge badge-grey-color">ფუნგიციდი</span>
                                     </div>
 
-                                    <h3 class="price-detail">₾<span id="pricetag">50.00</span> <del id="oldprice"></del> <span id="discount"></span></h3>
+                                    <h3 class="price-detail">₾<span id="pricetag">14.00</span> <del id="oldprice"></del> <span id="discount"></span></h3>
 
                                     <div class="color-image">
                                         <div class="image-select">
@@ -58,8 +58,8 @@
 
                                         <div class="size-box">
                                             <ul>
-                                                <li class="pricechange active" id="activeprice" value="50" realvalue="45">
-                                                    <a href="javascript:void(0)">1 კგ.</a>
+                                                <li class="pricechange active" id="activeprice" value="14" realvalue="12">
+                                                    <a href="javascript:void(0)">200 გრ.</a>
                                                 </li>
                                             </ul>
                                         </div>
@@ -163,10 +163,8 @@
                             <div class="tab-pane fade show active" id="desc">
                                 <div class="shipping-chart">
                                     <div class="part">
-                                        <h4 class="inner-title mb-2">კუპერ 88</h4>
-                                        <p class="font-light">მოქმედი ნივთიერება: 877 გ/კგ სპილენძის ოქსიქლორიდი (500გ/კგ სპილენძის მიხედვით)
-
-კუპერ 88 პრევენციული ხასიათის მქონე, კონტაქტური ფუნგიციდი ვაზში, ხეხილში, კაკლოვნებში, პარკოსნებსა და ზეთისხილში სოკოვანი დაავადებების წინააღმდეგ საბრძოლველად. თავსებადია სხვა პესტიციდებთან და აგროქიმიკატებთან. დაუშვებელია მისი შერევა მჟავა რეაქციისა და ძლიერი ტუტე რეაქციის პროდუქტებთან. რეკომენდებული დოზებისა და გამოყენების პერიოდების დაცვისას არ არის ფიტოტოქსიკური. ფიტოტოქსიკური ნიშნების შეიძლება გამოვლინდეს წვიმიან და ცივ ამინდებში, როდესაც ჰაერის ტემპერატურა 8°C-ზე დაბალია</p>
+                                        <h4 class="inner-title mb-2">მახასიათებლები</h4>
+                                        <p class="font-light">რამინი - დამცავი და სამკურნალო თვისებების მქონე ფუნგიციდი კულტურებში სოკოვანი დაავადებების წინააღმდეგ საბრძოლველად. ის წარმოადგენს წყალში ხსნადი მიკროგრანულებისგან შემდგარ პრეპარატულ ფორმას რომელსაც წარმოების ორიგინალური პროცესების და ნაწილაკების სიწმინდის გამო ფოთლების ზედაპირზე მიწებების და გადანაწილების განსაკუთრებული უნარი გააჩნია. ეს თვისებები უზრუნველყოფს ფუნგიციდური და ბაქტერიული ეფექტიანობის ზრდას და სპილენძის დოზების მნიშვნელოვან შემცირებას, რაც თავის მხრივ გარემოს დაცვას უწყობს ხელს. პრეპარატი თავსებადია თითქმის ყველა პესტიციდთან და აგროქიმიკატთან.</p>
                                     </div>
                                 </div>
                             </div>
@@ -177,10 +175,10 @@
                                     <div class="table-responsive">
                                         <table class="table table-part">
                                             <tr>
-                                                <th>სპილენძის ქლორჟანგი</th><td>877 გ/კგ</td>
+                                                <th>სპილენძის ოქსიქლორიდი</th><td>550 გ/კგ</td>
                                             </tr>
                                             <tr>
-                                                <th>სპილენძის მიხედვით</th><td>500 გ/კგ</td>
+                                                <th>სუფთა სპილენძის მიხედვით</th><td>300 გ/კგ</td>
                                             </tr>
                                         </table>
                                     </div>

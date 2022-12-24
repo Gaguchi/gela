@@ -12,8 +12,8 @@
                                     <div class="details-image ratio_asos">
                                         <div>
                                             <div class="product-image-tag">
-                                                <img src="assets/images/products/cooper-88.jpg" id="zoom_01"
-                                                    data-zoom-image="assets/images/products/cooper-88.jpg"
+                                                <img src="assets/images/products/gvarjila.jpg" id="zoom_01"
+                                                    data-zoom-image="assets/images/products/gvarjila.jpg"
                                                     class="img-fluid w-100 image_zoom_cls-0 blur-up lazyload" alt="">
                                             </div>
                                         </div>
@@ -25,14 +25,14 @@
                                 <div class="cloth-details-size">
 
                                     <div class="details-image-concept">
-                                        <h2>კუპერ 88</h2>
+                                        <h2>გვარჯილა</h2>
                                     </div>
 
                                     <div class="label-section">
-                                        <span class="badge badge-grey-color">ფუნგიციდი</span>
+                                        <span class="badge badge-grey-color">სასუქი</span>
                                     </div>
 
-                                    <h3 class="price-detail">₾<span id="pricetag">50.00</span> <del id="oldprice"></del> <span id="discount"></span></h3>
+                                    <h3 class="price-detail">₾<span id="pricetag">74.00</span> <del id="oldprice"></del> <span id="discount"></span></h3>
 
                                     <div class="color-image">
                                         <div class="image-select">
@@ -58,8 +58,8 @@
 
                                         <div class="size-box">
                                             <ul>
-                                                <li class="pricechange active" id="activeprice" value="50" realvalue="45">
-                                                    <a href="javascript:void(0)">1 კგ.</a>
+                                                <li class="pricechange active" id="activeprice" value="74" realvalue="72">
+                                                    <a href="javascript:void(0)">50 კგ.</a>
                                                 </li>
                                             </ul>
                                         </div>
@@ -163,10 +163,8 @@
                             <div class="tab-pane fade show active" id="desc">
                                 <div class="shipping-chart">
                                     <div class="part">
-                                        <h4 class="inner-title mb-2">კუპერ 88</h4>
-                                        <p class="font-light">მოქმედი ნივთიერება: 877 გ/კგ სპილენძის ოქსიქლორიდი (500გ/კგ სპილენძის მიხედვით)
-
-კუპერ 88 პრევენციული ხასიათის მქონე, კონტაქტური ფუნგიციდი ვაზში, ხეხილში, კაკლოვნებში, პარკოსნებსა და ზეთისხილში სოკოვანი დაავადებების წინააღმდეგ საბრძოლველად. თავსებადია სხვა პესტიციდებთან და აგროქიმიკატებთან. დაუშვებელია მისი შერევა მჟავა რეაქციისა და ძლიერი ტუტე რეაქციის პროდუქტებთან. რეკომენდებული დოზებისა და გამოყენების პერიოდების დაცვისას არ არის ფიტოტოქსიკური. ფიტოტოქსიკური ნიშნების შეიძლება გამოვლინდეს წვიმიან და ცივ ამინდებში, როდესაც ჰაერის ტემპერატურა 8°C-ზე დაბალია</p>
+                                        <h4 class="inner-title mb-2">გამოყენების სფერო</h4>
+                                        <p class="font-light">აზოტოვანი ჯგუფის მინერალური სასუქებიდან ამონიუმის გვარჯილა უნივერსალური, მაღალკონცენტრირებული აზოტოვანი სასუქია. მასში ძირითადი მკვებავი ელემენტი აზოტია, რომლის შემცველობაც პროდუქტში მინიმუმ 34,4 % -ია, აქედან 17,2 % აზოტს იგი შეიცავს ნიტრატული და ასევე 17,2 % აზოტს ამიაკური ფორმით. ეფექტურობის მხრივ მას პირველი ადგილი უჭირავს აზოტოვან სასუქებს შორის, რადგანაც იგი გამოიყენება ყველანაირი ტიპის ნიადაგებისათვის და სასოფლო - სამეურნეო კულტურების უმეტესობისათვის, როგორც ძირითადი, ასევე თესვისწინა და დამატებითი კვების უზრუნველყოფის მიზნით. ამონიუმის გვარჯილის სწორი დოზირებით მოსავლის რაოდენობა იზრდება 35 – 38 % -ით, ხოლო ნიადაგში აზოტის დეფიციტი განაპირობებს მცენარის განვითარების შეჩერებას და დაბალ მოსავლიანობას.</p>
                                     </div>
                                 </div>
                             </div>
@@ -177,10 +175,7 @@
                                     <div class="table-responsive">
                                         <table class="table table-part">
                                             <tr>
-                                                <th>სპილენძის ქლორჟანგი</th><td>877 გ/კგ</td>
-                                            </tr>
-                                            <tr>
-                                                <th>სპილენძის მიხედვით</th><td>500 გ/კგ</td>
+                                                <th>ქიმიური ფორმულა</th><td>NH4NO3</td>
                                             </tr>
                                         </table>
                                     </div>
