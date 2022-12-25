@@ -32,7 +32,7 @@
                                         <span class="badge badge-grey-color">ინსექტიციდი</span>
                                     </div>
 
-                                    <h3 class="price-detail">₾<span id="pricetag">5</span></h3>
+                                    <h3 class="price-detail">₾<span id="pricetag">7</span></h3>
 
                                     <div class="color-image">
                                         <div class="image-select">

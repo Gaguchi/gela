@@ -404,8 +404,8 @@
                                                         <a href="javascript:void(0)" class="">
                                                             <h3>Slim Fit Plastic Coat</h3>
                                                         </a>
-                                                        <h4 class="font-light mt-1"><del>$49.00</del> <span
-                                                                class="theme-color">$35.50</span>
+                                                        <h4 class="font-light mt-1"><del>₾49.00</del> <span
+                                                                class="theme-color">₾35.50</span>
                                                         </h4>
                                                     </div>
                                                 </div>
@@ -422,8 +422,8 @@
                                                         <a href="javascript:void(0)" class="">
                                                             <h3>Slim Fit Plastic Coat</h3>
                                                         </a>
-                                                        <h4 class="font-light mt-1"><del>$49.00</del> <span
-                                                                class="theme-color">$35.50</span>
+                                                        <h4 class="font-light mt-1"><del>₾49.00</del> <span
+                                                                class="theme-color">₾35.50</span>
                                                         </h4>
                                                     </div>
                                                 </div>
@@ -440,8 +440,8 @@
                                                         <a href="javascript:void(0)" class="">
                                                             <h3>Slim Fit Plastic Coat</h3>
                                                         </a>
-                                                        <h4 class="font-light mt-1"><del>$49.00</del> <span
-                                                                class="theme-color">$35.50</span>
+                                                        <h4 class="font-light mt-1"><del>₾49.00</del> <span
+                                                                class="theme-color">₾35.50</span>
                                                         </h4>
                                                     </div>
                                                 </div>
@@ -462,8 +462,8 @@
                                                         <a href="javascript:void(0)" class="">
                                                             <h3>Slim Fit Plastic Coat</h3>
                                                         </a>
-                                                        <h4 class="font-light mt-1"><del>$49.00</del> <span
-                                                                class="theme-color">$35.50</span>
+                                                        <h4 class="font-light mt-1"><del>₾49.00</del> <span
+                                                                class="theme-color">₾35.50</span>
                                                         </h4>
                                                     </div>
                                                 </div>
@@ -480,8 +480,8 @@
                                                         <a href="javascript:void(0)" class="">
                                                             <h3>Slim Fit Plastic Coat</h3>
                                                         </a>
-                                                        <h4 class="font-light mt-1"><del>$49.00</del> <span
-                                                                class="theme-color">$35.50</span>
+                                                        <h4 class="font-light mt-1"><del>₾49.00</del> <span
+                                                                class="theme-color">₾35.50</span>
                                                         </h4>
                                                     </div>
                                                 </div>
@@ -498,8 +498,8 @@
                                                         <a href="javascript:void(0)" class="">
                                                             <h3>Slim Fit Plastic Coat</h3>
                                                         </a>
-                                                        <h4 class="font-light mt-1"><del>$49.00</del> <span
-                                                                class="theme-color">$35.50</span>
+                                                        <h4 class="font-light mt-1"><del>₾49.00</del> <span
+                                                                class="theme-color">₾35.50</span>
                                                         </h4>
                                                     </div>
                                                 </div>
@@ -680,13 +680,7 @@
                                 <div class="img-wrapper">
                                     <div class="front">
                                         <a href="product-left-sidebar.html">
-                                            <img src="assets/images/fashion/product/front/1.jpg"
-                                                class="bg-img blur-up lazyload" alt="">
-                                        </a>
-                                    </div>
-                                    <div class="back">
-                                        <a href="product-left-sidebar.html">
-                                            <img src="assets/images/fashion/product/back/1.jpg"
+                                            <img src="assets/images/products/ballerina.jpg"
                                                 class="bg-img blur-up lazyload" alt="">
                                         </a>
                                     </div>
@@ -719,22 +713,18 @@
                                 </div>
                                 <div class="product-details">
                                     <div class="rating-details">
-                                        <span class="font-light grid-content">B&Y Jacket</span>
+                                        <span class="font-light grid-content">ჰერბიციდი</span>
                                     </div>
                                     <div class="main-price">
-                                        <a href="product-left-sidebar.html" class="font-default">
-                                            <h5 class="ms-0">categorya brandb</h5>
+                                        <a href="product_ballerina.php" class="font-default">
+                                            <h5 class="ms-0">ბალერინა</h5>
                                         </a>
                                         <div class="listing-content">
-                                            <span class="font-light">Regular Fit</span>
-                                            <p class="font-light">Lorem ipsum, dolor sit amet consectetur adipisicing
-                                                elit. Sit, deserunt? Asperiores aliquam voluptatum culpa aliquid ab
-                                                ducimus eaque illum, quibusdam reiciendis id ad consectetur quis, animi
-                                                qui, minus quidem eveniet! Dolorum magnam numquam, asperiores
-                                                accusantium architecto placeat quam officia, tempore repellendus.</p>
+                                            <span class="font-light">ჰერბიციდი</span>
+                                            <p class="font-light">სისტემური ჰერბიციდი ყოველწლიური ორკოტილედონების წინააღმდეგ, მათ შორის 2,4-D და MCPA-ს მიმართ რეზისტენტული და ზოგიერთი მრავალწლიანი ფესვის გასროლის სარეველა მარცვლეულის, სიმინდის, ფეტვისა და სორგოს კულტურებში.</p>
                                         </div>
-                                        <h3 class="theme-color">$78.00</h3>
-                                        <button onclick="location.href = 'cart.html';" class="btn listing-content">Add
+                                        <h3 class="theme-color">₾45.00</h3>
+                                        <button onclick="location.href = 'product_ballerina.php';" class="btn listing-content">Add
                                             To Cart</button>
                                     </div>
                                 </div>
@@ -746,13 +736,7 @@
                                 <div class="img-wrapper">
                                     <div class="front">
                                         <a href="product-left-sidebar.html">
-                                            <img src="assets/images/fashion/product/front/2.jpg"
-                                                class="bg-img blur-up lazyload" alt="">
-                                        </a>
-                                    </div>
-                                    <div class="back">
-                                        <a href="product-left-sidebar.html">
-                                            <img src="assets/images/fashion/product/back/2.jpg"
+                                            <img src="assets/images/products/dublon-gold.jpg"
                                                 class="bg-img blur-up lazyload" alt="">
                                         </a>
                                     </div>
@@ -785,22 +769,18 @@
                                 </div>
                                 <div class="product-details">
                                     <div class="rating-details">
-                                        <span class="font-light grid-content">Jacket</span>
+                                        <span class="font-light grid-content">ჰერბიციდი</span>
                                     </div>
                                     <div class="main-price">
                                         <a href="product-left-sidebar.html" class="font-default">
-                                            <h5 class="ms-0">categoryb branda</h5>
+                                            <h5 class="ms-0">დუბლინ გოლდი</h5>
                                         </a>
                                         <div class="listing-content">
-                                            <span class="font-light">Jacket</span>
-                                            <p class="font-light">Lorem ipsum, dolor sit amet consectetur adipisicing
-                                                elit. Sit, deserunt? Asperiores aliquam voluptatum culpa aliquid ab
-                                                ducimus eaque illum, quibusdam reiciendis id ad consectetur quis, animi
-                                                qui, minus quidem eveniet! Dolorum magnam numquam, asperiores
-                                                accusantium architecto placeat quam officia, tempore repellendus.</p>
+                                            <span class="font-light">ჰერბიციდი</span>
+                                            <p class="font-light">კომბინირებული ჰერბიციდი ერთწლიანი და მრავალწლიანი მარცვლეულის, ერთწლოვანი და ზოგიერთი მრავალწლიანი ორფეხა სარეველების წინააღმდეგ სიმინდის კულტურებში.</p>
                                         </div>
-                                        <h3 class="theme-color">$60.00</h3>
-                                        <button onclick="location.href = 'cart.html';" class="btn listing-content">Add
+                                        <h3 class="theme-color">₾45.00</h3>
+                                        <button onclick="location.href = 'product_dublon_gold.php';" class="btn listing-content">Add
                                             To Cart</button>
                                     </div>
                                 </div>
@@ -812,13 +792,7 @@
                                 <div class="img-wrapper">
                                     <div class="front">
                                         <a href="product-left-sidebar.html">
-                                            <img src="assets/images/fashion/product/front/3.jpg"
-                                                class="bg-img blur-up lazyload" alt="">
-                                        </a>
-                                    </div>
-                                    <div class="back">
-                                        <a href="product-left-sidebar.html">
-                                            <img src="assets/images/fashion/product/back/3.jpg"
+                                            <img src="assets/images/products/tornado.jpg"
                                                 class="bg-img blur-up lazyload" alt="">
                                         </a>
                                     </div>
@@ -851,27 +825,20 @@
                                 </div>
                                 <div class="product-details">
                                     <div class="rating-details">
-                                        <span class="font-light grid-content">Regular Fit</span>
+                                        <span class="font-light grid-content">ჰერბიციდი</span>
                                     </div>
                                     <div class="main-price">
                                         <a href="product-left-sidebar.html" class="font-default">
-                                            <h5 class="ms-0">Slim Fit Plastic Coat</h5>
+                                            <h5 class="ms-0">ტორნადო </h5>
                                         </a>
                                         <div class="listing-content">
-                                            <span class="font-light">Regular Fit</span>
-                                            <p class="font-light">Lorem ipsum, dolor sit amet consectetur adipisicing
-                                                elit.
-                                                Sit, deserunt?
-                                                Asperiores aliquam voluptatum culpa aliquid ab ducimus eaque illum,
-                                                quibusdam reiciendis id ad consectetur quis, animi qui, minus quidem
-                                                eveniet! Dolorum magnam numquam, asperiores accusantium architecto
-                                                placeat
-                                                quam officia, tempore repellendus.</p>
+                                            <span class="font-light">ჰერბიციდი</span>
+                                            <p class="font-light">უწყვეტი მოქმედების უნივერსალური ჰერბიციდი.</p>
                                         </div>
                                         <h3 class="theme-color">
-                                            $78.00
+                                            ₾45.00
                                         </h3>
-                                        <button onclick="location.href = 'cart.html';" class="btn listing-content">Add
+                                        <button onclick="location.href = 'product_tornado.php';" class="btn listing-content">Add
                                             To Cart</button>
                                     </div>
                                 </div>
@@ -883,13 +850,7 @@
                                 <div class="img-wrapper">
                                     <div class="front">
                                         <a href="product-left-sidebar.html">
-                                            <img src="assets/images/fashion/product/front/4.jpg"
-                                                class="bg-img blur-up lazyload" alt="">
-                                        </a>
-                                    </div>
-                                    <div class="back">
-                                        <a href="product-left-sidebar.html">
-                                            <img src="assets/images/fashion/product/back/4.jpg"
+                                            <img src="assets/images/products/ordan.jpg"
                                                 class="bg-img blur-up lazyload" alt="">
                                         </a>
                                     </div>
@@ -922,22 +883,18 @@
                                 </div>
                                 <div class="product-details">
                                     <div class="rating-details">
-                                        <span class="font-light grid-content">Jacket</span>
+                                        <span class="font-light grid-content">ჰერბიციდი</span>
                                     </div>
                                     <div class="main-price">
                                         <a href="product-left-sidebar.html" class="font-default">
-                                            <h5 class="ms-0">Slim Fit Plastic Coat</h5>
+                                            <h5 class="ms-0">ორდანი</h5>
                                         </a>
                                         <div class="listing-content">
-                                            <span class="font-light">Jacket</span>
-                                            <p class="font-light">Lorem ipsum, dolor sit amet consectetur adipisicing
-                                                elit. Sit, deserunt? Asperiores aliquam voluptatum culpa aliquid ab
-                                                ducimus eaque illum, quibusdam reiciendis id ad consectetur quis, animi
-                                                qui, minus quidem eveniet! Dolorum magnam numquam, asperiores
-                                                accusantium architecto placeat quam officia, tempore repellendus.</p>
+                                            <span class="font-light">ჰერბიციდი</span>
+                                            <p class="font-light">ლოკალურ-სისტემური მოქმედების ორკომპონენტიანი ფუნგიციდი კარტოფილის, პომიდვრის, კიტრის, ხახვისა და ყურძნის დაავადებების კომპლექსისგან დასაცავად.</p>
                                         </div>
-                                        <h3 class="theme-color">$69.00</h3>
-                                        <button onclick="location.href = 'cart.html';" class="btn listing-content">Add
+                                        <h3 class="theme-color">₾50.00</h3>
+                                        <button onclick="location.href = 'product_ordan.php';" class="btn listing-content">Add
                                             To Cart</button>
                                     </div>
                                 </div>
@@ -949,13 +906,7 @@
                                 <div class="img-wrapper">
                                     <div class="front">
                                         <a href="product-left-sidebar.html">
-                                            <img src="assets/images/fashion/product/front/5.jpg"
-                                                class="bg-img blur-up lazyload" alt="">
-                                        </a>
-                                    </div>
-                                    <div class="back">
-                                        <a href="product-left-sidebar.html">
-                                            <img src="assets/images/fashion/product/back/5.jpg"
+                                            <img src="assets/images/products/borei-neo.jpg"
                                                 class="bg-img blur-up lazyload" alt="">
                                         </a>
                                     </div>
@@ -988,22 +939,18 @@
                                 </div>
                                 <div class="product-details">
                                     <div class="rating-details">
-                                        <span class="font-light grid-content">Full Jacket</span>
+                                        <span class="font-light grid-content">ინსექტიციდი</span>
                                     </div>
                                     <div class="main-price">
                                         <a href="product-left-sidebar.html" class="font-default">
-                                            <h5 class="ms-0">Full Jacket Ladies</h5>
+                                            <h5 class="ms-0">ბორეი-ნეო</h5>
                                         </a>
                                         <div class="listing-content">
-                                            <span class="font-light">Full Jacket</span>
-                                            <p class="font-light">Lorem ipsum, dolor sit amet consectetur adipisicing
-                                                elit. Sit, deserunt? Asperiores aliquam voluptatum culpa aliquid ab
-                                                ducimus eaque illum, quibusdam reiciendis id ad consectetur quis, animi
-                                                qui, minus quidem eveniet! Dolorum magnam numquam, asperiores
-                                                accusantium architecto placeat quam officia, tempore repellendus.</p>
+                                            <span class="font-light">ინსექტიციდი</span>
+                                            <p class="font-light">სისტემური ჰერბიციდი ყოველწლიური ორკოტილედონების წინააღმდეგ, მათ შორის 2,4-D და MCPA-ს მიმართ რეზისტენტული და ზოგიერთი მრავალწლიანი ფესვის გასროლის სარეველა მარცვლეულის, სიმინდის, ფეტვისა და სორგოს კულტურებში.</p>
                                         </div>
-                                        <h3 class="theme-color">$40.00</h3>
-                                        <button onclick="location.href = 'cart.html';" class="btn listing-content">Add
+                                        <h3 class="theme-color">₾7.00</h3>
+                                        <button onclick="location.href = 'product_borei_neo.php';" class="btn listing-content">Add
                                             To Cart</button>
                                     </div>
                                 </div>
@@ -1015,13 +962,7 @@
                                 <div class="img-wrapper">
                                     <div class="front">
                                         <a href="product-left-sidebar.html">
-                                            <img src="assets/images/fashion/product/front/6.jpg"
-                                                class="bg-img blur-up lazyload" alt="">
-                                        </a>
-                                    </div>
-                                    <div class="back">
-                                        <a href="product-left-sidebar.html">
-                                            <img src="assets/images/fashion/product/back/6.jpg"
+                                            <img src="assets/images/products/adieu.jpg"
                                                 class="bg-img blur-up lazyload" alt="">
                                         </a>
                                     </div>
@@ -1054,21 +995,17 @@
                                 </div>
                                 <div class="product-details">
                                     <div class="rating-details">
-                                        <span class="font-light grid-content">T-Shirt</span>
+                                        <span class="font-light grid-content">დამხმარე</span>
                                     </div>
                                     <div class="main-price">
                                         <a href="product-left-sidebar.html" class="font-default">
-                                            <h5 class="ms-0">Full Slive Black T-Shirt</h5>
+                                            <h5 class="ms-0">ადიუ მიმწებებელი</h5>
                                         </a>
                                         <div class="listing-content">
-                                            <span class="font-light">T-Shirt</span>
-                                            <p class="font-light">Lorem ipsum, dolor sit amet consectetur adipisicing
-                                                elit. Sit, deserunt? Asperiores aliquam voluptatum culpa aliquid ab
-                                                ducimus eaque illum, quibusdam reiciendis id ad consectetur quis, animi
-                                                qui, minus quidem eveniet! Dolorum magnam numquam, asperiores
-                                                accusantium architecto placeat quam officia, tempore repellendus.</p>
+                                            <span class="font-light">დამხმარე</span>
+                                            <p class="font-light">დამხმარე საშუალება (სურფაქტანტი) ჰერბიციდებთან კომბინირებული გამოყენებისა და მათი ეფექტურობის გაზრდისთვის.</p>
                                         </div>
-                                        <h3 class="theme-color">$69.00</h3>
+                                        <h3 class="theme-color">₾10.00</h3>
                                         <button onclick="location.href = 'cart.html';" class="btn listing-content">Add
                                             To Cart</button>
                                     </div>
@@ -1081,13 +1018,7 @@
                                 <div class="img-wrapper">
                                     <div class="front">
                                         <a href="product-left-sidebar.html">
-                                            <img src="assets/images/fashion/product/front/7.jpg"
-                                                class="bg-img blur-up lazyload" alt="">
-                                        </a>
-                                    </div>
-                                    <div class="back">
-                                        <a href="product-left-sidebar.html">
-                                            <img src="assets/images/fashion/product/back/7.jpg"
+                                            <img src="assets/images/products/colossal.jpg"
                                                 class="bg-img blur-up lazyload" alt="">
                                         </a>
                                     </div>
@@ -1120,24 +1051,17 @@
                                 </div>
                                 <div class="product-details">
                                     <div class="rating-details">
-                                        <span class="font-light grid-content">Fashion</span>
+                                        <span class="font-light grid-content">ფუნგიციდი</span>
                                     </div>
                                     <div class="main-price">
                                         <a href="product-left-sidebar.html" class="font-default">
-                                            <h5 class="ms-0">Latest Fashion Cloth</h5>
+                                            <h5 class="ms-0">კოლოსალი</h5>
                                         </a>
                                         <div class="listing-content">
-                                            <span class="font-light">Fashion</span>
-                                            <p class="font-light">Lorem ipsum, dolor sit amet consectetur adipisicing
-                                                elit.
-                                                Sit, deserunt?
-                                                Asperiores aliquam voluptatum culpa aliquid ab ducimus eaque illum,
-                                                quibusdam reiciendis id ad consectetur quis, animi qui, minus quidem
-                                                eveniet! Dolorum magnam numquam, asperiores accusantium architecto
-                                                placeat
-                                                quam officia, tempore repellendus.</p>
+                                            <span class="font-light">ფუნგიციდი</span>
+                                            <p class="font-light">პროფილაქტიკური და სამკურნალო სისტემური ფუნგიციდი მარცვლეულის, ბრინჯის, რაფსის და ყურძნის დაავადებების კონტროლისთვის.</p>
                                         </div>
-                                        <h3 class="theme-color">$54.00</h3>
+                                        <h3 class="theme-color">₾10.00</h3>
                                         <button onclick="location.href = 'cart.html';" class="btn listing-content">Add
                                             To Cart</button>
                                     </div>
@@ -1150,13 +1074,7 @@
                                 <div class="img-wrapper">
                                     <div class="front">
                                         <a href="product-left-sidebar.html">
-                                            <img src="assets/images/fashion/product/front/8.jpg"
-                                                class="bg-img blur-up lazyload" alt="">
-                                        </a>
-                                    </div>
-                                    <div class="back">
-                                        <a href="product-left-sidebar.html">
-                                            <img src="assets/images/fashion/product/back/8.jpg"
+                                            <img src="assets/images/products/cooper-88.jpg"
                                                 class="bg-img blur-up lazyload" alt="">
                                         </a>
                                     </div>
@@ -1189,21 +1107,17 @@
                                 </div>
                                 <div class="product-details">
                                     <div class="rating-details">
-                                        <span class="font-light grid-content">Jacket</span>
+                                        <span class="font-light grid-content">ფუნგიციდი</span>
                                     </div>
                                     <div class="main-price">
                                         <a href="product-left-sidebar.html" class="font-default">
-                                            <h5 class="ms-0">Full Black Slive Jacket</h5>
+                                            <h5 class="ms-0">კუპერ 88</h5>
                                         </a>
                                         <div class="listing-content">
-                                            <span class="font-light">Jacket</span>
-                                            <p class="font-light">Lorem ipsum, dolor sit amet consectetur adipisicing
-                                                elit. Sit, deserunt? Asperiores aliquam voluptatum culpa aliquid ab
-                                                ducimus eaque illum, quibusdam reiciendis id ad consectetur quis, animi
-                                                qui, minus quidem eveniet! Dolorum magnam numquam, asperiores
-                                                accusantium architecto placeat quam officia, tempore repellendus.</p>
+                                            <span class="font-light">ფუნგიციდი</span>
+                                            <p class="font-light">მოქმედი ნივთიერება: 877 გ/კგ სპილენძის ოქსიქლორიდი (500გ/კგ სპილენძის მიხედვით) კუპერ 88 პრევენციული ხასიათის მქონე, კონტაქტური ფუნგიციდი ვაზში, ხეხილში, კაკლოვნებში, პარკოსნებსა და ზეთისხილში სოკოვანი დაავადებების წინააღმდეგ საბრძოლველად. თავსებადია სხვა პესტიციდებთან და აგროქიმიკატებთან. დაუშვებელია მისი შერევა მჟავა რეაქციისა და ძლიერი ტუტე რეაქციის პროდუქტებთან. რეკომენდებული დოზებისა და გამოყენების პერიოდების დაცვისას არ არის ფიტოტოქსიკური. ფიტოტოქსიკური ნიშნების შეიძლება გამოვლინდეს წვიმიან და ცივ ამინდებში, როდესაც ჰაერის ტემპერატურა 8°C-ზე დაბალია.</p>
                                         </div>
-                                        <h3 class="theme-color">$99.00</h3>
+                                        <h3 class="theme-color">₾50.00</h3>
                                         <button onclick="location.href = 'cart.html';" class="btn listing-content">Add
                                             To Cart</button>
                                     </div>
@@ -1216,13 +1130,7 @@
                                 <div class="img-wrapper">
                                     <div class="front">
                                         <a href="product-left-sidebar.html">
-                                            <img src="assets/images/fashion/product/front/1.jpg"
-                                                class="bg-img blur-up lazyload" alt="">
-                                        </a>
-                                    </div>
-                                    <div class="back">
-                                        <a href="product-left-sidebar.html">
-                                            <img src="assets/images/fashion/product/back/1.jpg"
+                                            <img src="assets/images/products/ramin.jpg"
                                                 class="bg-img blur-up lazyload" alt="">
                                         </a>
                                     </div>
@@ -1255,21 +1163,17 @@
                                 </div>
                                 <div class="product-details">
                                     <div class="rating-details">
-                                        <span class="font-light grid-content">B&Y Jacket</span>
+                                        <span class="font-light grid-content">ფუნგიციდი</span>
                                     </div>
                                     <div class="main-price">
                                         <a href="product-left-sidebar.html" class="font-default">
-                                            <h5 class="ms-0">Slim Fit Plastic Coat</h5>
+                                            <h5 class="ms-0">რამინი</h5>
                                         </a>
                                         <div class="listing-content">
-                                            <span class="font-light">Regular Fit</span>
-                                            <p class="font-light">Lorem ipsum, dolor sit amet consectetur adipisicing
-                                                elit. Sit, deserunt? Asperiores aliquam voluptatum culpa aliquid ab
-                                                ducimus eaque illum, quibusdam reiciendis id ad consectetur quis, animi
-                                                qui, minus quidem eveniet! Dolorum magnam numquam, asperiores
-                                                accusantium architecto placeat quam officia, tempore repellendus.</p>
+                                            <span class="font-light">ფუნგიციდი</span>
+                                            <p class="font-light">რამინი - დამცავი და სამკურნალო თვისებების მქონე ფუნგიციდი კულტურებში სოკოვანი დაავადებების წინააღმდეგ საბრძოლველად. ის წარმოადგენს წყალში ხსნადი მიკროგრანულებისგან შემდგარ პრეპარატულ ფორმას რომელსაც წარმოების ორიგინალური პროცესების და ნაწილაკების სიწმინდის გამო ფოთლების ზედაპირზე მიწებების და გადანაწილების განსაკუთრებული უნარი გააჩნია. ეს თვისებები უზრუნველყოფს ფუნგიციდური და ბაქტერიული ეფექტიანობის ზრდას და სპილენძის დოზების მნიშვნელოვან შემცირებას, რაც თავის მხრივ გარემოს დაცვას უწყობს ხელს. პრეპარატი თავსებადია თითქმის ყველა პესტიციდთან და აგროქიმიკატთან.</p>
                                         </div>
-                                        <h3 class="theme-color">$78.00</h3>
+                                        <h3 class="theme-color">₾14.00</h3>
                                         <button onclick="location.href = 'cart.html';" class="btn listing-content">Add
                                             To Cart</button>
                                     </div>
@@ -1282,13 +1186,7 @@
                                 <div class="img-wrapper">
                                     <div class="front">
                                         <a href="product-left-sidebar.html">
-                                            <img src="assets/images/fashion/product/front/2.jpg"
-                                                class="bg-img blur-up lazyload" alt="">
-                                        </a>
-                                    </div>
-                                    <div class="back">
-                                        <a href="product-left-sidebar.html">
-                                            <img src="assets/images/fashion/product/back/2.jpg"
+                                            <img src="assets/images/products/pinazol.jpg"
                                                 class="bg-img blur-up lazyload" alt="">
                                         </a>
                                     </div>
@@ -1321,21 +1219,19 @@
                                 </div>
                                 <div class="product-details">
                                     <div class="rating-details">
-                                        <span class="font-light grid-content">Jacket</span>
+                                        <span class="font-light grid-content">ფუნგიციდი</span>
                                     </div>
                                     <div class="main-price">
                                         <a href="product-left-sidebar.html" class="font-default">
-                                            <h5 class="ms-0">Blue Leather Jacket</h5>
+                                            <h5 class="ms-0">პინაზოლი</h5>
                                         </a>
                                         <div class="listing-content">
-                                            <span class="font-light">Jacket</span>
-                                            <p class="font-light">Lorem ipsum, dolor sit amet consectetur adipisicing
-                                                elit. Sit, deserunt? Asperiores aliquam voluptatum culpa aliquid ab
-                                                ducimus eaque illum, quibusdam reiciendis id ad consectetur quis, animi
-                                                qui, minus quidem eveniet! Dolorum magnam numquam, asperiores
-                                                accusantium architecto placeat quam officia, tempore repellendus.</p>
+                                            <span class="font-light">ფუნგიციდი</span>
+                                            <p class="font-light">პინაზოლი - კონტაქტური მოქმედების ფუნგიციდი - თხევადი გოგირდი გამოიყენება ნებისმიერი კულტურის დასამუშავებლად, ის გამოირჩევა ორმაგი მოქმედების მექანიზმით.გააჩნია როგორც ფუნგიციდური უნარი, ნაცრის წინააღმდეგ ასევე ინსექტიციდური უნარი, ტკიპებისა და სხვა მავნებლების წინააღმდეგ.პინაზოლი გამოიყენება ყველა სასოფლო-სამეურნეო კულტურაზე, მისი განვითარების ნებისმიერ ეტაპზე, როგორც ღია ასევე დახურულ გრუნტზე (სათბურები) მხოლოდ ფოთლოვანი შესხურების გზით, 3-5 ლ/ჰა დოზით.
+
+თავსებადია სხვა პესტიციდებთან, გარდა ზეთოვანი და ტუტე რეაქციის მქონე პრეპარატებისა.</p>
                                         </div>
-                                        <h3 class="theme-color">$60.00</h3>
+                                        <h3 class="theme-color">₾23.00</h3>
                                         <button onclick="location.href = 'cart.html';" class="btn listing-content">Add
                                             To Cart</button>
                                     </div>
@@ -1348,13 +1244,7 @@
                                 <div class="img-wrapper">
                                     <div class="front">
                                         <a href="product-left-sidebar.html">
-                                            <img src="assets/images/fashion/product/front/3.jpg"
-                                                class="bg-img blur-up lazyload" alt="">
-                                        </a>
-                                    </div>
-                                    <div class="back">
-                                        <a href="product-left-sidebar.html">
-                                            <img src="assets/images/fashion/product/back/3.jpg"
+                                            <img src="assets/images/products/ammofos.jpg"
                                                 class="bg-img blur-up lazyload" alt="">
                                         </a>
                                     </div>
@@ -1387,21 +1277,17 @@
                                 </div>
                                 <div class="product-details">
                                     <div class="rating-details">
-                                        <span class="font-light grid-content">Coat</span>
+                                        <span class="font-light grid-content">კომბინირებული სასუქი</span>
                                     </div>
                                     <div class="main-price">
                                         <a href="product-left-sidebar.html" class="font-default">
-                                            <h5 class="ms-0">Military Ball Night Dress</h5>
+                                            <h5 class="ms-0">ამოფოსი 12.52</h5>
                                         </a>
                                         <div class="listing-content">
-                                            <span class="font-light">Coat</span>
-                                            <p class="font-light">Lorem ipsum, dolor sit amet consectetur adipisicing
-                                                elit. Sit, deserunt? Asperiores aliquam voluptatum culpa aliquid ab
-                                                ducimus eaque illum, quibusdam reiciendis id ad consectetur quis, animi
-                                                qui, minus quidem eveniet! Dolorum magnam numquam, asperiores
-                                                accusantium architecto placeat quam officia, tempore repellendus.</p>
+                                            <span class="font-light">კომბინირებული სასუქი</span>
+                                            <p class="font-light">მრავალმხრივი, მაღალი ხარისხის მარცვლოვანი სასუქი, რომელიც შეიცავს აზოტს და ფოსფორს.</p>
                                         </div>
-                                        <h3 class="theme-color">$85.00</h3>
+                                        <h3 class="theme-color">₾165.00</h3>
                                         <button onclick="location.href = 'cart.html';" class="btn listing-content">Add
                                             To Cart</button>
                                     </div>
@@ -1413,14 +1299,8 @@
                             <div class="product-box">
                                 <div class="img-wrapper">
                                     <div class="front">
-                                        <a href="product-left-sidebar.html">
-                                            <img src="assets/images/fashion/product/front/4.jpg"
-                                                class="bg-img blur-up lazyload" alt="">
-                                        </a>
-                                    </div>
-                                    <div class="back">
-                                        <a href="product-left-sidebar.html">
-                                            <img src="assets/images/fashion/product/back/4.jpg"
+                                        <a href="product_karbamid.php">
+                                            <img src="assets/images/products/karbamid.jpg"
                                                 class="bg-img blur-up lazyload" alt="">
                                         </a>
                                     </div>
@@ -1453,22 +1333,1026 @@
                                 </div>
                                 <div class="product-details">
                                     <div class="rating-details">
-                                        <span class="font-light grid-content">Jacket</span>
+                                        <span class="font-light grid-content">სასუქი</span>
                                     </div>
                                     <div class="main-price">
                                         <a href="product-left-sidebar.html" class="font-default">
-                                            <h5 class="ms-0">Slim Fit Plastic Coat</h5>
+                                            <h5 class="ms-0">კარბამიდი</h5>
                                         </a>
                                         <div class="listing-content">
-                                            <span class="font-light">Jacket</span>
-                                            <p class="font-light">Lorem ipsum, dolor sit amet consectetur adipisicing
-                                                elit. Sit, deserunt? Asperiores aliquam voluptatum culpa aliquid ab
-                                                ducimus eaque illum, quibusdam reiciendis id ad consectetur quis, animi
-                                                qui, minus quidem eveniet! Dolorum magnam numquam, asperiores
-                                                accusantium architecto placeat quam officia, tempore repellendus.</p>
+                                            <span class="font-light">სასუქი</span>
+                                            <p class="font-light">კარბამიდი (შარდოვანა) - ყველაზე კონცენტრირებული მარცვლოვანი აზოტის სასუქი (46,2% აზოტი).</p>
                                         </div>
-                                        <h3 class="theme-color">$69.00</h3>
-                                        <button onclick="location.href = 'cart.html';" class="btn listing-content">Add
+                                        <h3 class="theme-color">₾180.00</h3>
+                                        <button onclick="location.href = 'product_karbamid.php';" class="btn listing-content">Add
+                                            To Cart</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="product-box">
+                                <div class="img-wrapper">
+                                    <div class="front">
+                                        <a href="product_sufammofos.php">
+                                            <img src="assets/images/products/sulfoammofos.jpg"
+                                                class="bg-img blur-up lazyload" alt="">
+                                        </a>
+                                    </div>
+                                    <div class="cart-wrap">
+                                        <ul>
+                                            <li>
+                                                <a href="javascript:void(0)" class="addtocart-btn"
+                                                    data-bs-toggle="modal" data-bs-target="#addtocart">
+                                                    <i data-feather="shopping-bag"></i>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="javascript:void(0)" data-bs-toggle="modal"
+                                                    data-bs-target="#quick-view">
+                                                    <i data-feather="eye"></i>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="compare.html">
+                                                    <i data-feather="refresh-cw"></i>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="wishlist.html" class="wishlist">
+                                                    <i data-feather="heart"></i>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="product-details">
+                                    <div class="rating-details">
+                                        <span class="font-light grid-content">კომბინირებული სასუქი</span>
+                                    </div>
+                                    <div class="main-price">
+                                        <a href="product-left-sidebar.html" class="font-default">
+                                            <h5 class="ms-0">სულფოამოფოსი 20.20.14</h5>
+                                        </a>
+                                        <div class="listing-content">
+                                            <span class="font-light">კომბინირებული სასუქი</span>
+                                            <p class="font-light">უნივერსალური მარცვლოვანი აზოტ-ფოსფორიანი სასუქი გოგირდის შემცველობით.</p>
+                                        </div>
+                                        <h3 class="theme-color">₾135.00</h3>
+                                        <button onclick="location.href = 'product_sufammofos.php';" class="btn listing-content">Add
+                                            To Cart</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="product-box">
+                                <div class="img-wrapper">
+                                    <div class="front">
+                                        <a href="product_avroroa_14.php">
+                                            <img src="assets/images/products/avrora-14.jpg"
+                                                class="bg-img blur-up lazyload" alt="">
+                                        </a>
+                                    </div>
+                                    <div class="cart-wrap">
+                                        <ul>
+                                            <li>
+                                                <a href="javascript:void(0)" class="addtocart-btn"
+                                                    data-bs-toggle="modal" data-bs-target="#addtocart">
+                                                    <i data-feather="shopping-bag"></i>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="javascript:void(0)" data-bs-toggle="modal"
+                                                    data-bs-target="#quick-view">
+                                                    <i data-feather="eye"></i>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="compare.html">
+                                                    <i data-feather="refresh-cw"></i>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="wishlist.html" class="wishlist">
+                                                    <i data-feather="heart"></i>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="product-details">
+                                    <div class="rating-details">
+                                        <span class="font-light grid-content">წყალხსნადი სასუქი</span>
+                                    </div>
+                                    <div class="main-price">
+                                        <a href="product-left-sidebar.html" class="font-default">
+                                            <h5 class="ms-0">ავრორა 14.14.23</h5>
+                                        </a>
+                                        <div class="listing-content">
+                                            <span class="font-light">წყალხსნადი სასუქი</span>
+                                            <p class="font-light">იდეალური გადაწყვეტა კარტოფილისა და ბოსტნეულისთვის.</p>
+                                        </div>
+                                        <h3 class="theme-color">₾135.00</h3>
+                                        <button onclick="location.href = 'product_avroroa_14.php';" class="btn listing-content">Add
+                                            To Cart</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="product-box">
+                                <div class="img-wrapper">
+                                    <div class="front">
+                                        <a href="product_avrora_16.php">
+                                            <img src="assets/images/products/avrora-16.jpg"
+                                                class="bg-img blur-up lazyload" alt="">
+                                        </a>
+                                    </div>
+                                    <div class="cart-wrap">
+                                        <ul>
+                                            <li>
+                                                <a href="javascript:void(0)" class="addtocart-btn"
+                                                    data-bs-toggle="modal" data-bs-target="#addtocart">
+                                                    <i data-feather="shopping-bag"></i>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="javascript:void(0)" data-bs-toggle="modal"
+                                                    data-bs-target="#quick-view">
+                                                    <i data-feather="eye"></i>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="compare.html">
+                                                    <i data-feather="refresh-cw"></i>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="wishlist.html" class="wishlist">
+                                                    <i data-feather="heart"></i>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="product-details">
+                                    <div class="rating-details">
+                                        <span class="font-light grid-content">კომბინირებული სასუქი</span>
+                                    </div>
+                                    <div class="main-price">
+                                        <a href="product-left-sidebar.html" class="font-default">
+                                            <h5 class="ms-0">ავრორა 16.16.16</h5>
+                                        </a>
+                                        <div class="listing-content">
+                                            <span class="font-light">კომბინირებული სასუქი</span>
+                                            <p class="font-light">უნივერსალური მაღალი ხარისხის კომპლექსური სასუქი.</p>
+                                        </div>
+                                        <h3 class="theme-color">₾150.00</h3>
+                                        <button onclick="location.href = 'product_avrora_16.php';" class="btn listing-content">Add
+                                            To Cart</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="product-box">
+                                <div class="img-wrapper">
+                                    <div class="front">
+                                        <a href="product_avrora_10.php">
+                                            <img src="assets/images/products/karbamid.jpg"
+                                                class="bg-img blur-up lazyload" alt="">
+                                        </a>
+                                    </div>
+                                    <div class="cart-wrap">
+                                        <ul>
+                                            <li>
+                                                <a href="javascript:void(0)" class="addtocart-btn"
+                                                    data-bs-toggle="modal" data-bs-target="#addtocart">
+                                                    <i data-feather="shopping-bag"></i>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="javascript:void(0)" data-bs-toggle="modal"
+                                                    data-bs-target="#quick-view">
+                                                    <i data-feather="eye"></i>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="compare.html">
+                                                    <i data-feather="refresh-cw"></i>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="wishlist.html" class="wishlist">
+                                                    <i data-feather="heart"></i>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="product-details">
+                                    <div class="rating-details">
+                                        <span class="font-light grid-content">კომბინირებული სასუქი</span>
+                                    </div>
+                                    <div class="main-price">
+                                        <a href="product-left-sidebar.html" class="font-default">
+                                            <h5 class="ms-0">ავრორა 10.26.26</h5>
+                                        </a>
+                                        <div class="listing-content">
+                                            <span class="font-light">კომბინირებული სასუქი</span>
+                                            <p class="font-light">კარბამიდი (შარდოვანა) - ყველაზე კონცენტრირებული მარცვლოვანი აზოტის სასუქი (46,2% აზოტი).</p>
+                                        </div>
+                                        <h3 class="theme-color">₾155.00</h3>
+                                        <button onclick="location.href = 'product_avrora_10.php';" class="btn listing-content">Add
+                                            To Cart</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="product-box">
+                                <div class="img-wrapper">
+                                    <div class="front">
+                                        <a href="product_aqualis_13.php">
+                                            <img src="assets/images/products/aqualis-13.jpg"
+                                                class="bg-img blur-up lazyload" alt="">
+                                        </a>
+                                    </div>
+                                    <div class="cart-wrap">
+                                        <ul>
+                                            <li>
+                                                <a href="javascript:void(0)" class="addtocart-btn"
+                                                    data-bs-toggle="modal" data-bs-target="#addtocart">
+                                                    <i data-feather="shopping-bag"></i>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="javascript:void(0)" data-bs-toggle="modal"
+                                                    data-bs-target="#quick-view">
+                                                    <i data-feather="eye"></i>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="compare.html">
+                                                    <i data-feather="refresh-cw"></i>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="wishlist.html" class="wishlist">
+                                                    <i data-feather="heart"></i>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="product-details">
+                                    <div class="rating-details">
+                                        <span class="font-light grid-content">წყალხსნადი სასუქი</span>
+                                    </div>
+                                    <div class="main-price">
+                                        <a href="product-left-sidebar.html" class="font-default">
+                                            <h5 class="ms-0">აკვალის 10.26.26</h5>
+                                        </a>
+                                        <div class="listing-content">
+                                            <span class="font-light">წყალხსნადი სასუქი</span>
+                                            <p class="font-light">იგი გამოიყენება ვეგეტაციის დასაწყისში ფესვთა სისტემის და ფოთლის აპარატის განვითარების სტიმულირებისთვის. შემადგენლობაში შემავალი აზოტი, კალიუმი და მიკროელემენტები ხელს უწყობს ჯანსაღი და ძლიერი გენერაციული ორგანოების მოყვანას ხარისხიანი მოსავლისთვის. ამონიუმის სახით ჭარბობს აზოტი.</p>
+                                        </div>
+                                        <h3 class="theme-color">₾140.00</h3>
+                                        <button onclick="location.href = 'product_aqualis_13.php';" class="btn listing-content">Add
+                                            To Cart</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="product-box">
+                                <div class="img-wrapper">
+                                    <div class="front">
+                                        <a href="product_aqualis_12.php">
+                                            <img src="assets/images/products/aqualis-12.jpg"
+                                                class="bg-img blur-up lazyload" alt="">
+                                        </a>
+                                    </div>
+                                    <div class="cart-wrap">
+                                        <ul>
+                                            <li>
+                                                <a href="javascript:void(0)" class="addtocart-btn"
+                                                    data-bs-toggle="modal" data-bs-target="#addtocart">
+                                                    <i data-feather="shopping-bag"></i>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="javascript:void(0)" data-bs-toggle="modal"
+                                                    data-bs-target="#quick-view">
+                                                    <i data-feather="eye"></i>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="compare.html">
+                                                    <i data-feather="refresh-cw"></i>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="wishlist.html" class="wishlist">
+                                                    <i data-feather="heart"></i>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="product-details">
+                                    <div class="rating-details">
+                                        <span class="font-light grid-content">წყალხსნადი სასუქი</span>
+                                    </div>
+                                    <div class="main-price">
+                                        <a href="product-left-sidebar.html" class="font-default">
+                                            <h5 class="ms-0">აკვალის 12.8.31</h5>
+                                        </a>
+                                        <div class="listing-content">
+                                            <span class="font-light">წყალხსნადი სასუქი</span>
+                                            <p class="font-light">გამოიყენება ვეგეტაციის ბოლოს და მოსავლის აღების პერიოდში. უზრუნველყოფს დაჩქარებულ მომწიფებას, აუმჯობესებს პროდუქტის ხარისხს. კალიუმის მაღალი შემცველობა უფრო სწრაფად მომწიფებისთვის, ძლიერი და ლამაზი კანი უფრო დიდ ნაყოფებზე. აზოტი ძირითადად ნიტრატის სახითაა. მაგნიუმი და კვალი ელემენტები მოსავლის სრული სიმწიფისთვის.</p>
+                                        </div>
+                                        <h3 class="theme-color">₾140.00</h3>
+                                        <button onclick="location.href = 'product_aqualis_12.php';" class="btn listing-content">Add
+                                            To Cart</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="product-box">
+                                <div class="img-wrapper">
+                                    <div class="front">
+                                        <a href="product_aqualis_15.php">
+                                            <img src="assets/images/products/aqualis-15.jpg"
+                                                class="bg-img blur-up lazyload" alt="">
+                                        </a>
+                                    </div>
+                                    <div class="cart-wrap">
+                                        <ul>
+                                            <li>
+                                                <a href="javascript:void(0)" class="addtocart-btn"
+                                                    data-bs-toggle="modal" data-bs-target="#addtocart">
+                                                    <i data-feather="shopping-bag"></i>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="javascript:void(0)" data-bs-toggle="modal"
+                                                    data-bs-target="#quick-view">
+                                                    <i data-feather="eye"></i>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="compare.html">
+                                                    <i data-feather="refresh-cw"></i>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="wishlist.html" class="wishlist">
+                                                    <i data-feather="heart"></i>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="product-details">
+                                    <div class="rating-details">
+                                        <span class="font-light grid-content">წყალხსნადი სასუქი</span>
+                                    </div>
+                                    <div class="main-price">
+                                        <a href="product-left-sidebar.html" class="font-default">
+                                            <h5 class="ms-0">აკვალის 15.15.30</h5>
+                                        </a>
+                                        <div class="listing-content">
+                                            <span class="font-light">წყალხსნადი სასუქი</span>
+                                            <p class="font-light">აჩქარებს სიმწიფეს, აუმჯობესებს ხილის ხარისხს და ზრდის მშრალი ნივთიერების რაოდენობას. უზრუნველყოფს ნივთიერებების სრულ გადინებას მცენარეული მასიდან. მაგნიუმი და მიკროელემენტები პროდუქტის მაქსიმალური ხარისხისა და მოსავლიანობისთვის. მარცვლეულში გლუტენის მატება, ჭარხალში შაქრის მომატება.</p>
+                                        </div>
+                                        <h3 class="theme-color">₾140.00</h3>
+                                        <button onclick="location.href = 'product_aqualis_15.php';" class="btn listing-content">Add
+                                            To Cart</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="product-box">
+                                <div class="img-wrapper">
+                                    <div class="front">
+                                        <a href="product_aqualis_20.php">
+                                            <img src="assets/images/products/aqualis-20.jpg"
+                                                class="bg-img blur-up lazyload" alt="">
+                                        </a>
+                                    </div>
+                                    <div class="cart-wrap">
+                                        <ul>
+                                            <li>
+                                                <a href="javascript:void(0)" class="addtocart-btn"
+                                                    data-bs-toggle="modal" data-bs-target="#addtocart">
+                                                    <i data-feather="shopping-bag"></i>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="javascript:void(0)" data-bs-toggle="modal"
+                                                    data-bs-target="#quick-view">
+                                                    <i data-feather="eye"></i>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="compare.html">
+                                                    <i data-feather="refresh-cw"></i>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="wishlist.html" class="wishlist">
+                                                    <i data-feather="heart"></i>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="product-details">
+                                    <div class="rating-details">
+                                        <span class="font-light grid-content">წყალხსნადი სასუქი</span>
+                                    </div>
+                                    <div class="main-price">
+                                        <a href="product-left-sidebar.html" class="font-default">
+                                            <h5 class="ms-0">აკვალის 20.20.20</h5>
+                                        </a>
+                                        <div class="listing-content">
+                                            <span class="font-light">წყალხსნადი სასუქი</span>
+                                            <p class="font-light">ბალანსი კვალი ელემენტებით ხელს შეუწყობს მოსავლის ზრდას და განვითარებას მთელი ვეგეტაციის განმავლობაში. მას აქვს სტრესის საწინააღმდეგო ეფექტი არასასურველი ამინდის პირობებში ან პესტიციდების გამოყენების შემდეგ.</p>
+                                        </div>
+                                        <h3 class="theme-color">₾115.00</h3>
+                                        <button onclick="location.href = 'product_aqualis_20.php';" class="btn listing-content">Add
+                                            To Cart</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="product-box">
+                                <div class="img-wrapper">
+                                    <div class="front">
+                                        <a href="product_kas_32.php">
+                                            <img src="assets/images/products/kas-32.jpg"
+                                                class="bg-img blur-up lazyload" alt="">
+                                        </a>
+                                    </div>
+                                    <div class="cart-wrap">
+                                        <ul>
+                                            <li>
+                                                <a href="javascript:void(0)" class="addtocart-btn"
+                                                    data-bs-toggle="modal" data-bs-target="#addtocart">
+                                                    <i data-feather="shopping-bag"></i>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="javascript:void(0)" data-bs-toggle="modal"
+                                                    data-bs-target="#quick-view">
+                                                    <i data-feather="eye"></i>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="compare.html">
+                                                    <i data-feather="refresh-cw"></i>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="wishlist.html" class="wishlist">
+                                                    <i data-feather="heart"></i>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="product-details">
+                                    <div class="rating-details">
+                                        <span class="font-light grid-content">სასუქი</span>
+                                    </div>
+                                    <div class="main-price">
+                                        <a href="product-left-sidebar.html" class="font-default">
+                                            <h5 class="ms-0">კას-32</h5>
+                                        </a>
+                                        <div class="listing-content">
+                                            <span class="font-light">სასუქი</span>
+                                            <p class="font-light">წონასწორობის ბრენდი კვალი ელემენტებით.</p>
+                                        </div>
+                                        <h3 class="theme-color">₾42.00</h3>
+                                        <button onclick="location.href = 'product_kas_32.php';" class="btn listing-content">Add
+                                            To Cart</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="product-box">
+                                <div class="img-wrapper">
+                                    <div class="front">
+                                        <a href="product_karbamid.php">
+                                            <img src="assets/images/products/karbamid.jpg"
+                                                class="bg-img blur-up lazyload" alt="">
+                                        </a>
+                                    </div>
+                                    <div class="cart-wrap">
+                                        <ul>
+                                            <li>
+                                                <a href="javascript:void(0)" class="addtocart-btn"
+                                                    data-bs-toggle="modal" data-bs-target="#addtocart">
+                                                    <i data-feather="shopping-bag"></i>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="javascript:void(0)" data-bs-toggle="modal"
+                                                    data-bs-target="#quick-view">
+                                                    <i data-feather="eye"></i>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="compare.html">
+                                                    <i data-feather="refresh-cw"></i>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="wishlist.html" class="wishlist">
+                                                    <i data-feather="heart"></i>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="product-details">
+                                    <div class="rating-details">
+                                        <span class="font-light grid-content">სასუქი</span>
+                                    </div>
+                                    <div class="main-price">
+                                        <a href="product-left-sidebar.html" class="font-default">
+                                            <h5 class="ms-0">კარბამიდი</h5>
+                                        </a>
+                                        <div class="listing-content">
+                                            <span class="font-light">სასუქი</span>
+                                            <p class="font-light">კარბამიდი (შარდოვანა) - ყველაზე კონცენტრირებული მარცვლოვანი აზოტის სასუქი (46,2% აზოტი).</p>
+                                        </div>
+                                        <h3 class="theme-color">₾180.00</h3>
+                                        <button onclick="location.href = 'product_karbamid.php';" class="btn listing-content">Add
+                                            To Cart</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="product-box">
+                                <div class="img-wrapper">
+                                    <div class="front">
+                                        <a href="product_karbamid.php">
+                                            <img src="assets/images/products/karbamid.jpg"
+                                                class="bg-img blur-up lazyload" alt="">
+                                        </a>
+                                    </div>
+                                    <div class="cart-wrap">
+                                        <ul>
+                                            <li>
+                                                <a href="javascript:void(0)" class="addtocart-btn"
+                                                    data-bs-toggle="modal" data-bs-target="#addtocart">
+                                                    <i data-feather="shopping-bag"></i>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="javascript:void(0)" data-bs-toggle="modal"
+                                                    data-bs-target="#quick-view">
+                                                    <i data-feather="eye"></i>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="compare.html">
+                                                    <i data-feather="refresh-cw"></i>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="wishlist.html" class="wishlist">
+                                                    <i data-feather="heart"></i>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="product-details">
+                                    <div class="rating-details">
+                                        <span class="font-light grid-content">სასუქი</span>
+                                    </div>
+                                    <div class="main-price">
+                                        <a href="product-left-sidebar.html" class="font-default">
+                                            <h5 class="ms-0">კარბამიდი</h5>
+                                        </a>
+                                        <div class="listing-content">
+                                            <span class="font-light">სასუქი</span>
+                                            <p class="font-light">კარბამიდი (შარდოვანა) - ყველაზე კონცენტრირებული მარცვლოვანი აზოტის სასუქი (46,2% აზოტი).</p>
+                                        </div>
+                                        <h3 class="theme-color">₾180.00</h3>
+                                        <button onclick="location.href = 'product_karbamid.php';" class="btn listing-content">Add
+                                            To Cart</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="product-box">
+                                <div class="img-wrapper">
+                                    <div class="front">
+                                        <a href="product_karbamid.php">
+                                            <img src="assets/images/products/karbamid.jpg"
+                                                class="bg-img blur-up lazyload" alt="">
+                                        </a>
+                                    </div>
+                                    <div class="cart-wrap">
+                                        <ul>
+                                            <li>
+                                                <a href="javascript:void(0)" class="addtocart-btn"
+                                                    data-bs-toggle="modal" data-bs-target="#addtocart">
+                                                    <i data-feather="shopping-bag"></i>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="javascript:void(0)" data-bs-toggle="modal"
+                                                    data-bs-target="#quick-view">
+                                                    <i data-feather="eye"></i>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="compare.html">
+                                                    <i data-feather="refresh-cw"></i>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="wishlist.html" class="wishlist">
+                                                    <i data-feather="heart"></i>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="product-details">
+                                    <div class="rating-details">
+                                        <span class="font-light grid-content">სასუქი</span>
+                                    </div>
+                                    <div class="main-price">
+                                        <a href="product-left-sidebar.html" class="font-default">
+                                            <h5 class="ms-0">კარბამიდი</h5>
+                                        </a>
+                                        <div class="listing-content">
+                                            <span class="font-light">სასუქი</span>
+                                            <p class="font-light">კარბამიდი (შარდოვანა) - ყველაზე კონცენტრირებული მარცვლოვანი აზოტის სასუქი (46,2% აზოტი).</p>
+                                        </div>
+                                        <h3 class="theme-color">₾180.00</h3>
+                                        <button onclick="location.href = 'product_karbamid.php';" class="btn listing-content">Add
+                                            To Cart</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="product-box">
+                                <div class="img-wrapper">
+                                    <div class="front">
+                                        <a href="product_karbamid.php">
+                                            <img src="assets/images/products/karbamid.jpg"
+                                                class="bg-img blur-up lazyload" alt="">
+                                        </a>
+                                    </div>
+                                    <div class="cart-wrap">
+                                        <ul>
+                                            <li>
+                                                <a href="javascript:void(0)" class="addtocart-btn"
+                                                    data-bs-toggle="modal" data-bs-target="#addtocart">
+                                                    <i data-feather="shopping-bag"></i>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="javascript:void(0)" data-bs-toggle="modal"
+                                                    data-bs-target="#quick-view">
+                                                    <i data-feather="eye"></i>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="compare.html">
+                                                    <i data-feather="refresh-cw"></i>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="wishlist.html" class="wishlist">
+                                                    <i data-feather="heart"></i>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="product-details">
+                                    <div class="rating-details">
+                                        <span class="font-light grid-content">სასუქი</span>
+                                    </div>
+                                    <div class="main-price">
+                                        <a href="product-left-sidebar.html" class="font-default">
+                                            <h5 class="ms-0">კარბამიდი</h5>
+                                        </a>
+                                        <div class="listing-content">
+                                            <span class="font-light">სასუქი</span>
+                                            <p class="font-light">კარბამიდი (შარდოვანა) - ყველაზე კონცენტრირებული მარცვლოვანი აზოტის სასუქი (46,2% აზოტი).</p>
+                                        </div>
+                                        <h3 class="theme-color">₾180.00</h3>
+                                        <button onclick="location.href = 'product_karbamid.php';" class="btn listing-content">Add
+                                            To Cart</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="product-box">
+                                <div class="img-wrapper">
+                                    <div class="front">
+                                        <a href="product_karbamid.php">
+                                            <img src="assets/images/products/karbamid.jpg"
+                                                class="bg-img blur-up lazyload" alt="">
+                                        </a>
+                                    </div>
+                                    <div class="cart-wrap">
+                                        <ul>
+                                            <li>
+                                                <a href="javascript:void(0)" class="addtocart-btn"
+                                                    data-bs-toggle="modal" data-bs-target="#addtocart">
+                                                    <i data-feather="shopping-bag"></i>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="javascript:void(0)" data-bs-toggle="modal"
+                                                    data-bs-target="#quick-view">
+                                                    <i data-feather="eye"></i>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="compare.html">
+                                                    <i data-feather="refresh-cw"></i>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="wishlist.html" class="wishlist">
+                                                    <i data-feather="heart"></i>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="product-details">
+                                    <div class="rating-details">
+                                        <span class="font-light grid-content">სასუქი</span>
+                                    </div>
+                                    <div class="main-price">
+                                        <a href="product-left-sidebar.html" class="font-default">
+                                            <h5 class="ms-0">კარბამიდი</h5>
+                                        </a>
+                                        <div class="listing-content">
+                                            <span class="font-light">სასუქი</span>
+                                            <p class="font-light">კარბამიდი (შარდოვანა) - ყველაზე კონცენტრირებული მარცვლოვანი აზოტის სასუქი (46,2% აზოტი).</p>
+                                        </div>
+                                        <h3 class="theme-color">₾180.00</h3>
+                                        <button onclick="location.href = 'product_karbamid.php';" class="btn listing-content">Add
+                                            To Cart</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="product-box">
+                                <div class="img-wrapper">
+                                    <div class="front">
+                                        <a href="product_karbamid.php">
+                                            <img src="assets/images/products/karbamid.jpg"
+                                                class="bg-img blur-up lazyload" alt="">
+                                        </a>
+                                    </div>
+                                    <div class="cart-wrap">
+                                        <ul>
+                                            <li>
+                                                <a href="javascript:void(0)" class="addtocart-btn"
+                                                    data-bs-toggle="modal" data-bs-target="#addtocart">
+                                                    <i data-feather="shopping-bag"></i>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="javascript:void(0)" data-bs-toggle="modal"
+                                                    data-bs-target="#quick-view">
+                                                    <i data-feather="eye"></i>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="compare.html">
+                                                    <i data-feather="refresh-cw"></i>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="wishlist.html" class="wishlist">
+                                                    <i data-feather="heart"></i>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="product-details">
+                                    <div class="rating-details">
+                                        <span class="font-light grid-content">სასუქი</span>
+                                    </div>
+                                    <div class="main-price">
+                                        <a href="product-left-sidebar.html" class="font-default">
+                                            <h5 class="ms-0">კარბამიდი</h5>
+                                        </a>
+                                        <div class="listing-content">
+                                            <span class="font-light">სასუქი</span>
+                                            <p class="font-light">კარბამიდი (შარდოვანა) - ყველაზე კონცენტრირებული მარცვლოვანი აზოტის სასუქი (46,2% აზოტი).</p>
+                                        </div>
+                                        <h3 class="theme-color">₾180.00</h3>
+                                        <button onclick="location.href = 'product_karbamid.php';" class="btn listing-content">Add
+                                            To Cart</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="product-box">
+                                <div class="img-wrapper">
+                                    <div class="front">
+                                        <a href="product_karbamid.php">
+                                            <img src="assets/images/products/karbamid.jpg"
+                                                class="bg-img blur-up lazyload" alt="">
+                                        </a>
+                                    </div>
+                                    <div class="cart-wrap">
+                                        <ul>
+                                            <li>
+                                                <a href="javascript:void(0)" class="addtocart-btn"
+                                                    data-bs-toggle="modal" data-bs-target="#addtocart">
+                                                    <i data-feather="shopping-bag"></i>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="javascript:void(0)" data-bs-toggle="modal"
+                                                    data-bs-target="#quick-view">
+                                                    <i data-feather="eye"></i>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="compare.html">
+                                                    <i data-feather="refresh-cw"></i>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="wishlist.html" class="wishlist">
+                                                    <i data-feather="heart"></i>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="product-details">
+                                    <div class="rating-details">
+                                        <span class="font-light grid-content">სასუქი</span>
+                                    </div>
+                                    <div class="main-price">
+                                        <a href="product-left-sidebar.html" class="font-default">
+                                            <h5 class="ms-0">კარბამიდი</h5>
+                                        </a>
+                                        <div class="listing-content">
+                                            <span class="font-light">სასუქი</span>
+                                            <p class="font-light">კარბამიდი (შარდოვანა) - ყველაზე კონცენტრირებული მარცვლოვანი აზოტის სასუქი (46,2% აზოტი).</p>
+                                        </div>
+                                        <h3 class="theme-color">₾180.00</h3>
+                                        <button onclick="location.href = 'product_karbamid.php';" class="btn listing-content">Add
+                                            To Cart</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="product-box">
+                                <div class="img-wrapper">
+                                    <div class="front">
+                                        <a href="product_karbamid.php">
+                                            <img src="assets/images/products/karbamid.jpg"
+                                                class="bg-img blur-up lazyload" alt="">
+                                        </a>
+                                    </div>
+                                    <div class="cart-wrap">
+                                        <ul>
+                                            <li>
+                                                <a href="javascript:void(0)" class="addtocart-btn"
+                                                    data-bs-toggle="modal" data-bs-target="#addtocart">
+                                                    <i data-feather="shopping-bag"></i>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="javascript:void(0)" data-bs-toggle="modal"
+                                                    data-bs-target="#quick-view">
+                                                    <i data-feather="eye"></i>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="compare.html">
+                                                    <i data-feather="refresh-cw"></i>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="wishlist.html" class="wishlist">
+                                                    <i data-feather="heart"></i>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="product-details">
+                                    <div class="rating-details">
+                                        <span class="font-light grid-content">სასუქი</span>
+                                    </div>
+                                    <div class="main-price">
+                                        <a href="product-left-sidebar.html" class="font-default">
+                                            <h5 class="ms-0">კარბამიდი</h5>
+                                        </a>
+                                        <div class="listing-content">
+                                            <span class="font-light">სასუქი</span>
+                                            <p class="font-light">კარბამიდი (შარდოვანა) - ყველაზე კონცენტრირებული მარცვლოვანი აზოტის სასუქი (46,2% აზოტი).</p>
+                                        </div>
+                                        <h3 class="theme-color">₾180.00</h3>
+                                        <button onclick="location.href = 'product_karbamid.php';" class="btn listing-content">Add
+                                            To Cart</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="product-box">
+                                <div class="img-wrapper">
+                                    <div class="front">
+                                        <a href="product_karbamid.php">
+                                            <img src="assets/images/products/karbamid.jpg"
+                                                class="bg-img blur-up lazyload" alt="">
+                                        </a>
+                                    </div>
+                                    <div class="cart-wrap">
+                                        <ul>
+                                            <li>
+                                                <a href="javascript:void(0)" class="addtocart-btn"
+                                                    data-bs-toggle="modal" data-bs-target="#addtocart">
+                                                    <i data-feather="shopping-bag"></i>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="javascript:void(0)" data-bs-toggle="modal"
+                                                    data-bs-target="#quick-view">
+                                                    <i data-feather="eye"></i>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="compare.html">
+                                                    <i data-feather="refresh-cw"></i>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="wishlist.html" class="wishlist">
+                                                    <i data-feather="heart"></i>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="product-details">
+                                    <div class="rating-details">
+                                        <span class="font-light grid-content">სასუქი</span>
+                                    </div>
+                                    <div class="main-price">
+                                        <a href="product-left-sidebar.html" class="font-default">
+                                            <h5 class="ms-0">კარბამიდი</h5>
+                                        </a>
+                                        <div class="listing-content">
+                                            <span class="font-light">სასუქი</span>
+                                            <p class="font-light">კარბამიდი (შარდოვანა) - ყველაზე კონცენტრირებული მარცვლოვანი აზოტის სასუქი (46,2% აზოტი).</p>
+                                        </div>
+                                        <h3 class="theme-color">₾180.00</h3>
+                                        <button onclick="location.href = 'product_karbamid.php';" class="btn listing-content">Add
                                             To Cart</button>
                                     </div>
                                 </div>
