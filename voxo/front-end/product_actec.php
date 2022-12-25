@@ -170,7 +170,7 @@
                                         <div class="part col-lg-8">
                                             <h4 class="inner-title mb-2">რეზისტენტობის მართვა</h4>
                                         <p class="font-light">პრეპარატი არის 21A ჯგუფის ინსექტიციდი. 21A ჯგუფის პრეპარატების მრავალჯერადმა შესხურებამ შეიძლება გამოიწვიოს რეზისტენტობა. ასეთ შემთხვევაში მონაცვლეობით გამოიყენეთ ალტერნატიული პროდუქტები სხვა ქიმიური ჯგუფიდან.</p>
-                                        <div class="col-lg-4">
+                                        </div><div class="col-lg-4">
                                             <img src="assets/images/fashion/slider/corn1.jpg"
                                                 class="img-fluid rounded blur-up lazyload" alt="">
                                         </div>

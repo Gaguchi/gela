@@ -496,6 +496,15 @@
     <!-- newsletter js -->
     <script src="assets/js/newsletter.js"></script>
 
+    <!-- Price Filter js -->
+    <script src="assets/js/price-filter.js"></script>
+
+    <!--Plugin JavaScript file-->
+    <script src="assets/js/ion.rangeSlider.min.js"></script>
+    
+    <!-- Filter Hide and show Js -->
+    <script src="assets/js/filter.js"></script>
+
     <!-- add to cart modal resize -->
     <script src="assets/js/cart_modal_resize.js"></script>
 
