@@ -96,76 +96,72 @@
                                         <ul class="category-list" id="filters-brand">
                                             <li>
                                                 <div class="form-check ps-0 custome-form-check">
-                                                    <input class="checkbox_animated check-it" type="checkbox" value="branda"
+                                                    <input class="checkbox_animated check-it" type="checkbox" value="avgust"
                                                         id="flexCheckDefault1">
-                                                    <label class="form-check-label" for="flexCheckDefault1">brandA</label>
-                                                    <p class="font-light">(25)</p>
+                                                    <label class="form-check-label" for="flexCheckDefault1">Avgust</label>
                                                 </div>
                                             </li>
                                             <li>
                                                 <div class="form-check ps-0 custome-form-check">
-                                                    <input class="checkbox_animated check-it" type="checkbox" value="brandb" 
-                                                        id="flexCheckDefault2">
-                                                    <label class="form-check-label" for="flexCheckDefault2">brandB</label>
-                                                    <p class="font-light">(25)</p>
-                                                </div>
-                                            </li>
-                                            <li>
-                                                <div class="form-check ps-0 custome-form-check">
-                                                    <input class="checkbox_animated check-it" type="checkbox"
-                                                        id="flexCheckDefault3">
-                                                    <label class="form-check-label" for="flexCheckDefault3">Louis
-                                                        Philippe</label>
-                                                    <p class="font-light">(25)</p>
-                                                </div>
-                                            </li>
-                                            <li>
-                                                <div class="form-check ps-0 custome-form-check">
-                                                    <input class="checkbox_animated check-it" type="checkbox"
+                                                    <input class="checkbox_animated check-it" type="checkbox" value="evrochim"
                                                         id="flexCheckDefault4">
-                                                    <label class="form-check-label" for="flexCheckDefault4">Louis
-                                                        Philippe Sport</label>
-                                                    <p class="font-light">(25)</p>
+                                                    <label class="form-check-label" for="flexCheckDefault4">evrochim</label>
                                                 </div>
                                             </li>
                                             <li>
                                                 <div class="form-check ps-0 custome-form-check">
-                                                    <input class="checkbox_animated check-it" type="checkbox"
-                                                        id="flexCheckDefault5">
-                                                    <label class="form-check-label" for="flexCheckDefault5">H&M</label>
-                                                    <p class="font-light">(25)</p>
-                                                </div>
-                                            </li>
-                                            <li>
-                                                <div class="form-check ps-0 custome-form-check">
-                                                    <input class="checkbox_animated check-it" type="checkbox"
-                                                        id="flexCheckDefault6">
-                                                    <label class="form-check-label" for="flexCheckDefault6">Fila</label>
-                                                    <p class="font-light">(25)</p>
-                                                </div>
-                                            </li>
-                                            <li>
-                                                <div class="form-check ps-0 custome-form-check">
-                                                    <input class="checkbox_animated check-it" type="checkbox"
-                                                        id="flexCheckDefault7">
-                                                    <label class="form-check-label" for="flexCheckDefault7">Puma</label>
-                                                    <p class="font-light">(25)</p>
-                                                </div>
-                                            </li>
-                                            <li>
-                                                <div class="form-check ps-0 custome-form-check">
-                                                    <input class="checkbox_animated check-it" type="checkbox"
-                                                        id="flexCheckDefault8">
-                                                    <label class="form-check-label" for="flexCheckDefault8">Nike</label>
-                                                    <p class="font-light">(25)</p>
-                                                </div>
-                                            </li>
-                                            <li>
-                                                <div class="form-check ps-0 custome-form-check">
-                                                    <input class="checkbox_animated check-it" type="checkbox"
+                                                    <input class="checkbox_animated check-it" type="checkbox" value="ww"
                                                         id="flexCheckDefault9">
-                                                    <label class="form-check-label" for="flexCheckDefault9">HRX</label>
-                                                    <p class="font-light">(25)</p>
+                                                    <label class="form-check-label" for="flexCheckDefault9">WILLIAMS WEST</label>
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="form-check ps-0 custome-form-check">
+                                                    <input class="checkbox_animated check-it" type="checkbox" value="upl"
+                                                        id="flexCheckDefault8">
+                                                    <label class="form-check-label" for="flexCheckDefault8">UPL</label>
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="form-check ps-0 custome-form-check">
+                                                    <input class="checkbox_animated check-it" type="checkbox" value="ukravit"
+                                                        id="flexCheckDefault8">
+                                                    <label class="form-check-label" for="flexCheckDefault8">ukravit</label>
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="form-check ps-0 custome-form-check">
+                                                    <input class="checkbox_animated check-it" type="checkbox" value="cankarn" 
+                                                        id="flexCheckDefault2">
+                                                    <label class="form-check-label" for="flexCheckDefault2">Cankarn</label>
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="form-check ps-0 custome-form-check">
+                                                    <input class="checkbox_animated check-it" type="checkbox" value="chemia"
+                                                        id="flexCheckDefault3">
+                                                    <label class="form-check-label" for="flexCheckDefault3">Chemia S.P.A</label>
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="form-check ps-0 custome-form-check">
+                                                    <input class="checkbox_animated check-it" type="checkbox" value="probelte"
+                                                        id="flexCheckDefault5">
+                                                    <label class="form-check-label" for="flexCheckDefault5">Probelte S.A.U</label>
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="form-check ps-0 custome-form-check">
+                                                    <input class="checkbox_animated check-it" type="checkbox" value="rainbow"
+                                                        id="flexCheckDefault6">
+                                                    <label class="form-check-label" for="flexCheckDefault6">Rainbow</label>
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="form-check ps-0 custome-form-check">
+                                                    <input class="checkbox_animated check-it" type="checkbox" value="rustvisazoti"
+                                                        id="flexCheckDefault7">
+                                                    <label class="form-check-label" for="flexCheckDefault7">Rustvis azoti</label>
                                                 </div>
                                             </li>
                                         </ul>
@@ -186,81 +182,57 @@
                                         <ul class="category-list" id="filters-category">
                                             <li>
                                                 <div class="form-check ps-0 custome-form-check">
-                                                    <input class="checkbox_animated check-it" type="checkbox" value="categorya"
+                                                    <input class="checkbox_animated check-it" type="checkbox" value="herbicide"
                                                         id="flexCheckDefault10">
                                                     <label class="form-check-label"
-                                                        for="flexCheckDefault10">categoryA</label>
-                                                    <p class="font-light">(25)</p>
+                                                        for="flexCheckDefault10">ჰერბიციდი</label>
                                                 </div>
                                             </li>
                                             <li>
                                                 <div class="form-check ps-0 custome-form-check">
-                                                    <input class="checkbox_animated check-it" type="checkbox" value="categoryb"
+                                                    <input class="checkbox_animated check-it" type="checkbox" value="fungicide"
                                                         id="flexCheckDefault11">
-                                                    <label class="form-check-label" for="flexCheckDefault11">categoryB</label>
-                                                    <p class="font-light">(25)</p>
+                                                    <label class="form-check-label" for="flexCheckDefault11">ფუნგიციდი</label>
                                                 </div>
                                             </li>
                                             <li>
                                                 <div class="form-check ps-0 custome-form-check">
-                                                    <input class="checkbox_animated check-it" type="checkbox"
+                                                    <input class="checkbox_animated check-it" type="checkbox" value="insecticide"
                                                         id="flexCheckDefault12">
                                                     <label class="form-check-label"
-                                                        for="flexCheckDefault12">Kurtas</label>
-                                                    <p class="font-light">(25)</p>
+                                                        for="flexCheckDefault12">ინსექტიციდი</label>
                                                 </div>
                                             </li>
                                             <li>
                                                 <div class="form-check ps-0 custome-form-check">
-                                                    <input class="checkbox_animated check-it" type="checkbox"
+                                                    <input class="checkbox_animated check-it" type="checkbox" value="fertilizer"
                                                         id="flexCheckDefault13">
                                                     <label class="form-check-label"
-                                                        for="flexCheckDefault13">Sweatshirts</label>
-                                                    <p class="font-light">(25)</p>
+                                                        for="flexCheckDefault13">სასუქი</label>
                                                 </div>
                                             </li>
                                             <li>
                                                 <div class="form-check ps-0 custome-form-check">
-                                                    <input class="checkbox_animated check-it" type="checkbox"
+                                                    <input class="checkbox_animated check-it" type="checkbox" value="watersolublefertilizer"
                                                         id="flexCheckDefault14">
                                                     <label class="form-check-label"
-                                                        for="flexCheckDefault14">Jackets</label>
-                                                    <p class="font-light">(25)</p>
+                                                        for="flexCheckDefault14">წყალხსნადი სასუქი</label>
                                                 </div>
                                             </li>
                                             <li>
                                                 <div class="form-check ps-0 custome-form-check">
-                                                    <input class="checkbox_animated check-it" type="checkbox"
+                                                    <input class="checkbox_animated check-it" type="checkbox" value="combinedfertilizer"
                                                         id="flexCheckDefault15">
                                                     <label class="form-check-label"
-                                                        for="flexCheckDefault15">Blazers</label>
-                                                    <p class="font-light">(25)</p>
+                                                        for="flexCheckDefault15">კომბინირებული სასუქი</label>
                                                 </div>
                                             </li>
                                             <li>
                                                 <div class="form-check ps-0 custome-form-check">
-                                                    <input class="checkbox_animated check-it" type="checkbox"
+                                                    <input class="checkbox_animated check-it" type="checkbox" value="helper"
                                                         id="flexCheckDefault16">
                                                     <label class="form-check-label"
-                                                        for="flexCheckDefault16">Puma</label>
-                                                    <p class="font-light">(25)</p>
-                                                </div>
-                                            </li>
-                                            <li>
-                                                <div class="form-check ps-0 custome-form-check">
-                                                    <input class="checkbox_animated check-it" type="checkbox"
-                                                        id="flexCheckDefault17">
-                                                    <label class="form-check-label"
-                                                        for="flexCheckDefault17">Nike</label>
-                                                    <p class="font-light">(25)</p>
-                                                </div>
-                                            </li>
-                                            <li>
-                                                <div class="form-check ps-0 custome-form-check">
-                                                    <input class="checkbox_animated check-it" type="checkbox"
-                                                        id="flexCheckDefault18">
-                                                    <label class="form-check-label" for="flexCheckDefault18">HRX</label>
-                                                    <p class="font-light">(25)</p>
+                                                        for="flexCheckDefault16">დამხმარე</label>
                                                 </div>
                                             </li>
                                         </ul>
@@ -428,142 +400,17 @@
 
 
                         <!-- label and featured section -->
-                        <div class="col-md-12">
-                            <ul class="short-name">
-                                <li>
-                                    <div class="label-tag">
-                                        <span>Shirts</span>
-                                        <button type="button" class="btn-close" aria-label="Close"></button>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="label-tag">
-                                        <span>Kurtas</span>
-                                        <button type="button" class="btn-close" aria-label="Close"></button>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="label-tag">
-                                        <span>Jackets</span>
-                                        <button type="button" class="btn-close" aria-label="Close"></button>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="label-tag">
-                                        <span>Blazers</span>
-                                        <button type="button" class="btn-close" aria-label="Close"></button>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="label-tag">
-                                        <a href="javascript:void(0)"><span>Clear All</span></a>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-
-                        <div class="col-12">
-                            <div class="filter-options">
-                                <div class="select-options">
-                                    <div class="page-view-filter">
-                                        <div class="dropdown select-featured">
-                                            <button class="btn dropdown-toggle" type="button" id="dropdownMenuButton1"
-                                                data-bs-toggle="dropdown" aria-expanded="false">
-                                                24 Page per view
-                                            </button>
-                                            <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
-                                                <li>
-                                                    <a class="dropdown-item" href="javascript:void(0)">Alphabetically
-                                                        A-Z</a>
-                                                </li>
-                                                <li>
-                                                    <a class="dropdown-item" href="javascript:void(0)">Alphabetically
-                                                        Z-A</a>
-                                                </li>
-                                                <li>
-                                                    <a class="dropdown-item" href="javascript:void(0)">Price, High To
-                                                        Low</a>
-                                                </li>
-                                                <li>
-                                                    <a class="dropdown-item" href="javascript:void(0)">Price, Low To
-                                                        High</a>
-                                                </li>
-                                                <li>
-                                                    <a class="dropdown-item" href="javascript:void(0)">Date, Old To
-                                                        New</a>
-                                                </li>
-                                                <li>
-                                                    <a class="dropdown-item" href="javascript:void(0)">Date, New To
-                                                        Old</a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="dropdown select-featured">
-                                        <button class="btn dropdown-toggle" type="button" id="dropdownMenuButton1"
-                                            data-bs-toggle="dropdown" aria-expanded="false">
-                                            Select Featured
-                                        </button>
-                                        <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
-                                            <li>
-                                                <a class="dropdown-item" href="javascript:void(0)">Jeans</a>
-                                            </li>
-                                            <li>
-                                                <a class="dropdown-item" href="javascript:void(0)">T-Shirt</a>
-                                            </li>
-                                            <li>
-                                                <a class="dropdown-item" href="javascript:void(0)">Shirt</a>
-                                            </li>
-                                            <li>
-                                                <a class="dropdown-item" href="javascript:void(0)">Jacket</a>
-                                            </li>
-                                            <li>
-                                                <a class="dropdown-item" href="javascript:void(0)">Hoodie</a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                                <div class="grid-options d-sm-inline-block d-none">
-                                    <ul class="d-flex">
-                                        <li class="two-grid">
-                                            <a href="javascript:void(0)">
-                                                <img src="assets/svg/grid-2.svg" class="img-fluid blur-up lazyload"
-                                                    alt="">
-                                            </a>
-                                        </li>
-                                        <li class="three-grid d-md-inline-block d-none">
-                                            <a href="javascript:void(0)">
-                                                <img src="assets/svg/grid-3.svg" class="img-fluid blur-up lazyload"
-                                                    alt="">
-                                            </a>
-                                        </li>
-                                        <li class="grid-btn d-lg-inline-block d-none">
-                                            <a href="javascript:void(0)">
-                                                <img src="assets/svg/grid.svg" class="img-fluid blur-up lazyload"
-                                                    alt="">
-                                            </a>
-                                        </li>
-                                        <li class="list-btn active">
-                                            <a href="javascript:void(0)">
-                                                <img src="assets/svg/list.svg" class="img-fluid blur-up lazyload"
-                                                    alt="">
-                                            </a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
                     </div>
                     <!-- label and featured section -->
 
                     <!-- Prodcut setion -->
                     <div
                         class="row g-sm-4 g-3 product-load-more mt-1 custom-gy-5 product-style-2 ratio_asos product-list-section list-style">
-                        <div  class="productcheck categorya brandb" data-category="categorya brandb">
+                        <div  class="productcheck" data-category="avgust herbicide">
                             <div class="product-box">
                                 <div class="img-wrapper">
                                     <div class="front">
-                                        <a href="product-left-sidebar.html">
+                                        <a href="product_ballerina.php">
                                             <img src="assets/images/products/ballerina.jpg"
                                                 class="bg-img blur-up lazyload" alt="">
                                         </a>
@@ -615,11 +462,11 @@
                             </div>
                         </div>
 
-                        <div>
-                            <div class="product-box productcheck categoryb branda" data-category="categoryb branda">
+                        <div class="productcheck" data-category="avgust herbicide">
+                            <div class="product-box">
                                 <div class="img-wrapper">
                                     <div class="front">
-                                        <a href="product-left-sidebar.html">
+                                        <a href="product_dublon_gold.php">
                                             <img src="assets/images/products/dublon-gold.jpg"
                                                 class="bg-img blur-up lazyload" alt="">
                                         </a>
@@ -656,7 +503,7 @@
                                         <span class="font-light grid-content">ჰერბიციდი</span>
                                     </div>
                                     <div class="main-price">
-                                        <a href="product-left-sidebar.html" class="font-default">
+                                        <a href="product_dublon_gold.php" class="font-default">
                                             <h5 class="ms-0">დუბლინ გოლდი</h5>
                                         </a>
                                         <div class="listing-content">
@@ -671,11 +518,11 @@
                             </div>
                         </div>
 
-                        <div>
-                            <div class="product-box">
+                        <div class="productcheck" data-category="avgust herbicide">
+                            <div class="product-box" >
                                 <div class="img-wrapper">
                                     <div class="front">
-                                        <a href="product-left-sidebar.html">
+                                        <a href="product_tornado.php">
                                             <img src="assets/images/products/tornado.jpg"
                                                 class="bg-img blur-up lazyload" alt="">
                                         </a>
@@ -712,7 +559,7 @@
                                         <span class="font-light grid-content">ჰერბიციდი</span>
                                     </div>
                                     <div class="main-price">
-                                        <a href="product-left-sidebar.html" class="font-default">
+                                        <a href="product_tornado.php" class="font-default">
                                             <h5 class="ms-0">ტორნადო </h5>
                                         </a>
                                         <div class="listing-content">
@@ -729,11 +576,11 @@
                             </div>
                         </div>
 
-                        <div>
-                            <div class="product-box">
+                        <div class="productcheck" data-category="avgust herbicide">
+                            <div class="product-box" >
                                 <div class="img-wrapper">
                                     <div class="front">
-                                        <a href="product-left-sidebar.html">
+                                        <a href="product_ordan.php">
                                             <img src="assets/images/products/ordan.jpg"
                                                 class="bg-img blur-up lazyload" alt="">
                                         </a>
@@ -770,7 +617,7 @@
                                         <span class="font-light grid-content">ჰერბიციდი</span>
                                     </div>
                                     <div class="main-price">
-                                        <a href="product-left-sidebar.html" class="font-default">
+                                        <a href="product_ordan.php" class="font-default">
                                             <h5 class="ms-0">ორდანი</h5>
                                         </a>
                                         <div class="listing-content">
@@ -785,11 +632,11 @@
                             </div>
                         </div>
 
-                        <div>
-                            <div class="product-box">
+                        <div class="productcheck" data-category="avgust insecticide">
+                            <div class="product-box" >
                                 <div class="img-wrapper">
                                     <div class="front">
-                                        <a href="product-left-sidebar.html">
+                                        <a href="product_borei_neo.php">
                                             <img src="assets/images/products/borei-neo.jpg"
                                                 class="bg-img blur-up lazyload" alt="">
                                         </a>
@@ -826,7 +673,7 @@
                                         <span class="font-light grid-content">ინსექტიციდი</span>
                                     </div>
                                     <div class="main-price">
-                                        <a href="product-left-sidebar.html" class="font-default">
+                                        <a href="product_borei_neo.php" class="font-default">
                                             <h5 class="ms-0">ბორეი-ნეო</h5>
                                         </a>
                                         <div class="listing-content">
@@ -841,11 +688,11 @@
                             </div>
                         </div>
 
-                        <div>
+                        <div class="productcheck" data-category="avgust helper">
                             <div class="product-box">
                                 <div class="img-wrapper">
                                     <div class="front">
-                                        <a href="product-left-sidebar.html">
+                                        <a href="product_adieu.php">
                                             <img src="assets/images/products/adieu.jpg"
                                                 class="bg-img blur-up lazyload" alt="">
                                         </a>
@@ -882,7 +729,7 @@
                                         <span class="font-light grid-content">დამხმარე</span>
                                     </div>
                                     <div class="main-price">
-                                        <a href="product-left-sidebar.html" class="font-default">
+                                        <a href="product_adieu.php" class="font-default">
                                             <h5 class="ms-0">ადიუ მიმწებებელი</h5>
                                         </a>
                                         <div class="listing-content">
@@ -890,18 +737,18 @@
                                             <p class="font-light">დამხმარე საშუალება (სურფაქტანტი) ჰერბიციდებთან კომბინირებული გამოყენებისა და მათი ეფექტურობის გაზრდისთვის.</p>
                                         </div>
                                         <h3 class="theme-color">₾10.00</h3>
-                                        <button onclick="location.href = 'cart.html';" class="btn listing-content">Add
+                                        <button onclick="location.href = 'product_adieu.php';" class="btn listing-content">Add
                                             To Cart</button>
                                     </div>
                                 </div>
                             </div>
                         </div>
 
-                        <div>
-                            <div class="product-box">
+                        <div class="productcheck" data-category="avgust fungicide">
+                            <div class="product-box" >
                                 <div class="img-wrapper">
                                     <div class="front">
-                                        <a href="product-left-sidebar.html">
+                                        <a href="product_colossal.php">
                                             <img src="assets/images/products/colossal.jpg"
                                                 class="bg-img blur-up lazyload" alt="">
                                         </a>
@@ -938,7 +785,7 @@
                                         <span class="font-light grid-content">ფუნგიციდი</span>
                                     </div>
                                     <div class="main-price">
-                                        <a href="product-left-sidebar.html" class="font-default">
+                                        <a href="product_colossal.php" class="font-default">
                                             <h5 class="ms-0">კოლოსალი</h5>
                                         </a>
                                         <div class="listing-content">
@@ -946,18 +793,18 @@
                                             <p class="font-light">პროფილაქტიკური და სამკურნალო სისტემური ფუნგიციდი მარცვლეულის, ბრინჯის, რაფსის და ყურძნის დაავადებების კონტროლისთვის.</p>
                                         </div>
                                         <h3 class="theme-color">₾10.00</h3>
-                                        <button onclick="location.href = 'cart.html';" class="btn listing-content">Add
+                                        <button onclick="location.href = 'product_colossal.php';" class="btn listing-content">Add
                                             To Cart</button>
                                     </div>
                                 </div>
                             </div>
                         </div>
 
-                        <div>
-                            <div class="product-box">
+                        <div class="productcheck" data-category="cankarn fungicide">
+                            <div class="product-box" >
                                 <div class="img-wrapper">
                                     <div class="front">
-                                        <a href="product-left-sidebar.html">
+                                        <a href="product_cooper.php">
                                             <img src="assets/images/products/cooper-88.jpg"
                                                 class="bg-img blur-up lazyload" alt="">
                                         </a>
@@ -994,7 +841,7 @@
                                         <span class="font-light grid-content">ფუნგიციდი</span>
                                     </div>
                                     <div class="main-price">
-                                        <a href="product-left-sidebar.html" class="font-default">
+                                        <a href="product_cooper.php" class="font-default">
                                             <h5 class="ms-0">კუპერ 88</h5>
                                         </a>
                                         <div class="listing-content">
@@ -1002,18 +849,18 @@
                                             <p class="font-light">მოქმედი ნივთიერება: 877 გ/კგ სპილენძის ოქსიქლორიდი (500გ/კგ სპილენძის მიხედვით) კუპერ 88 პრევენციული ხასიათის მქონე, კონტაქტური ფუნგიციდი ვაზში, ხეხილში, კაკლოვნებში, პარკოსნებსა და ზეთისხილში სოკოვანი დაავადებების წინააღმდეგ საბრძოლველად. თავსებადია სხვა პესტიციდებთან და აგროქიმიკატებთან. დაუშვებელია მისი შერევა მჟავა რეაქციისა და ძლიერი ტუტე რეაქციის პროდუქტებთან. რეკომენდებული დოზებისა და გამოყენების პერიოდების დაცვისას არ არის ფიტოტოქსიკური. ფიტოტოქსიკური ნიშნების შეიძლება გამოვლინდეს წვიმიან და ცივ ამინდებში, როდესაც ჰაერის ტემპერატურა 8°C-ზე დაბალია.</p>
                                         </div>
                                         <h3 class="theme-color">₾50.00</h3>
-                                        <button onclick="location.href = 'cart.html';" class="btn listing-content">Add
+                                        <button onclick="location.href = 'product_cooper.php';" class="btn listing-content">Add
                                             To Cart</button>
                                     </div>
                                 </div>
                             </div>
                         </div>
 
-                        <div>
-                            <div class="product-box">
+                        <div class="productcheck" data-category="chemia fungicide">
+                            <div class="product-box" >
                                 <div class="img-wrapper">
                                     <div class="front">
-                                        <a href="product-left-sidebar.html">
+                                        <a href="product_ramin.php">
                                             <img src="assets/images/products/ramin.jpg"
                                                 class="bg-img blur-up lazyload" alt="">
                                         </a>
@@ -1050,7 +897,7 @@
                                         <span class="font-light grid-content">ფუნგიციდი</span>
                                     </div>
                                     <div class="main-price">
-                                        <a href="product-left-sidebar.html" class="font-default">
+                                        <a href="product_ramin.php" class="font-default">
                                             <h5 class="ms-0">რამინი</h5>
                                         </a>
                                         <div class="listing-content">
@@ -1058,18 +905,18 @@
                                             <p class="font-light">რამინი - დამცავი და სამკურნალო თვისებების მქონე ფუნგიციდი კულტურებში სოკოვანი დაავადებების წინააღმდეგ საბრძოლველად. ის წარმოადგენს წყალში ხსნადი მიკროგრანულებისგან შემდგარ პრეპარატულ ფორმას რომელსაც წარმოების ორიგინალური პროცესების და ნაწილაკების სიწმინდის გამო ფოთლების ზედაპირზე მიწებების და გადანაწილების განსაკუთრებული უნარი გააჩნია. ეს თვისებები უზრუნველყოფს ფუნგიციდური და ბაქტერიული ეფექტიანობის ზრდას და სპილენძის დოზების მნიშვნელოვან შემცირებას, რაც თავის მხრივ გარემოს დაცვას უწყობს ხელს. პრეპარატი თავსებადია თითქმის ყველა პესტიციდთან და აგროქიმიკატთან.</p>
                                         </div>
                                         <h3 class="theme-color">₾14.00</h3>
-                                        <button onclick="location.href = 'cart.html';" class="btn listing-content">Add
+                                        <button onclick="location.href = 'product_ramin.php';" class="btn listing-content">Add
                                             To Cart</button>
                                     </div>
                                 </div>
                             </div>
                         </div>
 
-                        <div>
+                        <div class="productcheck" data-category="chemia fungicide">
                             <div class="product-box">
                                 <div class="img-wrapper">
                                     <div class="front">
-                                        <a href="product-left-sidebar.html">
+                                        <a href="product_pinazol.php">
                                             <img src="assets/images/products/pinazol.jpg"
                                                 class="bg-img blur-up lazyload" alt="">
                                         </a>
@@ -1106,7 +953,7 @@
                                         <span class="font-light grid-content">ფუნგიციდი</span>
                                     </div>
                                     <div class="main-price">
-                                        <a href="product-left-sidebar.html" class="font-default">
+                                        <a href="product_pinazol.php" class="font-default">
                                             <h5 class="ms-0">პინაზოლი</h5>
                                         </a>
                                         <div class="listing-content">
@@ -1116,18 +963,18 @@
 თავსებადია სხვა პესტიციდებთან, გარდა ზეთოვანი და ტუტე რეაქციის მქონე პრეპარატებისა.</p>
                                         </div>
                                         <h3 class="theme-color">₾23.00</h3>
-                                        <button onclick="location.href = 'cart.html';" class="btn listing-content">Add
+                                        <button onclick="location.href = 'product_pinazol.php';" class="btn listing-content">Add
                                             To Cart</button>
                                     </div>
                                 </div>
                             </div>
                         </div>
 
-                        <div>
+                        <div class="productcheck" data-category="evrochim combinedfertilizer fertilizer">
                             <div class="product-box">
                                 <div class="img-wrapper">
                                     <div class="front">
-                                        <a href="product-left-sidebar.html">
+                                        <a href="product_ammofos.php">
                                             <img src="assets/images/products/ammofos.jpg"
                                                 class="bg-img blur-up lazyload" alt="">
                                         </a>
@@ -1164,7 +1011,7 @@
                                         <span class="font-light grid-content">კომბინირებული სასუქი</span>
                                     </div>
                                     <div class="main-price">
-                                        <a href="product-left-sidebar.html" class="font-default">
+                                        <a href="product_ammofos.php" class="font-default">
                                             <h5 class="ms-0">ამოფოსი 12.52</h5>
                                         </a>
                                         <div class="listing-content">
@@ -1172,14 +1019,14 @@
                                             <p class="font-light">მრავალმხრივი, მაღალი ხარისხის მარცვლოვანი სასუქი, რომელიც შეიცავს აზოტს და ფოსფორს.</p>
                                         </div>
                                         <h3 class="theme-color">₾165.00</h3>
-                                        <button onclick="location.href = 'cart.html';" class="btn listing-content">Add
+                                        <button onclick="location.href = 'product_ammofos.php';" class="btn listing-content">Add
                                             To Cart</button>
                                     </div>
                                 </div>
                             </div>
                         </div>
 
-                        <div>
+                        <div class="productcheck" data-category="evrochim fertilizer">
                             <div class="product-box">
                                 <div class="img-wrapper">
                                     <div class="front">
@@ -1220,7 +1067,7 @@
                                         <span class="font-light grid-content">სასუქი</span>
                                     </div>
                                     <div class="main-price">
-                                        <a href="product-left-sidebar.html" class="font-default">
+                                        <a href="product_karbamid.php" class="font-default">
                                             <h5 class="ms-0">კარბამიდი</h5>
                                         </a>
                                         <div class="listing-content">
@@ -1235,7 +1082,7 @@
                             </div>
                         </div>
 
-                        <div>
+                        <div class="productcheck" data-category="evrochim combinedfertilizer fertilizer">
                             <div class="product-box">
                                 <div class="img-wrapper">
                                     <div class="front">
@@ -1276,7 +1123,7 @@
                                         <span class="font-light grid-content">კომბინირებული სასუქი</span>
                                     </div>
                                     <div class="main-price">
-                                        <a href="product-left-sidebar.html" class="font-default">
+                                        <a href="product_sufammofos.php" class="font-default">
                                             <h5 class="ms-0">სულფოამოფოსი 20.20.14</h5>
                                         </a>
                                         <div class="listing-content">
@@ -1291,7 +1138,7 @@
                             </div>
                         </div>
 
-                        <div>
+                        <div class="productcheck" data-category="evrochim watersolublefertilizer fertilizer">
                             <div class="product-box">
                                 <div class="img-wrapper">
                                     <div class="front">
@@ -1332,7 +1179,7 @@
                                         <span class="font-light grid-content">წყალხსნადი სასუქი</span>
                                     </div>
                                     <div class="main-price">
-                                        <a href="product-left-sidebar.html" class="font-default">
+                                        <a href="product_avroroa_14.php" class="font-default">
                                             <h5 class="ms-0">ავრორა 14.14.23</h5>
                                         </a>
                                         <div class="listing-content">
@@ -1347,7 +1194,7 @@
                             </div>
                         </div>
 
-                        <div>
+                        <div class="productcheck" data-category="evrochim combinedfertilizer fertilizer">
                             <div class="product-box">
                                 <div class="img-wrapper">
                                     <div class="front">
@@ -1388,7 +1235,7 @@
                                         <span class="font-light grid-content">კომბინირებული სასუქი</span>
                                     </div>
                                     <div class="main-price">
-                                        <a href="product-left-sidebar.html" class="font-default">
+                                        <a href="product_avrora_16.php" class="font-default">
                                             <h5 class="ms-0">ავრორა 16.16.16</h5>
                                         </a>
                                         <div class="listing-content">
@@ -1403,12 +1250,12 @@
                             </div>
                         </div>
 
-                        <div>
+                        <div class="productcheck" data-category="evrochim combinedfertilizer fertilizer">
                             <div class="product-box">
                                 <div class="img-wrapper">
                                     <div class="front">
                                         <a href="product_avrora_10.php">
-                                            <img src="assets/images/products/karbamid.jpg"
+                                            <img src="assets/images/products/avrora-10.jpg"
                                                 class="bg-img blur-up lazyload" alt="">
                                         </a>
                                     </div>
@@ -1444,7 +1291,7 @@
                                         <span class="font-light grid-content">კომბინირებული სასუქი</span>
                                     </div>
                                     <div class="main-price">
-                                        <a href="product-left-sidebar.html" class="font-default">
+                                        <a href="product_avrora_10.php" class="font-default">
                                             <h5 class="ms-0">ავრორა 10.26.26</h5>
                                         </a>
                                         <div class="listing-content">
@@ -1459,7 +1306,7 @@
                             </div>
                         </div>
 
-                        <div>
+                        <div class="productcheck" data-category="evrochim watersolublefertilizer fertilizer">
                             <div class="product-box">
                                 <div class="img-wrapper">
                                     <div class="front">
@@ -1500,7 +1347,7 @@
                                         <span class="font-light grid-content">წყალხსნადი სასუქი</span>
                                     </div>
                                     <div class="main-price">
-                                        <a href="product-left-sidebar.html" class="font-default">
+                                        <a href="product_aqualis_13.php" class="font-default">
                                             <h5 class="ms-0">აკვალის 10.26.26</h5>
                                         </a>
                                         <div class="listing-content">
@@ -1515,7 +1362,7 @@
                             </div>
                         </div>
 
-                        <div>
+                        <div class="productcheck" data-category="evrochim watersolublefertilizer fertilizer">
                             <div class="product-box">
                                 <div class="img-wrapper">
                                     <div class="front">
@@ -1556,7 +1403,7 @@
                                         <span class="font-light grid-content">წყალხსნადი სასუქი</span>
                                     </div>
                                     <div class="main-price">
-                                        <a href="product-left-sidebar.html" class="font-default">
+                                        <a href="product_aqualis_12.php" class="font-default">
                                             <h5 class="ms-0">აკვალის 12.8.31</h5>
                                         </a>
                                         <div class="listing-content">
@@ -1571,7 +1418,7 @@
                             </div>
                         </div>
 
-                        <div>
+                        <div class="productcheck" data-category="evrochim watersolublefertilizer fertilizer">
                             <div class="product-box">
                                 <div class="img-wrapper">
                                     <div class="front">
@@ -1612,7 +1459,7 @@
                                         <span class="font-light grid-content">წყალხსნადი სასუქი</span>
                                     </div>
                                     <div class="main-price">
-                                        <a href="product-left-sidebar.html" class="font-default">
+                                        <a href="product_aqualis_15.php" class="font-default">
                                             <h5 class="ms-0">აკვალის 15.15.30</h5>
                                         </a>
                                         <div class="listing-content">
@@ -1627,7 +1474,7 @@
                             </div>
                         </div>
 
-                        <div>
+                        <div class="productcheck" data-category="evrochim watersolublefertilizer fertilizer">
                             <div class="product-box">
                                 <div class="img-wrapper">
                                     <div class="front">
@@ -1668,7 +1515,7 @@
                                         <span class="font-light grid-content">წყალხსნადი სასუქი</span>
                                     </div>
                                     <div class="main-price">
-                                        <a href="product-left-sidebar.html" class="font-default">
+                                        <a href="product_aqualis_20.php" class="font-default">
                                             <h5 class="ms-0">აკვალის 20.20.20</h5>
                                         </a>
                                         <div class="listing-content">
@@ -1683,7 +1530,7 @@
                             </div>
                         </div>
 
-                        <div>
+                        <div class="productcheck" data-category="evrochim fertilizer">
                             <div class="product-box">
                                 <div class="img-wrapper">
                                     <div class="front">
@@ -1724,7 +1571,7 @@
                                         <span class="font-light grid-content">სასუქი</span>
                                     </div>
                                     <div class="main-price">
-                                        <a href="product-left-sidebar.html" class="font-default">
+                                        <a href="product_kas_32.php" class="font-default">
                                             <h5 class="ms-0">კას-32</h5>
                                         </a>
                                         <div class="listing-content">
@@ -1739,7 +1586,7 @@
                             </div>
                         </div>
 
-                        <div>
+                        <div class="productcheck" data-category="evrochim fertilizer">
                             <div class="product-box">
                                 <div class="img-wrapper">
                                     <div class="front">
@@ -1780,7 +1627,7 @@
                                         <span class="font-light grid-content">სასუქი</span>
                                     </div>
                                     <div class="main-price">
-                                        <a href="product-left-sidebar.html" class="font-default">
+                                        <a href="product_rus_gvar.php" class="font-default">
                                             <h5 class="ms-0">რუსული გვარჯილა</h5>
                                         </a>
                                         <div class="listing-content">
@@ -1795,7 +1642,7 @@
                             </div>
                         </div>
 
-                        <div>
+                        <div class="productcheck" data-category="probelte fungicide">
                             <div class="product-box">
                                 <div class="img-wrapper">
                                     <div class="front">
@@ -1836,7 +1683,7 @@
                                         <span class="font-light grid-content">ფუნგიციდი</span>
                                     </div>
                                     <div class="main-price">
-                                        <a href="product-left-sidebar.html" class="font-default">
+                                        <a href="product_fosbel.php" class="font-default">
                                             <h5 class="ms-0">ფოსბელ ექსტრა</h5>
                                         </a>
                                         <div class="listing-content">
@@ -1851,7 +1698,7 @@
                             </div>
                         </div>
 
-                        <div>
+                        <div class="productcheck" data-category="rainbow insecticide">
                             <div class="product-box">
                                 <div class="img-wrapper">
                                     <div class="front">
@@ -1892,7 +1739,7 @@
                                         <span class="font-light grid-content">ინსექტიციდი</span>
                                     </div>
                                     <div class="main-price">
-                                        <a href="product-left-sidebar.html" class="font-default">
+                                        <a href="product_abamet.php" class="font-default">
                                             <h5 class="ms-0">აბამეთი</h5>
                                         </a>
                                         <div class="listing-content">
@@ -1907,7 +1754,7 @@
                             </div>
                         </div>
 
-                        <div>
+                        <div class="productcheck" data-category="rustvisazoti fertilizer">
                             <div class="product-box">
                                 <div class="img-wrapper">
                                     <div class="front">
@@ -1948,7 +1795,7 @@
                                         <span class="font-light grid-content">სასუქი</span>
                                     </div>
                                     <div class="main-price">
-                                        <a href="product-left-sidebar.html" class="font-default">
+                                        <a href="product_gvarjila.php" class="font-default">
                                             <h5 class="ms-0">გვარჯილა</h5>
                                         </a>
                                         <div class="listing-content">
@@ -1963,7 +1810,7 @@
                             </div>
                         </div>
 
-                        <div>
+                        <div class="productcheck" data-category="ukravit herbicide">
                             <div class="product-box">
                                 <div class="img-wrapper">
                                     <div class="front">
@@ -2019,7 +1866,7 @@
                             </div>
                         </div>
 
-                        <div>
+                        <div class="productcheck" data-category="upl fungicide">
                             <div class="product-box">
                                 <div class="img-wrapper">
                                     <div class="front">
@@ -2075,12 +1922,12 @@
                             </div>
                         </div>
 
-                        <div>
+                        <div class="productcheck" data-category="ww fungicide">
                             <div class="product-box">
                                 <div class="img-wrapper">
                                     <div class="front">
                                         <a href="product_nixon.php">
-                                            <img src="assets/images/products/karbamid.jpg"
+                                            <img src="assets/images/products/nixon.jpg"
                                                 class="bg-img blur-up lazyload" alt="">
                                         </a>
                                     </div>
@@ -2131,7 +1978,7 @@
                             </div>
                         </div>
 
-                        <div>
+                        <div class="productcheck" data-category="ww fungicide">
                             <div class="product-box">
                                 <div class="img-wrapper">
                                     <div class="front">
@@ -2187,7 +2034,7 @@
                             </div>
                         </div>
 
-                        <div>
+                        <div class="productcheck" data-category="ww fungicide">
                             <div class="product-box">
                                 <div class="img-wrapper">
                                     <div class="front">
