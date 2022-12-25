@@ -6073,7 +6073,7 @@ header .main-navbar .nav-menu>li.mega-menu.home-menu .megamenu-image-title {
 
 .banner-poster .slider-bg .bg-text span {
   font-size: calc(32px + (240 - 42) * ((30vw - 20px) / (1920 - 320)));
-  font-family: "Montserrat", sans-serif;
+  /* font-family: "Montserrat", sans-serif; */
   font-weight: 900;
   color: #ffffff;
   position: absolute;
@@ -8059,6 +8059,7 @@ header .main-navbar .nav-menu>li.mega-menu.home-menu .megamenu-image-title {
     right: -5px;
   }
 }
+
 
 /**=====================
      category css start

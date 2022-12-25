@@ -1859,8 +1859,8 @@
                             <div class="product-box">
                                 <div class="img-wrapper">
                                     <div class="front">
-                                        <a href="product_karbamid.php">
-                                            <img src="assets/images/products/karbamid.jpg"
+                                        <a href="product_rus_gvar.php">
+                                            <img src="assets/images/products/rus-gvarjila.jpg"
                                                 class="bg-img blur-up lazyload" alt="">
                                         </a>
                                     </div>
@@ -1897,14 +1897,14 @@
                                     </div>
                                     <div class="main-price">
                                         <a href="product-left-sidebar.html" class="font-default">
-                                            <h5 class="ms-0">კარბამიდი</h5>
+                                            <h5 class="ms-0">რუსული გვარჯილა</h5>
                                         </a>
                                         <div class="listing-content">
                                             <span class="font-light">სასუქი</span>
-                                            <p class="font-light">კარბამიდი (შარდოვანა) - ყველაზე კონცენტრირებული მარცვლოვანი აზოტის სასუქი (46,2% აზოტი).</p>
+                                            <p class="font-light">ამონიუმის ნიტრატის სასუქი (UAN) არის უნივერსალური მარცვლოვანი აზოტის სასუქი, რომელიც შეიცავს აზოტს ამონიუმის და ნიტრატის სახით (33.5% აზოტი).</p>
                                         </div>
-                                        <h3 class="theme-color">₾180.00</h3>
-                                        <button onclick="location.href = 'product_karbamid.php';" class="btn listing-content">Add
+                                        <h3 class="theme-color">₾105.00</h3>
+                                        <button onclick="location.href = 'product_rus_gvar.php';" class="btn listing-content">Add
                                             To Cart</button>
                                     </div>
                                 </div>
@@ -1915,8 +1915,8 @@
                             <div class="product-box">
                                 <div class="img-wrapper">
                                     <div class="front">
-                                        <a href="product_karbamid.php">
-                                            <img src="assets/images/products/karbamid.jpg"
+                                        <a href="product_fosbel.php">
+                                            <img src="assets/images/products/fosbel-extra.jpg"
                                                 class="bg-img blur-up lazyload" alt="">
                                         </a>
                                     </div>
@@ -1949,18 +1949,18 @@
                                 </div>
                                 <div class="product-details">
                                     <div class="rating-details">
-                                        <span class="font-light grid-content">სასუქი</span>
+                                        <span class="font-light grid-content">ფუნგიციდი</span>
                                     </div>
                                     <div class="main-price">
                                         <a href="product-left-sidebar.html" class="font-default">
-                                            <h5 class="ms-0">კარბამიდი</h5>
+                                            <h5 class="ms-0">ფოსბელ ექსტრა</h5>
                                         </a>
                                         <div class="listing-content">
-                                            <span class="font-light">სასუქი</span>
-                                            <p class="font-light">კარბამიდი (შარდოვანა) - ყველაზე კონცენტრირებული მარცვლოვანი აზოტის სასუქი (46,2% აზოტი).</p>
+                                            <span class="font-light">ფუნგიციდი</span>
+                                            <p class="font-light">ფოსბელ ექსტრა აერთიანებს ფოსეთილის მოქმედების სისტემურ მეთოდს, ფოლპეტის მოქმედების კონტაქტურ მეთოდს და ციმოქსანილის შეღწევადობას. გამოირჩევა განსაკუთრებული უნარით, გადაადგილდება მცენარეში წვენთან ერთად როგორც ზევიდან ქვევით ასევე ქვევიდან ზევით მიმართულებით. აკონტროლებს პათოგენის აგენტს ინკუპაციის პერიოდში, ხელს უშლის მიცელიუმის ზრდას, სპორების წარმოქმნას და პათოგენების გამრავლებას. ფოსბელ ექსტრა ხელს უწყობს მცენარეების ფიზიოლოგიური დაცვის უნარის გაძლიერებას. შეთავსებადია სხვა პესტიციდებთან და სასუქებთან გარდა გოგირდისა და შაბიამნისა.</p>
                                         </div>
-                                        <h3 class="theme-color">₾180.00</h3>
-                                        <button onclick="location.href = 'product_karbamid.php';" class="btn listing-content">Add
+                                        <h3 class="theme-color">₾82.00</h3>
+                                        <button onclick="location.href = 'product_fosbel.php';" class="btn listing-content">Add
                                             To Cart</button>
                                     </div>
                                 </div>
@@ -1971,8 +1971,8 @@
                             <div class="product-box">
                                 <div class="img-wrapper">
                                     <div class="front">
-                                        <a href="product_karbamid.php">
-                                            <img src="assets/images/products/karbamid.jpg"
+                                        <a href="product_abamet.php">
+                                            <img src="assets/images/products/abamet.jpg"
                                                 class="bg-img blur-up lazyload" alt="">
                                         </a>
                                     </div>
@@ -2005,18 +2005,18 @@
                                 </div>
                                 <div class="product-details">
                                     <div class="rating-details">
-                                        <span class="font-light grid-content">სასუქი</span>
+                                        <span class="font-light grid-content">ინსექტიციდი</span>
                                     </div>
                                     <div class="main-price">
                                         <a href="product-left-sidebar.html" class="font-default">
-                                            <h5 class="ms-0">კარბამიდი</h5>
+                                            <h5 class="ms-0">აბამეთი</h5>
                                         </a>
                                         <div class="listing-content">
-                                            <span class="font-light">სასუქი</span>
-                                            <p class="font-light">კარბამიდი (შარდოვანა) - ყველაზე კონცენტრირებული მარცვლოვანი აზოტის სასუქი (46,2% აზოტი).</p>
+                                            <span class="font-light">ინსექტიციდი</span>
+                                            <p class="font-light">აბამეტი არის წამყვანი აკარიციდი/ინსექტიციდი და მოქმედებს ძირითადად გადაყლაპვით, მაგრამ ასევე აქვს კონტაქტური და ტრანსლამინარული აქტივობა, რაც იმას ნიშნავს, რომ აქტიური ინგრედიენტი გადადის ფოთლის ქსოვილში და ქმნის აბამექტინის ტოქსიკურ რეზერვუარს, რომელიც აგრძელებს მავნებლების მოკვლას, რადგან ისინი იკვებებიან მესფილის ქსოვილით.</p>
                                         </div>
-                                        <h3 class="theme-color">₾180.00</h3>
-                                        <button onclick="location.href = 'product_karbamid.php';" class="btn listing-content">Add
+                                        <h3 class="theme-color">₾33.00</h3>
+                                        <button onclick="location.href = 'product_abamet.php';" class="btn listing-content">Add
                                             To Cart</button>
                                     </div>
                                 </div>
@@ -2027,8 +2027,8 @@
                             <div class="product-box">
                                 <div class="img-wrapper">
                                     <div class="front">
-                                        <a href="product_karbamid.php">
-                                            <img src="assets/images/products/karbamid.jpg"
+                                        <a href="product_gvarjila.php">
+                                            <img src="assets/images/products/gvarjila.jpg"
                                                 class="bg-img blur-up lazyload" alt="">
                                         </a>
                                     </div>
@@ -2065,14 +2065,14 @@
                                     </div>
                                     <div class="main-price">
                                         <a href="product-left-sidebar.html" class="font-default">
-                                            <h5 class="ms-0">კარბამიდი</h5>
+                                            <h5 class="ms-0">გვარჯილა</h5>
                                         </a>
                                         <div class="listing-content">
                                             <span class="font-light">სასუქი</span>
-                                            <p class="font-light">კარბამიდი (შარდოვანა) - ყველაზე კონცენტრირებული მარცვლოვანი აზოტის სასუქი (46,2% აზოტი).</p>
+                                            <p class="font-light">აზოტოვანი ჯგუფის მინერალური სასუქებიდან ამონიუმის გვარჯილა უნივერსალური, მაღალკონცენტრირებული აზოტოვანი სასუქია. მასში ძირითადი მკვებავი ელემენტი აზოტია, რომლის შემცველობაც პროდუქტში მინიმუმ 34,4 % -ია, აქედან 17,2 % აზოტს იგი შეიცავს ნიტრატული და ასევე 17,2 % აზოტს ამიაკური ფორმით. ეფექტურობის მხრივ მას პირველი ადგილი უჭირავს აზოტოვან სასუქებს შორის, რადგანაც იგი გამოიყენება ყველანაირი ტიპის ნიადაგებისათვის და სასოფლო - სამეურნეო კულტურების უმეტესობისათვის, როგორც ძირითადი, ასევე თესვისწინა და დამატებითი კვების უზრუნველყოფის მიზნით. ამონიუმის გვარჯილის სწორი დოზირებით მოსავლის რაოდენობა იზრდება 35 – 38 % -ით, ხოლო ნიადაგში აზოტის დეფიციტი განაპირობებს მცენარის განვითარების შეჩერებას და დაბალ მოსავლიანობას.</p>
                                         </div>
-                                        <h3 class="theme-color">₾180.00</h3>
-                                        <button onclick="location.href = 'product_karbamid.php';" class="btn listing-content">Add
+                                        <h3 class="theme-color">₾74.00</h3>
+                                        <button onclick="location.href = 'product_gvarjila.php';" class="btn listing-content">Add
                                             To Cart</button>
                                     </div>
                                 </div>
