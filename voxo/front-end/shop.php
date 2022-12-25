@@ -2083,8 +2083,8 @@
                             <div class="product-box">
                                 <div class="img-wrapper">
                                     <div class="front">
-                                        <a href="product_karbamid.php">
-                                            <img src="assets/images/products/karbamid.jpg"
+                                        <a href="product_galant.php">
+                                            <img src="assets/images/products/galant.jpg"
                                                 class="bg-img blur-up lazyload" alt="">
                                         </a>
                                     </div>
@@ -2117,18 +2117,18 @@
                                 </div>
                                 <div class="product-details">
                                     <div class="rating-details">
-                                        <span class="font-light grid-content">სასუქი</span>
+                                        <span class="font-light grid-content">ჰერბიციდი</span>
                                     </div>
                                     <div class="main-price">
-                                        <a href="product-left-sidebar.html" class="font-default">
-                                            <h5 class="ms-0">კარბამიდი</h5>
+                                        <a href="product_galant.php" class="font-default">
+                                            <h5 class="ms-0">გალანტი</h5>
                                         </a>
                                         <div class="listing-content">
-                                            <span class="font-light">სასუქი</span>
-                                            <p class="font-light">კარბამიდი (შარდოვანა) - ყველაზე კონცენტრირებული მარცვლოვანი აზოტის სასუქი (46,2% აზოტი).</p>
+                                            <span class="font-light">ჰერბიციდი</span>
+                                            <p class="font-light">ამონიუმის გლუფოსინატი - ბლოკავს ფერმენტ გლუტამინსინთეზატის ფუნქციონირებას, რაც იწვევს უჯრედში ამიაკის შემცველობის მატებას, რის შედეგადაც ხდება ფოტოსინთეზის პროცესის ჩახშობა, მემბრანული ფუნქციის რღვევა და ცილების ბიოსინთეზის კლება. ამიაკის მაღალი შემცველობა рН-ის ნიშნულს ქვემოთ წევს მთლიან მემბრანაში, ამცირებს მცენარის ზრდა განვითარებისთვის გამომუშავებულ ენერგიას. ამიაკის ტოქსიკურ ნიშნულამდე დაგროვების შედეგად მცენარეში ხდება მწვანე მასის სწრაფი ხმობა და განადგურება.</p>
                                         </div>
-                                        <h3 class="theme-color">₾180.00</h3>
-                                        <button onclick="location.href = 'product_karbamid.php';" class="btn listing-content">Add
+                                        <h3 class="theme-color">₾63.00</h3>
+                                        <button onclick="location.href = 'product_galant.php';" class="btn listing-content">Add
                                             To Cart</button>
                                     </div>
                                 </div>
@@ -2139,8 +2139,8 @@
                             <div class="product-box">
                                 <div class="img-wrapper">
                                     <div class="front">
-                                        <a href="product_karbamid.php">
-                                            <img src="assets/images/products/karbamid.jpg"
+                                        <a href="product_blue_bordo.php">
+                                            <img src="assets/images/products/blue-bordo.jpg"
                                                 class="bg-img blur-up lazyload" alt="">
                                         </a>
                                     </div>
@@ -2173,18 +2173,18 @@
                                 </div>
                                 <div class="product-details">
                                     <div class="rating-details">
-                                        <span class="font-light grid-content">სასუქი</span>
+                                        <span class="font-light grid-content">ფუნგიციდი</span>
                                     </div>
                                     <div class="main-price">
-                                        <a href="product-left-sidebar.html" class="font-default">
-                                            <h5 class="ms-0">კარბამიდი</h5>
+                                        <a href="product_blue_bordo.php" class="font-default">
+                                            <h5 class="ms-0">ბლუ ბორდო</h5>
                                         </a>
                                         <div class="listing-content">
-                                            <span class="font-light">სასუქი</span>
-                                            <p class="font-light">კარბამიდი (შარდოვანა) - ყველაზე კონცენტრირებული მარცვლოვანი აზოტის სასუქი (46,2% აზოტი).</p>
+                                            <span class="font-light">ფუნგიციდი</span>
+                                            <p class="font-light">ბლუ ბორდო დისპერსი არის ფართო სპექტრის უნივერსალური ფუნგიციდი, რომელსაც გააჩნია ისეთი სოკოვანი და ბაქტერიული დაავადებვებისგან მცენარის დაცვის უნარი როგორიცაა: ჭრაქი, ატმის ფოთლის სიხუჭუჭე, კლასტეროსპოროზი, მონოლიოზი, ფიტოფტორა, ალტერნარიოზი, ფოთლის ლაქიანობები, ბაქტერიული ნეკროზი და სხვა. ბლუ ბორდო დისპერსს ახასიათებს კარგი მიმწებებლობის უნარი, რაც ზრდის დაცვითი მოქმედების ხანგრძლივობას. დაშვებულია ორგანულ სოფლის მეურნეობაში.</p>
                                         </div>
-                                        <h3 class="theme-color">₾180.00</h3>
-                                        <button onclick="location.href = 'product_karbamid.php';" class="btn listing-content">Add
+                                        <h3 class="theme-color">₾220.00</h3>
+                                        <button onclick="location.href = 'product_blue_bordo.php';" class="btn listing-content">Add
                                             To Cart</button>
                                     </div>
                                 </div>
@@ -2195,7 +2195,7 @@
                             <div class="product-box">
                                 <div class="img-wrapper">
                                     <div class="front">
-                                        <a href="product_karbamid.php">
+                                        <a href="product_nixon.php">
                                             <img src="assets/images/products/karbamid.jpg"
                                                 class="bg-img blur-up lazyload" alt="">
                                         </a>
@@ -2229,18 +2229,18 @@
                                 </div>
                                 <div class="product-details">
                                     <div class="rating-details">
-                                        <span class="font-light grid-content">სასუქი</span>
+                                        <span class="font-light grid-content">ფუნგიციდი</span>
                                     </div>
                                     <div class="main-price">
-                                        <a href="product-left-sidebar.html" class="font-default">
-                                            <h5 class="ms-0">კარბამიდი</h5>
+                                        <a href="product_nixon.php" class="font-default">
+                                            <h5 class="ms-0">ნიქსონი</h5>
                                         </a>
                                         <div class="listing-content">
-                                            <span class="font-light">სასუქი</span>
-                                            <p class="font-light">კარბამიდი (შარდოვანა) - ყველაზე კონცენტრირებული მარცვლოვანი აზოტის სასუქი (46,2% აზოტი).</p>
+                                            <span class="font-light">ფუნგიციდი</span>
+                                            <p class="font-light">ნიქსონი არის სისტემურ–კონტაქტური მოქმედების ფუნგიციდი, რომელსაც გააჩნია, როგორც პროფილაქტიკური, ასევე სამკურნალო მოქმედება და გამოიყენება ვაზის, კარტოფილის, ბოსტნეულისა და სხვა სასოფლო–სამეურნეო კულტურების ძირითადი სოკოვანი დაავადებებისაგან დასაცავად.</p>
                                         </div>
-                                        <h3 class="theme-color">₾180.00</h3>
-                                        <button onclick="location.href = 'product_karbamid.php';" class="btn listing-content">Add
+                                        <h3 class="theme-color">₾12.00</h3>
+                                        <button onclick="location.href = 'product_nixon.php';" class="btn listing-content">Add
                                             To Cart</button>
                                     </div>
                                 </div>
@@ -2251,8 +2251,8 @@
                             <div class="product-box">
                                 <div class="img-wrapper">
                                     <div class="front">
-                                        <a href="product_karbamid.php">
-                                            <img src="assets/images/products/karbamid.jpg"
+                                        <a href="product_actec.php">
+                                            <img src="assets/images/products/actek.jpg"
                                                 class="bg-img blur-up lazyload" alt="">
                                         </a>
                                     </div>
@@ -2285,18 +2285,18 @@
                                 </div>
                                 <div class="product-details">
                                     <div class="rating-details">
-                                        <span class="font-light grid-content">სასუქი</span>
+                                        <span class="font-light grid-content">ფუნგიციდი</span>
                                     </div>
                                     <div class="main-price">
-                                        <a href="product-left-sidebar.html" class="font-default">
-                                            <h5 class="ms-0">კარბამიდი</h5>
+                                        <a href="product_actec.php" class="font-default">
+                                            <h5 class="ms-0">აცტეკი</h5>
                                         </a>
                                         <div class="listing-content">
-                                            <span class="font-light">სასუქი</span>
-                                            <p class="font-light">კარბამიდი (შარდოვანა) - ყველაზე კონცენტრირებული მარცვლოვანი აზოტის სასუქი (46,2% აზოტი).</p>
+                                            <span class="font-light">ფუნგიციდი</span>
+                                            <p class="font-light">აცტეკი წარმოადგენს ტრანსლამინარულ ინსექტო-აკარიციდს, რომელიც ებრძვის სასოფლო სამეურნეო კულტურების ყველა სახეობის მავნე ტკიპებსა და ჭიჭინობელებს. იგი მოქმედებს ტკიპების განვითარების ყველა ფაზაზე, მათ შორის ტკიპას კვერცხებზეც. პრეპარატი მოქმედებს შეხებით და საჭმლის მომნელებელი სისტემის საშუალებით. შესხურებისთანავე იჭრება მცენარის წვენში და ანადგურებს იმ ტკიპასაც, რომელიც წამლობისას არ იმყოფებოდა კონტაქტში. მას გააჩნია შერჩევითი მოქმედების უნარი.</p>
                                         </div>
-                                        <h3 class="theme-color">₾180.00</h3>
-                                        <button onclick="location.href = 'product_karbamid.php';" class="btn listing-content">Add
+                                        <h3 class="theme-color">₾33.00</h3>
+                                        <button onclick="location.href = 'product_actec.php';" class="btn listing-content">Add
                                             To Cart</button>
                                     </div>
                                 </div>
@@ -2307,8 +2307,8 @@
                             <div class="product-box">
                                 <div class="img-wrapper">
                                     <div class="front">
-                                        <a href="product_karbamid.php">
-                                            <img src="assets/images/products/karbamid.jpg"
+                                        <a href="product_sulfavita.php">
+                                            <img src="assets/images/products/sulfavita.jpg"
                                                 class="bg-img blur-up lazyload" alt="">
                                         </a>
                                     </div>
@@ -2341,18 +2341,18 @@
                                 </div>
                                 <div class="product-details">
                                     <div class="rating-details">
-                                        <span class="font-light grid-content">სასუქი</span>
+                                        <span class="font-light grid-content">ფუნგიციდი</span>
                                     </div>
                                     <div class="main-price">
-                                        <a href="product-left-sidebar.html" class="font-default">
+                                        <a href="product_sulfavita.php" class="font-default">
                                             <h5 class="ms-0">კარბამიდი</h5>
                                         </a>
                                         <div class="listing-content">
-                                            <span class="font-light">სასუქი</span>
-                                            <p class="font-light">კარბამიდი (შარდოვანა) - ყველაზე კონცენტრირებული მარცვლოვანი აზოტის სასუქი (46,2% აზოტი).</p>
+                                            <span class="font-light">ფუნგიციდი</span>
+                                            <p class="font-light">სულფოვიტა არის კონტაქტური მოქმედების ფუნგიციდი და აკარიციდი, რომელიც გამოიყენება უმეტესი სასოფლო–სამეურნეო კულტურების ნაცროვანი და ზოგიერთი სხვა სახის დაავადებებისა და ტკიპების წინააღმდეგ. სულფოვიტას უნიკალური პრეპარატული ფორმის მეშვეობით ახასიათებს კარგი მიმწებებლობა, ასევე კონტაქტური მოქმედება და აქტიურობა აირად ფაზაში. მისი ნაწილაკების იდეალური ზომა განაპირობებს კარგ ხსნადობას, წარმოქმნის ერთგვაროვან და მდგრად სუსპენზიას. სულფოვიტას გამოყენება დაშვებულია ორგანულ მეურნეობაში.</p>
                                         </div>
-                                        <h3 class="theme-color">₾180.00</h3>
-                                        <button onclick="location.href = 'product_karbamid.php';" class="btn listing-content">Add
+                                        <h3 class="theme-color">₾12.00</h3>
+                                        <button onclick="location.href = 'product_sulfavita.php';" class="btn listing-content">Add
                                             To Cart</button>
                                     </div>
                                 </div>
