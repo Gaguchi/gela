@@ -12,8 +12,8 @@
                                     <div class="details-image ratio_asos">
                                         <div>
                                             <div class="product-image-tag">
-                                                <img src="assets/images/products/abamet.jpg" id="zoom_01"
-                                                    data-zoom-image="assets/images/products/abamet.jpg"
+                                                <img src="assets/images/products/galant.jpg" id="zoom_01"
+                                                    data-zoom-image="assets/images/products/galant.jpg"
                                                     class="img-fluid w-100 image_zoom_cls-0 blur-up lazyload" alt="">
                                             </div>
                                         </div>
