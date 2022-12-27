@@ -96,70 +96,70 @@
                                         <ul class="category-list" id="filters-brand">
                                             <li>
                                                 <div class="form-check ps-0 custome-form-check">
-                                                    <input class="checkbox_animated check-it" type="checkbox" value="avgust"
+                                                    <input class="checkbox_animated check-it" type="checkbox" name="brand" value="avgust"
                                                         id="flexCheckDefault1">
                                                     <label class="form-check-label" for="flexCheckDefault1">Avgust</label>
                                                 </div>
                                             </li>
                                             <li>
                                                 <div class="form-check ps-0 custome-form-check">
-                                                    <input class="checkbox_animated check-it" type="checkbox" value="evrochim"
+                                                    <input class="checkbox_animated check-it" type="checkbox" name="brand" value="evrochim"
                                                         id="flexCheckDefault4">
                                                     <label class="form-check-label" for="flexCheckDefault4">evrochim</label>
                                                 </div>
                                             </li>
                                             <li>
                                                 <div class="form-check ps-0 custome-form-check">
-                                                    <input class="checkbox_animated check-it" type="checkbox" value="ww"
+                                                    <input class="checkbox_animated check-it" type="checkbox" name="brand" value="ww"
                                                         id="flexCheckDefault9">
                                                     <label class="form-check-label" for="flexCheckDefault9">WILLIAMS WEST</label>
                                                 </div>
                                             </li>
                                             <li>
                                                 <div class="form-check ps-0 custome-form-check">
-                                                    <input class="checkbox_animated check-it" type="checkbox" value="upl"
+                                                    <input class="checkbox_animated check-it" type="checkbox" name="brand" value="upl"
                                                         id="flexCheckDefault8">
                                                     <label class="form-check-label" for="flexCheckDefault8">UPL</label>
                                                 </div>
                                             </li>
                                             <li>
                                                 <div class="form-check ps-0 custome-form-check">
-                                                    <input class="checkbox_animated check-it" type="checkbox" value="ukravit"
+                                                    <input class="checkbox_animated check-it" type="checkbox" name="brand" value="ukravit"
                                                         id="flexCheckDefault8">
                                                     <label class="form-check-label" for="flexCheckDefault8">ukravit</label>
                                                 </div>
                                             </li>
                                             <li>
                                                 <div class="form-check ps-0 custome-form-check">
-                                                    <input class="checkbox_animated check-it" type="checkbox" value="cankarn" 
+                                                    <input class="checkbox_animated check-it" type="checkbox" name="brand" value="cankarn" 
                                                         id="flexCheckDefault2">
                                                     <label class="form-check-label" for="flexCheckDefault2">Cankarn</label>
                                                 </div>
                                             </li>
                                             <li>
                                                 <div class="form-check ps-0 custome-form-check">
-                                                    <input class="checkbox_animated check-it" type="checkbox" value="chemia"
+                                                    <input class="checkbox_animated check-it" type="checkbox" name="brand" value="chemia"
                                                         id="flexCheckDefault3">
                                                     <label class="form-check-label" for="flexCheckDefault3">Chemia S.P.A</label>
                                                 </div>
                                             </li>
                                             <li>
                                                 <div class="form-check ps-0 custome-form-check">
-                                                    <input class="checkbox_animated check-it" type="checkbox" value="probelte"
+                                                    <input class="checkbox_animated check-it" type="checkbox" name="brand" value="probelte"
                                                         id="flexCheckDefault5">
                                                     <label class="form-check-label" for="flexCheckDefault5">Probelte S.A.U</label>
                                                 </div>
                                             </li>
                                             <li>
                                                 <div class="form-check ps-0 custome-form-check">
-                                                    <input class="checkbox_animated check-it" type="checkbox" value="rainbow"
+                                                    <input class="checkbox_animated check-it" type="checkbox" name="brand" value="rainbow"
                                                         id="flexCheckDefault6">
                                                     <label class="form-check-label" for="flexCheckDefault6">Rainbow</label>
                                                 </div>
                                             </li>
                                             <li>
                                                 <div class="form-check ps-0 custome-form-check">
-                                                    <input class="checkbox_animated check-it" type="checkbox" value="rustvisazoti"
+                                                    <input class="checkbox_animated check-it" type="checkbox" name="brand" value="rustvisazoti"
                                                         id="flexCheckDefault7">
                                                     <label class="form-check-label" for="flexCheckDefault7">Rustvis azoti</label>
                                                 </div>
@@ -179,10 +179,10 @@
                                 <div id="collapseOne" class="accordion-collapse collapse show"
                                     aria-labelledby="headingOne">
                                     <div class="accordion-body category-scroll">
-                                        <ul class="category-list" id="filters-category">
+                                        <ul class="category-list" id="filters-brand">
                                             <li>
                                                 <div class="form-check ps-0 custome-form-check">
-                                                    <input class="checkbox_animated check-it" type="checkbox" value="herbicide"
+                                                    <input class="checkbox_animated check-it" type="checkbox" name="category" value="herbicide"
                                                         id="flexCheckDefault10">
                                                     <label class="form-check-label"
                                                         for="flexCheckDefault10">ჰერბიციდი</label>
@@ -190,14 +190,14 @@
                                             </li>
                                             <li>
                                                 <div class="form-check ps-0 custome-form-check">
-                                                    <input class="checkbox_animated check-it" type="checkbox" value="fungicide"
+                                                    <input class="checkbox_animated check-it" type="checkbox" name="category" value="fungicide"
                                                         id="flexCheckDefault11">
                                                     <label class="form-check-label" for="flexCheckDefault11">ფუნგიციდი</label>
                                                 </div>
                                             </li>
                                             <li>
                                                 <div class="form-check ps-0 custome-form-check">
-                                                    <input class="checkbox_animated check-it" type="checkbox" value="insecticide"
+                                                    <input class="checkbox_animated check-it" type="checkbox" name="category" value="insecticide"
                                                         id="flexCheckDefault12">
                                                     <label class="form-check-label"
                                                         for="flexCheckDefault12">ინსექტიციდი</label>
@@ -205,7 +205,7 @@
                                             </li>
                                             <li>
                                                 <div class="form-check ps-0 custome-form-check">
-                                                    <input class="checkbox_animated check-it" type="checkbox" value="fertilizer"
+                                                    <input class="checkbox_animated check-it" type="checkbox" name="category" value="fertilizer"
                                                         id="flexCheckDefault13">
                                                     <label class="form-check-label"
                                                         for="flexCheckDefault13">სასუქი</label>
@@ -213,7 +213,7 @@
                                             </li>
                                             <li>
                                                 <div class="form-check ps-0 custome-form-check">
-                                                    <input class="checkbox_animated check-it" type="checkbox" value="watersolublefertilizer"
+                                                    <input class="checkbox_animated check-it" type="checkbox" name="category" value="watersolublefertilizer"
                                                         id="flexCheckDefault14">
                                                     <label class="form-check-label"
                                                         for="flexCheckDefault14">წყალხსნადი სასუქი</label>
@@ -221,7 +221,7 @@
                                             </li>
                                             <li>
                                                 <div class="form-check ps-0 custome-form-check">
-                                                    <input class="checkbox_animated check-it" type="checkbox" value="combinedfertilizer"
+                                                    <input class="checkbox_animated check-it" type="checkbox" name="category" value="combinedfertilizer"
                                                         id="flexCheckDefault15">
                                                     <label class="form-check-label"
                                                         for="flexCheckDefault15">კომბინირებული სასუქი</label>
@@ -229,7 +229,7 @@
                                             </li>
                                             <li>
                                                 <div class="form-check ps-0 custome-form-check">
-                                                    <input class="checkbox_animated check-it" type="checkbox" value="helper"
+                                                    <input class="checkbox_animated check-it" type="checkbox" name="category" value="helper"
                                                         id="flexCheckDefault16">
                                                     <label class="form-check-label"
                                                         for="flexCheckDefault16">დამხმარე</label>

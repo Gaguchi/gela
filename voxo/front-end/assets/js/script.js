@@ -790,39 +790,39 @@ wordflick();
  ==========================*/
 
 
-$('#shop-1').on('click', function (e) {
-    if (!$(this).hasClass("active")){
-        $("#shop-2").removeClass("active");
-        $(this).addClass("active");
-        $(".products-section-2").removeClass("unhidden-section").addClass("hidden-section");
-        $(".products-section-1").removeClass("hidden-section").addClass("unhidden-section");
-    }
-    });
+// $('#shop-1').on('click', function (e) {
+//     if (!$(this).hasClass("active")){
+//         $("#shop-2").removeClass("active");
+//         $(this).addClass("active");
+//         $(".products-section-2").removeClass("unhidden-section").addClass("hidden-section");
+//         $(".products-section-1").removeClass("hidden-section").addClass("unhidden-section");
+//     }
+//     });
 
-$('#shop-2').on('click', function (e) {
-    if (!$(this).hasClass("active")){
-        $("#shop-1").removeClass("active");
-        $(this).addClass("active");
-        $(".products-section-1").removeClass("unhidden-section").addClass("hidden-section");
-        $(".products-section-2").removeClass("hidden-section").addClass("unhidden-section");
-    }
-    });
-
-
-$("#filters-brand :checkbox").click(function() {
-    $(".productcheck").hide();
-    $("#filters-brand :checkbox:checked").each(function() {
-        $("." + $(this).val()).show();
-    });
-    });
+// $('#shop-2').on('click', function (e) {
+//     if (!$(this).hasClass("active")){
+//         $("#shop-1").removeClass("active");
+//         $(this).addClass("active");
+//         $(".products-section-1").removeClass("unhidden-section").addClass("hidden-section");
+//         $(".products-section-2").removeClass("hidden-section").addClass("unhidden-section");
+//     }
+//     });
 
 
-$("#filters-category :checkbox").click(function() {
-    $(".productcheck").hide();
-    $("#filters-category :checkbox:checked").each(function() {
-        $("." + $(this).val()).show();
-    });
-    });
+// $("#filters-brand :checkbox").click(function() {
+//     $(".productcheck").hide();
+//     $("#filters-brand :checkbox:checked").each(function() {
+//         $("." + $(this).val()).show();
+//     });
+//     });
+
+
+// $("#filters-category :checkbox").click(function() {
+//     $(".productcheck").hide();
+//     $("#filters-category :checkbox:checked").each(function() {
+//         $("." + $(this).val()).show();
+//     });
+//     });
 
     // $("#filters :checkbox").click(function() {
 
