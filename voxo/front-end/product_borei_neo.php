@@ -7,7 +7,7 @@
                 <div class="col-12">
                     <div class="details-items">
                         <div class="row g-4">
-                            <div class="col-md-6">
+                            <div class="col-md-5">
                                 <div class="degree-section">
                                     <div class="details-image ratio_asos">
                                         <div>
@@ -21,7 +21,7 @@
                                 </div>
                             </div>
 
-                            <div class="col-md-6">
+                            <div class="col-md-7">
                                 <div class="cloth-details-size">
 
                                     <div class="details-image-concept">
@@ -32,7 +32,7 @@
                                         <span class="badge badge-grey-color">ინსექტიციდი</span>
                                     </div>
 
-                                    <h3 class="price-detail">₾<span id="pricetag">7</span></h3>
+                                    <h3 class="price-detail">₾<span id="pricetag">7</span> <del id="oldprice"></del> <span id="discount"></span></h3>
 
                                     <div class="color-image">
                                         <div class="image-select">

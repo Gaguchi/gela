@@ -7,7 +7,7 @@
                 <div class="col-12">
                     <div class="details-items">
                         <div class="row g-4">
-                            <div class="col-md-6">
+                            <div class="col-md-5">
                                 <div class="degree-section">
                                     <div class="details-image ratio_asos">
                                         <div>
@@ -21,7 +21,7 @@
                                 </div>
                             </div>
 
-                            <div class="col-md-6">
+                            <div class="col-md-7">
                                 <div class="cloth-details-size">
 
                                     <div class="details-image-concept">

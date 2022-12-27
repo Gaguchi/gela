@@ -7,13 +7,13 @@
                 <div class="col-12">
                     <div class="details-items">
                         <div class="row g-4">
-                            <div class="col-md-6">
+                            <div class="col-md-5">
                                 <div class="degree-section">
                                     <div class="details-image ratio_asos">
                                         <div>
                                             <div class="product-image-tag">
-                                                <img src="assets/images/products/aqualis-15.jpg" id="zoom_01"
-                                                    data-zoom-image="assets/images/products/aqualis-15.jpg"
+                                                <img src="assets/images/products/aqualis-20.jpg" id="zoom_01"
+                                                    data-zoom-image="assets/images/products/aqualis-20.jpg"
                                                     class="img-fluid w-100 image_zoom_cls-0 blur-up lazyload" alt="">
                                             </div>
                                         </div>
@@ -21,7 +21,7 @@
                                 </div>
                             </div>
 
-                            <div class="col-md-6">
+                            <div class="col-md-7">
                                 <div class="cloth-details-size">
 
                                     <div class="details-image-concept">
