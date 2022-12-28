@@ -920,6 +920,8 @@ wordflick();
         price = $("#activeprice").attr('realvalue')*$(".input-number").val();
         oldprice = $("#activeprice").attr('value')*$(".input-number").val();
         discount = $("#activeprice").attr('value')*$(".input-number").val() - $("#activeprice").attr('realvalue')*$(".input-number").val();
+        unit_price = $("#activeprice").attr('value');
+        unit_price_discount = $("#activeprice").attr('realvalue');
     };
 
     $("#oldprice").text('₾' + oldprice.toFixed(2));
