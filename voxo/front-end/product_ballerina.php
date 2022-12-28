@@ -32,27 +32,9 @@
                                         <span class="badge badge-grey-color">ჰერბიციდი</span>
                                     </div>
 
-                                    <h3 class="price-detail">₾<span id="pricetag">22</span></h3>
-
-                                    <div class="color-image">
-                                        <div class="image-select">
-                                            <h5>გამოიყენება :</h5>
-                                            <ul class="image-section">
-                                                <li>
-                                                    <a href="javascript:void(0)">
-                                                        <img src="assets/images/fashion/product/front/corn.jpg"
-                                                            class="img-fluid blur-up lazyload" alt="">
-                                                    </a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </div>
+                                    <h3 class="price-detail">₾<span id="pricetag">25.00</span> <del id="oldprice"></del> <span id="discount"></span></h3>
 
                                     <div id="selectSize" class="addeffect-section product-description border-product">
-                                        <h6 class="product-title size-text">აირჩიეთ მოცულობა
-                                            <a href="javascript:void(0)" data-bs-toggle="modal"
-                                                data-bs-target="#sizemodal">size chart</a>
-                                        </h6>
 
                                         <h6 class="error-message">მოცულობა</h6>
 
@@ -170,7 +152,7 @@
                                         <p class="font-light">სისტემური ჰერბიციდი ყოველწლიური ორკოტილედონების წინააღმდეგ, მათ შორის 2,4-D და MCPA-ს მიმართ რეზისტენტული და ზოგიერთი მრავალწლიანი ფესვის გასროლის სარეველა მარცვლეულის, სიმინდის, ფეტვისა და სორგოს კულტურებში.</p>
                                     </div>
                                     <div class="row g-3 align-items-center">
-                                        <div class="col-lg-8">
+                                        <div class="col-lg-12">
                                             <h4 class="inner-title mb-2">ძირითადი უპირატესობები</h4>
                                             <ol>
                                                 <li>მაღალი ეფექტურობა ორფოთლიანი სარეველების ფართო სპექტრის წინააღმდეგ, მათ შორის საწოლები, გვირილა, წიწაკა და ეიფორბია ვაზი</li>
@@ -194,23 +176,13 @@
                                             </div>
                                         </div>
 
-                                        <div class="col-lg-4">
-                                            <img src="assets/images/fashion/slider/corn1.jpg"
-                                                class="img-fluid rounded blur-up lazyload" alt="">
-                                        </div>
-
-                                        <div class="part col-lg-8 order-lg-2 mt-4">
+                                        <div class="part col-lg-12 order-lg-2 mt-4">
                                                 <h4 class="inner-title mb-2">სამუშაო ხსნარის მომზადება:</h4>
                                             <p class="font-light">სამუშაო ხსნარი მზადდება შესხურებამდე დაუყოვნებლივ. გაზომეთ წამლის საჭირო რაოდენობა მფრქვეველის ერთი შევსებისთვის. პრეპარატი შეჰყავთ პირდაპირ გამფრქვევის ავზში, იმ პირობით, რომ ჰიდრავლიკური აგიტატორი კარგად მუშაობს. ამ შემთხვევაში, გამფრქვევი ავზი უნდა იყოს მინიმუმ ნახევრად სავსე წყლით.
 
 იმ შემთხვევებში, როდესაც საჭიროა დედის ხსნარის მომზადება, მასში პრეპარატის კონცენტრაცია არ უნდა აღემატებოდეს 15%-ს. ამისათვის დაამატეთ 1,5 ლიტრი პრეპარატი 10 ლიტრი მოცულობის კონტეინერში (ვედროში) 7,5 ლიტრ წყალთან ერთად და კარგად აურიეთ. ასე მომზადებული სადედე ლიქიორი არ უნდა გაჩერდეს 5 - 10 წუთზე მეტ ხანს, ამიტომ შერევის დასრულებისთანავე მას უმატებენ წყლით სავსე გამფრქვევ ავზს. მიღებულ სამუშაო ხსნარს ურევენ ერთგვაროვანი სუპოემულსიის წარმოქმნამდე. კონტეინერი, რომელშიც ჰერბიციდი იყო განთავსებული, რამდენჯერმე ირეცხება წყლით, შიგთავსი შეედინება მფრქვეველ ავზში.
 
 ჰერბიციდის სამუშაო ხსნარის მომზადება და მფრქვეველის შევსება ხდება სპეციალურ უბნებზე, რომლებიც შემდგომ დეზინფექციას ახდენენ.</p>
-                                        </div>
-
-                                        <div class="col-lg-4 order-lg-0 mt-4">
-                                            <img src="assets/images/fashion/slider/corn2.jpg"
-                                                class="img-fluid rounded blur-up lazyload" alt="">
                                         </div>
                                     </div>
                                 </div>

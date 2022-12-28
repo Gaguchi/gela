@@ -16969,9 +16969,9 @@ header#home {
 }
 
 .price-detail {
-  font-size: 26px;
+  font-size: calc(30px + (25 - 20) * ((100vw - 320px) / (1920 - 320)));
   color: #212529;
-  font-weight: 400;
+  font-weight: 600;
   margin: 15px 0;
 }
 

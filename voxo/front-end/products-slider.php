@@ -12,7 +12,7 @@
                         <div>
                             <div class="product-box">
                                 <div class="img-wrapper">
-                                    <a href="product-left-sidebar.html">
+                                    <a href="products_ballerina.php">
                                         <img src="assets/images/shoes/product/1.jpg"
                                             class="bg-img img-fluid blur-up lazyload" alt="">
                                     </a>
@@ -52,7 +52,7 @@
                                         $49.00
                                         <span class="font-light ml-1">$52.00</span>
                                     </h3>
-                                    <a href="product-left-sidebar.html" class="font-default">
+                                    <a href="products_ballerina.php" class="font-default">
                                         <h5>ბალერინა</h5>
                                     </a>
                                 </div>
@@ -62,7 +62,7 @@
                         <div>
                             <div class="product-box">
                                 <div class="img-wrapper">
-                                    <a href="product-left-sidebar.html">
+                                    <a href="products_tornado.php">
                                         <img src="assets/images/shoes/product/2.jpg"
                                             class="bg-img img-fluid blur-up lazyload" alt="">
                                     </a>
@@ -101,13 +101,13 @@
                                         $49.00
                                         <span class="font-light ml-1">$52.00</span>
                                     </h3>
-                                    <a href="product-left-sidebar.html" class="font-default">
+                                    <a href="products_tornado.php" class="font-default">
                                         <h5>ტორნადო</h5>
                                     </a>
                                 </div>
                             </div>
                         </div>
-
+<!-- 
                         <div>
                             <div class="product-box">
                                 <div class="img-wrapper">
@@ -152,9 +152,9 @@
                                     </a>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
 
-                        <div>
+                        <!-- <div>
                             <div class="product-box">
                                 <div class="img-wrapper">
                                     <a href="product-left-sidebar.html">
@@ -196,17 +196,17 @@
                                         $49.00
                                         <span class="font-light ml-1">$52.00</span>
                                     </h3>
-                                    <a href="product-left-sidebar.html" class="font-default">
+                                    <a href="products_.php" class="font-default">
                                         <h5>დუბლონი</h5>
                                     </a>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
 
                         <div>
                             <div class="product-box">
                                 <div class="img-wrapper">
-                                    <a href="product-left-sidebar.html">
+                                    <a href="product_dublon_gold.php">
                                         <img src="assets/images/shoes/product/5.jpg"
                                             class="bg-img img-fluid blur-up lazyload" alt="">
                                     </a>
@@ -242,7 +242,7 @@
                                         $49.00
                                         <span class="font-light ml-1">$52.00</span>
                                     </h3>
-                                    <a href="product-left-sidebar.html" class="font-default">
+                                    <a href="product_dublon_gold.php" class="font-default">
                                         <h5>დუბლონ გოლდი</h5>
                                     </a>
                                 </div>
@@ -251,7 +251,7 @@
                         <div>
                             <div class="product-box">
                                 <div class="img-wrapper">
-                                    <a href="product-left-sidebar.html">
+                                    <a href="product_nixon.php">
                                         <img src="assets/images/shoes/product/6.jpg"
                                             class="bg-img img-fluid blur-up lazyload" alt="">
                                     </a>
@@ -287,7 +287,7 @@
                                         $49.00
                                         <span class="font-light ml-1">$52.00</span>
                                     </h3>
-                                    <a href="product-left-sidebar.html" class="font-default">
+                                    <a href="product_nixon.php" class="font-default">
                                         <h5>ნიქსონი</h5>
                                     </a>
                                 </div>
@@ -297,7 +297,7 @@
                         <div>
                             <div class="product-box">
                                 <div class="img-wrapper">
-                                    <a href="product-left-sidebar.html">
+                                    <a href="product_actec.php">
                                         <img src="assets/images/shoes/product/7.jpg"
                                             class="bg-img img-fluid blur-up lazyload" alt="">
                                     </a>
@@ -333,7 +333,7 @@
                                         $49.00
                                         <span class="font-light ml-1">$52.00</span>
                                     </h3>
-                                    <a href="product-left-sidebar.html" class="font-default">
+                                    <a href="product_actec.php" class="font-default">
                                         <h5>აქტეკი</h5>
                                     </a>
                                 </div>
@@ -343,7 +343,7 @@
                         <div>
                             <div class="product-box">
                                 <div class="img-wrapper">
-                                    <a href="product-left-sidebar.html">
+                                    <a href="product_sulfavita.php">
                                         <img src="assets/images/shoes/product/8.jpg"
                                             class="bg-img img-fluid blur-up lazyload" alt="">
                                     </a>
@@ -379,14 +379,14 @@
                                         $49.00
                                         <span class="font-light ml-1">$52.00</span>
                                     </h3>
-                                    <a href="product-left-sidebar.html" class="font-default">
-                                        <h5>ლუსფოვიტა</h5>
+                                    <a href="product_sulfavita.php" class="font-default">
+                                        <h5>სულფოვიტა</h5>
                                     </a>
                                 </div>
                             </div>
                         </div>
 
-                        <div>
+                        <!-- <div>
                             <div class="product-box">
                                 <div class="img-wrapper">
                                     <a href="product-left-sidebar.html">
@@ -430,7 +430,7 @@
                                     </a>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
 
                     </div>
                 </div>

@@ -772,17 +772,6 @@ wordflick();
 });
 
 
-/*=====================
-    26. create video element
- ==========================*/
-
- const box = document.createElement('p'); // is a node
- box.innerHTML = 'test satu dua tiga';
-
-
- $(window).on('load', function() {
-    $( "#generate-video" ).prepend( '<video id="background-video" autoplay loop muted poster="https://assets.codepen.io/6093409/river.jpg"><source src="assets/videos/cornfield.mp4" type="video/mp4"></video>' );
-});
 
 
 /*=====================
@@ -896,6 +885,17 @@ wordflick();
     document.querySelector(".preloader").style.display = "none";
 }
 
+/*=====================
+    26. create video element
+ ==========================*/
+
+ const box = document.createElement('p'); // is a node
+ box.innerHTML = 'test satu dua tiga';
+
+
+ $(window).on('load', function() {
+    $( "#generate-video" ).prepend( '<video id="background-video" autoplay loop muted poster="https://assets.codepen.io/6093409/river.jpg"><source src="assets/videos/cornfield.mp4" type="video/mp4"></video>' );
+});
 
 
 /*=====================

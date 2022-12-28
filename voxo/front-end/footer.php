@@ -89,7 +89,7 @@
                     <div class="col-xl-3 col-lg-4 col-md-6">
                         <div class="footer-contact">
                             <div class="brand-logo">
-                                <a href="index.html" class="footer-logo">
+                                <a href="index.php" class="footer-logo">
                                     <svg class="svg-icon">
                                         <use class="fill-color" xlink:href="assets/svg/icons.svg#logo"></use>
                                     </svg>
@@ -127,7 +127,7 @@
                             <div class="footer-content">
                                 <ul>
                                     <li>
-                                        <a href="index.html" class="font-dark">Home</a>
+                                        <a href="index.php" class="font-dark">Home</a>
                                     </li>
                                     <li>
                                         <a href="shop-left-sidebar.html" class="font-dark">Shop</a>
