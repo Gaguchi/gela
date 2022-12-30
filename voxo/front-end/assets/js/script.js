@@ -916,9 +916,13 @@ wordflick();
         $("#oldprice").hide();
         $("#discount").hide();
         price = $("#activeprice").attr('value')*$(".input-number").val();
+        unitprice = $("#activeprice").attr('value');
+        unitpricediscount = $("#activeprice").attr('realvalue');
     } else {
         $("#oldprice").show();
         $("#discount").show();
+        unitprice = $("#activeprice").attr('value');
+        unitpricediscount = $("#activeprice").attr('realvalue');
         price = $("#activeprice").attr('realvalue')*$(".input-number").val();
         oldprice = $("#activeprice").attr('value')*$(".input-number").val();
         discount = $("#activeprice").attr('value')*$(".input-number").val() - $("#activeprice").attr('realvalue')*$(".input-number").val();
@@ -927,20 +931,22 @@ wordflick();
     $("#oldprice").text('₾' + oldprice.toFixed(2));
     $("#discount").text('დანაზოგი: ₾' + discount.toFixed(2));
     $("#pricetag").text(price.toFixed(2));
-});
-
-
-$(".pricechange").click(function() {
-    unitprice = $("#activeprice").attr('value');
-    unitpricediscount = $("#activeprice").attr('realvalue');
-    
-    console.log(unitprice);
-    console.log(unitpricediscount);
-    
-
     $("#unitprice").text(unitprice);
     $("#wholesaleprice").text(unitpricediscount);
 });
+
+
+// $(".pricechange").click(function() {
+//     unitprice = $("#activeprice").attr('value');
+//     unitpricediscount = $("#activeprice").attr('realvalue');
+    
+//     console.log(unitprice);
+//     console.log(unitpricediscount);
+    
+
+//     $("#unitprice").text(unitprice);
+//     $("#wholesaleprice").text(unitpricediscount);
+// });
 
 $(".priceupdate").click(function() {
     if ($(".input-number").val() < 11) {
