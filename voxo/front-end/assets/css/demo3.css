@@ -7190,6 +7190,7 @@ header .main-navbar .nav-menu>li.mega-menu.home-menu .megamenu-image-title {
 }
 
 .product-box .img-wrapper .circle-shape {
+  pointer-events: none;
   position: absolute;
   background-color: rgb(23 232 22 / 4%);
   top: -80px;
@@ -7220,6 +7221,7 @@ header .main-navbar .nav-menu>li.mega-menu.home-menu .megamenu-image-title {
 }
 
 .product-box .img-wrapper .background-text {
+  pointer-events: none;
   text-transform: uppercase;
   position: absolute;
   top: 0px;

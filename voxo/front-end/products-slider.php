@@ -16,36 +16,6 @@
                                         <img src="assets/images/shoes/product/1.jpg"
                                             class="bg-img img-fluid blur-up lazyload" alt="">
                                     </a>
-                                    <div class="label-block">
-                                        <span class="label label-black">New</span>
-                                        <span class="label label-theme">50% Off</span>
-                                    </div>
-                                    <div class="cart-wrap">
-                                        <ul>
-                                            <li>
-                                                <a href="javascript:void(0)" class="addtocart-btn"
-                                                    data-bs-toggle="modal" data-bs-target="#addtocart">
-                                                    <i data-feather="shopping-bag"></i>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="javascript:void(0)" data-bs-toggle="modal"
-                                                    data-bs-target="#quick-view-ballerina">
-                                                    <i data-feather="eye"></i>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="compare.html">
-                                                    <i data-feather="refresh-cw"></i>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="wishlist.html" class="wishlist">
-                                                    <i data-feather="heart"></i>
-                                                </a>
-                                            </li>
-                                        </ul>
-                                    </div>
                                 </div>
                                 <div class="product-details text-center">
                                     <h3 class="theme-color">
@@ -66,35 +36,6 @@
                                         <img src="assets/images/shoes/product/2.jpg"
                                             class="bg-img img-fluid blur-up lazyload" alt="">
                                     </a>
-                                    <div class="label-block">
-                                        <span class="label label-dark">On discount</span>
-                                    </div>
-                                    <div class="cart-wrap">
-                                        <ul>
-                                            <li>
-                                                <a href="javascript:void(0)" class="addtocart-btn"
-                                                    data-bs-toggle="modal" data-bs-target="#addtocart">
-                                                    <i data-feather="shopping-bag"></i>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="javascript:void(0)" data-bs-toggle="modal"
-                                                    data-bs-target="#quick-view-tornado">
-                                                    <i data-feather="eye"></i>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="compare.html">
-                                                    <i data-feather="refresh-cw"></i>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="wishlist.html" class="wishlist">
-                                                    <i data-feather="heart"></i>
-                                                </a>
-                                            </li>
-                                        </ul>
-                                    </div>
                                 </div>
                                 <div class="product-details text-center">
                                     <h3 class="theme-color">
@@ -210,32 +151,6 @@
                                         <img src="assets/images/shoes/product/5.jpg"
                                             class="bg-img img-fluid blur-up lazyload" alt="">
                                     </a>
-                                    <div class="cart-wrap">
-                                        <ul>
-                                            <li>
-                                                <a href="javascript:void(0)" class="addtocart-btn"
-                                                    data-bs-toggle="modal" data-bs-target="#addtocart">
-                                                    <i data-feather="shopping-bag"></i>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="javascript:void(0)" data-bs-toggle="modal"
-                                                    data-bs-target="#quick-view-dublon-gold">
-                                                    <i data-feather="eye"></i>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="compare.html">
-                                                    <i data-feather="refresh-cw"></i>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="wishlist.html" class="wishlist">
-                                                    <i data-feather="heart"></i>
-                                                </a>
-                                            </li>
-                                        </ul>
-                                    </div>
                                 </div>
                                 <div class="product-details text-center">
                                     <h3 class="theme-color">
@@ -255,32 +170,6 @@
                                         <img src="assets/images/shoes/product/6.jpg"
                                             class="bg-img img-fluid blur-up lazyload" alt="">
                                     </a>
-                                    <div class="cart-wrap">
-                                        <ul>
-                                            <li>
-                                                <a href="javascript:void(0)" class="addtocart-btn"
-                                                    data-bs-toggle="modal" data-bs-target="#addtocart">
-                                                    <i data-feather="shopping-bag"></i>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="javascript:void(0)" data-bs-toggle="modal"
-                                                    data-bs-target="#quick-view-nixon">
-                                                    <i data-feather="eye"></i>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="compare.html">
-                                                    <i data-feather="refresh-cw"></i>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="wishlist.html" class="wishlist">
-                                                    <i data-feather="heart"></i>
-                                                </a>
-                                            </li>
-                                        </ul>
-                                    </div>
                                 </div>
                                 <div class="product-details text-center">
                                     <h3 class="theme-color">
@@ -301,32 +190,6 @@
                                         <img src="assets/images/shoes/product/7.jpg"
                                             class="bg-img img-fluid blur-up lazyload" alt="">
                                     </a>
-                                    <div class="cart-wrap">
-                                        <ul>
-                                            <li>
-                                                <a href="javascript:void(0)" class="addtocart-btn"
-                                                    data-bs-toggle="modal" data-bs-target="#addtocart">
-                                                    <i data-feather="shopping-bag"></i>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="javascript:void(0)" data-bs-toggle="modal"
-                                                    data-bs-target="#quick-view-actec">
-                                                    <i data-feather="eye"></i>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="compare.html">
-                                                    <i data-feather="refresh-cw"></i>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="wishlist.html" class="wishlist">
-                                                    <i data-feather="heart"></i>
-                                                </a>
-                                            </li>
-                                        </ul>
-                                    </div>
                                 </div>
                                 <div class="product-details text-center">
                                     <h3 class="theme-color">
@@ -347,32 +210,6 @@
                                         <img src="assets/images/shoes/product/8.jpg"
                                             class="bg-img img-fluid blur-up lazyload" alt="">
                                     </a>
-                                    <div class="cart-wrap">
-                                        <ul>
-                                            <li>
-                                                <a href="javascript:void(0)" class="addtocart-btn"
-                                                    data-bs-toggle="modal" data-bs-target="#addtocart">
-                                                    <i data-feather="shopping-bag"></i>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="javascript:void(0)" data-bs-toggle="modal"
-                                                    data-bs-target="#quick-view-lusfovita">
-                                                    <i data-feather="eye"></i>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="compare.html">
-                                                    <i data-feather="refresh-cw"></i>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="wishlist.html" class="wishlist">
-                                                    <i data-feather="heart"></i>
-                                                </a>
-                                            </li>
-                                        </ul>
-                                    </div>
                                 </div>
                                 <div class="product-details text-center">
                                     <h3 class="theme-color">
@@ -480,35 +317,6 @@
                             </a>
                             <div class="circle-shape"></div>
                             <span class="background-text">Odishiagro</span>
-                            <div class="label-block">
-                                <span class="label label-theme">30% Off</span>
-                            </div>
-                            <div class="cart-wrap">
-                                <ul>
-                                    <li>
-                                        <a href="javascript:void(0)" class="addtocart-btn" data-bs-toggle="modal"
-                                            data-bs-target="#addtocart">
-                                            <i data-feather="shopping-bag"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="javascript:void(0)" data-bs-toggle="modal"
-                                            data-bs-target="#quick-view-ballerina">
-                                            <i data-feather="eye"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="compare.html">
-                                            <i data-feather="refresh-cw"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="wishlist.html" class="wishlist">
-                                            <i data-feather="heart"></i>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
                         </div>
                         <div class="product-style-3 product-style-chair">
                             <div class="product-title d-block mb-0">
@@ -533,35 +341,6 @@
                             </a>
                             <div class="circle-shape"></div>
                             <span class="background-text">Odishiagro</span>
-                            <div class="label-block">
-                                <span class="label label-theme float-start">New</span>
-                            </div>
-                            <div class="cart-wrap">
-                                <ul>
-                                    <li>
-                                        <a href="javascript:void(0)" class="addtocart-btn" data-bs-toggle="modal"
-                                            data-bs-target="#addtocart">
-                                            <i data-feather="shopping-bag"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="javascript:void(0)" data-bs-toggle="modal"
-                                            data-bs-target="#quick-view-tornado">
-                                            <i data-feather="eye"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="compare.html">
-                                            <i data-feather="refresh-cw"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="wishlist.html" class="wishlist">
-                                            <i data-feather="heart"></i>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
                         </div>
                         <div class="product-style-3 product-style-chair">
                             <div class="product-title d-block mb-0">
@@ -586,36 +365,6 @@
                             </a>
                             <div class="circle-shape"></div>
                             <span class="background-text">Odishiagro</span>
-                            <div class="label-block">
-                                <span class="label label-black">New</span>
-                                <span class="label label-theme">50% Off</span>
-                            </div>
-                            <div class="cart-wrap">
-                                <ul>
-                                    <li>
-                                        <a href="javascript:void(0)" class="addtocart-btn" data-bs-toggle="modal"
-                                            data-bs-target="#addtocart">
-                                            <i data-feather="shopping-bag"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="javascript:void(0)" data-bs-toggle="modal"
-                                            data-bs-target="#quick-view-tornado-500">
-                                            <i data-feather="eye"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="compare.html">
-                                            <i data-feather="refresh-cw"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="wishlist.html" class="wishlist">
-                                            <i data-feather="heart"></i>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
                         </div>
                         <div class="product-style-3 product-style-chair">
                             <div class="product-title d-block mb-0">
@@ -640,36 +389,6 @@
                             </a>
                             <div class="circle-shape"></div>
                             <span class="background-text">Odishiagro</span>
-                            <div class="label-block">
-                                <span class="label label-black">New</span>
-                                <span class="label label-theme">50% Off</span>
-                            </div>
-                            <div class="cart-wrap">
-                                <ul>
-                                    <li>
-                                        <a href="javascript:void(0)" class="addtocart-btn" data-bs-toggle="modal"
-                                            data-bs-target="#addtocart">
-                                            <i data-feather="shopping-bag"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="javascript:void(0)" data-bs-toggle="modal"
-                                            data-bs-target="#quick-view-dublon-gold">
-                                            <i data-feather="eye"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="compare.html">
-                                            <i data-feather="refresh-cw"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="wishlist.html" class="wishlist">
-                                            <i data-feather="heart"></i>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
                         </div>
                         <div class="product-style-3 product-style-chair">
                             <div class="product-title d-block mb-0">
@@ -694,36 +413,6 @@
                             </a>
                             <div class="circle-shape"></div>
                             <span class="background-text">Odishiagro</span>
-                            <div class="label-block">
-                                <span class="label label-theme float-start">New</span>
-                                <span class="label label-black float-end">50% Off</span>
-                            </div>
-                            <div class="cart-wrap">
-                                <ul>
-                                    <li>
-                                        <a href="javascript:void(0)" class="addtocart-btn" data-bs-toggle="modal"
-                                            data-bs-target="#addtocart">
-                                            <i data-feather="shopping-bag"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="javascript:void(0)" data-bs-toggle="modal"
-                                            data-bs-target="#quick-view-nixon">
-                                            <i data-feather="eye"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="compare.html">
-                                            <i data-feather="refresh-cw"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="wishlist.html" class="wishlist">
-                                            <i data-feather="heart"></i>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
                         </div>
                         <div class="product-style-3 product-style-chair">
                             <div class="product-title d-block mb-0">
@@ -748,36 +437,6 @@
                             </a>
                             <div class="circle-shape"></div>
                             <span class="background-text">Odishiagro</span>
-                            <div class="label-block">
-                                <span class="label label-theme float-start">New</span>
-                                <span class="label label-black float-end">50% Off</span>
-                            </div>
-                            <div class="cart-wrap">
-                                <ul>
-                                    <li>
-                                        <a href="javascript:void(0)" class="addtocart-btn" data-bs-toggle="modal"
-                                            data-bs-target="#addtocart">
-                                            <i data-feather="shopping-bag"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="javascript:void(0)" data-bs-toggle="modal"
-                                            data-bs-target="#quick-view-lusfovita">
-                                            <i data-feather="eye"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="compare.html">
-                                            <i data-feather="refresh-cw"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="wishlist.html" class="wishlist">
-                                            <i data-feather="heart"></i>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
                         </div>
                         <div class="product-style-3 product-style-chair">
                             <div class="product-title d-block mb-0">
@@ -802,36 +461,6 @@
                             </a>
                             <div class="circle-shape"></div>
                             <span class="background-text">Odishiagro</span>
-                            <div class="label-block">
-                                <span class="label label-black">New</span>
-                                <span class="label label-theme">50% Off</span>
-                            </div>
-                            <div class="cart-wrap">
-                                <ul>
-                                    <li>
-                                        <a href="javascript:void(0)" class="addtocart-btn" data-bs-toggle="modal"
-                                            data-bs-target="#addtocart">
-                                            <i data-feather="shopping-bag"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="javascript:void(0)" data-bs-toggle="modal"
-                                            data-bs-target="#quick-view-actec">
-                                            <i data-feather="eye"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="compare.html">
-                                            <i data-feather="refresh-cw"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="wishlist.html" class="wishlist">
-                                            <i data-feather="heart"></i>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
                         </div>
                         <div class="product-style-3 product-style-chair">
                             <div class="product-title d-block mb-0">
@@ -856,36 +485,6 @@
                             </a>
                             <div class="circle-shape"></div>
                             <span class="background-text">Odishiagro</span>
-                            <div class="label-block">
-                                <span class="label label-theme float-start">New</span>
-                                <span class="label label-black float-end">50% Off</span>
-                            </div>
-                            <div class="cart-wrap">
-                                <ul>
-                                    <li>
-                                        <a href="javascript:void(0)" class="addtocart-btn" data-bs-toggle="modal"
-                                            data-bs-target="#addtocart">
-                                            <i data-feather="shopping-bag"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="javascript:void(0)" data-bs-toggle="modal"
-                                            data-bs-target="#quick-view-lusfovita">
-                                            <i data-feather="eye"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="compare.html">
-                                            <i data-feather="refresh-cw"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="wishlist.html" class="wishlist">
-                                            <i data-feather="heart"></i>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
                         </div>
                         <div class="product-style-3 product-style-chair">
                             <div class="product-title d-block mb-0">
@@ -910,36 +509,6 @@
                             </a>
                             <div class="circle-shape"></div>
                             <span class="background-text">Odishiagro</span>
-                            <div class="label-block">
-                                <span class="label label-theme float-start">New</span>
-                                <span class="label label-black float-end">50% Off</span>
-                            </div>
-                            <div class="cart-wrap">
-                                <ul>
-                                    <li>
-                                        <a href="javascript:void(0)" class="addtocart-btn" data-bs-toggle="modal"
-                                            data-bs-target="#addtocart">
-                                            <i data-feather="shopping-bag"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="javascript:void(0)" data-bs-toggle="modal"
-                                            data-bs-target="#quick-view-lusfovita">
-                                            <i data-feather="eye"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="compare.html">
-                                            <i data-feather="refresh-cw"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="wishlist.html" class="wishlist">
-                                            <i data-feather="heart"></i>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
                         </div>
                         <div class="product-style-3 product-style-chair">
                             <div class="product-title d-block mb-0">
@@ -964,36 +533,6 @@
                             </a>
                             <div class="circle-shape"></div>
                             <span class="background-text">Odishiagro</span>
-                            <div class="label-block">
-                                <span class="label label-theme float-start">New</span>
-                                <span class="label label-black float-end">50% Off</span>
-                            </div>
-                            <div class="cart-wrap">
-                                <ul>
-                                    <li>
-                                        <a href="javascript:void(0)" class="addtocart-btn" data-bs-toggle="modal"
-                                            data-bs-target="#addtocart">
-                                            <i data-feather="shopping-bag"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="javascript:void(0)" data-bs-toggle="modal"
-                                            data-bs-target="#quick-view-lusfovita">
-                                            <i data-feather="eye"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="compare.html">
-                                            <i data-feather="refresh-cw"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="wishlist.html" class="wishlist">
-                                            <i data-feather="heart"></i>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
                         </div>
                         <div class="product-style-3 product-style-chair">
                             <div class="product-title d-block mb-0">
@@ -1018,36 +557,6 @@
                             </a>
                             <div class="circle-shape"></div>
                             <span class="background-text">Odishiagro</span>
-                            <div class="label-block">
-                                <span class="label label-theme float-start">New</span>
-                                <span class="label label-black float-end">50% Off</span>
-                            </div>
-                            <div class="cart-wrap">
-                                <ul>
-                                    <li>
-                                        <a href="javascript:void(0)" class="addtocart-btn" data-bs-toggle="modal"
-                                            data-bs-target="#addtocart">
-                                            <i data-feather="shopping-bag"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="javascript:void(0)" data-bs-toggle="modal"
-                                            data-bs-target="#quick-view-lusfovita">
-                                            <i data-feather="eye"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="compare.html">
-                                            <i data-feather="refresh-cw"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="wishlist.html" class="wishlist">
-                                            <i data-feather="heart"></i>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
                         </div>
                         <div class="product-style-3 product-style-chair">
                             <div class="product-title d-block mb-0">
@@ -1072,36 +581,6 @@
                             </a>
                             <div class="circle-shape"></div>
                             <span class="background-text">Odishiagro</span>
-                            <div class="label-block">
-                                <span class="label label-theme float-start">New</span>
-                                <span class="label label-black float-end">50% Off</span>
-                            </div>
-                            <div class="cart-wrap">
-                                <ul>
-                                    <li>
-                                        <a href="javascript:void(0)" class="addtocart-btn" data-bs-toggle="modal"
-                                            data-bs-target="#addtocart">
-                                            <i data-feather="shopping-bag"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="javascript:void(0)" data-bs-toggle="modal"
-                                            data-bs-target="#quick-view-lusfovita">
-                                            <i data-feather="eye"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="compare.html">
-                                            <i data-feather="refresh-cw"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="wishlist.html" class="wishlist">
-                                            <i data-feather="heart"></i>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
                         </div>
                         <div class="product-style-3 product-style-chair">
                             <div class="product-title d-block mb-0">
