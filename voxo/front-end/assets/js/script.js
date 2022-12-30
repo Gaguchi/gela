@@ -916,13 +916,13 @@ wordflick();
         $("#oldprice").hide();
         $("#discount").hide();
         price = $("#activeprice").attr('value')*$(".input-number").val();
-        unitprice = $("#activeprice").attr('value');
-        unitpricediscount = $("#activeprice").attr('realvalue');
+        unitprice = $("#activeprice").attr('value')*1;
+        unitpricediscount = $("#activeprice").attr('realvalue')*1;
     } else {
         $("#oldprice").show();
         $("#discount").show();
-        unitprice = $("#activeprice").attr('value');
-        unitpricediscount = $("#activeprice").attr('realvalue');
+        unitprice = $("#activeprice").attr('value')*1;
+        unitpricediscount = $("#activeprice").attr('realvalue')*1;
         price = $("#activeprice").attr('realvalue')*$(".input-number").val();
         oldprice = $("#activeprice").attr('value')*$(".input-number").val();
         discount = $("#activeprice").attr('value')*$(".input-number").val() - $("#activeprice").attr('realvalue')*$(".input-number").val();
@@ -931,8 +931,8 @@ wordflick();
     $("#oldprice").text('₾' + oldprice.toFixed(2));
     $("#discount").text('დანაზოგი: ₾' + discount.toFixed(2));
     $("#pricetag").text(price.toFixed(2));
-    $("#unitprice").text(unitprice);
-    $("#wholesaleprice").text(unitpricediscount);
+    $("#unitprice").text(unitprice.toFixed(2));
+    $("#wholesaleprice").text(unitpricediscount.toFixed(2));
 });
 
 
