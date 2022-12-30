@@ -905,6 +905,8 @@ wordflick();
  var price = 0;
  var oldprice = 0;
  var discount = 0;
+ var unitprice = 0;
+ var unitpricediscount = 0;
 
  
  $(".pricechange").click(function() {
@@ -920,13 +922,24 @@ wordflick();
         price = $("#activeprice").attr('realvalue')*$(".input-number").val();
         oldprice = $("#activeprice").attr('value')*$(".input-number").val();
         discount = $("#activeprice").attr('value')*$(".input-number").val() - $("#activeprice").attr('realvalue')*$(".input-number").val();
-        unit_price = $("#activeprice").attr('value');
-        unit_price_discount = $("#activeprice").attr('realvalue');
     };
 
     $("#oldprice").text('₾' + oldprice.toFixed(2));
     $("#discount").text('დანაზოგი: ₾' + discount.toFixed(2));
     $("#pricetag").text(price.toFixed(2));
+});
+
+
+$(".pricechange").click(function() {
+    unitprice = $("#activeprice").attr('value');
+    unitpricediscount = $("#activeprice").attr('realvalue');
+    
+    console.log(unitprice);
+    console.log(unitpricediscount);
+    
+
+    $("#unitprice").text(unitprice);
+    $("#wholesaleprice").text(unitpricediscount);
 });
 
 $(".priceupdate").click(function() {

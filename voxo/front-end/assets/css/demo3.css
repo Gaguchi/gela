@@ -16981,6 +16981,22 @@ header#home {
   font-weight: 400;
 }
 
+h3.active-price-detail {
+  color: #cc0000;
+}
+
+h3.active-price-discount {
+  color: #458c65;
+}
+
+span#unitprice {
+  font-size: calc(20px + (20 - 16) * ((100vw - 320px) / (1920 - 320)));
+}
+
+span#wholesaleprice {
+  font-size: calc(20px + (20 - 16) * ((100vw - 320px) / (1920 - 320)));
+}
+
 .price-detail span {
   /* font-size: 16px;
   color: var(--theme-color);

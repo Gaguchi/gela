@@ -33,6 +33,7 @@
                                     </div>
 
                                     <h3 class="price-detail">₾<span id="pricetag">25.00</span> <del id="oldprice"></del> <span id="discount"></span></h3>
+                                    <h3 class="active-price-detail">საცალო ფასი: ₾<span id="unitprice">25.00</span></h3><h3 class="active-price-discount"> საბითუმო ფასი: ₾<span id="wholesaleprice">22.00</span></h3>
 
                                     <div id="selectSize" class="addeffect-section product-description border-product">
 
