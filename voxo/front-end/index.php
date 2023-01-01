@@ -57,7 +57,7 @@
 <?php include 'products-slider.php'?>
 
 <!-- Map Section start -->
-<section class="contact-section">
+<!-- <section class="contact-section">
     <div class="container-fluid">
         <div class="row gy-4">
             <div class="col-12 p-0">
@@ -67,6 +67,6 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 <!-- Map Section End -->
 <?php include 'footer.php'?>
