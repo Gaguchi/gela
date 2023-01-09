@@ -1349,7 +1349,8 @@ span {
 .title-2 h5 {
   margin-bottom: 0;
   margin-top: 10px;
-  color: #7e7e7e;
+  color: var(--theme-color);
+  font-weight: 600;
 }
 
 .title-3 {
@@ -6124,7 +6125,7 @@ header .main-navbar .nav-menu>li.mega-menu.home-menu .megamenu-image-title {
 }
 
 .banner-poster .slider-bg .shoes-logo {
-  width: calc(100px + (800 - 150) * ((100vw - 100px) / (1920 - 320)));
+  width: calc(100px + (450 - 150) * ((100vw - 100px) / (1920 - 320)));
   position: absolute;
   opacity: 100%;
   top: 20px;
@@ -6133,7 +6134,7 @@ header .main-navbar .nav-menu>li.mega-menu.home-menu .megamenu-image-title {
 }
 
 .banner-poster .slider-bg .shoes-odishi-logo {
-  width: calc(100px + (800 - 150) * ((100vw - 100px) / (1920 - 320)));
+  width: calc(100px + (450 - 150) * ((100vw - 100px) / (1920 - 320)));
   position: absolute;
   filter: drop-shadow(1px 1px black);
   opacity: 100%;
@@ -7015,8 +7016,8 @@ header .main-navbar .nav-menu>li.mega-menu.home-menu .megamenu-image-title {
       display: none; } }
 
 .service-section .service-wrap .service-icon img {
-  width: 40px;
-  height: 40px;
+  width: 80px;
+  height: 80px;
   fill: var(--theme-color);
   stroke: var(--theme-color);
 }
@@ -7187,6 +7188,11 @@ header .main-navbar .nav-menu>li.mega-menu.home-menu .megamenu-image-title {
   .product-box .img-wrapper.squre-image::after {
     opacity: 1;
   }
+}
+
+span#logotext {
+  color: darkgreen;
+  text-shadow: 1px 1px 1px #0000004f;
 }
 
 .product-box .img-wrapper .circle-shape {
@@ -8893,10 +8899,10 @@ header .main-navbar .nav-menu>li.mega-menu.home-menu .megamenu-image-title {
 }
 
 .banner-image .banner-content h3 {
-  font-size: calc(16px + (32 - 16) * ((100vw - 320px) / (1920 - 320)));
+  font-size: calc(16px + (32 - 16) * ((100vw - 590px) / (1920 - 320)));
   line-height: 1.45;
-  margin-bottom: calc(2px + (15 - 2) * ((100vw - 320px) / (1920 - 320)));
-  margin-top: calc(0px + (-6 - 0) * ((100vw - 320px) / (1920 - 320)));
+  /* margin-bottom: calc(2px + (15 - 2) * ((100vw - 320px) / (1920 - 320)));
+  margin-top: calc(0px + (-6 - 0) * ((100vw - 320px) / (1920 - 320))); */
   color: var(--theme-color);
 }
 
@@ -17093,6 +17099,10 @@ span#wholesaleprice {
   margin-top: -1px;
   font-size: 15px;
   font-weight: 400;
+}
+
+.service-content h3 {
+  color: var(--theme-color);
 }
 
 @media (max-width: 1199px) {

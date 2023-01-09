@@ -12,7 +12,6 @@
                         </div>
                         <div class="service-content">
                             <h3 class="mb-2">ჰერბიციდები</h3>
-                            <span class="font-light">სწრაფი და ეფექტური მოქმედება.</span>
                         </div>
                     </div>
                 </div>
@@ -23,7 +22,6 @@
                         </div>
                         <div class="service-content">
                             <h3 class="mb-2">პესტიციდები</h3>
-                            <span class="font-light">Free shipping on orders over $65.</span>
                         </div>
                     </div>
                 </div>
@@ -34,7 +32,6 @@
                         </div>
                         <div class="service-content">
                             <h3 class="mb-2">ფუნგიციდები</h3>
-                            <span class="font-light">We accept all major credit cards.</span>
                         </div>
                     </div>
                 </div>
@@ -45,7 +42,6 @@
                         </div>
                         <div class="service-content">
                             <h3 class="mb-2">მინერალური სასუქი</h3>
-                            <span class="font-light">30-days free return policy.</span>
                         </div>
                     </div>
                 </div>

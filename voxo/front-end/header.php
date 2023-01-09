@@ -340,13 +340,13 @@
                                                 </div>
                                             </li>
                                             <li class="home-menu">
-                                                <a href="index.php" class="nav-link menu-title">home</a>
+                                                <a href="index.php" class="nav-link menu-title">მთავარი</a>
                                             </li>
                                             <li class="home-menu">
-                                                <a href="shop.php" class="nav-link menu-title">shop</a>
+                                                <a href="shop.php" class="nav-link menu-title">პროდუქცია</a>
                                             </li>
                                             <li class="home-menu">
-                                                <a href="contact.php" class="nav-link menu-title">contact</a>
+                                                <a href="contact.php" class="nav-link menu-title">საკონტაქტო</a>
                                             </li>
                                             <li class="mobile-poster d-flex d-xl-none">
                                                 <img src="assets/images/pwa.png" class="img-fluid" alt="">

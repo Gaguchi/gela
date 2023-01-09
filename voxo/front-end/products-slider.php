@@ -5,8 +5,8 @@
             <div class="row m-0">
                 <div class="col-sm-12 p-0">
                     <div class="title title-2 text-center">
-                        <h2>Latrest Product</h2>
-                        <h5>Our Collection</h5>
+                        <h2>ჩვენი პროდუქცია</h2>
+                        <h5>შეიძინე საბითუმო ფასში</h5>
                     </div>
                     <div class="product-wrapper slide-6">
                         <div>
@@ -197,7 +197,7 @@
                                         <span class="font-light ml-1">$52.00</span>
                                     </h3>
                                     <a href="product_actec.php" class="font-default">
-                                        <h5>აქტეკი</h5>
+                                        <h5>აცტეკი</h5>
                                     </a>
                                 </div>
                             </div>

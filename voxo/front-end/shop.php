@@ -55,17 +55,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <h3>Shop Listing</h3>
-                    <nav>
-                        <ol class="breadcrumb">
-                            <li class="breadcrumb-item">
-                                <a href="index.html">
-                                    <i class="fas fa-home"></i>
-                                </a>
-                            </li>
-                            <li class="breadcrumb-item active" aria-current="page">Shop Fashion</li>
-                        </ol>
-                    </nav>
+                    <h3>პროდუქცია</h3>
                 </div>
             </div>
         </div>
@@ -87,7 +77,7 @@
                                 <h2 class="accordion-header" id="headingTwo">
                                     <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#collapseTwo">
-                                        Brand
+                                        ბრენდები
                                     </button>
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse show"
@@ -173,7 +163,7 @@
                                 <h2 class="accordion-header" id="headingOne">
                                     <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#collapseOne">
-                                        Category
+                                        კატეგორია
                                     </button>
                                 </h2>
                                 <div id="collapseOne" class="accordion-collapse collapse show"
@@ -240,131 +230,6 @@
                                 </div>
                             </div>
 
-                            <!-- Slider section start -->
-                            <div class="most-popular">
-                                <div class="title title-2 text-lg-start">
-                                    <h3>Most Popular</h3>
-                                </div>
-
-                                <div class="product-slider border-top round-arrow1">
-                                    <div>
-                                        <div class="row g-3">
-                                            <div class="col-12">
-                                                <div class="product-image" >
-                                                    <a href="javascript:void(0)">
-                                                        <img src="assets/images/fashion/product/front/1.jpg"
-                                                            class="blur-up lazyload" alt="">
-                                                    </a>
-                                                    <div class="product-details">
-                                                        <h6 class="font-light">Regular Fit</h6>
-                                                        <a href="javascript:void(0)" class="">
-                                                            <h3>Slim Fit Plastic Coat</h3>
-                                                        </a>
-                                                        <h4 class="font-light mt-1"><del>₾49.00</del> <span
-                                                                class="theme-color">₾35.50</span>
-                                                        </h4>
-                                                    </div>
-                                                </div>
-                                            </div>
-
-                                            <div class="col-12" class="categoryb">
-                                                <div class="product-image">
-                                                    <a href="javascript:void(0)">
-                                                        <img src="assets/images/fashion/product/front/2.jpg"
-                                                            class="blur-up lazyload" alt="">
-                                                    </a>
-                                                    <div class="product-details">
-                                                        <h6 class="font-light">Regular Fit</h6>
-                                                        <a href="javascript:void(0)" class="">
-                                                            <h3>Slim Fit Plastic Coat</h3>
-                                                        </a>
-                                                        <h4 class="font-light mt-1"><del>₾49.00</del> <span
-                                                                class="theme-color">₾35.50</span>
-                                                        </h4>
-                                                    </div>
-                                                </div>
-                                            </div>
-
-                                            <div class="col-12">
-                                                <div class="product-image">
-                                                    <a href="javascript:void(0)">
-                                                        <img src="assets/images/fashion/product/front/3.jpg"
-                                                            class="blur-up lazyload" alt="">
-                                                    </a>
-                                                    <div class="product-details">
-                                                        <h6 class="font-light">Regular Fit</h6>
-                                                        <a href="javascript:void(0)" class="">
-                                                            <h3>Slim Fit Plastic Coat</h3>
-                                                        </a>
-                                                        <h4 class="font-light mt-1"><del>₾49.00</del> <span
-                                                                class="theme-color">₾35.50</span>
-                                                        </h4>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div>
-                                        <div class="row g-3">
-                                            <div class="col-12">
-                                                <div class="product-image">
-                                                    <a href="javascript:void(0)">
-                                                        <img src="assets/images/fashion/product/front/6.jpg"
-                                                            class="blur-up lazyload" alt="">
-                                                    </a>
-                                                    <div class="product-details">
-                                                        <h6 class="font-light">Regular Fit</h6>
-                                                        <a href="javascript:void(0)" class="">
-                                                            <h3>Slim Fit Plastic Coat</h3>
-                                                        </a>
-                                                        <h4 class="font-light mt-1"><del>₾49.00</del> <span
-                                                                class="theme-color">₾35.50</span>
-                                                        </h4>
-                                                    </div>
-                                                </div>
-                                            </div>
-
-                                            <div class="col-12">
-                                                <div class="product-image">
-                                                    <a href="javascript:void(0)">
-                                                        <img src="assets/images/fashion/product/front/7.jpg"
-                                                            class="blur-up lazyload" alt="">
-                                                    </a>
-                                                    <div class="product-details">
-                                                        <h6 class="font-light">Regular Fit</h6>
-                                                        <a href="javascript:void(0)" class="">
-                                                            <h3>Slim Fit Plastic Coat</h3>
-                                                        </a>
-                                                        <h4 class="font-light mt-1"><del>₾49.00</del> <span
-                                                                class="theme-color">₾35.50</span>
-                                                        </h4>
-                                                    </div>
-                                                </div>
-                                            </div>
-
-                                            <div class="col-12">
-                                                <div class="product-image">
-                                                    <a href="javascript:void(0)">
-                                                        <img src="assets/images/fashion/product/front/8.jpg"
-                                                            class="blur-up lazyload" alt="">
-                                                    </a>
-                                                    <div class="product-details">
-                                                        <h6 class="font-light">Regular Fit</h6>
-                                                        <a href="javascript:void(0)" class="">
-                                                            <h3>Slim Fit Plastic Coat</h3>
-                                                        </a>
-                                                        <h4 class="font-light mt-1"><del>₾49.00</del> <span
-                                                                class="theme-color">₾35.50</span>
-                                                        </h4>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Slider Section End -->
                         </div>
                     </div>
                 </div>
@@ -376,18 +241,11 @@
                                 alt="">
                             <div class="banner-content">
                                 <div>
-                                    <h3>Shop The Latest Trends</h3>
-                                    <p>Shop the latest clothing trends with our weekly edit of what's new in online at
-                                        Voxo. From out latest woman collection.</p>
+                                    <h3>"ოდიში აგრო" - მცენარეთა ერთგული მზრუნველი</h3>
                                 </div>
                             </div>
                         </div>
                         <div class="banner-contain mt-3 mb-5">
-                            <p class="font-light">Lorem Ipsum is simply dummy text of the printing and typesetting
-                                industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                                when an unknown printer took a galley of type and scrambled it to make a type specimen
-                                book. It has survived not only five centuries, but also the leap into electronic
-                                typesetting, remaining essentially unchanged.</p>
                         </div>
                     </div>
                     <div class="row g-4">
@@ -455,8 +313,7 @@
                                             <p class="font-light">სისტემური ჰერბიციდი ყოველწლიური ორკოტილედონების წინააღმდეგ, მათ შორის 2,4-D და MCPA-ს მიმართ რეზისტენტული და ზოგიერთი მრავალწლიანი ფესვის გასროლის სარეველა მარცვლეულის, სიმინდის, ფეტვისა და სორგოს კულტურებში.</p>
                                         </div>
                                         <h3 class="theme-color">₾45.00</h3>
-                                        <button onclick="location.href = 'product_ballerina.php';" class="btn listing-content">Add
-                                            To Cart</button>
+                                        <button onclick="location.href = 'product_ballerina.php';" class="btn listing-content">დეტალურად</button>
                                     </div>
                                 </div>
                             </div>
@@ -511,8 +368,7 @@
                                             <p class="font-light">კომბინირებული ჰერბიციდი ერთწლიანი და მრავალწლიანი მარცვლეულის, ერთწლოვანი და ზოგიერთი მრავალწლიანი ორფეხა სარეველების წინააღმდეგ სიმინდის კულტურებში.</p>
                                         </div>
                                         <h3 class="theme-color">₾45.00</h3>
-                                        <button onclick="location.href = 'product_dublon_gold.php';" class="btn listing-content">Add
-                                            To Cart</button>
+                                        <button onclick="location.href = 'product_dublon_gold.php';" class="btn listing-content">დეტალურად</button>
                                     </div>
                                 </div>
                             </div>
@@ -569,8 +425,7 @@
                                         <h3 class="theme-color">
                                             ₾45.00
                                         </h3>
-                                        <button onclick="location.href = 'product_tornado.php';" class="btn listing-content">Add
-                                            To Cart</button>
+                                        <button onclick="location.href = 'product_tornado.php';" class="btn listing-content">დეტალურად</button>
                                     </div>
                                 </div>
                             </div>
@@ -625,8 +480,7 @@
                                             <p class="font-light">ლოკალურ-სისტემური მოქმედების ორკომპონენტიანი ფუნგიციდი კარტოფილის, პომიდვრის, კიტრის, ხახვისა და ყურძნის დაავადებების კომპლექსისგან დასაცავად.</p>
                                         </div>
                                         <h3 class="theme-color">₾50.00</h3>
-                                        <button onclick="location.href = 'product_ordan.php';" class="btn listing-content">Add
-                                            To Cart</button>
+                                        <button onclick="location.href = 'product_ordan.php';" class="btn listing-content">დეტალურად</button>
                                     </div>
                                 </div>
                             </div>
@@ -681,8 +535,7 @@
                                             <p class="font-light">სისტემური ჰერბიციდი ყოველწლიური ორკოტილედონების წინააღმდეგ, მათ შორის 2,4-D და MCPA-ს მიმართ რეზისტენტული და ზოგიერთი მრავალწლიანი ფესვის გასროლის სარეველა მარცვლეულის, სიმინდის, ფეტვისა და სორგოს კულტურებში.</p>
                                         </div>
                                         <h3 class="theme-color">₾7.00</h3>
-                                        <button onclick="location.href = 'product_borei_neo.php';" class="btn listing-content">Add
-                                            To Cart</button>
+                                        <button onclick="location.href = 'product_borei_neo.php';" class="btn listing-content">დეტალურად</button>
                                     </div>
                                 </div>
                             </div>
@@ -737,8 +590,7 @@
                                             <p class="font-light">დამხმარე საშუალება (სურფაქტანტი) ჰერბიციდებთან კომბინირებული გამოყენებისა და მათი ეფექტურობის გაზრდისთვის.</p>
                                         </div>
                                         <h3 class="theme-color">₾10.00</h3>
-                                        <button onclick="location.href = 'product_adieu.php';" class="btn listing-content">Add
-                                            To Cart</button>
+                                        <button onclick="location.href = 'product_adieu.php';" class="btn listing-content">დეტალურად</button>
                                     </div>
                                 </div>
                             </div>
@@ -793,8 +645,7 @@
                                             <p class="font-light">პროფილაქტიკური და სამკურნალო სისტემური ფუნგიციდი მარცვლეულის, ბრინჯის, რაფსის და ყურძნის დაავადებების კონტროლისთვის.</p>
                                         </div>
                                         <h3 class="theme-color">₾10.00</h3>
-                                        <button onclick="location.href = 'product_colossal.php';" class="btn listing-content">Add
-                                            To Cart</button>
+                                        <button onclick="location.href = 'product_colossal.php';" class="btn listing-content">დეტალურად</button>
                                     </div>
                                 </div>
                             </div>
@@ -849,8 +700,7 @@
                                             <p class="font-light">მოქმედი ნივთიერება: 877 გ/კგ სპილენძის ოქსიქლორიდი (500გ/კგ სპილენძის მიხედვით) კუპერ 88 პრევენციული ხასიათის მქონე, კონტაქტური ფუნგიციდი ვაზში, ხეხილში, კაკლოვნებში, პარკოსნებსა და ზეთისხილში სოკოვანი დაავადებების წინააღმდეგ საბრძოლველად. თავსებადია სხვა პესტიციდებთან და აგროქიმიკატებთან. დაუშვებელია მისი შერევა მჟავა რეაქციისა და ძლიერი ტუტე რეაქციის პროდუქტებთან. რეკომენდებული დოზებისა და გამოყენების პერიოდების დაცვისას არ არის ფიტოტოქსიკური. ფიტოტოქსიკური ნიშნების შეიძლება გამოვლინდეს წვიმიან და ცივ ამინდებში, როდესაც ჰაერის ტემპერატურა 8°C-ზე დაბალია.</p>
                                         </div>
                                         <h3 class="theme-color">₾50.00</h3>
-                                        <button onclick="location.href = 'product_cooper.php';" class="btn listing-content">Add
-                                            To Cart</button>
+                                        <button onclick="location.href = 'product_cooper.php';" class="btn listing-content">დეტალურად</button>
                                     </div>
                                 </div>
                             </div>
@@ -905,8 +755,7 @@
                                             <p class="font-light">რამინი - დამცავი და სამკურნალო თვისებების მქონე ფუნგიციდი კულტურებში სოკოვანი დაავადებების წინააღმდეგ საბრძოლველად. ის წარმოადგენს წყალში ხსნადი მიკროგრანულებისგან შემდგარ პრეპარატულ ფორმას რომელსაც წარმოების ორიგინალური პროცესების და ნაწილაკების სიწმინდის გამო ფოთლების ზედაპირზე მიწებების და გადანაწილების განსაკუთრებული უნარი გააჩნია. ეს თვისებები უზრუნველყოფს ფუნგიციდური და ბაქტერიული ეფექტიანობის ზრდას და სპილენძის დოზების მნიშვნელოვან შემცირებას, რაც თავის მხრივ გარემოს დაცვას უწყობს ხელს. პრეპარატი თავსებადია თითქმის ყველა პესტიციდთან და აგროქიმიკატთან.</p>
                                         </div>
                                         <h3 class="theme-color">₾14.00</h3>
-                                        <button onclick="location.href = 'product_ramin.php';" class="btn listing-content">Add
-                                            To Cart</button>
+                                        <button onclick="location.href = 'product_ramin.php';" class="btn listing-content">დეტალურად</button>
                                     </div>
                                 </div>
                             </div>
@@ -963,8 +812,7 @@
 თავსებადია სხვა პესტიციდებთან, გარდა ზეთოვანი და ტუტე რეაქციის მქონე პრეპარატებისა.</p>
                                         </div>
                                         <h3 class="theme-color">₾23.00</h3>
-                                        <button onclick="location.href = 'product_pinazol.php';" class="btn listing-content">Add
-                                            To Cart</button>
+                                        <button onclick="location.href = 'product_pinazol.php';" class="btn listing-content">დეტალურად</button>
                                     </div>
                                 </div>
                             </div>
@@ -1019,8 +867,7 @@
                                             <p class="font-light">მრავალმხრივი, მაღალი ხარისხის მარცვლოვანი სასუქი, რომელიც შეიცავს აზოტს და ფოსფორს.</p>
                                         </div>
                                         <h3 class="theme-color">₾165.00</h3>
-                                        <button onclick="location.href = 'product_ammofos.php';" class="btn listing-content">Add
-                                            To Cart</button>
+                                        <button onclick="location.href = 'product_ammofos.php';" class="btn listing-content">დეტალურად</button>
                                     </div>
                                 </div>
                             </div>
@@ -1075,8 +922,7 @@
                                             <p class="font-light">კარბამიდი (შარდოვანა) - ყველაზე კონცენტრირებული მარცვლოვანი აზოტის სასუქი (46,2% აზოტი).</p>
                                         </div>
                                         <h3 class="theme-color">₾180.00</h3>
-                                        <button onclick="location.href = 'product_karbamid.php';" class="btn listing-content">Add
-                                            To Cart</button>
+                                        <button onclick="location.href = 'product_karbamid.php';" class="btn listing-content">დეტალურად</button>
                                     </div>
                                 </div>
                             </div>
@@ -1131,8 +977,7 @@
                                             <p class="font-light">უნივერსალური მარცვლოვანი აზოტ-ფოსფორიანი სასუქი გოგირდის შემცველობით.</p>
                                         </div>
                                         <h3 class="theme-color">₾135.00</h3>
-                                        <button onclick="location.href = 'product_sufammofos.php';" class="btn listing-content">Add
-                                            To Cart</button>
+                                        <button onclick="location.href = 'product_sufammofos.php';" class="btn listing-content">დეტალურად</button>
                                     </div>
                                 </div>
                             </div>
@@ -1187,8 +1032,7 @@
                                             <p class="font-light">იდეალური გადაწყვეტა კარტოფილისა და ბოსტნეულისთვის.</p>
                                         </div>
                                         <h3 class="theme-color">₾135.00</h3>
-                                        <button onclick="location.href = 'product_avroroa_14.php';" class="btn listing-content">Add
-                                            To Cart</button>
+                                        <button onclick="location.href = 'product_avroroa_14.php';" class="btn listing-content">დეტალურად</button>
                                     </div>
                                 </div>
                             </div>
@@ -1243,8 +1087,7 @@
                                             <p class="font-light">უნივერსალური მაღალი ხარისხის კომპლექსური სასუქი.</p>
                                         </div>
                                         <h3 class="theme-color">₾150.00</h3>
-                                        <button onclick="location.href = 'product_avrora_16.php';" class="btn listing-content">Add
-                                            To Cart</button>
+                                        <button onclick="location.href = 'product_avrora_16.php';" class="btn listing-content">დეტალურად</button>
                                     </div>
                                 </div>
                             </div>
@@ -1299,8 +1142,7 @@
                                             <p class="font-light">კარბამიდი (შარდოვანა) - ყველაზე კონცენტრირებული მარცვლოვანი აზოტის სასუქი (46,2% აზოტი).</p>
                                         </div>
                                         <h3 class="theme-color">₾155.00</h3>
-                                        <button onclick="location.href = 'product_avrora_10.php';" class="btn listing-content">Add
-                                            To Cart</button>
+                                        <button onclick="location.href = 'product_avrora_10.php';" class="btn listing-content">დეტალურად</button>
                                     </div>
                                 </div>
                             </div>
@@ -1355,8 +1197,7 @@
                                             <p class="font-light">იგი გამოიყენება ვეგეტაციის დასაწყისში ფესვთა სისტემის და ფოთლის აპარატის განვითარების სტიმულირებისთვის. შემადგენლობაში შემავალი აზოტი, კალიუმი და მიკროელემენტები ხელს უწყობს ჯანსაღი და ძლიერი გენერაციული ორგანოების მოყვანას ხარისხიანი მოსავლისთვის. ამონიუმის სახით ჭარბობს აზოტი.</p>
                                         </div>
                                         <h3 class="theme-color">₾140.00</h3>
-                                        <button onclick="location.href = 'product_aqualis_13.php';" class="btn listing-content">Add
-                                            To Cart</button>
+                                        <button onclick="location.href = 'product_aqualis_13.php';" class="btn listing-content">დეტალურად</button>
                                     </div>
                                 </div>
                             </div>
@@ -1411,8 +1252,7 @@
                                             <p class="font-light">გამოიყენება ვეგეტაციის ბოლოს და მოსავლის აღების პერიოდში. უზრუნველყოფს დაჩქარებულ მომწიფებას, აუმჯობესებს პროდუქტის ხარისხს. კალიუმის მაღალი შემცველობა უფრო სწრაფად მომწიფებისთვის, ძლიერი და ლამაზი კანი უფრო დიდ ნაყოფებზე. აზოტი ძირითადად ნიტრატის სახითაა. მაგნიუმი და კვალი ელემენტები მოსავლის სრული სიმწიფისთვის.</p>
                                         </div>
                                         <h3 class="theme-color">₾140.00</h3>
-                                        <button onclick="location.href = 'product_aqualis_12.php';" class="btn listing-content">Add
-                                            To Cart</button>
+                                        <button onclick="location.href = 'product_aqualis_12.php';" class="btn listing-content">დეტალურად</button>
                                     </div>
                                 </div>
                             </div>
@@ -1467,8 +1307,7 @@
                                             <p class="font-light">აჩქარებს სიმწიფეს, აუმჯობესებს ხილის ხარისხს და ზრდის მშრალი ნივთიერების რაოდენობას. უზრუნველყოფს ნივთიერებების სრულ გადინებას მცენარეული მასიდან. მაგნიუმი და მიკროელემენტები პროდუქტის მაქსიმალური ხარისხისა და მოსავლიანობისთვის. მარცვლეულში გლუტენის მატება, ჭარხალში შაქრის მომატება.</p>
                                         </div>
                                         <h3 class="theme-color">₾140.00</h3>
-                                        <button onclick="location.href = 'product_aqualis_15.php';" class="btn listing-content">Add
-                                            To Cart</button>
+                                        <button onclick="location.href = 'product_aqualis_15.php';" class="btn listing-content">დეტალურად</button>
                                     </div>
                                 </div>
                             </div>
@@ -1523,8 +1362,7 @@
                                             <p class="font-light">ბალანსი კვალი ელემენტებით ხელს შეუწყობს მოსავლის ზრდას და განვითარებას მთელი ვეგეტაციის განმავლობაში. მას აქვს სტრესის საწინააღმდეგო ეფექტი არასასურველი ამინდის პირობებში ან პესტიციდების გამოყენების შემდეგ.</p>
                                         </div>
                                         <h3 class="theme-color">₾115.00</h3>
-                                        <button onclick="location.href = 'product_aqualis_20.php';" class="btn listing-content">Add
-                                            To Cart</button>
+                                        <button onclick="location.href = 'product_aqualis_20.php';" class="btn listing-content">დეტალურად</button>
                                     </div>
                                 </div>
                             </div>
@@ -1579,8 +1417,7 @@
                                             <p class="font-light">წონასწორობის ბრენდი კვალი ელემენტებით.</p>
                                         </div>
                                         <h3 class="theme-color">₾42.00</h3>
-                                        <button onclick="location.href = 'product_kas_32.php';" class="btn listing-content">Add
-                                            To Cart</button>
+                                        <button onclick="location.href = 'product_kas_32.php';" class="btn listing-content">დეტალურად</button>
                                     </div>
                                 </div>
                             </div>
@@ -1635,8 +1472,7 @@
                                             <p class="font-light">ამონიუმის ნიტრატის სასუქი (UAN) არის უნივერსალური მარცვლოვანი აზოტის სასუქი, რომელიც შეიცავს აზოტს ამონიუმის და ნიტრატის სახით (33.5% აზოტი).</p>
                                         </div>
                                         <h3 class="theme-color">₾105.00</h3>
-                                        <button onclick="location.href = 'product_rus_gvar.php';" class="btn listing-content">Add
-                                            To Cart</button>
+                                        <button onclick="location.href = 'product_rus_gvar.php';" class="btn listing-content">დეტალურად</button>
                                     </div>
                                 </div>
                             </div>
@@ -1691,8 +1527,7 @@
                                             <p class="font-light">ფოსბელ ექსტრა აერთიანებს ფოსეთილის მოქმედების სისტემურ მეთოდს, ფოლპეტის მოქმედების კონტაქტურ მეთოდს და ციმოქსანილის შეღწევადობას. გამოირჩევა განსაკუთრებული უნარით, გადაადგილდება მცენარეში წვენთან ერთად როგორც ზევიდან ქვევით ასევე ქვევიდან ზევით მიმართულებით. აკონტროლებს პათოგენის აგენტს ინკუპაციის პერიოდში, ხელს უშლის მიცელიუმის ზრდას, სპორების წარმოქმნას და პათოგენების გამრავლებას. ფოსბელ ექსტრა ხელს უწყობს მცენარეების ფიზიოლოგიური დაცვის უნარის გაძლიერებას. შეთავსებადია სხვა პესტიციდებთან და სასუქებთან გარდა გოგირდისა და შაბიამნისა.</p>
                                         </div>
                                         <h3 class="theme-color">₾82.00</h3>
-                                        <button onclick="location.href = 'product_fosbel.php';" class="btn listing-content">Add
-                                            To Cart</button>
+                                        <button onclick="location.href = 'product_fosbel.php';" class="btn listing-content">დეტალურად</button>
                                     </div>
                                 </div>
                             </div>
@@ -1747,8 +1582,7 @@
                                             <p class="font-light">აბამეტი არის წამყვანი აკარიციდი/ინსექტიციდი და მოქმედებს ძირითადად გადაყლაპვით, მაგრამ ასევე აქვს კონტაქტური და ტრანსლამინარული აქტივობა, რაც იმას ნიშნავს, რომ აქტიური ინგრედიენტი გადადის ფოთლის ქსოვილში და ქმნის აბამექტინის ტოქსიკურ რეზერვუარს, რომელიც აგრძელებს მავნებლების მოკვლას, რადგან ისინი იკვებებიან მესფილის ქსოვილით.</p>
                                         </div>
                                         <h3 class="theme-color">₾33.00</h3>
-                                        <button onclick="location.href = 'product_abamet.php';" class="btn listing-content">Add
-                                            To Cart</button>
+                                        <button onclick="location.href = 'product_abamet.php';" class="btn listing-content">დეტალურად</button>
                                     </div>
                                 </div>
                             </div>
@@ -1803,8 +1637,7 @@
                                             <p class="font-light">აზოტოვანი ჯგუფის მინერალური სასუქებიდან ამონიუმის გვარჯილა უნივერსალური, მაღალკონცენტრირებული აზოტოვანი სასუქია. მასში ძირითადი მკვებავი ელემენტი აზოტია, რომლის შემცველობაც პროდუქტში მინიმუმ 34,4 % -ია, აქედან 17,2 % აზოტს იგი შეიცავს ნიტრატული და ასევე 17,2 % აზოტს ამიაკური ფორმით. ეფექტურობის მხრივ მას პირველი ადგილი უჭირავს აზოტოვან სასუქებს შორის, რადგანაც იგი გამოიყენება ყველანაირი ტიპის ნიადაგებისათვის და სასოფლო - სამეურნეო კულტურების უმეტესობისათვის, როგორც ძირითადი, ასევე თესვისწინა და დამატებითი კვების უზრუნველყოფის მიზნით. ამონიუმის გვარჯილის სწორი დოზირებით მოსავლის რაოდენობა იზრდება 35 – 38 % -ით, ხოლო ნიადაგში აზოტის დეფიციტი განაპირობებს მცენარის განვითარების შეჩერებას და დაბალ მოსავლიანობას.</p>
                                         </div>
                                         <h3 class="theme-color">₾74.00</h3>
-                                        <button onclick="location.href = 'product_gvarjila.php';" class="btn listing-content">Add
-                                            To Cart</button>
+                                        <button onclick="location.href = 'product_gvarjila.php';" class="btn listing-content">დეტალურად</button>
                                     </div>
                                 </div>
                             </div>
@@ -1859,8 +1692,7 @@
                                             <p class="font-light">ამონიუმის გლუფოსინატი - ბლოკავს ფერმენტ გლუტამინსინთეზატის ფუნქციონირებას, რაც იწვევს უჯრედში ამიაკის შემცველობის მატებას, რის შედეგადაც ხდება ფოტოსინთეზის პროცესის ჩახშობა, მემბრანული ფუნქციის რღვევა და ცილების ბიოსინთეზის კლება. ამიაკის მაღალი შემცველობა рН-ის ნიშნულს ქვემოთ წევს მთლიან მემბრანაში, ამცირებს მცენარის ზრდა განვითარებისთვის გამომუშავებულ ენერგიას. ამიაკის ტოქსიკურ ნიშნულამდე დაგროვების შედეგად მცენარეში ხდება მწვანე მასის სწრაფი ხმობა და განადგურება.</p>
                                         </div>
                                         <h3 class="theme-color">₾63.00</h3>
-                                        <button onclick="location.href = 'product_galant.php';" class="btn listing-content">Add
-                                            To Cart</button>
+                                        <button onclick="location.href = 'product_galant.php';" class="btn listing-content">დეტალურად</button>
                                     </div>
                                 </div>
                             </div>
@@ -1915,8 +1747,7 @@
                                             <p class="font-light">ბლუ ბორდო დისპერსი არის ფართო სპექტრის უნივერსალური ფუნგიციდი, რომელსაც გააჩნია ისეთი სოკოვანი და ბაქტერიული დაავადებვებისგან მცენარის დაცვის უნარი როგორიცაა: ჭრაქი, ატმის ფოთლის სიხუჭუჭე, კლასტეროსპოროზი, მონოლიოზი, ფიტოფტორა, ალტერნარიოზი, ფოთლის ლაქიანობები, ბაქტერიული ნეკროზი და სხვა. ბლუ ბორდო დისპერსს ახასიათებს კარგი მიმწებებლობის უნარი, რაც ზრდის დაცვითი მოქმედების ხანგრძლივობას. დაშვებულია ორგანულ სოფლის მეურნეობაში.</p>
                                         </div>
                                         <h3 class="theme-color">₾220.00</h3>
-                                        <button onclick="location.href = 'product_blue_bordo.php';" class="btn listing-content">Add
-                                            To Cart</button>
+                                        <button onclick="location.href = 'product_blue_bordo.php';" class="btn listing-content">დეტალურად</button>
                                     </div>
                                 </div>
                             </div>
@@ -1971,8 +1802,7 @@
                                             <p class="font-light">ნიქსონი არის სისტემურ–კონტაქტური მოქმედების ფუნგიციდი, რომელსაც გააჩნია, როგორც პროფილაქტიკური, ასევე სამკურნალო მოქმედება და გამოიყენება ვაზის, კარტოფილის, ბოსტნეულისა და სხვა სასოფლო–სამეურნეო კულტურების ძირითადი სოკოვანი დაავადებებისაგან დასაცავად.</p>
                                         </div>
                                         <h3 class="theme-color">₾12.00</h3>
-                                        <button onclick="location.href = 'product_nixon.php';" class="btn listing-content">Add
-                                            To Cart</button>
+                                        <button onclick="location.href = 'product_nixon.php';" class="btn listing-content">დეტალურად</button>
                                     </div>
                                 </div>
                             </div>
@@ -2027,8 +1857,7 @@
                                             <p class="font-light">აცტეკი წარმოადგენს ტრანსლამინარულ ინსექტო-აკარიციდს, რომელიც ებრძვის სასოფლო სამეურნეო კულტურების ყველა სახეობის მავნე ტკიპებსა და ჭიჭინობელებს. იგი მოქმედებს ტკიპების განვითარების ყველა ფაზაზე, მათ შორის ტკიპას კვერცხებზეც. პრეპარატი მოქმედებს შეხებით და საჭმლის მომნელებელი სისტემის საშუალებით. შესხურებისთანავე იჭრება მცენარის წვენში და ანადგურებს იმ ტკიპასაც, რომელიც წამლობისას არ იმყოფებოდა კონტაქტში. მას გააჩნია შერჩევითი მოქმედების უნარი.</p>
                                         </div>
                                         <h3 class="theme-color">₾33.00</h3>
-                                        <button onclick="location.href = 'product_actec.php';" class="btn listing-content">Add
-                                            To Cart</button>
+                                        <button onclick="location.href = 'product_actec.php';" class="btn listing-content">დეტალურად</button>
                                     </div>
                                 </div>
                             </div>
@@ -2083,17 +1912,12 @@
                                             <p class="font-light">სულფოვიტა არის კონტაქტური მოქმედების ფუნგიციდი და აკარიციდი, რომელიც გამოიყენება უმეტესი სასოფლო–სამეურნეო კულტურების ნაცროვანი და ზოგიერთი სხვა სახის დაავადებებისა და ტკიპების წინააღმდეგ. სულფოვიტას უნიკალური პრეპარატული ფორმის მეშვეობით ახასიათებს კარგი მიმწებებლობა, ასევე კონტაქტური მოქმედება და აქტიურობა აირად ფაზაში. მისი ნაწილაკების იდეალური ზომა განაპირობებს კარგ ხსნადობას, წარმოქმნის ერთგვაროვან და მდგრად სუსპენზიას. სულფოვიტას გამოყენება დაშვებულია ორგანულ მეურნეობაში.</p>
                                         </div>
                                         <h3 class="theme-color">₾12.00</h3>
-                                        <button onclick="location.href = 'product_sulfavita.php';" class="btn listing-content">Add
-                                            To Cart</button>
+                                        <button onclick="location.href = 'product_sulfavita.php';" class="btn listing-content">დეტალურად</button>
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <!-- Prodcut setion -->
-                    </div>
-
-                    <div class="load-more">
-                        <button class="loadMore btn btn-submit btn-full">load more</button>
                     </div>
                     <!-- Product section -->
                 </div>

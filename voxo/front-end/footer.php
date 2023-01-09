@@ -6,18 +6,17 @@
                 <div class="row">
                     <div class="col-lg-8 col-md-6">
                         <div class="subscribe-details">
-                            <h2 class="mb-3">Subscribe Our News</h2>
-                            <h6>Subscribe and receive our newsletters to follow the news about our fresh and fantastic
-                                Shoes Products.</h6>
+                            <h2 class="mb-3">შეთავაზებები <span id="logotext">ოდიში აგროსგან</span>!</h2>
+                            <h6>მიიღეთ უახლესი ინფორმაციები პროდუქციის, ფასდაკლებებისა და ღონისძიებების შესახებ.</h6>
                         </div>
                     </div>
 
                     <div class="col-lg-4 col-md-6 mt-md-0 mt-3">
                         <div class="subsribe-input">
                             <div class="input-group">
-                                <input type="text" class="form-control" placeholder="Your Email Address"
+                                <input type="text" class="form-control" placeholder="დატოვეთ ელ-ფოსტა"
                                     aria-label="Recipient's username">
-                                <button class="btn btn-solid-default btn-spacing" type="button">Button</button>
+                                <button class="btn btn-solid-default btn-spacing" type="button">გამოწერა</button>
                             </div>
                         </div>
                     </div>
@@ -86,7 +85,7 @@
         <div class="main-footer">
             <div class="container">
                 <div class="row gy-4">
-                    <div class="col-xl-3 col-lg-4 col-md-6">
+                    <div class="col-xl-6 col-lg-6 col-md-6">
                         <div class="footer-contact">
                             <div class="brand-logo">
                                 <a href="index.php" class="footer-logo">
@@ -119,90 +118,9 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-2 col-md-4 col-sm-6">
-                        <div class="footer-links">
-                            <div class="footer-title">
-                                <h3>About us</h3>
-                            </div>
-                            <div class="footer-content">
-                                <ul>
-                                    <li>
-                                        <a href="index.php" class="font-dark">Home</a>
-                                    </li>
-                                    <li>
-                                        <a href="shop-left-sidebar.html" class="font-dark">Shop</a>
-                                    </li>
-                                    <li>
-                                        <a href="about-us.html" class="font-dark">About Us</a>
-                                    </li>
-                                    <li>
-                                        <a href="shop-left-sidebar.html" class="font-dark">Blog</a>
-                                    </li>
-                                    <li>
-                                        <a href="shop-left-sidebar.html" class="font-dark">Contact</a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6">
-                        <div class="footer-links">
-                            <div class="footer-title">
-                                <h3>New Categories</h3>
-                            </div>
-                            <div class="footer-content">
-                                <ul>
-                                    <li>
-                                        <a href="shop-left-sidebar.html" class="font-dark">Latest Shoes</a>
-                                    </li>
-                                    <li>
-                                        <a href="shop-left-sidebar.html" class="font-dark">Branded Jeans</a>
-                                    </li>
-                                    <li>
-                                        <a href="shop-left-sidebar.html" class="font-dark">New Jackets</a>
-                                    </li>
-                                    <li>
-                                        <a href="shop-left-sidebar.html" class="font-dark">Colorfull Hoodies</a>
-                                    </li>
-                                    <li>
-                                        <a href="shop-left-sidebar.html" class="font-dark">Shiner Goggles</a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6">
-                        <div class="footer-links">
-                            <div class="footer-title">
-                                <h3>Get Help</h3>
-                            </div>
-                            <div class="footer-content">
-                                <ul>
-                                    <li>
-                                        <a href="user-dashboard.html" class="font-dark">Your Orders</a>
-                                    </li>
-                                    <li>
-                                        <a href="user-dashboard.html" class="font-dark">Your Account</a>
-                                    </li>
-                                    <li>
-                                        <a href="order-tracking.html" class="font-dark">Track Orders</a>
-                                    </li>
-                                    <li>
-                                        <a href="wishlist.html" class="font-dark">Your Wishlist</a>
-                                    </li>
-                                    <li>
-                                        <a href="faq.html" class="font-dark">Shopping FAQs</a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-xl-3 col-lg-4 col-sm-6 d-none d-sm-block">
+                    <div class="col-xl-6 col-lg-6 col-md-6">
                         <div class="footer-newsletter">
-                            <h3>Got Qustion ? Call Us 24/7</h3>
+                            <h3>კონსულტაციისათვის დაგვირეკეთ</h3>
                             <div class="footer-number">
                                 <div class="footer-number-image">
                                     <img src="assets/images/shoes/other/headphone.png"
@@ -279,17 +197,16 @@
                 <div class="modal-body">
                     <img src="assets/images/newletter-icon.png" class="img-fluid blur-up lazyload" alt="">
                     <div class="modal-title">
-                        <h2 class="tt-title">Sign up for our Newsletter!</h2>
-                        <p class="font-light">Never miss any new updates or products we reveal, stay up to date.</p>
-                        <p class="font-light">Oh, and it's free!</p>
+                        <h2 class="tt-title">შეუერთდი ბარაქას საზოგადოებას!</h2>
+                        <p class="font-light">მიიღეთ უახლესი ინფორმაციები პროდუქციის, ფასდაკლებებისა და ღონისძიებების შესახებ.</p>
 
                         <div class="input-group mb-3">
-                            <input placeholder="Email" class="form-control" type="text">
+                            <input placeholder="დატოვეთ ელ-ფოსტა" class="form-control" type="text">
                         </div>
 
                         <div class="cancel-button text-center">
                             <button class="btn default-theme w-100" data-bs-dismiss="modal"
-                                type="button">Submit</button>
+                                type="button">გამოწერა</button>
                         </div>
                     </div>
                 </div>
@@ -486,7 +403,7 @@
     <script src="assets/js/pwa.js"></script>
 
     <!-- Timer Js -->
-    <script src="assets/js/timer1.js"></script>
+    <!-- <script src="assets/js/timer1.js"></script> -->
 
     <!-- Slick js-->
     <script src="assets/js/slick/slick.js"></script>
