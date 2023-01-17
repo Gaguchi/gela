@@ -19,8 +19,8 @@
                                 </div>
                                 <div class="product-details text-center">
                                     <h3 class="theme-color">
-                                        $49.00
-                                        <span class="font-light ml-1">$52.00</span>
+                                        ₾49.00
+                                        <span class="font-light ml-1">₾52.00</span>
                                     </h3>
                                     <a href="products_ballerina.php" class="font-default">
                                         <h5>ბალერინა</h5>
@@ -39,8 +39,8 @@
                                 </div>
                                 <div class="product-details text-center">
                                     <h3 class="theme-color">
-                                        $49.00
-                                        <span class="font-light ml-1">$52.00</span>
+                                        ₾49.00
+                                        <span class="font-light ml-1">₾52.00</span>
                                     </h3>
                                     <a href="products_tornado.php" class="font-default">
                                         <h5>ტორნადო</h5>
@@ -85,8 +85,8 @@
                                 </div>
                                 <div class="product-details text-center">
                                     <h3 class="theme-color">
-                                        $49.00
-                                        <span class="font-light ml-1">$52.00</span>
+                                        ₾49.00
+                                        <span class="font-light ml-1">₾52.00</span>
                                     </h3>
                                     <a href="product-left-sidebar.html" class="font-default">
                                         <h5>ტორნადო 500</h5>
@@ -134,8 +134,8 @@
                                 </div>
                                 <div class="product-details text-center">
                                     <h3 class="theme-color">
-                                        $49.00
-                                        <span class="font-light ml-1">$52.00</span>
+                                        ₾49.00
+                                        <span class="font-light ml-1">₾52.00</span>
                                     </h3>
                                     <a href="products_.php" class="font-default">
                                         <h5>დუბლონი</h5>
@@ -154,8 +154,8 @@
                                 </div>
                                 <div class="product-details text-center">
                                     <h3 class="theme-color">
-                                        $49.00
-                                        <span class="font-light ml-1">$52.00</span>
+                                        ₾49.00
+                                        <span class="font-light ml-1">₾52.00</span>
                                     </h3>
                                     <a href="product_dublon_gold.php" class="font-default">
                                         <h5>დუბლონ გოლდი</h5>
@@ -173,8 +173,8 @@
                                 </div>
                                 <div class="product-details text-center">
                                     <h3 class="theme-color">
-                                        $49.00
-                                        <span class="font-light ml-1">$52.00</span>
+                                        ₾49.00
+                                        <span class="font-light ml-1">₾52.00</span>
                                     </h3>
                                     <a href="product_nixon.php" class="font-default">
                                         <h5>ნიქსონი</h5>
@@ -193,8 +193,8 @@
                                 </div>
                                 <div class="product-details text-center">
                                     <h3 class="theme-color">
-                                        $49.00
-                                        <span class="font-light ml-1">$52.00</span>
+                                        ₾49.00
+                                        <span class="font-light ml-1">₾52.00</span>
                                     </h3>
                                     <a href="product_actec.php" class="font-default">
                                         <h5>აცტეკი</h5>
@@ -213,8 +213,8 @@
                                 </div>
                                 <div class="product-details text-center">
                                     <h3 class="theme-color">
-                                        $49.00
-                                        <span class="font-light ml-1">$52.00</span>
+                                        ₾49.00
+                                        <span class="font-light ml-1">₾52.00</span>
                                     </h3>
                                     <a href="product_sulfavita.php" class="font-default">
                                         <h5>სულფოვიტა</h5>
@@ -259,8 +259,8 @@
                                 </div>
                                 <div class="product-details text-center">
                                     <h3 class="theme-color">
-                                        $49.00
-                                        <span class="font-light ml-1">$52.00</span>
+                                        ₾49.00
+                                        <span class="font-light ml-1">₾52.00</span>
                                     </h3>
                                     <a href="product-left-sidebar.html" class="font-default">
                                         <h5>მანკოლაქსილი</h5>
