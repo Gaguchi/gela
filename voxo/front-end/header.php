@@ -111,7 +111,7 @@
                                 <div class="category-menu">
                                     <button type="button"
                                         class="btn btn-solid-default toggle-category d-sm-block d-none">
-                                        All categories
+                                        Ყველა კატეგორია
                                         <i class="fas fa-chevron-down d-xl-inline-block d-none"></i>
                                     </button>
                                     <div class="category-dropdown">
