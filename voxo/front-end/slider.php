@@ -8,7 +8,7 @@
                 <div class="banner-poster bg-cornfield">
                     <div class="slider-bg">
                         <div class="bg-text">
-                            <span class="word" style="position: relative; font-size: calc(32px + (240 - 42) * ((30vw - 20px) / (1920 - 320)));">ოდიში აგრო</span>
+                            <span class="word" style="position: relative; font-size: calc(32px + (240 - 42) * ((30vw - 70px) / (1920 - 320)));">ოდიში აგრო</span>
                         </div>
                     </div>
                     

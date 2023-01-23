@@ -52,6 +52,34 @@
 
 <?php include 'products-slider.php'?>
 
+
+		<!-- Three columns of text below the carousel -->
+		<div class="row" style="overflow-x:hidden; padding-top: 10px;">
+			<div class="col-lg-4">
+				<div class="frame street-bg">
+					<div class="mask">
+						<img id="car" src="assets/img/car1.png" alt="" srcset="">
+					</div>
+				</div>
+				<h2 class="fw-bolder">ЛОГИСТИКА</h2>
+			</div>
+			<div class="col-lg-4">
+				<div class="frame street-bg">
+					<div class="mask">
+						<img id="car" src="assets/img/car2.png" alt="" srcset="">
+					</div>
+				</div>
+				<h2 class="fw-bolder">ДИСТРИБУЦИЯ</h2>
+			</div>
+			<div class="col-lg-4">
+				<div class="frame street-bg">
+					<div class="mask">
+						<img id="car" src="assets/img/car3.png" alt="" srcset="">
+					</div>
+				</div>
+				<h2 class="fw-bolder">МЕРЧАНДАЙЗИНГ</h2>
+			</div>
+		</div><!-- /.row -->
 <!-- Map Section start -->
 <!-- <section class="contact-section">
     <div class="container-fluid">

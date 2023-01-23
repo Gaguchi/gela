@@ -32,8 +32,8 @@
                                         <span class="badge badge-grey-color">ინსექტიციდი</span>
                                     </div>
 
-                                    <h3 class="price-detail">₾<span id="pricetag">7</span> <del id="oldprice"></del> <span id="discount"></span></h3>
-                                    <h3 class="active-price-detail">საცალო ფასი: ₾<span id="unitprice">7.00</span></h3><h3 class="active-price-discount"> საბითუმო ფასი: ₾<span id="wholesaleprice">5.00</span></h3>
+                                    <h3 class="price-detail">₾<span id="pricetag">120</span> <del id="oldprice"></del> <span id="discount"></span></h3>
+                                    <h3 class="active-price-detail">საცალო ფასი: ₾<span id="unitprice">120.00</span></h3><h3 class="active-price-discount"> საბითუმო ფასი: ₾<span id="wholesaleprice">115.00</span></h3>
 
 
                                     <div class="color-image">
@@ -66,11 +66,11 @@
                                                 <li class="pricechange" value="12" realvalue="10">
                                                     <a href="javascript:void(0)">50 მლ.გრ.</a>
                                                 </li>
-                                                <li class="pricechange" value="35" realvalue="30">
+                                                <li class="pricechange" value="33" realvalue="30">
                                                     <a href="javascript:void(0)">200 მლ.გრ.</a>
                                                 </li>
                                                 <li class="pricechange" value="120" realvalue="115">
-                                                    <a href="javascript:void(0)">1ლ.</a>
+                                                    <a href="javascript:void(0)">1 ლ.</a>
                                                 </li>
                                             </ul>
                                         </div>

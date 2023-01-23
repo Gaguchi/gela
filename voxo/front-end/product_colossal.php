@@ -62,7 +62,7 @@
                                                 <li class="pricechange active" id="activeprice" value="12" realvalue="10">
                                                     <a href="javascript:void(0)">100 მლ.</a>
                                                 </li>
-                                                <li class="pricechange" value="80"  realvalue="75">
+                                                <li class="pricechange" value="82"  realvalue="80">
                                                     <a href="javascript:void(0)">1 ლ.</a>
                                                 </li>
                                             </ul>

@@ -32,8 +32,8 @@
                                         <span class="badge badge-grey-color">ჰერბიციდი</span>
                                     </div>
 
-                                    <h3 class="price-detail">₾<span id="pricetag">45</span> <del id="oldprice"></del> <span id="discount"></span></h3>
-                                    <h3 class="active-price-detail">საცალო ფასი: ₾<span id="unitprice">45.00</span></h3><h3 class="active-price-discount"> საბითუმო ფასი: ₾<span id="wholesaleprice">40.00</span></h3>
+                                    <h3 class="price-detail">₾<span id="pricetag">47</span> <del id="oldprice"></del> <span id="discount"></span></h3>
+                                    <h3 class="active-price-detail">საცალო ფასი: ₾<span id="unitprice">47.00</span></h3><h3 class="active-price-discount"> საბითუმო ფასი: ₾<span id="wholesaleprice">45.00</span></h3>
 
                                     <div class="color-image">
                                         <div class="image-select">
@@ -59,7 +59,7 @@
 
                                         <div class="size-box">
                                             <ul>
-                                                <li class="pricechange active" id="activeprice" value="45" realvalue="40">
+                                                <li class="pricechange active" id="activeprice" value="47" realvalue="45">
                                                     <a href="javascript:void(0)">1 ლ.</a>
                                                 </li>
                                             </ul>
