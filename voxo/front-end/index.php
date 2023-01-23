@@ -54,32 +54,39 @@
 
 
 		<!-- Three columns of text below the carousel -->
+        
+        <div class="title title-2 text-center">
+                        <h2>ჩვენი პროდუქცია</h2>
+                        <h5>შეიძინე საბითუმო ფასში</h5>
+                    </div>
+        <div class="container">
 		<div class="row" style="overflow-x:hidden; padding-top: 10px;">
-			<div class="col-lg-4">
+			<div class="col-lg-4 centered-frame">
 				<div class="frame street-bg">
 					<div class="mask">
-						<img id="car" src="assets/img/car1.png" alt="" srcset="">
+						<img id="car" src="assets/images/car1.png" alt="" srcset="">
 					</div>
 				</div>
 				<h2 class="fw-bolder">ЛОГИСТИКА</h2>
 			</div>
-			<div class="col-lg-4">
+			<div class="col-lg-4 centered-frame">
 				<div class="frame street-bg">
 					<div class="mask">
-						<img id="car" src="assets/img/car2.png" alt="" srcset="">
+						<img id="car" src="assets/images/car2-2.png" alt="" srcset="">
 					</div>
 				</div>
 				<h2 class="fw-bolder">ДИСТРИБУЦИЯ</h2>
 			</div>
-			<div class="col-lg-4">
+			<div class="col-lg-4 centered-frame">
 				<div class="frame street-bg">
 					<div class="mask">
-						<img id="car" src="assets/img/car3.png" alt="" srcset="">
+						<img id="car" src="assets/images/car3.png" alt="" srcset="">
 					</div>
 				</div>
 				<h2 class="fw-bolder">МЕРЧАНДАЙЗИНГ</h2>
 			</div>
-		</div><!-- /.row -->
+		</div>
+        </div><!-- /.row -->
 <!-- Map Section start -->
 <!-- <section class="contact-section">
     <div class="container-fluid">
