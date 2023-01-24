@@ -60,11 +60,15 @@
                         <h5>შეიძინე საბითუმო ფასში</h5>
                     </div>
         <div class="container">
-		<div class="row" style="overflow-x:hidden; padding-top: 10px;">
+		<div class="row" style="overflow:hidden; padding-top: 10px;">
 			<div class="col-lg-4 centered-frame">
-				<div class="frame street-bg">
+				<div class="frame lab-bg" id="soil">
 					<div class="mask">
-						<img id="car" src="assets/images/car1.png" alt="" srcset="">
+						<img id="bloom" src="assets/images/bloom.png" alt="" srcset="">
+						<img id="particle-bg" src="assets/images/particle2.png" alt="" srcset="">
+						<img id="scientist" src="assets/images/scientist.png" alt="" srcset="">
+						<img id="scientist-hand" src="assets/images/scientist-hand-2.png" alt="" srcset="">
+						<img id="particle-fg" src="assets/images/particle1.png" alt="" srcset="">
 					</div>
 				</div>
 				<h2 class="fw-bolder">ЛОГИСТИКА</h2>
