@@ -28,11 +28,6 @@
                         <img class="shoes-1 img-fluid blur-up lazyload" alt="" src="assets/images/shoes/slider-1.png">
                     </div>
 
-
-                    <div class="price-number">
-                        <h2>₾65.00 <span><del>₾79.00</del></span></h2>
-                    </div>
-
                     <div class="slider-arrow-2">
                         <div class="left-arrow d-lg-block d-none"></div>
                         <div class="right-arrow d-lg-block d-none"></div>
@@ -50,10 +45,6 @@
                     </div>
 
 
-                    <div class="price-number">
-                        <h2>₾59.00 <span><del>₾73.00</del></span></h2>
-                    </div>
-
                     <div class="slider-arrow-2">
                         <div class="left-arrow d-lg-block d-none"></div>
                         <div class="right-arrow d-lg-block d-none"></div>
@@ -67,11 +58,6 @@
                         <img class="shoes-odishi-logo img-fluid blur-up lazyload" alt="" src="assets/images/odishi_logo_white.svg">
                         <img class="shoes-logo img-fluid blur-up lazyload" alt="" src="assets/images/WWI_logo.svg">
                         <img class="shoes-1 img-fluid blur-up lazyload" alt="" src="assets/images/shoes/slider-3.png">
-                    </div>
-
-
-                    <div class="price-number">
-                        <h2>₾59.00 <span><del>₾73.00</del></span></h2>
                     </div>
 
                     <div class="slider-arrow-2">
@@ -91,10 +77,6 @@
                     </div>
 
 
-                    <div class="price-number">
-                        <h2>₾59.00 <span><del>₾73.00</del></span></h2>
-                    </div>
-
                     <div class="slider-arrow-2">
                         <div class="left-arrow d-lg-block d-none"></div>
                         <div class="right-arrow d-lg-block d-none"></div>
@@ -111,10 +93,6 @@
                         <img class="shoes-1 img-fluid blur-up lazyload" alt="" src="assets/images/shoes/slider-5.png">
                     </div>
 
-
-                    <div class="price-number">
-                        <h2>₾59.00 <span><del>₾73.00</del></span></h2>
-                    </div>
 
                     <div class="slider-arrow-2">
                         <div class="left-arrow d-lg-block d-none"></div>
