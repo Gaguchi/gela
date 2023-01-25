@@ -50,8 +50,13 @@
     </section>
     <!-- service section end -->
 
+    <hr class="featurette-divider">
+
+
 <?php include 'products-slider.php'?>
 
+
+    <hr class="featurette-divider">
 
 		<!-- Three columns of text below the carousel -->
         
@@ -60,7 +65,7 @@
                         <h5>შეიძინე საბითუმო ფასში</h5>
                     </div>
         <div class="container">
-		<div class="row" style="overflow:hidden; padding-top: 10px;">
+		<div class="row" id="masked-row" style="overflow:hidden; padding-top: 10px;">
 			<div class="col-lg-4 centered-frame">
 				<div class="frame lab-bg" id="soil">
 					<div class="mask">
@@ -71,7 +76,7 @@
 						<img id="particle-fg" src="assets/images/particle1.png" alt="" srcset="">
 					</div>
 				</div>
-				<h2 class="fw-bolder">ЛОГИСТИКА</h2>
+				<h2 class="fw-bolder">ნიადაგის ანალიზი</h2>
 			</div>
 			<div class="col-lg-4 centered-frame">
 				<div class="frame street-bg">
@@ -79,15 +84,15 @@
 						<img id="car" src="assets/images/car2-2.png" alt="" srcset="">
 					</div>
 				</div>
-				<h2 class="fw-bolder">ДИСТРИБУЦИЯ</h2>
+				<h2 class="fw-bolder">მიტანის სერვისი</h2>
 			</div>
 			<div class="col-lg-4 centered-frame">
-				<div class="frame street-bg">
+				<div class="frame lib-bg" id="call">
 					<div class="mask">
-						<img id="car" src="assets/images/car3.png" alt="" srcset="">
+						<img id="phone" src="assets/images/phone.png" alt="" srcset="">
 					</div>
 				</div>
-				<h2 class="fw-bolder">МЕРЧАНДАЙЗИНГ</h2>
+				<h2 class="fw-bolder">აგრონომის კონსულტაცია</h2>
 			</div>
 		</div>
         </div><!-- /.row -->
