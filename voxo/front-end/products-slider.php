@@ -48,7 +48,7 @@
                                 </div>
                             </div>
                         </div>
-<!-- 
+                        <!-- 
                         <div>
                             <div class="product-box">
                                 <div class="img-wrapper">
@@ -275,6 +275,55 @@
         </div>
     </section>
     <!-- New Arrival Section End -->
+
+
+    <section>
+        <div class="container">
+            <div class="row">
+                <img src="assets/images/bannercard.jpg" alt="">
+            </div>
+        </div>
+    </section>
+
+    
+    <section>
+        <div class="title title-2 text-center">
+                        <h2>ჩვენი პროდუქცია</h2>
+                        <h5>შეიძინე საბითუმო ფასში</h5>
+                    </div>
+        <div class="container">
+		<div class="row" id="masked-row" style="overflow:hidden; padding-top: 10px;">
+			<div class="col-lg-4 centered-frame">
+				<div class="frame lab-bg" id="soil">
+					<div class="mask">
+						<img id="bloom" src="assets/images/bloom.png" alt="" srcset="">
+						<img id="particle-bg" src="assets/images/particle2.png" alt="" srcset="">
+						<img id="scientist" src="assets/images/scientist.png" alt="" srcset="">
+						<img id="scientist-hand" src="assets/images/scientist-hand-2.png" alt="" srcset="">
+						<img id="particle-fg" src="assets/images/particle1.png" alt="" srcset="">
+					</div>
+				</div>
+				<h2 class="fw-bolder">ნიადაგის ანალიზი</h2>
+			</div>
+			<div class="col-lg-4 centered-frame">
+				<div class="frame street-bg">
+					<div class="mask">
+						<img id="car" src="assets/images/car2-2.png" alt="" srcset="">
+					</div>
+				</div>
+				<h2 class="fw-bolder">მიტანის სერვისი</h2>
+			</div>
+			<div class="col-lg-4 centered-frame">
+				<div class="frame lib-bg" id="call">
+					<div class="mask">
+						<img id="phone" src="assets/images/phone.png" alt="" srcset="">
+					</div>
+				</div>
+				<h2 class="fw-bolder">აგრონომის კონსულტაცია</h2>
+			</div>
+		</div>
+        </div>
+        </section> 
 
     <!-- Portfolio Section Start -->
     <section id="portfolio" class="portfolio section-b-space">
@@ -599,3 +648,12 @@
         </div>
     </section>
     <!-- Portfolio Section End -->
+
+    
+    <section>
+        <div class="container">
+            <div class="row">
+                <img src="assets/images/banner2.jpg" alt="">
+            </div>
+        </div>
+    </section>

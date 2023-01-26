@@ -20438,7 +20438,7 @@ background-size: cover;
 
 
 .featurette-divider {
-  margin-bottom: 5rem; /* Space out the Bootstrap <hr> more */
+  margin: 5rem 0rem; /* Space out the Bootstrap <hr> more */
 }
 
 

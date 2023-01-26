@@ -2,7 +2,7 @@
 <?php include 'slider.php'?>
 
     <!-- service section start -->
-    <section class="service-section service-style-2 section-b-space">
+    <section class="service-section service-style-2">
         <div class="container">
             <div class="row g-4 g-sm-3">
                 <div class="col-xl-3 col-sm-6">
@@ -56,46 +56,8 @@
 <?php include 'products-slider.php'?>
 
 
-    <hr class="featurette-divider">
-
 		<!-- Three columns of text below the carousel -->
-        
-        <div class="title title-2 text-center">
-                        <h2>ჩვენი პროდუქცია</h2>
-                        <h5>შეიძინე საბითუმო ფასში</h5>
-                    </div>
-        <div class="container">
-		<div class="row" id="masked-row" style="overflow:hidden; padding-top: 10px;">
-			<div class="col-lg-4 centered-frame">
-				<div class="frame lab-bg" id="soil">
-					<div class="mask">
-						<img id="bloom" src="assets/images/bloom.png" alt="" srcset="">
-						<img id="particle-bg" src="assets/images/particle2.png" alt="" srcset="">
-						<img id="scientist" src="assets/images/scientist.png" alt="" srcset="">
-						<img id="scientist-hand" src="assets/images/scientist-hand-2.png" alt="" srcset="">
-						<img id="particle-fg" src="assets/images/particle1.png" alt="" srcset="">
-					</div>
-				</div>
-				<h2 class="fw-bolder">ნიადაგის ანალიზი</h2>
-			</div>
-			<div class="col-lg-4 centered-frame">
-				<div class="frame street-bg">
-					<div class="mask">
-						<img id="car" src="assets/images/car2-2.png" alt="" srcset="">
-					</div>
-				</div>
-				<h2 class="fw-bolder">მიტანის სერვისი</h2>
-			</div>
-			<div class="col-lg-4 centered-frame">
-				<div class="frame lib-bg" id="call">
-					<div class="mask">
-						<img id="phone" src="assets/images/phone.png" alt="" srcset="">
-					</div>
-				</div>
-				<h2 class="fw-bolder">აგრონომის კონსულტაცია</h2>
-			</div>
-		</div>
-        </div><!-- /.row -->
+        <!-- /.row -->
 <!-- Map Section start -->
 <!-- <section class="contact-section">
     <div class="container-fluid">
