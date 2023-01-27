@@ -4,8 +4,8 @@
     <!-- service section start -->
     <section class="service-section service-style-2">
         <div class="container">
-            <div class="row g-4 g-sm-3">
-                <div class="col-xl-3 col-sm-6">
+            <div class="row g-4 g-sm-3 reveal">
+                <div class="col-xl-3 col-sm-6" >
                     <div class="service-wrap">
                         <div class="service-icon">
                             <img src="assets/images/icons/herbicide.svg" alt="" srcset="">

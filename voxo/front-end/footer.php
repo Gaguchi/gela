@@ -428,9 +428,13 @@
     <!-- Notify js-->
     <script src="assets/js/bootstrap/bootstrap-notify.min.js"></script>
 
+    
+    <script src="assets/js/aos.js"></script>
+
     <!-- script js -->
     <script src="assets/js/theme-setting.js"></script>
     <script src="assets/js/script.js"></script>
+
 
     <script>
     </script>

@@ -1021,3 +1021,6 @@ $(".priceupdate").click(function() {
 //     $("#discount").text('დანაზოგი: ₾' + discount.toFixed(2));
 //     $("#pricetag").text(price.toFixed(2));
 // });
+
+
+AOS.init();

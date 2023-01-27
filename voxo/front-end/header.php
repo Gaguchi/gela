@@ -49,6 +49,8 @@
 
     <!-- Theme css -->
     <link id="color-link" rel="stylesheet" type="text/css" href="assets/css/demo3.css">
+  
+    <link href="assets/css/aos.css" rel="stylesheet">
 
 </head>
 

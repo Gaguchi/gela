@@ -278,8 +278,8 @@
 
 
     <section>
-        <div class="container">
-            <div class="row">
+        <div class="container reveal">
+            <div class="row" data-aos="fade-down">
                 <img src="assets/images/bannercard.jpg" alt="">
             </div>
         </div>
@@ -651,7 +651,7 @@
 
     
     <section>
-        <div class="container">
+        <div class="container reveal">
             <div class="row">
                 <img src="assets/images/banner2.jpg" alt="">
             </div>
