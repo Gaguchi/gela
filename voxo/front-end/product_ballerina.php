@@ -34,6 +34,7 @@
 
                                     <h3 class="price-detail">₾<span id="pricetag">27.00</span> <del id="oldprice"></del> <span id="discount"></span></h3>
                                     <h3 class="active-price-detail">საცალო ფასი: ₾<span id="unitprice">27.00</span></h3><h3 class="active-price-discount"> საბითუმო ფასი: ₾<span id="wholesaleprice">25.00</span></h3>
+                                    <h3><span id="until-discount">დარჩა 10 საბითუმო ფასამდე</span></h3>
 
                                     <div id="selectSize" class="addeffect-section product-description border-product">
 
@@ -73,14 +74,14 @@
                                     </div>
 
                                     <div class="product-buttons">
-                                        <a href="wishlist.html" class="btn btn-solid">
-                                            <i class="fa fa-bookmark fz-16 me-2"></i>
-                                            <span>Wishlist</span>
+                                        <a href="tel:+" class="btn btn-solid">
+                                            <i class="fa fa-shopping-cart fz-16 me-2"></i>
+                                            <span>ყიდვა</span>
                                         </a>
-                                        <a href="javascript:void(0)" id="cartEffect"
+                                        <a href="tel:+" 
                                             class="btn btn-solid hover-solid btn-animation">
-                                            <i class="fa fa-shopping-cart"></i>
-                                            <span>Add To Cart</span>
+                                            <i class="fa fa-phone-alt"></i>
+                                            <span>კონსულტაცია</span>
                                         </a>
                                     </div>
 

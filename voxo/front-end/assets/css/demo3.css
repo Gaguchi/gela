@@ -16675,7 +16675,7 @@ header#home {
 }
 
 .addeffect-section .size-box ul li.active {
-  background: #458c65;
+  background: var(--theme-color);
 }
 
 .addeffect-section .size-box ul li.active a {
@@ -16994,7 +16994,7 @@ h3.active-price-detail {
 }
 
 h3.active-price-discount {
-  color: #458c65;
+  color: var(--theme-color);
 }
 
 span#unitprice {
@@ -17036,7 +17036,7 @@ span#wholesaleprice {
 .label-section .badge-grey-color {
   padding: 11px 11px;
   font-size: 20px;
-  background: #458c65;
+  background: var(--theme-color);
 }
 
 .label-section .label-text {

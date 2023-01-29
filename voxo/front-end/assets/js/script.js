@@ -913,14 +913,17 @@ wordflick();
     $(".pricechange").removeAttr("id");
     $(this).attr("id","activeprice");
     if ($(".input-number").val() < 11) {
+        $("#until-discount").show();
         $("#oldprice").hide();
         $("#discount").hide();
+        $("#until-discount").text("დარჩა "+ (11 - $(".input-number").val()) +" საბითუმო ფასამდე")
         price = $("#activeprice").attr('value')*$(".input-number").val();
         unitprice = $("#activeprice").attr('value')*1;
         unitpricediscount = $("#activeprice").attr('realvalue')*1;
     } else {
         $("#oldprice").show();
         $("#discount").show();
+        $("#until-discount").hide();
         unitprice = $("#activeprice").attr('value')*1;
         unitpricediscount = $("#activeprice").attr('realvalue')*1;
         price = $("#activeprice").attr('realvalue')*$(".input-number").val();
@@ -950,12 +953,15 @@ wordflick();
 
 $(".priceupdate").click(function() {
     if ($(".input-number").val() < 11) {
+        $("#until-discount").show();
         $("#oldprice").hide();
         $("#discount").hide();
+        $("#until-discount").text("დარჩა "+ (11 - $(".input-number").val()) +" საბითუმო ფასამდე")
         price = $("#activeprice").attr('value')*$(".input-number").val();
     } else {
         $("#oldprice").show();
         $("#discount").show();
+        $("#until-discount").hide();
         price = $("#activeprice").attr('realvalue')*$(".input-number").val();
         oldprice = $("#activeprice").attr('value')*$(".input-number").val();
         discount = $("#activeprice").attr('value')*$(".input-number").val() - $("#activeprice").attr('realvalue')*$(".input-number").val();

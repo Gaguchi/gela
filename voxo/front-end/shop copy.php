@@ -1,6 +1,42 @@
 <?php include 'header.php'?>
 
 
+    <!-- mobile fix menu start -->
+    <div class="mobile-menu d-sm-none">
+        <ul>
+            <li>
+                <a href="index.html">
+                    <i data-feather="home"></i>
+                    <span>Home</span>
+                </a>
+            </li>
+            <li>
+                <a href="javascript:void(0)" class="toggle-category">
+                    <i data-feather="align-justify"></i>
+                    <span>Category</span>
+                </a>
+            </li>
+            <li>
+                <a href="cart.html">
+                    <i data-feather="shopping-bag"></i>
+                    <span>Cart</span>
+                </a>
+            </li>
+            <li>
+                <a href="wishlist.html">
+                    <i data-feather="heart"></i>
+                    <span>Wishlist</span>
+                </a>
+            </li>
+            <li>
+                <a href="user-dashboard.html">
+                    <i data-feather="user"></i>
+                    <span>Account</span>
+                </a>
+            </li>
+        </ul>
+    </div>
+    <!-- mobile fix menu end -->
 
     <!-- Breadcrumb section start -->
     <section class="breadcrumb-section section-b-space">
@@ -33,7 +69,7 @@
                 <div class="col-lg-3 col-md-4">
                     <div class="category-option">
                         <div class="button-close mb-3">
-                            <button class="btn p-0"><i data-feather="arrow-left"></i>დახურვა</button>
+                            <button class="btn p-0"><i data-feather="arrow-left"></i> Close</button>
                         </div>
                         <div class="accordion category-name" id="accordionExample">
 
