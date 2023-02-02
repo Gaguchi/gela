@@ -351,6 +351,7 @@ a {
   -webkit-transition: 0.5s ease;
   transition: 0.5s ease;
   text-decoration: none;
+  font-weight: 700;
 }
 
 a:hover {
@@ -7152,6 +7153,7 @@ header .main-navbar .nav-menu>li.mega-menu.home-menu .megamenu-image-title {
 .product-box .img-wrapper {
   position: relative;
   overflow: hidden;
+  border-radius: 10px;
 }
 
 .product-box .img-wrapper.hover-image::after {
@@ -9193,7 +9195,7 @@ footer .footer-contact .contact-lists li {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
 }
 
 footer .footer-contact .contact-lists li:nth-child(1) span {
@@ -9220,7 +9222,7 @@ footer .footer-contact .contact-lists li span b {
 }
 
 footer .footer-contact .contact-lists li+li {
-  margin-top: calc(15px + (30 - 15) * ((100vw - 320px) / (1920 - 320)));
+  margin-top: calc(0px + (30 - 15) * ((100vw - 320px) / (1920 - 320)));
 }
 
 @media (max-width: 991px) {
@@ -10790,6 +10792,7 @@ footer .sub-footer p {
   -ms-flex-pack: center;
   justify-content: center;
   position: relative;
+  margin: 5px;
   font-size: calc(16px + (20 - 16) * ((100vw - 320px) / (1920 - 320)));
   background-color: transparent;
   font-weight: 300;
@@ -16821,7 +16824,7 @@ header#home {
 
 @media (max-width: 480px) {
   .product-buttons .btn-solid {
-    padding: 10px 20px;
+    padding: 10px 10px;
     font-size: 14px;
   }
 }

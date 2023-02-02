@@ -368,33 +368,21 @@
     <div class="mobile-menu d-sm-none">
         <ul>
             <li>
-                <a href="https://themes.pixelstrap.com/voxo/front-end/demo3.html" class="active">
+                <a href="index.php" class="active">
                     <i data-feather="home"></i>
-                    <span>მმთავაარი</span>
+                    <span>მთავარი</span>
                 </a>
             </li>
             <li>
                 <a href="javascript:void(0)" class="toggle-category">
                     <i data-feather="align-justify"></i>
-                    <span>Category</span>
+                    <span>კატეგორიები </span>
                 </a>
             </li>
             <li>
-                <a href="javascript:void(0)">
+                <a href="shop.php">
                     <i data-feather="shopping-bag"></i>
-                    <span>Cart</span>
-                </a>
-            </li>
-            <li>
-                <a href="javascript:void(0)">
-                    <i data-feather="heart"></i>
-                    <span>Wishlist</span>
-                </a>
-            </li>
-            <li>
-                <a href="user-dashboard.html">
-                    <i data-feather="user"></i>
-                    <span>Account</span>
+                    <span>მაღაზია</span>
                 </a>
             </li>
         </ul>

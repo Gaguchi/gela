@@ -14,9 +14,11 @@
                     <div class="col-lg-4 col-md-6 mt-md-0 mt-3">
                         <div class="subsribe-input">
                             <div class="input-group">
-                                <input type="text" class="form-control" placeholder="დატოვეთ ელ-ფოსტა"
-                                    aria-label="Recipient's username">
-                                <button class="btn btn-solid-default btn-spacing" type="button">გამოწერა</button>
+                                <form action="form-to-email.php" method="post">
+                                    <input type="text" class="form-control" name="email" placeholder="დატოვეთ ელ-ფოსტა"
+                                        aria-label="Recipient's email">
+                                    <input class="btn btn-solid-default btn-spacing" type="submit" value="გამოწერა">
+                                </form>
                             </div>
                         </div>
                     </div>
@@ -92,26 +94,25 @@
                                     <svg class="svg-icon">
                                         <use class="fill-color" xlink:href="assets/svg/icons.svg#logo"></use>
                                     </svg>
-                                    <img src="assets/images/odishi_logo.svg" class="img-fluid blur-up lazyload" alt="logo" style="max-height: 50px;">
+                                    <img src="assets/images/odishi_logo.svg" class="img-fluid blur-up lazyload" alt="logo" style="max-height: 70px;">
                                 </a>
                             </div>
 
                             <ul class="contact-lists">
                                 <li>
                                     <span>
-                                        <b>phone:</b> <span class="font-light"> + 185659635</span>
+                                        <b>ტელეფონი:</b> <span class="font-light"><a href="tel:+995599728372">+995 599 72-83-72</a></span><br><span class="font-light" style="margin-left: 106px;"><a href="tel:+995592728372">+995 592 72-83-72</a></span>
                                     </span>
 
                                 </li>
                                 <li>
                                     <span>
-                                        <b>Address:</b><span class="font-light"> 1418 Riverwood Drive, Suite 3245
-                                            Cottonwood, CA 96052, United States</span>
+                                        <b>მისამართი:</b><span class="font-light">ქ. ზუგდიდი, სოხუმის ქ. № 192 (ბენზინგასამართი "გეკო"-ს მიმდებარე)</span>
                                     </span>
                                 </li>
                                 <li>
                                     <span>
-                                        <b>Email:</b><span class="font-light"> Voxo123@gmail.com</span>
+                                        <b>Email:</b><span class="font-light"><a href="mailto:">odishiagro@gmail.com</a></span>
                                     </span>
                                 </li>
                             </ul>
@@ -123,20 +124,17 @@
                             <h3>კონსულტაციისათვის დაგვირეკეთ</h3>
                             <div class="footer-number">
                                 <div class="footer-number-image">
-                                    <img src="assets/images/shoes/other/headphone.png"
-                                        class="img-fluid blur-up lazyload" alt="">
+                                <a href="tel:+995597950700"><img src="assets/images/shoes/other/headphone.png"
+                                        class="img-fluid blur-up lazyload" alt=""></a>
                                 </div>
 
                                 <div class="footer-number-container">
-                                    <h3>+91 98765 43210</h3>
+                                    <h3><a href="tel:+995597950700">+995 597 950 700</a></h3>
                                 </div>
                             </div>
 
                             <div class="footer-details">
-                                <p class="font-light">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo ab
-                                    dolorem nulla
-                                    impedit saepe esse et? Ea, totam recusandae doloribus ipsa esse voluptate quis nisi?
-                                    Voluptate.</p>
+                                <p class="font-light">თქვენ დაგეხმარებათ კვალიფიცირებული აგრონომი, ბიოლოგიის აკადემიური დოქტორი, თამარ ზარანდია.</p>
                             </div>
                         </div>
                     </div>
