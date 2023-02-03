@@ -4,20 +4,24 @@
         <div>
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-8 col-md-6">
+                    <div class="col-lg-7 col-md-6">
                         <div class="subscribe-details">
-                            <h2 class="mb-3">შეთავაზებები <span id="logotext">ოდიში აგროსგან</span>!</h2>
-                            <h6>მიიღეთ უახლესი ინფორმაციები პროდუქციის, ფასდაკლებებისა და ღონისძიებების შესახებ.</h6>
+                            <h2 class="mb-3">შეთავაზებები <span id="logotext">ოდიში აგროსაგან</span>!</h2>
+                            <h6>მიიღეთ უახლესი ინფორმაცია პროდუქციის, ფასდაკლებებისა და ღონისძიებების შესახებ.</h6>
                         </div>
                     </div>
 
-                    <div class="col-lg-4 col-md-6 mt-md-0 mt-3">
+                    <div class="col-lg-5 col-md-6 mt-md-0 mt-3">
                         <div class="subsribe-input">
                             <div class="input-group">
-                                <form action="form-to-email.php" method="post">
+                                <form action="form-to-email.php" method="post" style="width: 100%;">
+                                    <div class="row">
+                                        <div class="col-7">
                                     <input type="text" class="form-control" name="email" placeholder="დატოვეთ ელ-ფოსტა"
-                                        aria-label="Recipient's email">
-                                    <input class="btn btn-solid-default btn-spacing" type="submit" value="გამოწერა">
+                                        aria-label="Recipient's email"></div>
+                                        <div class="col-5">
+                                    <input class="btn btn-solid-default btn-spacing subscribe" type="submit" value="გამოწერა"></div>
+                                    </div>
                                 </form>
                             </div>
                         </div>
@@ -195,16 +199,19 @@
                 <div class="modal-body">
                     <img src="assets/images/newletter-icon.png" class="img-fluid blur-up lazyload" alt="">
                     <div class="modal-title">
-                        <h2 class="tt-title">შეუერთდი ბარაქას საზოგადოებას!</h2>
-                        <p class="font-light">მიიღეთ უახლესი ინფორმაციები პროდუქციის, ფასდაკლებებისა და ღონისძიებების შესახებ.</p>
+                        <h2 class="tt-title">შეთავაზებები <span id="logotext">ოდიში აგროსაგან</span>!</h2>
+                        <p class="font-light">მიიღეთ უახლესი ინფორმაცია პროდუქციის, ფასდაკლებებისა და ღონისძიებების შესახებ.</p>
 
                         <div class="input-group mb-3">
-                            <input placeholder="დატოვეთ ელ-ფოსტა" class="form-control" type="text">
-                        </div>
-
-                        <div class="cancel-button text-center">
-                            <button class="btn default-theme w-100" data-bs-dismiss="modal"
-                                type="button">გამოწერა</button>
+                                <form action="form-to-email.php" method="post" style="width: 100%;">
+                                    <div class="row">
+                                        <div class="col-7">
+                                    <input type="text" class="form-control" name="email" placeholder="დატოვეთ ელ-ფოსტა"
+                                        aria-label="Recipient's email"></div>
+                                        <div class="col-5">
+                                    <input class="btn btn-solid-default btn-spacing subscribe" type="submit" value="გამოწერა"></div>
+                                    </div>
+                                </form>
                         </div>
                     </div>
                 </div>

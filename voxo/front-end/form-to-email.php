@@ -2,7 +2,7 @@
 if(!isset($_POST['submit']))
 {
 	//This page should not be accessed directly. Need to submit the form.
-	echo "error; you need to submit the form!";
+	//echo "error; you need to submit the form!";
 }
 $visitor_email = $_POST['email'];
 
@@ -15,13 +15,13 @@ if(empty($visitor_email))
 
 if(IsInjected($visitor_email))
 {
-    echo "Bad email value!";
+    //echo "Bad email value!";
     exit;
 }
 
 $email_from = 'odishiagro@gmail.com';//<== update the email address
 $email_subject = "New Form submission"; 
-$email_body = "You have received a new message from the user $email";
+$email_body = "You have received a new message from the user $email\n";
     
 $to = "gaga9393@gmail.com";//<== update the email address
 $headers = "From: $email_from \r\n";
