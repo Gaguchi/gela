@@ -88,14 +88,14 @@
                                     </div>
 
                                     <div class="product-buttons">
-                                        <a href="wishlist.html" class="btn btn-solid">
-                                            <i class="fa fa-bookmark fz-16 me-2"></i>
-                                            <span>Wishlist</span>
+                                        <a href="tel:+995599728372" class="btn btn-solid">
+                                            <i class="fa fa-shopping-cart fz-16 me-2"></i>
+                                            <span>ყიდვა</span>
                                         </a>
-                                        <a href="javascript:void(0)" id="cartEffect"
+                                        <a href="tel:+995597950700" 
                                             class="btn btn-solid hover-solid btn-animation">
-                                            <i class="fa fa-shopping-cart"></i>
-                                            <span>Add To Cart</span>
+                                            <i class="fa fa-phone-alt"></i>
+                                            <span>კონსულტაცია</span>
                                         </a>
                                     </div>
 
@@ -103,42 +103,9 @@
                                         <li>
                                             <img src="assets/images/gif/truck.png" class="img-fluid blur-up lazyload"
                                                 alt="image">
-                                            <span class="lang">Free shipping for orders above $500 USD</span>
+                                            <span class="lang">უფასო მიწოდების სერვისი</span>
                                         </li>
                                     </ul>
-
-                                    <div class="border-product">
-                                        <h6 class="product-title d-block">share it</h6>
-                                        <div class="product-icon">
-                                            <ul class="product-social">
-                                                <li>
-                                                    <a href="https://www.facebook.com/">
-                                                        <i class="fab fa-facebook-f"></i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="https://www.google.com/">
-                                                        <i class="fab fa-google-plus-g"></i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="https://twitter.com/">
-                                                        <i class="fab fa-twitter"></i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="https://www.instagram.com/">
-                                                        <i class="fab fa-instagram"></i>
-                                                    </a>
-                                                </li>
-                                                <li class="pe-0">
-                                                    <a href="https://www.google.com/">
-                                                        <i class="fas fa-rss"></i>
-                                                    </a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </div>
                                 </div>
                             </div>
                         </div>

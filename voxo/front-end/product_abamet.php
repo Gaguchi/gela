@@ -34,28 +34,9 @@
 
                                     <h3 class="price-detail">₾<span id="pricetag">33.00</span> <del id="oldprice"></del> <span id="discount"></span></h3>
                                     <h3 class="active-price-detail">საცალო ფასი: ₾<span id="unitprice">33.00</span></h3><h3 class="active-price-discount"> საბითუმო ფასი: ₾<span id="wholesaleprice">30.00</span></h3>
-
-                                    <div class="color-image">
-                                        <div class="image-select">
-                                            <h5>გამოიყენება :</h5>
-                                            <ul class="image-section">
-                                                <li>
-                                                    <a href="javascript:void(0)">
-                                                        <img src="assets/images/fashion/product/front/corn.jpg"
-                                                            class="img-fluid blur-up lazyload" alt="">
-                                                    </a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </div>
+                                    <h3><span id="until-discount">დარჩა 10 საბითუმო ფასამდე</span></h3>
 
                                     <div id="selectSize" class="addeffect-section product-description border-product">
-                                        <h6 class="product-title size-text">აირჩიეთ მოცულობა
-                                            <a href="javascript:void(0)" data-bs-toggle="modal"
-                                                data-bs-target="#sizemodal">size chart</a>
-                                        </h6>
-
-                                        <h6 class="error-message">მოცულობა</h6>
 
                                         <div class="size-box">
                                             <ul>
@@ -65,7 +46,7 @@
                                             </ul>
                                         </div>
 
-                                        <h6 class="product-title product-title-2 d-block">quantity</h6>
+                                        <h6 class="product-title product-title-2 d-block">მოცულობა</h6>
 
                                         <div class="qty-box">
                                             <div class="input-group">
@@ -88,14 +69,14 @@
                                     </div>
 
                                     <div class="product-buttons">
-                                        <a href="wishlist.html" class="btn btn-solid">
-                                            <i class="fa fa-bookmark fz-16 me-2"></i>
-                                            <span>Wishlist</span>
+                                        <a href="tel:+995599728372" class="btn btn-solid">
+                                            <i class="fa fa-shopping-cart fz-16 me-2"></i>
+                                            <span>ყიდვა</span>
                                         </a>
-                                        <a href="javascript:void(0)" id="cartEffect"
+                                        <a href="tel:+995597950700" 
                                             class="btn btn-solid hover-solid btn-animation">
-                                            <i class="fa fa-shopping-cart"></i>
-                                            <span>Add To Cart</span>
+                                            <i class="fa fa-phone-alt"></i>
+                                            <span>კონსულტაცია</span>
                                         </a>
                                     </div>
 
@@ -103,42 +84,9 @@
                                         <li>
                                             <img src="assets/images/gif/truck.png" class="img-fluid blur-up lazyload"
                                                 alt="image">
-                                            <span class="lang">Free shipping for orders above $500 USD</span>
+                                            <span class="lang">უფასო მიწოდების სერვისი</span>
                                         </li>
                                     </ul>
-
-                                    <div class="border-product">
-                                        <h6 class="product-title d-block">share it</h6>
-                                        <div class="product-icon">
-                                            <ul class="product-social">
-                                                <li>
-                                                    <a href="https://www.facebook.com/">
-                                                        <i class="fab fa-facebook-f"></i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="https://www.google.com/">
-                                                        <i class="fab fa-google-plus-g"></i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="https://twitter.com/">
-                                                        <i class="fab fa-twitter"></i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="https://www.instagram.com/">
-                                                        <i class="fab fa-instagram"></i>
-                                                    </a>
-                                                </li>
-                                                <li class="pe-0">
-                                                    <a href="https://www.google.com/">
-                                                        <i class="fas fa-rss"></i>
-                                                    </a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </div>
                                 </div>
                             </div>
                         </div>
