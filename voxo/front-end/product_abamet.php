@@ -47,7 +47,7 @@
                                             </ul>
                                         </div>
 
-                                        <h6 class="product-title product-title-2 d-block">მოცულობა</h6>
+                                        <h6 class="product-title product-title-2 d-block">რაოდენობა</h6>
 
                                         <div class="qty-box">
                                             <div class="input-group">
