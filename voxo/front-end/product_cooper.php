@@ -33,26 +33,11 @@
                                     </div>
 
                                     <h3 class="price-detail">₾<span id="pricetag">42.00</span> <del id="oldprice"></del> <span id="discount"></span></h3>
-                                    <h3 class="active-price-detail">საცალო ფასი: ₾<span id="unitprice">42.00</span></h3><h3 class="active-price-discount"> საბითუმო ფასი: ₾<span id="wholesaleprice">40.00</span></h3>
-
-                                    <div class="color-image">
-                                        <div class="image-select">
-                                            <h5>გამოიყენება :</h5>
-                                            <ul class="image-section">
-                                                <li>
-                                                    <a href="javascript:void(0)">
-                                                        <img src="assets/images/fashion/product/front/corn.jpg"
-                                                            class="img-fluid blur-up lazyload" alt="">
-                                                    </a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </div>
+                                    <h3 class="active-price-detail">საცალო ფასი: ₾<span id="unitprice">42.00</span></h3><h3 class="active-price-discount"> საბითუმო ფასი: ₾<span id="wholesaleprice">40.00</span></h3><h3 class="mb-3"><span id="until-discount">დარჩა 10 საბითუმო ფასამდე</span></h3>
 
                                     <div id="selectSize" class="addeffect-section product-description border-product">
-                                        <h6 class="product-title size-text">აირჩიეთ მოცულობა
-                                            <a href="javascript:void(0)" data-bs-toggle="modal"
-                                                data-bs-target="#sizemodal">size chart</a>
+
+                                        <h6 class="product-title size-text">აირჩიეთ მოცულობა: 
                                         </h6>
 
                                         <h6 class="error-message">მოცულობა</h6>

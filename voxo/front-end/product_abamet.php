@@ -37,6 +37,7 @@
                                     <h3><span id="until-discount">დარჩა 10 საბითუმო ფასამდე</span></h3>
 
                                     <div id="selectSize" class="addeffect-section product-description border-product">
+                                        <h6 class="product-title size-text">აირჩიეთ მოცულობა:</h6>
 
                                         <div class="size-box">
                                             <ul>

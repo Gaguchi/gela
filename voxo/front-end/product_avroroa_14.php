@@ -51,8 +51,6 @@
 
                                     <div id="selectSize" class="addeffect-section product-description border-product">
                                         <h6 class="product-title size-text">აირჩიეთ მოცულობა
-                                            <a href="javascript:void(0)" data-bs-toggle="modal"
-                                                data-bs-target="#sizemodal">size chart</a>
                                         </h6>
 
                                         <h6 class="error-message">მოცულობა</h6>
