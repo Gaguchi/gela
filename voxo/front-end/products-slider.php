@@ -651,7 +651,7 @@
 
     
     <section>
-        <div class="container reveal">
+        <div class="container reveal mb-3">
             <div class="row">
                 <img src="assets/images/banner2.jpg" alt="">
             </div>

@@ -881,7 +881,7 @@
                                             <span class="font-light">სასუქი</span>
                                             <p class="font-light">კარბამიდი (შარდოვანა) - ყველაზე კონცენტრირებული მარცვლოვანი აზოტის სასუქი (46,2% აზოტი).</p>
                                         </div>
-                                        <h3 class="active-price-detail">საცალო ფასი: ₾50.00</h3><h3 class="active-price-discount"> საბითუმო ფასი: ₾45.00</h3>
+                                        <h3 class="active-price-detail">საცალო ფასი: ₾165.00</h3><h3 class="active-price-discount"> საბითუმო ფასი: ₾160.00</h3>
                                         <button onclick="location.href = 'product_karbamid.php';" class="btn listing-content">დეტალურად</button>
                                     </div>
                                 </div>
@@ -936,7 +936,7 @@
                                             <span class="font-light">კომბინირებული სასუქი</span>
                                             <p class="font-light">უნივერსალური მარცვლოვანი აზოტ-ფოსფორიანი სასუქი გოგირდის შემცველობით.</p>
                                         </div>
-                                        <h3 class="active-price-detail">საცალო ფასი: ₾50.00</h3><h3 class="active-price-discount"> საბითუმო ფასი: ₾45.00</h3>
+                                        <h3 class="active-price-detail">საცალო ფასი: ₾135.00</h3><h3 class="active-price-discount"> საბითუმო ფასი: ₾130.00</h3>
                                         <button onclick="location.href = 'product_sufammofos.php';" class="btn listing-content">დეტალურად</button>
                                     </div>
                                 </div>
@@ -991,7 +991,7 @@
                                             <span class="font-light">წყალხსნადი სასუქი</span>
                                             <p class="font-light">იდეალური გადაწყვეტა კარტოფილისა და ბოსტნეულისთვის.</p>
                                         </div>
-                                        <h3 class="active-price-detail">საცალო ფასი: ₾50.00</h3><h3 class="active-price-discount"> საბითუმო ფასი: ₾45.00</h3>
+                                        <h3 class="active-price-detail">საცალო ფასი: ₾135.00</h3><h3 class="active-price-discount"> საბითუმო ფასი: ₾130.00</h3>
                                         <button onclick="location.href = 'product_avroroa_14.php';" class="btn listing-content">დეტალურად</button>
                                     </div>
                                 </div>
@@ -1046,7 +1046,7 @@
                                             <span class="font-light">კომბინირებული სასუქი</span>
                                             <p class="font-light">უნივერსალური მაღალი ხარისხის კომპლექსური სასუქი.</p>
                                         </div>
-                                        <h3 class="active-price-detail">საცალო ფასი: ₾50.00</h3><h3 class="active-price-discount"> საბითუმო ფასი: ₾45.00</h3>
+                                        <h3 class="active-price-detail">საცალო ფასი: ₾140.00</h3><h3 class="active-price-discount"> საბითუმო ფასი: ₾135.00</h3>
                                         <button onclick="location.href = 'product_avrora_16.php';" class="btn listing-content">დეტალურად</button>
                                     </div>
                                 </div>
@@ -1101,7 +1101,7 @@
                                             <span class="font-light">კომბინირებული სასუქი</span>
                                             <p class="font-light">კარბამიდი (შარდოვანა) - ყველაზე კონცენტრირებული მარცვლოვანი აზოტის სასუქი (46,2% აზოტი).</p>
                                         </div>
-                                        <h3 class="active-price-detail">საცალო ფასი: ₾50.00</h3><h3 class="active-price-discount"> საბითუმო ფასი: ₾45.00</h3>
+                                        <h3 class="active-price-detail">საცალო ფასი: ₾155.00</h3><h3 class="active-price-discount"> საბითუმო ფასი: ₾150.00</h3>
                                         <button onclick="location.href = 'product_avrora_10.php';" class="btn listing-content">დეტალურად</button>
                                     </div>
                                 </div>
@@ -1156,7 +1156,7 @@
                                             <span class="font-light">წყალხსნადი სასუქი</span>
                                             <p class="font-light">იგი გამოიყენება ვეგეტაციის დასაწყისში ფესვთა სისტემის და ფოთლის აპარატის განვითარების სტიმულირებისთვის. შემადგენლობაში შემავალი აზოტი, კალიუმი და მიკროელემენტები ხელს უწყობს ჯანსაღი და ძლიერი გენერაციული ორგანოების მოყვანას ხარისხიანი მოსავლისთვის. ამონიუმის სახით ჭარბობს აზოტი.</p>
                                         </div>
-                                        <h3 class="active-price-detail">საცალო ფასი: ₾50.00</h3><h3 class="active-price-discount"> საბითუმო ფასი: ₾45.00</h3>
+                                        <h3 class="active-price-detail">საცალო ფასი: ₾140.00</h3><h3 class="active-price-discount"> საბითუმო ფასი: ₾135.00</h3>
                                         <button onclick="location.href = 'product_aqualis_13.php';" class="btn listing-content">დეტალურად</button>
                                     </div>
                                 </div>
@@ -1211,7 +1211,7 @@
                                             <span class="font-light">წყალხსნადი სასუქი</span>
                                             <p class="font-light">გამოიყენება ვეგეტაციის ბოლოს და მოსავლის აღების პერიოდში. უზრუნველყოფს დაჩქარებულ მომწიფებას, აუმჯობესებს პროდუქტის ხარისხს. კალიუმის მაღალი შემცველობა უფრო სწრაფად მომწიფებისთვის, ძლიერი და ლამაზი კანი უფრო დიდ ნაყოფებზე. აზოტი ძირითადად ნიტრატის სახითაა. მაგნიუმი და კვალი ელემენტები მოსავლის სრული სიმწიფისთვის.</p>
                                         </div>
-                                        <h3 class="active-price-detail">საცალო ფასი: ₾50.00</h3><h3 class="active-price-discount"> საბითუმო ფასი: ₾45.00</h3>
+                                        <h3 class="active-price-detail">საცალო ფასი: ₾140.00</h3><h3 class="active-price-discount"> საბითუმო ფასი: ₾135.00</h3>
                                         <button onclick="location.href = 'product_aqualis_12.php';" class="btn listing-content">დეტალურად</button>
                                     </div>
                                 </div>
@@ -1266,7 +1266,7 @@
                                             <span class="font-light">წყალხსნადი სასუქი</span>
                                             <p class="font-light">აჩქარებს სიმწიფეს, აუმჯობესებს ხილის ხარისხს და ზრდის მშრალი ნივთიერების რაოდენობას. უზრუნველყოფს ნივთიერებების სრულ გადინებას მცენარეული მასიდან. მაგნიუმი და მიკროელემენტები პროდუქტის მაქსიმალური ხარისხისა და მოსავლიანობისთვის. მარცვლეულში გლუტენის მატება, ჭარხალში შაქრის მომატება.</p>
                                         </div>
-                                        <h3 class="active-price-detail">საცალო ფასი: ₾50.00</h3><h3 class="active-price-discount"> საბითუმო ფასი: ₾45.00</h3>
+                                        <h3 class="active-price-detail">საცალო ფასი: ₾140.00</h3><h3 class="active-price-discount"> საბითუმო ფასი: ₾135.00</h3>
                                         <button onclick="location.href = 'product_aqualis_15.php';" class="btn listing-content">დეტალურად</button>
                                     </div>
                                 </div>
@@ -1321,7 +1321,7 @@
                                             <span class="font-light">წყალხსნადი სასუქი</span>
                                             <p class="font-light">ბალანსი კვალი ელემენტებით ხელს შეუწყობს მოსავლის ზრდას და განვითარებას მთელი ვეგეტაციის განმავლობაში. მას აქვს სტრესის საწინააღმდეგო ეფექტი არასასურველი ამინდის პირობებში ან პესტიციდების გამოყენების შემდეგ.</p>
                                         </div>
-                                        <h3 class="active-price-detail">საცალო ფასი: ₾50.00</h3><h3 class="active-price-discount"> საბითუმო ფასი: ₾45.00</h3>
+                                        <h3 class="active-price-detail">საცალო ფასი: ₾115.00</h3><h3 class="active-price-discount"> საბითუმო ფასი: ₾110.00</h3>
                                         <button onclick="location.href = 'product_aqualis_20.php';" class="btn listing-content">დეტალურად</button>
                                     </div>
                                 </div>
@@ -1376,7 +1376,7 @@
                                             <span class="font-light">სასუქი</span>
                                             <p class="font-light">წონასწორობის ბრენდი კვალი ელემენტებით.</p>
                                         </div>
-                                        <h3 class="active-price-detail">საცალო ფასი: ₾50.00</h3><h3 class="active-price-discount"> საბითუმო ფასი: ₾45.00</h3>
+                                        <h3 class="active-price-detail">საცალო ფასი: ₾48.00</h3><h3 class="active-price-discount"> საბითუმო ფასი: ₾45.00</h3>
                                         <button onclick="location.href = 'product_kas_32.php';" class="btn listing-content">დეტალურად</button>
                                     </div>
                                 </div>
@@ -1431,7 +1431,7 @@
                                             <span class="font-light">სასუქი</span>
                                             <p class="font-light">ამონიუმის ნიტრატის სასუქი (UAN) არის უნივერსალური მარცვლოვანი აზოტის სასუქი, რომელიც შეიცავს აზოტს ამონიუმის და ნიტრატის სახით (33.5% აზოტი).</p>
                                         </div>
-                                        <h3 class="active-price-detail">საცალო ფასი: ₾50.00</h3><h3 class="active-price-discount"> საბითუმო ფასი: ₾45.00</h3>
+                                        <h3 class="active-price-detail">საცალო ფასი: ₾105.00</h3><h3 class="active-price-discount"> საბითუმო ფასი: ₾100.00</h3>
                                         <button onclick="location.href = 'product_rus_gvar.php';" class="btn listing-content">დეტალურად</button>
                                     </div>
                                 </div>
@@ -1486,7 +1486,7 @@
                                             <span class="font-light">ფუნგიციდი</span>
                                             <p class="font-light">ფოსბელ ექსტრა აერთიანებს ფოსეთილის მოქმედების სისტემურ მეთოდს, ფოლპეტის მოქმედების კონტაქტურ მეთოდს და ციმოქსანილის შეღწევადობას. გამოირჩევა განსაკუთრებული უნარით, გადაადგილდება მცენარეში წვენთან ერთად როგორც ზევიდან ქვევით ასევე ქვევიდან ზევით მიმართულებით. აკონტროლებს პათოგენის აგენტს ინკუპაციის პერიოდში, ხელს უშლის მიცელიუმის ზრდას, სპორების წარმოქმნას და პათოგენების გამრავლებას. ფოსბელ ექსტრა ხელს უწყობს მცენარეების ფიზიოლოგიური დაცვის უნარის გაძლიერებას. შეთავსებადია სხვა პესტიციდებთან და სასუქებთან გარდა გოგირდისა და შაბიამნისა.</p>
                                         </div>
-                                        <h3 class="active-price-detail">საცალო ფასი: ₾50.00</h3><h3 class="active-price-discount"> საბითუმო ფასი: ₾45.00</h3>
+                                        <h3 class="active-price-detail">საცალო ფასი: ₾82.00</h3><h3 class="active-price-discount"> საბითუმო ფასი: ₾80.00</h3>
                                         <button onclick="location.href = 'product_fosbel.php';" class="btn listing-content">დეტალურად</button>
                                     </div>
                                 </div>
@@ -1541,7 +1541,7 @@
                                             <span class="font-light">ინსექტიციდი</span>
                                             <p class="font-light">აბამეტი არის წამყვანი აკარიციდი/ინსექტიციდი და მოქმედებს ძირითადად გადაყლაპვით, მაგრამ ასევე აქვს კონტაქტური და ტრანსლამინარული აქტივობა, რაც იმას ნიშნავს, რომ აქტიური ინგრედიენტი გადადის ფოთლის ქსოვილში და ქმნის აბამექტინის ტოქსიკურ რეზერვუარს, რომელიც აგრძელებს მავნებლების მოკვლას, რადგან ისინი იკვებებიან მესფილის ქსოვილით.</p>
                                         </div>
-                                        <h3 class="active-price-detail">საცალო ფასი: ₾50.00</h3><h3 class="active-price-discount"> საბითუმო ფასი: ₾45.00</h3>
+                                        <h3 class="active-price-detail">საცალო ფასი: ₾33.00</h3><h3 class="active-price-discount"> საბითუმო ფასი: ₾30.00</h3>
                                         <button onclick="location.href = 'product_abamet.php';" class="btn listing-content">დეტალურად</button>
                                     </div>
                                 </div>
@@ -1596,7 +1596,7 @@
                                             <span class="font-light">სასუქი</span>
                                             <p class="font-light">აზოტოვანი ჯგუფის მინერალური სასუქებიდან ამონიუმის გვარჯილა უნივერსალური, მაღალკონცენტრირებული აზოტოვანი სასუქია. მასში ძირითადი მკვებავი ელემენტი აზოტია, რომლის შემცველობაც პროდუქტში მინიმუმ 34,4 % -ია, აქედან 17,2 % აზოტს იგი შეიცავს ნიტრატული და ასევე 17,2 % აზოტს ამიაკური ფორმით. ეფექტურობის მხრივ მას პირველი ადგილი უჭირავს აზოტოვან სასუქებს შორის, რადგანაც იგი გამოიყენება ყველანაირი ტიპის ნიადაგებისათვის და სასოფლო - სამეურნეო კულტურების უმეტესობისათვის, როგორც ძირითადი, ასევე თესვისწინა და დამატებითი კვების უზრუნველყოფის მიზნით. ამონიუმის გვარჯილის სწორი დოზირებით მოსავლის რაოდენობა იზრდება 35 – 38 % -ით, ხოლო ნიადაგში აზოტის დეფიციტი განაპირობებს მცენარის განვითარების შეჩერებას და დაბალ მოსავლიანობას.</p>
                                         </div>
-                                        <h3 class="active-price-detail">საცალო ფასი: ₾50.00</h3><h3 class="active-price-discount"> საბითუმო ფასი: ₾45.00</h3>
+                                        <h3 class="active-price-detail">საცალო ფასი: ₾74.00</h3><h3 class="active-price-discount"> საბითუმო ფასი: ₾72.00</h3>
                                         <button onclick="location.href = 'product_gvarjila.php';" class="btn listing-content">დეტალურად</button>
                                     </div>
                                 </div>
@@ -1651,7 +1651,7 @@
                                             <span class="font-light">ჰერბიციდი</span>
                                             <p class="font-light">ამონიუმის გლუფოსინატი - ბლოკავს ფერმენტ გლუტამინსინთეზატის ფუნქციონირებას, რაც იწვევს უჯრედში ამიაკის შემცველობის მატებას, რის შედეგადაც ხდება ფოტოსინთეზის პროცესის ჩახშობა, მემბრანული ფუნქციის რღვევა და ცილების ბიოსინთეზის კლება. ამიაკის მაღალი შემცველობა рН-ის ნიშნულს ქვემოთ წევს მთლიან მემბრანაში, ამცირებს მცენარის ზრდა განვითარებისთვის გამომუშავებულ ენერგიას. ამიაკის ტოქსიკურ ნიშნულამდე დაგროვების შედეგად მცენარეში ხდება მწვანე მასის სწრაფი ხმობა და განადგურება.</p>
                                         </div>
-                                        <h3 class="active-price-detail">საცალო ფასი: ₾50.00</h3><h3 class="active-price-discount"> საბითუმო ფასი: ₾45.00</h3>
+                                        <h3 class="active-price-detail">საცალო ფასი: ₾63.00</h3><h3 class="active-price-discount"> საბითუმო ფასი: ₾60.00</h3>
                                         <button onclick="location.href = 'product_galant.php';" class="btn listing-content">დეტალურად</button>
                                     </div>
                                 </div>
@@ -1706,7 +1706,7 @@
                                             <span class="font-light">ფუნგიციდი</span>
                                             <p class="font-light">ბლუ ბორდო დისპერსი არის ფართო სპექტრის უნივერსალური ფუნგიციდი, რომელსაც გააჩნია ისეთი სოკოვანი და ბაქტერიული დაავადებვებისგან მცენარის დაცვის უნარი როგორიცაა: ჭრაქი, ატმის ფოთლის სიხუჭუჭე, კლასტეროსპოროზი, მონოლიოზი, ფიტოფტორა, ალტერნარიოზი, ფოთლის ლაქიანობები, ბაქტერიული ნეკროზი და სხვა. ბლუ ბორდო დისპერსს ახასიათებს კარგი მიმწებებლობის უნარი, რაც ზრდის დაცვითი მოქმედების ხანგრძლივობას. დაშვებულია ორგანულ სოფლის მეურნეობაში.</p>
                                         </div>
-                                        <h3 class="active-price-detail">საცალო ფასი: ₾50.00</h3><h3 class="active-price-discount"> საბითუმო ფასი: ₾45.00</h3>
+                                        <h3 class="active-price-detail">საცალო ფასი: ₾205.00</h3><h3 class="active-price-discount"> საბითუმო ფასი: ₾200.00</h3>
                                         <button onclick="location.href = 'product_blue_bordo.php';" class="btn listing-content">დეტალურად</button>
                                     </div>
                                 </div>
@@ -1761,7 +1761,7 @@
                                             <span class="font-light">ფუნგიციდი</span>
                                             <p class="font-light">ნიქსონი არის სისტემურ–კონტაქტური მოქმედების ფუნგიციდი, რომელსაც გააჩნია, როგორც პროფილაქტიკური, ასევე სამკურნალო მოქმედება და გამოიყენება ვაზის, კარტოფილის, ბოსტნეულისა და სხვა სასოფლო–სამეურნეო კულტურების ძირითადი სოკოვანი დაავადებებისაგან დასაცავად.</p>
                                         </div>
-                                        <h3 class="active-price-detail">საცალო ფასი: ₾50.00</h3><h3 class="active-price-discount"> საბითუმო ფასი: ₾45.00</h3>
+                                        <h3 class="active-price-detail">საცალო ფასი: ₾16.00</h3><h3 class="active-price-discount"> საბითუმო ფასი: ₾15.00</h3>
                                         <button onclick="location.href = 'product_nixon.php';" class="btn listing-content">დეტალურად</button>
                                     </div>
                                 </div>
@@ -1816,7 +1816,7 @@
                                             <span class="font-light">ფუნგიციდი</span>
                                             <p class="font-light">აცტეკი წარმოადგენს ტრანსლამინარულ ინსექტო-აკარიციდს, რომელიც ებრძვის სასოფლო სამეურნეო კულტურების ყველა სახეობის მავნე ტკიპებსა და ჭიჭინობელებს. იგი მოქმედებს ტკიპების განვითარების ყველა ფაზაზე, მათ შორის ტკიპას კვერცხებზეც. პრეპარატი მოქმედებს შეხებით და საჭმლის მომნელებელი სისტემის საშუალებით. შესხურებისთანავე იჭრება მცენარის წვენში და ანადგურებს იმ ტკიპასაც, რომელიც წამლობისას არ იმყოფებოდა კონტაქტში. მას გააჩნია შერჩევითი მოქმედების უნარი.</p>
                                         </div>
-                                        <h3 class="active-price-detail">საცალო ფასი: ₾50.00</h3><h3 class="active-price-discount"> საბითუმო ფასი: ₾45.00</h3>
+                                        <h3 class="active-price-detail">საცალო ფასი: ₾33.00</h3><h3 class="active-price-discount"> საბითუმო ფასი: ₾30.00</h3>
                                         <button onclick="location.href = 'product_actec.php';" class="btn listing-content">დეტალურად</button>
                                     </div>
                                 </div>
@@ -1871,7 +1871,7 @@
                                             <span class="font-light">ფუნგიციდი</span>
                                             <p class="font-light">სულფოვიტა არის კონტაქტური მოქმედების ფუნგიციდი და აკარიციდი, რომელიც გამოიყენება უმეტესი სასოფლო–სამეურნეო კულტურების ნაცროვანი და ზოგიერთი სხვა სახის დაავადებებისა და ტკიპების წინააღმდეგ. სულფოვიტას უნიკალური პრეპარატული ფორმის მეშვეობით ახასიათებს კარგი მიმწებებლობა, ასევე კონტაქტური მოქმედება და აქტიურობა აირად ფაზაში. მისი ნაწილაკების იდეალური ზომა განაპირობებს კარგ ხსნადობას, წარმოქმნის ერთგვაროვან და მდგრად სუსპენზიას. სულფოვიტას გამოყენება დაშვებულია ორგანულ მეურნეობაში.</p>
                                         </div>
-                                        <h3 class="active-price-detail">საცალო ფასი: ₾50.00</h3><h3 class="active-price-discount"> საბითუმო ფასი: ₾45.00</h3>
+                                        <h3 class="active-price-detail">საცალო ფასი: ₾16.00</h3><h3 class="active-price-discount"> საბითუმო ფასი: ₾15.00</h3>
                                         <button onclick="location.href = 'product_sulfavita.php';" class="btn listing-content">დეტალურად</button>
                                     </div>
                                 </div>
