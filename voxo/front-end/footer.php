@@ -116,7 +116,7 @@
                                 </li>
                                 <li>
                                     <span>
-                                        <b>Email:</b><span class="font-light"><a href="mailto:">odishiagro@gmail.com</a></span>
+                                        <b>Email:</b><span class="font-light"><a href="mailto:odishiagro@gmail.com">odishiagro@gmail.com</a></span>
                                     </span>
                                 </li>
                             </ul>
