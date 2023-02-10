@@ -1,7 +1,6 @@
 <?php include 'header.php'?>
 
 <?php include 'shop-header.php'?>
-
                     <!-- Prodcut setion -->
                     <div
                         class="row g-sm-4 g-3 product-load-more mt-1 custom-gy-5 product-style-2 ratio_asos product-list-section list-style">

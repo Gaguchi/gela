@@ -1,5 +1,4 @@
 <?php include 'header.php'?>
-
     <!-- Shop Section start -->
     <section>
         <div class="container">

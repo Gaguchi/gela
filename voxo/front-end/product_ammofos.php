@@ -39,7 +39,6 @@
 
                                         <h6 class="product-title size-text">აირჩიეთ მოცულობა: 
                                         </h6>
-
                                         <h6 class="error-message">მოცულობა</h6>
 
                                         <div class="size-box">

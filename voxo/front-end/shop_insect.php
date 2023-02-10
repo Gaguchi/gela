@@ -2101,7 +2101,6 @@
 
     <!-- Notify js-->
     <script src="assets/js/bootstrap/bootstrap-notify.min.js"></script>
-
     
     <script src="assets/js/aos.js"></script>
 

@@ -71,7 +71,6 @@
                                             </div>
                                         </div>
                                     </div>
-
                                     <div class="product-buttons">
                                         <a href="tel:+995599728372" class="btn btn-solid">
                                             <i class="fa fa-shopping-cart fz-16 me-2"></i>

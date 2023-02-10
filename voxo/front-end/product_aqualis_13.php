@@ -41,7 +41,6 @@
                                         </h6>
 
                                         <h6 class="error-message">მოცულობა</h6>
-
                                         <div class="size-box">
                                             <ul>
                                                 <li class="pricechange active" id="activeprice" value="140" realvalue="135">

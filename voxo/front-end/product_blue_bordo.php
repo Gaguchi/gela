@@ -27,7 +27,6 @@
                                     <div class="details-image-concept">
                                         <h2>ბლუ ბორდო</h2>
                                     </div>
-
                                     <div class="label-section">
                                         <span class="badge badge-grey-color">ფუნგიციდი</span>
                                     </div>

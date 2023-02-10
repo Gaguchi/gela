@@ -2109,7 +2109,6 @@
     <script src="assets/js/theme-setting.js"></script>
     <script src="assets/js/script.js"></script>
 
-
     <script>
     var $ = jQuery;
 

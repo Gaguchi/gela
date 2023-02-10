@@ -25,7 +25,6 @@
         </div>
     </section>
     <!-- Breadcrumb section end -->
-
     <!-- Shop Section start -->
     <section class="section-b-space">
         <div class="container">

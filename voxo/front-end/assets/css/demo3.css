@@ -20411,20 +20411,20 @@ transition: all 0.5s ease;
 }
 
 .street-bg{
-background-image: url(/voxo/front-end/assets/images/street.jpg);
+background-image: url(../../assets/images/street.jpg);
 background-size: cover;
 }
 
 
 .lab-bg{
-  background-image: url(/voxo/front-end/assets/images/lab.jpg);
+  background-image: url(../../assets/images/lab.jpg);
   background-size: cover;
   background-position: right;
   }
 
 
 .lib-bg{
-  background-image: url(/voxo/front-end/assets/images/library.jpg);
+  background-image: url(../../assets/images/library.jpg);
   background-size: cover;
   }
 
@@ -20445,7 +20445,7 @@ background-size: cover;
 }
 
 /**=====================
-     Subscribe
+     Subscribe button
 ==========================**/
 
 .subscribe{

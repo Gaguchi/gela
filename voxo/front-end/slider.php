@@ -34,7 +34,6 @@
                     </div>
                 </div>
                 <!-- Slider 1 End -->
-
                 <!-- Slider 2 Start -->
                 <div class="banner-poster bg-nut">
 

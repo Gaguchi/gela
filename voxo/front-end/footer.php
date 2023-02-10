@@ -85,7 +85,7 @@
             </div>
         </div>
     </section>
-    <!-- brand section end -->
+<!-- brand section end -->
   <!-- footer start -->
   <footer class="footer-sm-space">
         <div class="main-footer">

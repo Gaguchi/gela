@@ -35,7 +35,6 @@
                                     <h3 class="price-detail">₾<span id="pricetag">135.00</span> <del id="oldprice"></del> <span id="discount"></span></h3>
                                     <h3 class="active-price-detail">საცალო ფასი: ₾<span id="unitprice">135.00</span></h3><h3 class="active-price-discount"> საბითუმო ფასი: ₾<span id="wholesaleprice">130.00</span></h3>
                                     <h3 class="mb-3"><span id="until-discount">დარჩა 10 საბითუმო ფასამდე</span></h3>
-
                                     <div id="selectSize" class="addeffect-section product-description border-product">
                                         <h6 class="product-title size-text">აირჩიეთ მოცულობა
                                         </h6>

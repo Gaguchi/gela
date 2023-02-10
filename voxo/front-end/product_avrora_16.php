@@ -199,6 +199,5 @@
     <!-- Shop Section end -->
 
     <!-- product section end -->
-
     <!-- Size Modal Start -->
 <?php include 'footer.php'?>

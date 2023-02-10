@@ -38,7 +38,6 @@
 
                                     <div id="selectSize" class="addeffect-section product-description border-product">
                                         <h6 class="product-title size-text">აირჩიეთ მოცულობა:</h6>
-
                                         <div class="size-box">
                                             <ul>
                                                 <li class="pricechange active" id="activeprice" value="140" realvalue="135">

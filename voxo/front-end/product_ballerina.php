@@ -175,7 +175,6 @@
                                     </div>
                                 </div>
                             </div>
-
                             <div class="tab-pane fade" id="question">
                                 <div class="question-answer">
                                     <ul>
