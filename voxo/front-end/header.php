@@ -118,31 +118,31 @@
                                     </button>
                                     <div class="category-dropdown">
                                         <div class="close-btn d-xl-none">
-                                            Category List
+                                            კატეგორიები
                                             <span class="back-category"><i class="fa fa-angle-left"></i>
                                             </span>
                                         </div>
                                         <ul>
                                             <li>
-                                                <a href="shop.php">ჰერბიციდი</a>
+                                                <a href="shop_herb.php">ჰერბიციდი</a>
                                             </li>
                                             <li>
-                                                <a href="shop.php">ფუნგიციდი</a>
+                                                <a href="shop_fung.php">ფუნგიციდი</a>
                                             </li>
                                             <li>
-                                                <a href="shop.php">ინსექტიციდი</a>
+                                                <a href="shop_insect.php">ინსექტიციდი</a>
                                             </li>
                                             <li>
-                                                <a href="shop.php">დამხმარე</a>
+                                                <a href="shop_help.php">დამხმარე</a>
                                             </li>
                                             <li>
-                                                <a href="shop.php">სასუქი</a>
+                                                <a href="shop_fert.php">სასუქი</a>
                                             </li>
                                             <li>
-                                                <a href="shop.php">წყალხსნადი სასუქი</a>
+                                                <a href="shop_fertw.php">წყალხსნადი სასუქი</a>
                                             </li>
                                             <li>
-                                                <a href="shop.php">კომბინირებული სასუქი</a>
+                                                <a href="shop_fertcombo.php">კომბინირებული სასუქი</a>
                                             </li>
                                         </ul>
                                     </div>
@@ -155,7 +155,7 @@
                                         <ul class="nav-menu">
                                             <li class="back-btn d-xl-none">
                                                 <div class="close-btn">
-                                                    Menu
+                                                    ნავიგაცია
                                                     <span class="mobile-back"><i class="fa fa-angle-left"></i>
                                                     </span>
                                                 </div>
@@ -169,193 +169,10 @@
                                             <li class="home-menu">
                                                 <a href="contact.php" class="nav-link menu-title">საკონტაქტო</a>
                                             </li>
-                                            <li class="mobile-poster d-flex d-xl-none">
-                                                <img src="assets/images/pwa.png" class="img-fluid" alt="">
-                                                <div class="mobile-contain">
-                                                    <h5>Enjoy app-like experience</h5>
-                                                    <p class="font-light">With this Screen option you can use Website
-                                                        like an App.</p>
-                                                    <a href="javascript:void(0)" id="installApp"
-                                                        class="btn btn-solid-default btn-spacing w-100">ADD TO
-                                                        HOMESCREEN</a>
-                                                </div>
-                                            </li>
                                         </ul>
                                     </div>
                                 </div>
                             </nav>
-                            <div class="menu-right" style="display: none;">
-                                <ul>
-                                    <li>
-                                        <div class="search-box theme-bg-color">
-                                            <i data-feather="search"></i>
-                                        </div>
-                                    </li>
-                                    <li class="onhover-dropdown wislist-dropdown">
-                                        <div class="cart-media">
-                                            <div class="cart-icon">
-                                                <i data-feather="heart"></i>
-                                                <span class="label label-theme rounded-pill">0</span>
-                                            </div>
-                                            <div class="cart-content">
-                                                <h6>Empty</h6>
-                                                <span>Wish List</span>
-                                            </div>
-                                        </div>
-                                        <div class="onhover-div">
-                                            <a href="wishlist.html">
-                                                <div class="wislist-empty">
-                                                    <i class="fab fa-gratipay"></i>
-                                                    <h6 class="mb-1">Your wislist empty !!</h6>
-                                                    <p class="font-light mb-0">explore more and shortlist items.</p>
-                                                </div>
-                                            </a>
-                                        </div>
-                                    </li>
-                                    <li class="onhover-dropdown cart-dropdown">
-                                        <button type="button" class="btn btn-solid-default btn-spacing">
-                                            <i data-feather="shopping-cart" class="pe-2"></i>
-                                            <span>$5686.25</span>
-                                        </button>
-                                        <div class="onhover-div">
-                                            <div class="cart-menu">
-                                                <div class="cart-title">
-                                                    <h6>
-                                                        <i data-feather="shopping-bag"></i>
-                                                        <span class="label label-theme rounded-pill">5</span>
-                                                    </h6>
-                                                    <span class="d-md-none d-block">
-                                                        <i class="fas fa-arrow-right back-cart"></i>
-                                                    </span>
-                                                </div>
-                                                <ul class="custom-scroll">
-                                                    <li>
-                                                        <div class="media">
-                                                            <img src="assets/images/fashion/product/front/1.jpg"
-                                                                class="img-fluid blur-up lazyload" alt="">
-                                                            <div class="media-body">
-                                                                <h6>Slim Fit Plastic Coat</h6>
-                                                                <div class="qty-with-price">
-                                                                    <span>$78.00</span>
-                                                                    <span>
-                                                                        <input type="number" class="form-control"
-                                                                            value="1">
-                                                                    </span>
-                                                                </div>
-                                                            </div>
-                                                            <button type="button" class="btn-close d-block d-md-none"
-                                                                aria-label="Close">
-                                                                <i class="fas fa-times"></i>
-                                                            </button>
-                                                        </div>
-                                                    </li>
-                                                    <li>
-                                                        <div class="media">
-                                                            <img src="assets/images/fashion/product/front/7.jpg"
-                                                                class="img-fluid blur-up lazyload" alt="">
-                                                            <div class="media-body">
-                                                                <h6>Womens Stylish Jacket</h6>
-                                                                <div class="qty-with-price">
-                                                                    <span>$24.00</span>
-                                                                    <span>
-                                                                        <input type="number" class="form-control"
-                                                                            value="1">
-                                                                    </span>
-                                                                </div>
-                                                            </div>
-                                                            <button type="button" class="btn-close d-block d-md-none"
-                                                                aria-label="Close">
-                                                                <i class="fas fa-times"></i>
-                                                            </button>
-                                                        </div>
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                            <div class="cart-btn">
-                                                <h6 class="cart-total"><span class="font-light">Total:</span> $
-                                                    542.00</h6>
-                                                <button onclick="location.href = 'cart.html';" type="button"
-                                                    class="btn btn-solid-default btn-block">
-                                                    Proceed to payment
-                                                </button>
-                                            </div>
-                                        </div>
-                                    </li>
-                                </ul>
-                            </div>
-                            <div class="search-full" style="display: none;">
-                                <div class="input-group">
-                                    <span class="input-group-text">
-                                        <i data-feather="search" class="font-light"></i>
-                                    </span>
-                                    <input type="text" class="form-control search-type" placeholder="Search here..">
-                                    <span class="input-group-text close-search">
-                                        <i data-feather="x" class="font-light"></i>
-                                    </span>
-                                </div>
-                                <div class="search-suggestion">
-                                    <ul class="custom-scroll">
-                                        <li>
-                                            <div class="product-cart media">
-                                                <img src="assets/images/electronics/product/1.jpg"
-                                                    class="img-fluid blur-up lazyload" alt="">
-                                                <div class="media-body">
-                                                    <a href="javascript:void(0)">
-                                                        <h6 class="mb-1">Latest Sports Shoes</h6>
-                                                    </a>
-                                                    <ul class="rating mt-1">
-                                                        <li>
-                                                            <i class="fas fa-star theme-color"></i>
-                                                        </li>
-                                                        <li>
-                                                            <i class="fas fa-star theme-color"></i>
-                                                        </li>
-                                                        <li>
-                                                            <i class="fas fa-star theme-color"></i>
-                                                        </li>
-                                                        <li>
-                                                            <i class="fas fa-star"></i>
-                                                        </li>
-                                                        <li>
-                                                            <i class="fas fa-star"></i>
-                                                        </li>
-                                                    </ul>
-                                                    <p class="mb-0 mt-1">$28.00</p>
-                                                </div>
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="product-cart media">
-                                                <img src="assets/images/electronics/product/5.jpg"
-                                                    class="img-fluid blur-up lazyload" alt="">
-                                                <div class="media-body">
-                                                    <a href="javascript:void(0)">
-                                                        <h6 class="mb-1">Powermatic 900 W Juicer</h6>
-                                                    </a>
-                                                    <ul class="rating mt-1">
-                                                        <li>
-                                                            <i class="fas fa-star theme-color"></i>
-                                                        </li>
-                                                        <li>
-                                                            <i class="fas fa-star theme-color"></i>
-                                                        </li>
-                                                        <li>
-                                                            <i class="fas fa-star theme-color"></i>
-                                                        </li>
-                                                        <li>
-                                                            <i class="fas fa-star theme-color"></i>
-                                                        </li>
-                                                        <li>
-                                                            <i class="fas fa-star theme-color"></i>
-                                                        </li>
-                                                    </ul>
-                                                    <p class="mb-0 mt-1">$35.00</p>
-                                                </div>
-                                            </div>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
                         </div>
                     </div>
                 </div>
