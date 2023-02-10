@@ -223,3 +223,5 @@
                         <!-- label and featured section -->
                     </div>
                     <!-- label and featured section -->
+                    
+<?php include 'product_section.php'?>

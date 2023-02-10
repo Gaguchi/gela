@@ -44,7 +44,7 @@
 
                                         <div class="size-box">
                                             <ul>
-                                                <li class="pricechange active" id="activeprice" value="7" realvalue="5">
+                                                <li class="pricechange" value="7" realvalue="5">
                                                     <a href="javascript:void(0)">10 მლ.გრ.</a>
                                                 </li>
                                                 <li class="pricechange" value="12" realvalue="10">
@@ -53,7 +53,7 @@
                                                 <li class="pricechange" value="33" realvalue="30">
                                                     <a href="javascript:void(0)">200 მლ.გრ.</a>
                                                 </li>
-                                                <li class="pricechange" value="120" realvalue="115">
+                                                <li class="pricechange active" id="activeprice" value="120" realvalue="115">
                                                     <a href="javascript:void(0)">1 ლ.</a>
                                                 </li>
                                             </ul>
