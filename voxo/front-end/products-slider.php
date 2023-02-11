@@ -178,14 +178,10 @@
         </section> 
 
     <!-- Portfolio Section Start -->
-    <section id="portfolio" class="portfolio section-b-space">
+    <section id="portfolio" class="portfolio section">
         <div class="container">
             <div class="row gx-2">
                 <div class="col-12">
-                    <div class="title-3 text-center">
-                        <h2>New Arrival</h2>
-                        <h5 class="theme-color">Our Collection</h5>
-                    </div>
                     <div class="filters button filter-button-group">
                         <ul>
                             <li class="active btn btn-submit" data-filter="*">
@@ -226,7 +222,7 @@
                                 </a>
                             </div>
                             <div class="main-price">
-                                <h3 class="theme-color">₾45.00</h3>
+                                <h3 class="theme-color">₾25.00</h3>
                             </div>
                         </div>
                     </div>
@@ -249,7 +245,7 @@
                                 </a>
                             </div>
                             <div class="main-price">
-                                <h3 class="theme-color">₾7.00</h3>
+                                <h3 class="theme-color">₾115.00</h3>
                             </div>
                         </div>
                     </div>
@@ -272,7 +268,7 @@
                                 </a>
                             </div>
                             <div class="main-price">
-                                <h3 class="theme-color">₾10.00</h3>
+                                <h3 class="theme-color">₾80.00</h3>
                             </div>
                         </div>
                     </div>
@@ -295,7 +291,7 @@
                                 </a>
                             </div>
                             <div class="main-price">
-                                <h3 class="theme-color">₾50.00</h3>
+                                <h3 class="theme-color">₾40.00</h3>
                             </div>
                         </div>
                     </div>
@@ -318,7 +314,7 @@
                                 </a>
                             </div>
                             <div class="main-price">
-                                <h3 class="theme-color">₾150.00</h3>
+                                <h3 class="theme-color">₾130.00</h3>
                             </div>
                         </div>
                     </div>
@@ -341,7 +337,7 @@
                                 </a>
                             </div>
                             <div class="main-price">
-                                <h3 class="theme-color">₾140.00</h3>
+                                <h3 class="theme-color">₾135.00</h3>
                             </div>
                         </div>
                     </div>
@@ -364,7 +360,7 @@
                                 </a>
                             </div>
                             <div class="main-price">
-                                <h3 class="theme-color">₾42.00</h3>
+                                <h3 class="theme-color">₾45.00</h3>
                             </div>
                         </div>
                     </div>
@@ -387,7 +383,7 @@
                                 </a>
                             </div>
                             <div class="main-price">
-                                <h3 class="theme-color">₾82.00</h3>
+                                <h3 class="theme-color">₾80.00</h3>
                             </div>
                         </div>
                     </div>
@@ -410,7 +406,7 @@
                                 </a>
                             </div>
                             <div class="main-price">
-                                <h3 class="theme-color">₾33.00</h3>
+                                <h3 class="theme-color">₾30.00</h3>
                             </div>
                         </div>
                     </div>
@@ -433,7 +429,7 @@
                                 </a>
                             </div>
                             <div class="main-price">
-                                <h3 class="theme-color">₾63.00</h3>
+                                <h3 class="theme-color">₾60.00</h3>
                             </div>
                         </div>
                     </div>
@@ -479,7 +475,7 @@
                                 </a>
                             </div>
                             <div class="main-price">
-                                <h3 class="theme-color">₾12.00</h3>
+                                <h3 class="theme-color">₾15.00</h3>
                             </div>
                         </div>
                     </div>
