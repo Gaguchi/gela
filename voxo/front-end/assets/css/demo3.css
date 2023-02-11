@@ -7233,14 +7233,14 @@ span#logotext {
   text-transform: uppercase;
   position: absolute;
   top: 0px;
-  right: -30px;
+  right: -18px;
   -webkit-writing-mode: vertical-rl;
   -ms-writing-mode: tb-rl;
   writing-mode: vertical-rl;
   text-orientation: mixed;
   font-weight: bolder;
-  font-size: 68px;
-  color: rgb(23 232 22 / 14%);
+  font-size: 65px;
+  color: rgb(0 100 0 / 40%);
   -webkit-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;

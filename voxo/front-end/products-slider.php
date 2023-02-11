@@ -19,8 +19,7 @@
                                 </div>
                                 <div class="product-details text-center">
                                     <h3 class="theme-color">
-                                        ₾49.00
-                                        <span class="font-light ml-1">₾52.00</span>
+                                    ₾25.00
                                     </h3>
                                     <a href="products_ballerina.php" class="font-default">
                                         <h5>ბალერინა</h5>
@@ -39,8 +38,7 @@
                                 </div>
                                 <div class="product-details text-center">
                                     <h3 class="theme-color">
-                                        ₾49.00
-                                        <span class="font-light ml-1">₾52.00</span>
+                                    ₾45.00
                                     </h3>
                                     <a href="products_tornado.php" class="font-default">
                                         <h5>ტორნადო</h5>
@@ -48,102 +46,6 @@
                                 </div>
                             </div>
                         </div>
-                        <!-- 
-                        <div>
-                            <div class="product-box">
-                                <div class="img-wrapper">
-                                    <a href="product-left-sidebar.html">
-                                        <img src="assets/images/shoes/product/3.jpg"
-                                            class="bg-img img-fluid blur-up lazyload" alt="">
-                                    </a>
-                                    <div class="cart-wrap">
-                                        <ul>
-                                            <li>
-                                                <a href="javascript:void(0)" class="addtocart-btn"
-                                                    data-bs-toggle="modal" data-bs-target="#addtocart">
-                                                    <i data-feather="shopping-bag"></i>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="javascript:void(0)" data-bs-toggle="modal"
-                                                    data-bs-target="#quick-view-tornado-500">
-                                                    <i data-feather="eye"></i>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="compare.html">
-                                                    <i data-feather="refresh-cw"></i>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="wishlist.html" class="wishlist">
-                                                    <i data-feather="heart"></i>
-                                                </a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                                <div class="product-details text-center">
-                                    <h3 class="theme-color">
-                                        ₾49.00
-                                        <span class="font-light ml-1">₾52.00</span>
-                                    </h3>
-                                    <a href="product-left-sidebar.html" class="font-default">
-                                        <h5>ტორნადო 500</h5>
-                                    </a>
-                                </div>
-                            </div>
-                        </div> -->
-
-                        <!-- <div>
-                            <div class="product-box">
-                                <div class="img-wrapper">
-                                    <a href="product-left-sidebar.html">
-                                        <img src="assets/images/shoes/product/4.jpg"
-                                            class="bg-img img-fluid blur-up lazyload" alt="">
-                                    </a>
-                                    <div class="label-block">
-                                        <span class="label label-theme">Best value</span>
-                                    </div>
-                                    <div class="cart-wrap">
-                                        <ul>
-                                            <li>
-                                                <a href="javascript:void(0)" class="addtocart-btn"
-                                                    data-bs-toggle="modal" data-bs-target="#addtocart">
-                                                    <i data-feather="shopping-bag"></i>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="javascript:void(0)" data-bs-toggle="modal"
-                                                    data-bs-target="#quick-view-dublon">
-                                                    <i data-feather="eye"></i>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="compare.html">
-                                                    <i data-feather="refresh-cw"></i>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="wishlist.html" class="wishlist">
-                                                    <i data-feather="heart"></i>
-                                                </a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                                <div class="product-details text-center">
-                                    <h3 class="theme-color">
-                                        ₾49.00
-                                        <span class="font-light ml-1">₾52.00</span>
-                                    </h3>
-                                    <a href="products_.php" class="font-default">
-                                        <h5>დუბლონი</h5>
-                                    </a>
-                                </div>
-                            </div>
-                        </div> -->
-
                         <div>
                             <div class="product-box">
                                 <div class="img-wrapper">
@@ -154,8 +56,7 @@
                                 </div>
                                 <div class="product-details text-center">
                                     <h3 class="theme-color">
-                                        ₾49.00
-                                        <span class="font-light ml-1">₾52.00</span>
+                                    ₾45.00
                                     </h3>
                                     <a href="product_dublon_gold.php" class="font-default">
                                         <h5>დუბლონ გოლდი</h5>
@@ -173,8 +74,7 @@
                                 </div>
                                 <div class="product-details text-center">
                                     <h3 class="theme-color">
-                                        ₾49.00
-                                        <span class="font-light ml-1">₾52.00</span>
+                                        ₾15.00
                                     </h3>
                                     <a href="product_nixon.php" class="font-default">
                                         <h5>ნიქსონი</h5>
@@ -193,8 +93,7 @@
                                 </div>
                                 <div class="product-details text-center">
                                     <h3 class="theme-color">
-                                        ₾49.00
-                                        <span class="font-light ml-1">₾52.00</span>
+                                        ₾30.00
                                     </h3>
                                     <a href="product_actec.php" class="font-default">
                                         <h5>აცტეკი</h5>
@@ -213,8 +112,7 @@
                                 </div>
                                 <div class="product-details text-center">
                                     <h3 class="theme-color">
-                                        ₾49.00
-                                        <span class="font-light ml-1">₾52.00</span>
+                                        ₾15.00
                                     </h3>
                                     <a href="product_sulfavita.php" class="font-default">
                                         <h5>სულფოვიტა</h5>
@@ -222,52 +120,6 @@
                                 </div>
                             </div>
                         </div>
-
-                        <!-- <div>
-                            <div class="product-box">
-                                <div class="img-wrapper">
-                                    <a href="product-left-sidebar.html">
-                                        <img src="assets/images/shoes/product/9.jpg"
-                                            class="bg-img img-fluid blur-up lazyload" alt="">
-                                    </a>
-                                    <div class="cart-wrap">
-                                        <ul>
-                                            <li>
-                                                <a href="javascript:void(0)" class="addtocart-btn"
-                                                    data-bs-toggle="modal" data-bs-target="#addtocart">
-                                                    <i data-feather="shopping-bag"></i>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="javascript:void(0)" data-bs-toggle="modal"
-                                                    data-bs-target="#quick-view-monkolaksil">
-                                                    <i data-feather="eye"></i>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="compare.html">
-                                                    <i data-feather="refresh-cw"></i>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="wishlist.html" class="wishlist">
-                                                    <i data-feather="heart"></i>
-                                                </a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                                <div class="product-details text-center">
-                                    <h3 class="theme-color">
-                                        ₾49.00
-                                        <span class="font-light ml-1">₾52.00</span>
-                                    </h3>
-                                    <a href="product-left-sidebar.html" class="font-default">
-                                        <h5>მანკოლაქსილი</h5>
-                                    </a>
-                                </div>
-                            </div>
-                        </div> -->
 
                     </div>
                 </div>
@@ -364,7 +216,6 @@
                                 <img src="assets/images/products/ballerina.jpg"
                                     class="w-100 bg-img blur-up lazyload" alt="">
                             </a>
-                            <div class="circle-shape"></div>
                             <span class="background-text">Odishiagro</span>
                         </div>
                         <div class="product-style-3 product-style-chair">
@@ -388,7 +239,6 @@
                                 <img src="assets/images/products/borei-neo.jpg"
                                     class="w-100 bg-img blur-up lazyload" alt="">
                             </a>
-                            <div class="circle-shape"></div>
                             <span class="background-text">Odishiagro</span>
                         </div>
                         <div class="product-style-3 product-style-chair">
@@ -412,7 +262,6 @@
                                 <img src="assets/images/products/colossal.jpg"
                                     class="w-100 bg-img blur-up lazyload" alt="">
                             </a>
-                            <div class="circle-shape"></div>
                             <span class="background-text">Odishiagro</span>
                         </div>
                         <div class="product-style-3 product-style-chair">
@@ -436,7 +285,6 @@
                                 <img src="assets/images/products/cooper-88.jpg"
                                     class="w-100 bg-img blur-up lazyload" alt="">
                             </a>
-                            <div class="circle-shape"></div>
                             <span class="background-text">Odishiagro</span>
                         </div>
                         <div class="product-style-3 product-style-chair">
@@ -460,7 +308,6 @@
                                 <img src="assets/images/products/avrora-14.jpg"
                                     class="w-100 bg-img blur-up lazyload" alt="">
                             </a>
-                            <div class="circle-shape"></div>
                             <span class="background-text">Odishiagro</span>
                         </div>
                         <div class="product-style-3 product-style-chair">
@@ -484,7 +331,6 @@
                                 <img src="assets/images/products/aqualis-15.jpg"
                                     class="w-100 bg-img blur-up lazyload" alt="">
                             </a>
-                            <div class="circle-shape"></div>
                             <span class="background-text">Odishiagro</span>
                         </div>
                         <div class="product-style-3 product-style-chair">
@@ -508,7 +354,6 @@
                                 <img src="assets/images/products/kas-32.jpg"
                                     class="w-100 bg-img blur-up lazyload" alt="">
                             </a>
-                            <div class="circle-shape"></div>
                             <span class="background-text">Odishiagro</span>
                         </div>
                         <div class="product-style-3 product-style-chair">
@@ -532,7 +377,6 @@
                                 <img src="assets/images/products/fosbel-extra.jpg"
                                     class="w-100 bg-img blur-up lazyload" alt="">
                             </a>
-                            <div class="circle-shape"></div>
                             <span class="background-text">Odishiagro</span>
                         </div>
                         <div class="product-style-3 product-style-chair">
@@ -556,7 +400,6 @@
                                 <img src="assets/images/products/abamet.jpg"
                                     class="w-100 bg-img blur-up lazyload" alt="">
                             </a>
-                            <div class="circle-shape"></div>
                             <span class="background-text">Odishiagro</span>
                         </div>
                         <div class="product-style-3 product-style-chair">
@@ -580,7 +423,6 @@
                                 <img src="assets/images/products/galant.jpg"
                                     class="w-100 bg-img blur-up lazyload" alt="">
                             </a>
-                            <div class="circle-shape"></div>
                             <span class="background-text">Odishiagro</span>
                         </div>
                         <div class="product-style-3 product-style-chair">
@@ -604,7 +446,6 @@
                                 <img src="assets/images/products/dublon-gold.jpg"
                                     class="w-100 bg-img blur-up lazyload" alt="">
                             </a>
-                            <div class="circle-shape"></div>
                             <span class="background-text">Odishiagro</span>
                         </div>
                         <div class="product-style-3 product-style-chair">
@@ -628,7 +469,6 @@
                                 <img src="assets/images/products/sulfavita.jpg"
                                     class="w-100 bg-img blur-up lazyload" alt="">
                             </a>
-                            <div class="circle-shape"></div>
                             <span class="background-text">Odishiagro</span>
                         </div>
                         <div class="product-style-3 product-style-chair">
