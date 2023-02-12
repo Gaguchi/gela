@@ -6,12 +6,12 @@ if(!isset($_POST['submit']))
 }
 $visitor_email = $_POST['email'];
 
-//Validate first
-if(empty($visitor_email)) 
-{
-    echo "Name and email are mandatory!";
-    exit;
-}
+// //Validate first
+// if(empty($visitor_email)) 
+// {
+//     echo "Name and email are mandatory!";
+//     exit;
+// }
 
 if(IsInjected($visitor_email))
 {
@@ -20,8 +20,8 @@ if(IsInjected($visitor_email))
 }
 
 $email_from = 'odishiagro@gmail.com';//<== update the email address
-$email_subject = "New Form submission"; 
-$email_body = "You have received a new message from the user $visitor_email\n";
+$email_subject = "visitor_email"; 
+$email_body = "ჩვენ დაგვიკავშირდა: $visitor_email\n";
     
 $to = "gaga9393@gmail.com";//<== update the email address
 $headers = "From: $email_from \r\n";

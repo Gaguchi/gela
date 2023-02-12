@@ -17,17 +17,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12">
-                <h3>Contact Us</h3>
-                <nav>
-                    <ol class="breadcrumb">
-                        <li class="breadcrumb-item">
-                            <a href="index.html">
-                                <i class="fas fa-home"></i>
-                            </a>
-                        </li>
-                        <li class="breadcrumb-item active" aria-current="page">Contact us</li>
-                    </ol>
-                </nav>
+                <h3>დაგვიკავშირდით</h3>
             </div>
         </div>
     </div>
@@ -41,57 +31,58 @@
                 <div class="materialContainer">
                     <div class="material-details">
                         <div class="title title1 title-effect mb-1 title-left">
-                            <h2>Contact Us</h2>
-                            <p class="ms-0 w-100">Your email address will not be published. Required fields are
-                                marked *</p>
+                            <h2>დაგვიკავშირდით</h2>
+                            <p class="ms-0 w-100">დაგვიტოვეთ თქვენი საკონტაქტო ინფორმაცია და ჩვენ აუცილებლად დაგიკავშირდებით</p>
                         </div>
                     </div>
+                        <form action="form-to-email-contact.php" method="post">
                     <div class="row g-4 mt-md-1 mt-2">
-                        <div class="col-md-6">
-                            <label for="first" class="form-label">First Name</label>
-                            <input type="text" class="form-control" id="first" placeholder="Enter Your First Name"
-                                required>
-                        </div>
-                        <div class="col-md-6">
-                            <label for="last" class="form-label">Last Name</label>
-                            <input type="text" class="form-control" id="last" placeholder="Enter Your Last Name"
-                                required>
-                        </div>
-                        <div class="col-md-6">
-                            <label for="email" class="form-label">Email</label>
-                            <input type="email" class="form-control" id="email"
-                                placeholder="Enter Your Email Address" required>
-                        </div>
-                        <div class="col-md-6">
-                            <label for="email2" class="form-label">Confirm Email</label>
-                            <input type="email" class="form-control" id="email2"
-                                placeholder="Enter Your Confirm Email Address" required>
-                        </div>
+                            <div class="col-md-6">
+                                <label for="first" class="form-label">თქვენი სახელი</label>
+                                <input name="firstname" type="text" class="form-control" id="first" placeholder="მოგვწერეთ თქვენი სახელი"
+                                    required>
+                            </div>
+                            <div class="col-md-6">
+                                <label for="last" class="form-label">თქვენი გვარი</label>
+                                <input name="lastname" type="text" class="form-control" id="last" placeholder="მოგვწერეთ თქვენი გვარი"
+                                    required>
+                            </div>
+                            <div class="col-md-6">
+                                <label for="email" class="form-label">ელ-ფოსტა</label>
+                                <input name="email" type="email" class="form-control" id="email"
+                                    placeholder="მოგვწერეთ თქვენი ელ-ფოსტა" required>
+                            </div>
+                            <div class="col-md-6">
+                                <label for="email2" class="form-label">ტელეფონი</label>
+                                <input name="phone" type="tel" class="form-control" id="email2"
+                                    placeholder="მოგვწერეთ თქვენი ტელეფონი" required>
+                            </div>
 
-                        <div class="col-12">
-                            <label for="comment" class="form-label">Comment</label>
-                            <textarea class="form-control" id="comment" rows="5" required></textarea>
-                        </div>
+                            <div class="col-12">
+                                <label for="comment" class="form-label">კომენტარი</label>
+                                <textarea name="comment" class="form-control" id="comment" rows="5" required></textarea>
+                            </div>
 
-                        <div class="col-auto">
-                            <button class="btn btn-solid-default" type="submit">Submit</button>
-                        </div>
+                            <div class="col-auto">
+                                <button class="btn btn-solid-default" type="submit">გაგზავნა</button>
+                            </div>
                     </div>
+                        </form>
                 </div>
             </div>
 
             <div class="col-lg-5">
                 <div class="contact-details">
                     <div>
-                        <h2>Let's get in touch</h2>
-                        <h5 class="font-light">We're open for any suggestion or just to have a chat</h5>
+                        <h2>ჩვენი საკონტაქტო ინფორმაცია</h2>
+                        <h5 class="font-light">კონსულტაციებისა და დახმარებისათვის მოგვმართეთ:</h5>
                         <div class="contact-box">
                             <div class="contact-icon">
                                 <i data-feather="map-pin"></i>
                             </div>
                             <div class="contact-title">
-                                <h4>Address :</h4>
-                                <p>1418 Riverwood Drive, Suite 3245 Cottonwood, CA 96052, United States</p>
+                                <h4>მისამართი :</h4>
+                                <p>ქ. ზუგდიდი, სოხუმის ქ. № 192 (ბენზინგასამართი "გეკო"-ს მიმდებარე)</p>
                             </div>
                         </div>
 
@@ -100,9 +91,9 @@
                                 <i data-feather="phone"></i>
                             </div>
                             <div class="contact-title">
-                                <h4>Phone Number :</h4>
-                                <p>+ 185659635</p>
-                                <p>+ 658651167</p>
+                                <h4>ტელეფონი :</h4>
+                                <p>აგრომარკეტი: <a href="tel:+995599728372">+995 599 72-83-72</a></p>
+                                <p>აგონომი (თამარ ზარანდია): <a href="tel:+995597950700">+995 597 950 700</a></p>
                             </div>
                         </div>
 
@@ -111,9 +102,8 @@
                                 <i data-feather="mail"></i>
                             </div>
                             <div class="contact-title">
-                                <h4>Email Address :</h4>
-                                <p>voxo123@gmail.com</p>
-                                <p>voxo987@gmail.com</p>
+                                <h4>ელ-ფოსტა :</h4>
+                                <p><a href="mailto:odishiagro@gmail.com">odishiagro@gmail.com</a></p>
                             </div>
                         </div>
                     </div>

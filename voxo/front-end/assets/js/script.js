@@ -895,7 +895,7 @@ wordflick();
 
  $(window).on('load', function() {
     if ($("#generate-video").length){
-    $( "#generate-video" ).prepend( '<video id="background-video" autoplay loop muted poster="https://assets.codepen.io/6093409/river.jpg"><source src="assets/videos/cornfield.mp4" type="video/mp4"></video>' );
+    $( "#generate-video" ).prepend( '<video id="background-video" autoplay loop muted poster="assets/videos/thumbnail.png"><source src="assets/videos/video.mp4" type="video/mp4"></video>' );
 }});
 
 
