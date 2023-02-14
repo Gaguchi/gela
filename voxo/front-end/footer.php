@@ -137,23 +137,33 @@
                                 </div>
                             </div>
 
-                            <div class="footer-details mb-4">
+                            <div class="footer-details mb-5">
                                 <p class="font-light">თქვენ დაგეხმარებათ კვალიფიცირებული აგრონომი, ბიოლოგიის აკადემიური დოქტორი, <span class="bold">თამარ ზარანდია</span>.</p>
                             </div>
                             <h3>ნიადაგის ანალიზი:</h3>
-                            <div class="footer-number">
+                            <div class="footer-number mb-1">
                                 <div class="footer-number-image">
                                 <a href="tel:+995597950700"><img src="assets/images/shoes/other/headphone.png"
                                         class="img-fluid blur-up lazyload" alt=""></a>
                                 </div>
 
                                 <div class="footer-number-container">
-                                    <h3><a href="tel:+995597950700">+995 597 950 700</a></h3>
+                                    <h3><a href="tel:+995591053436">+995 591 053 436</a> <span class="labname">- შორენა ზარანდია</span></h3>
                                 </div>
+                            </div>
+                            <div class="footer-number">
+                                <div class="footer-number-image">
+                                <a href="tel:+995597950700"><img src="assets/images/shoes/other/headphone.png"
+                                        class="img-fluid blur-up lazyload" alt=""></a>
+                                </div>
+
+<div class="footer-number-container">
+        <h3><a href="tel:+995599436355">+995 599 436 355</a> <span class="labname">- ელისო ღუბელაძე</span></h3>
+    </div>
                             </div>
 
                             <div class="footer-details">
-                                <p class="font-light">თქვენ დაგეხმარებათ კვალიფიცირებული აგრონომი, ბიოლოგიის აკადემიური დოქტორი, თამარ ზარანდია.</p>
+                                <p class="font-light">ლაბორატორია: ქ. ზუგდიდი დემურიას ქ. №1</p>
                             </div>
                         </div>
                     </div>
