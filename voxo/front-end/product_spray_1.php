@@ -12,8 +12,8 @@
                                 <div class="details-image ratio_asos">
                                     <div>
                                         <div class="product-image-tag">
-                                            <img src="assets/images/products/tires.jpg" id="zoom_01"
-                                                data-zoom-image="assets/images/products/tires.jpg"
+                                            <img src="assets/images/products/tires-disks.jpg" id="zoom_01"
+                                                data-zoom-image="assets/images/products/tires-disks.jpg"
                                                 class="img-fluid w-100 image_zoom_cls-0 blur-up lazyload" alt="">
                                         </div>
                                     </div>
@@ -25,7 +25,7 @@
                             <div class="cloth-details-size">
 
                                 <div class="details-image-concept">
-                                    <h2>საბურავი კამერით</h2>
+                                    <h2>საბურავი დისკით</h2>
                                 </div>
 
                                 <div class="label-section">
@@ -49,19 +49,7 @@
                                     <div class="size-box">
                                         <ul>
                                             <li class="pricechange active" id="activeprice" value="16" realvalue="15">
-                                                <a href="javascript:void(0)">4.00 - 8</a>
-                                            </li>
-                                            <li class="pricechange "  value="16" realvalue="15">
-                                                <a href="javascript:void(0)">4.00 - 10</a>
-                                            </li>
-                                            <li class="pricechange "  value="16" realvalue="15">
-                                                <a href="javascript:void(0)">5.00 - 10</a>
-                                            </li>
-                                            <li class="pricechange "  value="16" realvalue="15">
                                                 <a href="javascript:void(0)">5.00 - 12</a>
-                                            </li>
-                                            <li class="pricechange " value="16" realvalue="15">
-                                                <a href="javascript:void(0)">6.00 - 12</a>
                                             </li>
                                         </ul>
                                     </div>
@@ -124,7 +112,7 @@
                         <div class="tab-pane fade show active" id="desc">
                             <div class="shipping-chart">
                                 <div class="part">
-                                    <h4 class="inner-title mb-2">მაღალი გამავლობის საბურავი კამერით</h4>
+                                    <h4 class="inner-title mb-2">მაღალი გამავლობის საბურავი დისკით</h4>
                                     <ul>
                                         <li>მასალა: ნატურალური რეზინა</li>
                                         <li>რეზინის შემცველობა: 35%-დან 55%-მდე</li>
