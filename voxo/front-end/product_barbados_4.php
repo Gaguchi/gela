@@ -12,8 +12,8 @@
                                 <div class="details-image ratio_asos">
                                     <div>
                                         <div class="product-image-tag">
-                                            <img src="assets/images/products/spray-1.jpg" id="zoom_01"
-                                                data-zoom-image="assets/images/products/spray-1.jpg"
+                                            <img src="assets/images/products/barbaros-4.jpg" id="zoom_01"
+                                                data-zoom-image="assets/images/products/barbaros-4.jpg"
                                                 class="img-fluid w-100 image_zoom_cls-0 blur-up lazyload" alt="">
                                         </div>
                                     </div>
@@ -25,7 +25,7 @@
                             <div class="cloth-details-size">
 
                                 <div class="details-image-concept">
-                                    <h2>პანდორას ელექტრო შემასხურებელი</h2>
+                                    <h2>საფქვევი წისქვილი უნივერსალური</h2>
                                 </div>
 
                                 <div class="label-section">
@@ -112,19 +112,16 @@
                         <div class="tab-pane fade show active" id="desc">
                             <div class="shipping-chart">
                                 <div class="part">
-                                    <h4 class="inner-title mb-2">პანდორას ელექტრო შემასხურებელი</h4>
+                                    <h4 class="inner-title mb-2">საფქვევი წისქვილი უნივერსალური</h4>
                                     <ul>
-                                        <li>მოდელი: 16 ლიტრიანი ელექტრო შემასხურებელი</li>
-                                        <li>ბრენდი: პანდორა - Pandora  </li>
-                                        <li>სერიული ნომერი: CF-BH-16</li>
-                                        <li>მოდელის ნომერი: CF-BH-16</li>
-                                        <li>მოცულობა: 16 ლიტრი</li>
-                                        <li>შეფუთვა: 1ცალი/ყუთში
-</li>
-                                        <li>Მთლიანი წონა: 6.8 კგ.
-</li>
-                                        <li>ზომა:  34.5x25.5x54სმ
-</li>
+                                        <li>მოდელი: მარცვლეულის საფშვნელი მანქანა </li>
+                                        <li>ბრენდი: ბარბაროსი - BARBAROS  </li>
+                                        <li>ძრავის სიმძლავრე : 3 ცხ/ძ</li>
+                                        <li>ძრავის ბრენდი: VOLT </li>
+                                        <li>ძრავის სიჩქარე: 2800 rmp</li>
+                                        <li>ძაბვა: 220 V - 50~60 Hz </li>
+                                        <li>Მთლიანი წონა: 71 კგ </li>
+                                        <li>ძრავის სიტემა: ელექტრო 220 ვოლტი</li>
                                     </ul>
                                 </div>
                             </div>

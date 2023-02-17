@@ -12,8 +12,8 @@
                                 <div class="details-image ratio_asos">
                                     <div>
                                         <div class="product-image-tag">
-                                            <img src="assets/images/products/spray-1.jpg" id="zoom_01"
-                                                data-zoom-image="assets/images/products/spray-1.jpg"
+                                            <img src="assets/images/products/drill.jpg" id="zoom_01"
+                                                data-zoom-image="assets/images/products/drill.jpg"
                                                 class="img-fluid w-100 image_zoom_cls-0 blur-up lazyload" alt="">
                                         </div>
                                     </div>
@@ -25,7 +25,7 @@
                             <div class="cloth-details-size">
 
                                 <div class="details-image-concept">
-                                    <h2>პანდორას ელექტრო შემასხურებელი</h2>
+                                    <h2>მიწის ბურღი ROYAL PARTNER ID520S</h2>
                                 </div>
 
                                 <div class="label-section">
@@ -112,19 +112,19 @@
                         <div class="tab-pane fade show active" id="desc">
                             <div class="shipping-chart">
                                 <div class="part">
-                                    <h4 class="inner-title mb-2">პანდორას ელექტრო შემასხურებელი</h4>
+                                    <h4 class="inner-title mb-2">მიწის ბურღი ROYAL PARTNER ID520S</h4>
                                     <ul>
-                                        <li>მოდელი: 16 ლიტრიანი ელექტრო შემასხურებელი</li>
-                                        <li>ბრენდი: პანდორა - Pandora  </li>
-                                        <li>სერიული ნომერი: CF-BH-16</li>
-                                        <li>მოდელის ნომერი: CF-BH-16</li>
-                                        <li>მოცულობა: 16 ლიტრი</li>
-                                        <li>შეფუთვა: 1ცალი/ყუთში
-</li>
-                                        <li>Მთლიანი წონა: 6.8 კგ.
-</li>
-                                        <li>ზომა:  34.5x25.5x54სმ
-</li>
+                                        <li>მოდელი: ID520S</li>
+                                        <li>ბრენდი: Maybach  </li>
+                                        <li>ძრავი: 2 ტაქტნიანი, ჰაერის გაგრილებით  </li>
+                                        <li>ძრავის ტიპი: ბენზინი</li>
+                                        <li>სიმძლავრე: 52CC  1.8 kw/8500rpm</li>
+                                        <li>ბრუნის სიჩქარე: 3200 ბრუნი/წუთში</li>
+                                        <li>საწვავის და ზეთის შეზავება: 1 :40</li>
+                                        <li>შეფუთვა: 12 ცალი/ყუთში</li>
+                                        <li>ბურღვის სიგრძე: 800 მმ</li>
+                                        <li>წონა: 12.5/14kgs</li>
+                                        <li>სერთიფიკატი: CE/GS/EMC/EUROI</li>
                                     </ul>
                                 </div>
                             </div>

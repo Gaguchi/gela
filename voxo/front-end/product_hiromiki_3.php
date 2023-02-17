@@ -12,8 +12,8 @@
                                 <div class="details-image ratio_asos">
                                     <div>
                                         <div class="product-image-tag">
-                                            <img src="assets/images/products/spray-1.jpg" id="zoom_01"
-                                                data-zoom-image="assets/images/products/spray-1.jpg"
+                                            <img src="assets/images/products/hiromiki-3.jpg" id="zoom_01"
+                                                data-zoom-image="assets/images/products/hiromiki-3.jpg"
                                                 class="img-fluid w-100 image_zoom_cls-0 blur-up lazyload" alt="">
                                         </div>
                                     </div>
@@ -25,7 +25,7 @@
                             <div class="cloth-details-size">
 
                                 <div class="details-image-concept">
-                                    <h2>პანდორას ელექტრო შემასხურებელი</h2>
+                                    <h2>170-4</h2>
                                 </div>
 
                                 <div class="label-section">
@@ -112,19 +112,18 @@
                         <div class="tab-pane fade show active" id="desc">
                             <div class="shipping-chart">
                                 <div class="part">
-                                    <h4 class="inner-title mb-2">პანდორას ელექტრო შემასხურებელი</h4>
+                                    <h4 class="inner-title mb-2">170-4</h4>
                                     <ul>
-                                        <li>მოდელი: 16 ლიტრიანი ელექტრო შემასხურებელი</li>
-                                        <li>ბრენდი: პანდორა - Pandora  </li>
-                                        <li>სერიული ნომერი: CF-BH-16</li>
-                                        <li>მოდელის ნომერი: CF-BH-16</li>
-                                        <li>მოცულობა: 16 ლიტრი</li>
-                                        <li>შეფუთვა: 1ცალი/ყუთში
-</li>
-                                        <li>Მთლიანი წონა: 6.8 კგ.
-</li>
-                                        <li>ზომა:  34.5x25.5x54სმ
-</li>
+                                        <li>მოდელი: MQ170-4</li>
+                                        <li>ძრავის მოდელი: 170F  </li>
+                                        <li>დამუშავების სიგრძე (მმ): 1150  </li>
+                                        <li>დამუშავების სიღრმე (მმ): 150-300</li>
+                                        <li>სიმძლავრე (ცხ/ძ - ბრუნი): 7 ცხ/ძ - 3600</li>
+                                        <li>გადაცემათა კოლოფი: -1,2,0,1</li>
+                                        <li>საწვავის ტევადობა: 6.0</li>
+                                        <li>წონა (კგ): 129</li>
+                                        <li>დამზადების თარიღი: 06.2021</li>
+                                        <li>გარანტია (თვე): 12</li>
                                     </ul>
                                 </div>
                             </div>
