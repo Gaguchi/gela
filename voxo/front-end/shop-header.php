@@ -188,6 +188,14 @@
                                                         for="flexCheckDefault16">დამხმარე</label>
                                                 </div>
                                             </li>
+                                            <li>
+                                                <div class="form-check ps-0 custome-form-check" onclick="window.location='#anchor';">
+                                                    <input class="checkbox_animated check-it" type="checkbox" name="category" value="tech"
+                                                        id="flexCheckDefault17">
+                                                    <label class="form-check-label"
+                                                        for="flexCheckDefault17">აგროტეცნიკა</label>
+                                                </div>
+                                            </li>
                                         </ul>
                                     </div>
                                 </div>
