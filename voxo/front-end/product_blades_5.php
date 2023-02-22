@@ -102,7 +102,11 @@
         </div>
 </section>
 <!-- Shop Section end -->
-
+<script src="assets/js/jquery-3.5.1.min.js"></script>
+<script>
+    $(".size-box").hide();
+    $(".product-title.size-text").hide();
+</script>
 <!-- product section end -->
 
 <!-- Size Modal Start -->

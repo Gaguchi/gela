@@ -32,12 +32,7 @@
                                     <span class="badge badge-grey-color">აგროტეცნიკა</span>
                                 </div>
 
-                                <h3 class="price-detail">₾<span id="pricetag">0.00</span> <del id="oldprice"></del>
-                                    <span id="discount"></span></h3>
-                                <h3 class="active-price-detail">საცალო ფასი: ₾<span id="unitprice">0.00</span></h3>
-                                <h3 class="active-price-discount"> საბითუმო ფასი: ₾<span id="wholesaleprice">0.00</span>
-                                </h3>
-                                <h3 class="mb-3"><span id="until-discount">დარჩა 10 საბითუმო ფასამდე</span></h3>
+                                <h3 class="price-detail">₾<span id="pricetag">190.00</span></h3>
 
                                 <div id="selectSize" class="addeffect-section product-description border-product">
 
@@ -48,7 +43,7 @@
 
                                     <div class="size-box">
                                         <ul>
-                                            <li class="pricechange active" id="activeprice" value="16" realvalue="15">
+                                            <li class="pricechange active" id="activeprice" value="190" realvalue="190">
                                                 <a href="javascript:void(0)">16 ლიტრი</a>
                                             </li>
                                         </ul>
@@ -135,7 +130,11 @@
         </div>
 </section>
 <!-- Shop Section end -->
-
+<script src="assets/js/jquery-3.5.1.min.js"></script>
+<script>
+    $(".size-box").hide();
+    $(".product-title.size-text").hide();
+</script>
 <!-- product section end -->
 
 <!-- Size Modal Start -->

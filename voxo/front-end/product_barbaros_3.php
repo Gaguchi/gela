@@ -12,8 +12,8 @@
                                 <div class="details-image ratio_asos">
                                     <div>
                                         <div class="product-image-tag">
-                                            <img src="assets/images/products/barbaros-1.jpg" id="zoom_01"
-                                                data-zoom-image="assets/images/products/barbaros-1.jpg"
+                                            <img src="assets/images/products/barbaros-3.jpg" id="zoom_01"
+                                                data-zoom-image="assets/images/products/barbaros-3.jpg"
                                                 class="img-fluid w-100 image_zoom_cls-0 blur-up lazyload" alt="">
                                         </div>
                                     </div>
@@ -25,19 +25,14 @@
                             <div class="cloth-details-size">
 
                                 <div class="details-image-concept">
-                                    <h2>საწველი აპარატი ერთ სისტემიანი</h2>
+                                    <h2>საწველი აპარატი ორ სისტემიანი</h2>
                                 </div>
 
                                 <div class="label-section">
                                     <span class="badge badge-grey-color">აგროტეცნიკა</span>
                                 </div>
 
-                                <h3 class="price-detail">₾<span id="pricetag">0.00</span> <del id="oldprice"></del>
-                                    <span id="discount"></span></h3>
-                                <h3 class="active-price-detail">საცალო ფასი: ₾<span id="unitprice">0.00</span></h3>
-                                <h3 class="active-price-discount"> საბითუმო ფასი: ₾<span id="wholesaleprice">0.00</span>
-                                </h3>
-                                <h3 class="mb-3"><span id="until-discount">დარჩა 10 საბითუმო ფასამდე</span></h3>
+                                <h3 class="price-detail">₾<span id="pricetag">1900.00</span></h3>
 
                                 <div id="selectSize" class="addeffect-section product-description border-product">
 
@@ -48,7 +43,7 @@
 
                                     <div class="size-box">
                                         <ul>
-                                            <li class="pricechange active" id="activeprice" value="16" realvalue="15">
+                                            <li class="pricechange active" id="activeprice" value="1900" realvalue="1900">
                                                 <a href="javascript:void(0)">16 ლიტრი</a>
                                             </li>
                                         </ul>
@@ -112,19 +107,19 @@
                         <div class="tab-pane fade show active" id="desc">
                             <div class="shipping-chart">
                                 <div class="part">
-                                    <h4 class="inner-title mb-2">საწველი აპარატი ერთ სისტემიანი</h4>
+                                    <h4 class="inner-title mb-2">საწველი აპარატი ორ სისტემიანი</h4>
                                     <ul>
-                                        <li>მოდელი: რძის საწველი ერთიანი აპარატი ბარბაროსი </li>
+                                        <li>მოდელი: რძის საწველი აპარატი ბარბაროსი უჟანგავი ლითონი </li>
                                         <li>ბრენდი: ბარბაროსი - BARBAROS  </li>
                                         <li>მწარმოებლურობა: 24-მდე ძროხა საათში</li>
                                         <li>სათლი: უჟანგავი ლითონი</li>
-                                        <li>ტევადობა: 20 ლიტრი</li>
+                                        <li>ტევადობა: 30 ლიტრი</li>
                                         <li>ტიპი: რეზინის საქშენები </li>
                                         <li>ძრავის სიმძლავრე: 0,75 ცხ/ძ 0,55 კვ </li>
-                                        <li>Მთლიანი წონა: 50 კგ</li>
+                                        <li>Მთლიანი წონა: 58,5 კგ</li>
                                         <li>ტუმბვის სისტემა: მშრალი 70s</li>
                                         <li>წარმოშობის ქვეყანა: თურქეთი</li>
-                                        <li>საქონლის კოდი: 8680640074337</li>
+                                        <li>საქონლის კოდი: 8680640006000</li>
                                     </ul>
                                 </div>
                             </div>
@@ -135,7 +130,11 @@
         </div>
 </section>
 <!-- Shop Section end -->
-
+<script src="assets/js/jquery-3.5.1.min.js"></script>
+<script>
+    $(".size-box").hide();
+    $(".product-title.size-text").hide();
+</script>
 <!-- product section end -->
 
 <!-- Size Modal Start -->

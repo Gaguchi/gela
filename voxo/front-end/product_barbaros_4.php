@@ -12,8 +12,8 @@
                                 <div class="details-image ratio_asos">
                                     <div>
                                         <div class="product-image-tag">
-                                            <img src="assets/images/products/barbaros-1.jpg" id="zoom_01"
-                                                data-zoom-image="assets/images/products/barbaros-1.jpg"
+                                            <img src="assets/images/products/barbaros-4.jpg" id="zoom_01"
+                                                data-zoom-image="assets/images/products/barbaros-4.jpg"
                                                 class="img-fluid w-100 image_zoom_cls-0 blur-up lazyload" alt="">
                                         </div>
                                     </div>
@@ -25,19 +25,14 @@
                             <div class="cloth-details-size">
 
                                 <div class="details-image-concept">
-                                    <h2>თხილის მანქანა გადასარჩევი</h2>
+                                    <h2>საფქვევი წისქვილი უნივერსალური</h2>
                                 </div>
 
                                 <div class="label-section">
                                     <span class="badge badge-grey-color">აგროტეცნიკა</span>
                                 </div>
 
-                                <h3 class="price-detail">₾<span id="pricetag">0.00</span> <del id="oldprice"></del>
-                                    <span id="discount"></span></h3>
-                                <h3 class="active-price-detail">საცალო ფასი: ₾<span id="unitprice">0.00</span></h3>
-                                <h3 class="active-price-discount"> საბითუმო ფასი: ₾<span id="wholesaleprice">0.00</span>
-                                </h3>
-                                <h3 class="mb-3"><span id="until-discount">დარჩა 10 საბითუმო ფასამდე</span></h3>
+                                <h3 class="price-detail">₾<span id="pricetag">2050.00</span></h3>
 
                                 <div id="selectSize" class="addeffect-section product-description border-product">
 
@@ -48,7 +43,7 @@
 
                                     <div class="size-box">
                                         <ul>
-                                            <li class="pricechange active" id="activeprice" value="16" realvalue="15">
+                                            <li class="pricechange active" id="activeprice" value="2050" realvalue="2050">
                                                 <a href="javascript:void(0)">16 ლიტრი</a>
                                             </li>
                                         </ul>
@@ -112,18 +107,16 @@
                         <div class="tab-pane fade show active" id="desc">
                             <div class="shipping-chart">
                                 <div class="part">
-                                    <h4 class="inner-title mb-2">თხილის მანქანა გადასარჩევი</h4>
+                                    <h4 class="inner-title mb-2">საფქვევი წისქვილი უნივერსალური</h4>
                                     <ul>
-                                        <li>მოდელი: თხილის გადასარჩევი მანქანა </li>
+                                        <li>მოდელი: მარცვლეულის საფშვნელი მანქანა </li>
                                         <li>ბრენდი: ბარბაროსი - BARBAROS  </li>
-                                        <li>ძრავის სიმძლავრე : 3 ცხ/ძ 2,2 კვ.</li>
+                                        <li>ძრავის სიმძლავრე : 3 ცხ/ძ</li>
                                         <li>ძრავის ბრენდი: VOLT </li>
                                         <li>ძრავის სიჩქარე: 2800 rmp</li>
-                                        <li>ძრავის ტიპი: ელექტრო 220 ვოლტი </li>
-                                        <li>მწარმოებლურობა: 50-300 კგ/სთ </li>
-                                        <li>თხილის სათავსო: 1 ტომარა</li>
-                                        <li>ზომები: 80x70x130 სმ</li>
-                                        <li>Მთლიანი წონა: 160 კგ.</li>
+                                        <li>ძაბვა: 220 V - 50~60 Hz </li>
+                                        <li>Მთლიანი წონა: 71 კგ </li>
+                                        <li>ძრავის სიტემა: ელექტრო 220 ვოლტი</li>
                                     </ul>
                                 </div>
                             </div>
@@ -134,7 +127,11 @@
         </div>
 </section>
 <!-- Shop Section end -->
-
+<script src="assets/js/jquery-3.5.1.min.js"></script>
+<script>
+    $(".size-box").hide();
+    $(".product-title.size-text").hide();
+</script>
 <!-- product section end -->
 
 <!-- Size Modal Start -->

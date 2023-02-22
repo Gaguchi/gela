@@ -993,17 +993,16 @@
             </div>
             <div class="product-details">
                 <div class="rating-details">
-                    <span class="font-light grid-content">აგროტეცნიკა</span>
+                    <span class="font-light grid-content">აგროტექნიკა</span>
                 </div>
                 <div class="main-price">
                     <a href="product_tire.php" class="font-default">
                         <h3 class="ms-0">მაღალი გამავლობის საბურავი კამერით</h3>
                     </a>
                     <div class="listing-content">
-                        <span class="font-light">აგროტეცნიკა</span>
+                        <span class="font-light">აგროტექნიკა</span>
                     </div>
-                    <h3 class="active-price-detail">საცალო ფასი: ₾16.00</h3>
-                    <h3 class="active-price-discount"> საბითუმო ფასი: ₾15.00</h3>
+                    <h3 class="active-price-detail">ფასი: ₾70.00</h3>
                     <button onclick="location.href = 'product_tire.php';"
                         class="btn listing-content">დეტალურად</button>
                 </div>
@@ -1022,17 +1021,16 @@
         </div>
         <div class="product-details">
             <div class="rating-details">
-                <span class="font-light grid-content">აგროტეცნიკა</span>
+                <span class="font-light grid-content">აგროტექნიკა</span>
             </div>
             <div class="main-price">
                 <a href="product_tire_disk.php" class="font-default">
                     <h3 class="ms-0">მაღალი გამავლობის საბურავი დისკით</h3>
                 </a>
                 <div class="listing-content">
-                    <span class="font-light">აგროტეცნიკა</span>
+                    <span class="font-light">აგროტექნიკა</span>
                 </div>
-                <h3 class="active-price-detail">საცალო ფასი: ₾16.00</h3>
-                <h3 class="active-price-discount"> საბითუმო ფასი: ₾15.00</h3>
+                <h3 class="active-price-detail">საცალო ფასი: ₾165.00</h3>
                 <button onclick="location.href = 'product_tire_disk.php';"
                     class="btn listing-content">დეტალურად</button>
             </div>
@@ -1051,17 +1049,16 @@
         </div>
         <div class="product-details">
             <div class="rating-details">
-                <span class="font-light grid-content">აგროტეცნიკა</span>
+                <span class="font-light grid-content">აგროტექნიკა</span>
             </div>
             <div class="main-price">
                 <a href="product_spray_1.php" class="font-default">
                     <h3 class="ms-0">პანდორას ელექტრო შემასხურებელი</h3>
                 </a>
                 <div class="listing-content">
-                    <span class="font-light">აგროტეცნიკა</span>
+                    <span class="font-light">აგროტექნიკა</span>
                 </div>
-                <h3 class="active-price-detail">საცალო ფასი: ₾16.00</h3>
-                <h3 class="active-price-discount"> საბითუმო ფასი: ₾15.00</h3>
+                <h3 class="active-price-detail">საცალო ფასი: ₾215.00</h3>
                 <button onclick="location.href = 'product_spray_1.php';"
                     class="btn listing-content">დეტალურად</button>
             </div>
@@ -1080,17 +1077,16 @@
         </div>
         <div class="product-details">
             <div class="rating-details">
-                <span class="font-light grid-content">აგროტეცნიკა</span>
+                <span class="font-light grid-content">აგროტექნიკა</span>
             </div>
             <div class="main-price">
                 <a href="product_spray_2.php" class="font-default">
                     <h3 class="ms-0">პანდორას ელექტრო შემასხურებელი</h3>
                 </a>
                 <div class="listing-content">
-                    <span class="font-light">აგროტეცნიკა</span>
+                    <span class="font-light">აგროტექნიკა</span>
                 </div>
-                <h3 class="active-price-detail">საცალო ფასი: ₾16.00</h3>
-                <h3 class="active-price-discount"> საბითუმო ფასი: ₾15.00</h3>
+                <h3 class="active-price-detail">საცალო ფასი: ₾190.00</h3>
                 <button onclick="location.href = 'product_spray_2.php';"
                     class="btn listing-content">დეტალურად</button>
             </div>
@@ -1109,17 +1105,16 @@
         </div>
         <div class="product-details">
             <div class="rating-details">
-                <span class="font-light grid-content">აგროტეცნიკა</span>
+                <span class="font-light grid-content">აგროტექნიკა</span>
             </div>
             <div class="main-price">
                 <a href="product_spray_3.php" class="font-default">
                     <h3 class="ms-0">პანდორას ელექტრო შემასხურებელი მრგალი</h3>
                 </a>
                 <div class="listing-content">
-                    <span class="font-light">აგროტეცნიკა</span>
+                    <span class="font-light">აგროტექნიკა</span>
                 </div>
-                <h3 class="active-price-detail">საცალო ფასი: ₾16.00</h3>
-                <h3 class="active-price-discount"> საბითუმო ფასი: ₾15.00</h3>
+                <h3 class="active-price-detail">საცალო ფასი: ₾210.00</h3>
                 <button onclick="location.href = 'product_spray_3.php';"
                     class="btn listing-content">დეტალურად</button>
             </div>
@@ -1138,17 +1133,16 @@
         </div>
         <div class="product-details">
             <div class="rating-details">
-                <span class="font-light grid-content">აგროტეცნიკა</span>
+                <span class="font-light grid-content">აგროტექნიკა</span>
             </div>
             <div class="main-price">
                 <a href="product_spray_4.php" class="font-default">
                     <h3 class="ms-0">პანდორას ელექტრო შემასხურებელი</h3>
                 </a>
                 <div class="listing-content">
-                    <span class="font-light">აგროტეცნიკა</span>
+                    <span class="font-light">აგროტექნიკა</span>
                 </div>
-                <h3 class="active-price-detail">საცალო ფასი: ₾16.00</h3>
-                <h3 class="active-price-discount"> საბითუმო ფასი: ₾15.00</h3>
+                <h3 class="active-price-detail">საცალო ფასი: ₾185.00</h3>
                 <button onclick="location.href = 'product_spray_4.php';"
                     class="btn listing-content">დეტალურად</button>
             </div>
@@ -1167,17 +1161,16 @@
         </div>
         <div class="product-details">
             <div class="rating-details">
-                <span class="font-light grid-content">აგროტეცნიკა</span>
+                <span class="font-light grid-content">აგროტექნიკა</span>
             </div>
             <div class="main-price">
                 <a href="product_spray_5.php" class="font-default">
                     <h3 class="ms-0">პანდორას ელექტრო და მექანიკური შემასხურებელი</h3>
                 </a>
                 <div class="listing-content">
-                    <span class="font-light">აგროტეცნიკა</span>
+                    <span class="font-light">აგროტექნიკა</span>
                 </div>
-                <h3 class="active-price-detail">საცალო ფასი: ₾16.00</h3>
-                <h3 class="active-price-discount"> საბითუმო ფასი: ₾15.00</h3>
+                <h3 class="active-price-detail">საცალო ფასი: ₾190.00</h3>
                 <button onclick="location.href = 'product_spray_5.php';"
                     class="btn listing-content">დეტალურად</button>
             </div>
@@ -1196,17 +1189,16 @@
         </div>
         <div class="product-details">
             <div class="rating-details">
-                <span class="font-light grid-content">აგროტეცნიკა</span>
+                <span class="font-light grid-content">აგროტექნიკა</span>
             </div>
             <div class="main-price">
                 <a href="product_spray_6.php" class="font-default">
                     <h3 class="ms-0">დრაგონის ელექტრო შემასხურებელი</h3>
                 </a>
                 <div class="listing-content">
-                    <span class="font-light">აგროტეცნიკა</span>
+                    <span class="font-light">აგროტექნიკა</span>
                 </div>
-                <h3 class="active-price-detail">საცალო ფასი: ₾16.00</h3>
-                <h3 class="active-price-discount"> საბითუმო ფასი: ₾15.00</h3>
+                <h3 class="active-price-detail">საცალო ფასი: ₾135.00</h3>
                 <button onclick="location.href = 'product_spray_6.php';"
                     class="btn listing-content">დეტალურად</button>
             </div>
@@ -1225,23 +1217,980 @@
         </div>
         <div class="product-details">
             <div class="rating-details">
-                <span class="font-light grid-content">აგროტეცნიკა</span>
+                <span class="font-light grid-content">აგროტექნიკა</span>
             </div>
             <div class="main-price">
                 <a href="product_spray_7.php" class="font-default">
                     <h3 class="ms-0">შემასხურებელი ბენზინის ძრავზე ROYAL PARTNER</h3>
                 </a>
                 <div class="listing-content">
-                    <span class="font-light">აგროტეცნიკა</span>
+                    <span class="font-light">აგროტექნიკა</span>
                 </div>
-                <h3 class="active-price-detail">საცალო ფასი: ₾16.00</h3>
-                <h3 class="active-price-discount"> საბითუმო ფასი: ₾15.00</h3>
+                <h3 class="active-price-detail">საცალო ფასი: ₾400.00</h3>
                 <button onclick="location.href = 'product_spray_7.php';"
                     class="btn listing-content">დეტალურად</button>
             </div>
         </div>
     </div>
 </div>
+
+<div class="productcheck" data-category="tech">
+    <div class="product-box">
+        <div class="img-wrapper">
+            <div class="front">
+                <a href="product_drill.php">
+                    <img src="assets/images/products/drill.jpg" class="bg-img blur-up lazyload" alt="">
+                </a>
+            </div>
+        </div>
+        <div class="product-details">
+            <div class="rating-details">
+                <span class="font-light grid-content">აგროტექნიკა</span>
+            </div>
+            <div class="main-price">
+                <a href="product_drill.php" class="font-default">
+                    <h3 class="ms-0">მიწის ბურღი ROYAL PARTNER ID520S</h3>
+                </a>
+                <div class="listing-content">
+                    <span class="font-light">აგროტექნიკა</span>
+                </div>
+                <h3 class="active-price-detail">საცალო ფასი: ₾430.00</h3>
+                <button onclick="location.href = 'product_drill.php';"
+                    class="btn listing-content">დეტალურად</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="productcheck" data-category="tech">
+    <div class="product-box">
+        <div class="img-wrapper">
+            <div class="front">
+                <a href="product_injector_1.php">
+                    <img src="assets/images/products/injector-1.jpg" class="bg-img blur-up lazyload" alt="">
+                </a>
+            </div>
+        </div>
+        <div class="product-details">
+            <div class="rating-details">
+                <span class="font-light grid-content">აგროტექნიკა</span>
+            </div>
+            <div class="main-price">
+                <a href="product_injector_1.php" class="font-default">
+                    <h3 class="ms-0">საწვავის ინჟექტორი 186 F</h3>
+                </a>
+                <div class="listing-content">
+                    <span class="font-light">აგროტექნიკა</span>
+                </div>
+                <h3 class="active-price-detail">საცალო ფასი: ₾60.00</h3>
+                <button onclick="location.href = 'product_injector_1.php';"
+                    class="btn listing-content">დეტალურად</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="productcheck" data-category="tech">
+    <div class="product-box">
+        <div class="img-wrapper">
+            <div class="front">
+                <a href="product_injector_2.php">
+                    <img src="assets/images/products/injector-2.jpg" class="bg-img blur-up lazyload" alt="">
+                </a>
+            </div>
+        </div>
+        <div class="product-details">
+            <div class="rating-details">
+                <span class="font-light grid-content">აგროტექნიკა</span>
+            </div>
+            <div class="main-price">
+                <a href="product_injector_2.php" class="font-default">
+                    <h3 class="ms-0">საწვავის ინჟექტორი 173 F</h3>
+                </a>
+                <div class="listing-content">
+                    <span class="font-light">აგროტექნიკა</span>
+                </div>
+                <h3 class="active-price-detail">საცალო ფასი: ₾50.00</h3>
+                <button onclick="location.href = 'product_injector_2.php';"
+                    class="btn listing-content">დეტალურად</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="productcheck" data-category="tech">
+    <div class="product-box">
+        <div class="img-wrapper">
+            <div class="front">
+                <a href="product_injector_3.php">
+                    <img src="assets/images/products/injector-3.jpg" class="bg-img blur-up lazyload" alt="">
+                </a>
+            </div>
+        </div>
+        <div class="product-details">
+            <div class="rating-details">
+                <span class="font-light grid-content">აგროტექნიკა</span>
+            </div>
+            <div class="main-price">
+                <a href="product_injector_3.php" class="font-default">
+                    <h3 class="ms-0">საწვავის ინჟექტორი 186 FA</h3>
+                </a>
+                <div class="listing-content">
+                    <span class="font-light">აგროტექნიკა</span>
+                </div>
+                <h3 class="active-price-detail">საცალო ფასი: ₾60.00</h3>
+                <button onclick="location.href = 'product_injector_3.php';"
+                    class="btn listing-content">დეტალურად</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="productcheck" data-category="tech">
+    <div class="product-box">
+        <div class="img-wrapper">
+            <div class="front">
+                <a href="product_cart.php">
+                    <img src="assets/images/products/cart.jpg" class="bg-img blur-up lazyload" alt="">
+                </a>
+            </div>
+        </div>
+        <div class="product-details">
+            <div class="rating-details">
+                <span class="font-light grid-content">აგროტექნიკა</span>
+            </div>
+            <div class="main-price">
+                <a href="product_cart.php" class="font-default">
+                    <h3 class="ms-0">კულკტივატორის მისაბმელი</h3>
+                </a>
+                <div class="listing-content">
+                    <span class="font-light">აგროტექნიკა</span>
+                </div>
+                <h3 class="active-price-detail">საცალო ფასი: ₾2100.00</h3>
+                <button onclick="location.href = 'product_cart.php';"
+                    class="btn listing-content">დეტალურად</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="productcheck" data-category="tech">
+    <div class="product-box">
+        <div class="img-wrapper">
+            <div class="front">
+                <a href="product_barbaros_1.php">
+                    <img src="assets/images/products/barbaros-1.jpg" class="bg-img blur-up lazyload" alt="">
+                </a>
+            </div>
+        </div>
+        <div class="product-details">
+            <div class="rating-details">
+                <span class="font-light grid-content">აგროტექნიკა</span>
+            </div>
+            <div class="main-price">
+                <a href="product_barbaros_1.php" class="font-default">
+                    <h3 class="ms-0">თხილის სარჩევი მანქანა 3HP/2,2KW</h3>
+                </a>
+                <div class="listing-content">
+                    <span class="font-light">აგროტექნიკა</span>
+                </div>
+                <h3 class="active-price-detail">საცალო ფასი: ₾4100.00</h3>
+                <button onclick="location.href = 'product_barbaros_1.php';"
+                    class="btn listing-content">დეტალურად</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="productcheck" data-category="tech">
+    <div class="product-box">
+        <div class="img-wrapper">
+            <div class="front">
+                <a href="product_barbaros_2.php">
+                    <img src="assets/images/products/barbaros-2.jpg" class="bg-img blur-up lazyload" alt="">
+                </a>
+            </div>
+        </div>
+        <div class="product-details">
+            <div class="rating-details">
+                <span class="font-light grid-content">აგროტექნიკა</span>
+            </div>
+            <div class="main-price">
+                <a href="product_barbaros_2.php" class="font-default">
+                    <h3 class="ms-0">საწველი აპარატი ერთ სისტემიანი</h3>
+                </a>
+                <div class="listing-content">
+                    <span class="font-light">აგროტექნიკა</span>
+                </div>
+                <h3 class="active-price-detail">საცალო ფასი: ₾1700.00</h3>
+                <button onclick="location.href = 'product_barbaros_2.php';"
+                    class="btn listing-content">დეტალურად</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="productcheck" data-category="tech">
+    <div class="product-box">
+        <div class="img-wrapper">
+            <div class="front">
+                <a href="product_barbaros_3.php">
+                    <img src="assets/images/products/barbaros-3.jpg" class="bg-img blur-up lazyload" alt="">
+                </a>
+            </div>
+        </div>
+        <div class="product-details">
+            <div class="rating-details">
+                <span class="font-light grid-content">აგროტექნიკა</span>
+            </div>
+            <div class="main-price">
+                <a href="product_barbaros_3.php" class="font-default">
+                    <h3 class="ms-0">საწველი აპარატი ორ სისტემიანი</h3>
+                </a>
+                <div class="listing-content">
+                    <span class="font-light">აგროტექნიკა</span>
+                </div>
+                <h3 class="active-price-detail">საცალო ფასი: ₾1900.00</h3>
+                <button onclick="location.href = 'product_barbaros_3.php';"
+                    class="btn listing-content">დეტალურად</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="productcheck" data-category="tech">
+    <div class="product-box">
+        <div class="img-wrapper">
+            <div class="front">
+                <a href="product_barbaros_4.php">
+                    <img src="assets/images/products/barbaros-4.jpg" class="bg-img blur-up lazyload" alt="">
+                </a>
+            </div>
+        </div>
+        <div class="product-details">
+            <div class="rating-details">
+                <span class="font-light grid-content">აგროტექნიკა</span>
+            </div>
+            <div class="main-price">
+                <a href="product_barbaros_4.php" class="font-default">
+                    <h3 class="ms-0">საფქვევი წისქვილი უნივერსალური</h3>
+                </a>
+                <div class="listing-content">
+                    <span class="font-light">აგროტექნიკა</span>
+                </div>
+                <h3 class="active-price-detail">საცალო ფასი: ₾2050.00</h3>
+                <button onclick="location.href = 'product_barbaros_4.php';"
+                    class="btn listing-content">დეტალურად</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="productcheck" data-category="tech">
+    <div class="product-box">
+        <div class="img-wrapper">
+            <div class="front">
+                <a href="product_hp_7.php">
+                    <img src="assets/images/products/hp-7.jpg" class="bg-img blur-up lazyload" alt="">
+                </a>
+            </div>
+        </div>
+        <div class="product-details">
+            <div class="rating-details">
+                <span class="font-light grid-content">აგროტექნიკა</span>
+            </div>
+            <div class="main-price">
+                <a href="product_hp_7.php" class="font-default">
+                    <h3 class="ms-0">ხელის კულტივატორი "ბუფალო" 7 HP</h3>
+                </a>
+                <div class="listing-content">
+                    <span class="font-light">აგროტექნიკა</span>
+                </div>
+                <h3 class="active-price-detail">საცალო ფასი: ₾1800.00</h3>
+                <button onclick="location.href = 'product_hp_7.php';"
+                    class="btn listing-content">დეტალურად</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="productcheck" data-category="tech">
+    <div class="product-box">
+        <div class="img-wrapper">
+            <div class="front">
+                <a href="product_hp_7_lights.php">
+                    <img src="assets/images/products/hp-7-lights.jpg" class="bg-img blur-up lazyload" alt="">
+                </a>
+            </div>
+        </div>
+        <div class="product-details">
+            <div class="rating-details">
+                <span class="font-light grid-content">აგროტექნიკა</span>
+            </div>
+            <div class="main-price">
+                <a href="product_hp_7_lights.php" class="font-default">
+                    <h3 class="ms-0">ხელის კულტივატორი "ბუფალო" 7 HP - განათებით</h3>
+                </a>
+                <div class="listing-content">
+                    <span class="font-light">აგროტექნიკა</span>
+                </div>
+                <h3 class="active-price-detail">საცალო ფასი: ₾1900.00</h3>
+                <button onclick="location.href = 'product_hp_7_lights.php';"
+                    class="btn listing-content">დეტალურად</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="productcheck" data-category="tech">
+    <div class="product-box">
+        <div class="img-wrapper">
+            <div class="front">
+                <a href="product_hp_7_tires.php">
+                    <img src="assets/images/products/hp-7-tires.jpg" class="bg-img blur-up lazyload" alt="">
+                </a>
+            </div>
+        </div>
+        <div class="product-details">
+            <div class="rating-details">
+                <span class="font-light grid-content">აგროტექნიკა</span>
+            </div>
+            <div class="main-price">
+                <a href="product_hp_7_tires.php" class="font-default">
+                    <h3 class="ms-0">ხელის კულტივატორი "ბუფალო" 7 HP - მსხვილ ღერძზე</h3>
+                </a>
+                <div class="listing-content">
+                    <span class="font-light">აგროტექნიკა</span>
+                </div>
+                <h3 class="active-price-detail">საცალო ფასი: ₾2000.00</h3>
+                <button onclick="location.href = 'product_hp_7_tires.php';"
+                    class="btn listing-content">დეტალურად</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="productcheck" data-category="tech">
+    <div class="product-box">
+        <div class="img-wrapper">
+            <div class="front">
+                <a href="product_hiromiki_1.php">
+                    <img src="assets/images/products/hiromiki-1.jpg" class="bg-img blur-up lazyload" alt="">
+                </a>
+            </div>
+        </div>
+        <div class="product-details">
+            <div class="rating-details">
+                <span class="font-light grid-content">აგროტექნიკა</span>
+            </div>
+            <div class="main-price">
+                <a href="product_hiromiki_1.php" class="font-default">
+                    <h3 class="ms-0">ხელის კულტივატორი "ჰირომიკი" MQ170GS</h3>
+                </a>
+                <div class="listing-content">
+                    <span class="font-light">აგროტექნიკა</span>
+                </div>
+                <h3 class="active-price-detail">საცალო ფასი: ₾2030.00</h3>
+                <button onclick="location.href = 'product_hiromiki_1.php';"
+                    class="btn listing-content">დეტალურად</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="productcheck" data-category="tech">
+    <div class="product-box">
+        <div class="img-wrapper">
+            <div class="front">
+                <a href="product_hiromiki_2.php">
+                    <img src="assets/images/products/hiromiki-2.jpg" class="bg-img blur-up lazyload" alt="">
+                </a>
+            </div>
+        </div>
+        <div class="product-details">
+            <div class="rating-details">
+                <span class="font-light grid-content">აგროტექნიკა</span>
+            </div>
+            <div class="main-price">
+                <a href="product_hiromiki_2.php" class="font-default">
+                    <h3 class="ms-0">ხელის კულტივატორი "ჰირომიკი" MQ177-4</h3>
+                </a>
+                <div class="listing-content">
+                    <span class="font-light">აგროტექნიკა</span>
+                </div>
+                <h3 class="active-price-detail">საცალო ფასი: ₾2800.00</h3>
+                <button onclick="location.href = 'product_hiromiki_2.php';"
+                    class="btn listing-content">დეტალურად</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="productcheck" data-category="tech">
+    <div class="product-box">
+        <div class="img-wrapper">
+            <div class="front">
+                <a href="product_hiromiki_3.php">
+                    <img src="assets/images/products/hiromiki-3.jpg" class="bg-img blur-up lazyload" alt="">
+                </a>
+            </div>
+        </div>
+        <div class="product-details">
+            <div class="rating-details">
+                <span class="font-light grid-content">აგროტექნიკა</span>
+            </div>
+            <div class="main-price">
+                <a href="product_hiromiki_3.php" class="font-default">
+                    <h3 class="ms-0">ხელის კულტივატორი "ჰირომიკი" MQ170-4</h3>
+                </a>
+                <div class="listing-content">
+                    <span class="font-light">აგროტექნიკა</span>
+                </div>
+                <h3 class="active-price-detail">საცალო ფასი: ₾2475.00</h3>
+                <button onclick="location.href = 'product_hiromiki_3.php';"
+                    class="btn listing-content">დეტალურად</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="productcheck" data-category="tech">
+    <div class="product-box">
+        <div class="img-wrapper">
+            <div class="front">
+                <a href="product_saw_1.php">
+                    <img src="assets/images/products/saw-1.jpg" class="bg-img blur-up lazyload" alt="">
+                </a>
+            </div>
+        </div>
+        <div class="product-details">
+            <div class="rating-details">
+                <span class="font-light grid-content">აგროტექნიკა</span>
+            </div>
+            <div class="main-price">
+                <a href="product_saw_1.php" class="font-default">
+                    <h3 class="ms-0">ბენზო ცელი "პანდორა"</h3>
+                </a>
+                <div class="listing-content">
+                    <span class="font-light">აგროტექნიკა</span>
+                </div>
+                <h3 class="active-price-detail">საცალო ფასი: ₾380.00</h3>
+                <button onclick="location.href = 'product_saw_1.php';"
+                    class="btn listing-content">დეტალურად</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="productcheck" data-category="tech">
+    <div class="product-box">
+        <div class="img-wrapper">
+            <div class="front">
+                <a href="product_saw_2.php">
+                    <img src="assets/images/products/saw-2.jpg" class="bg-img blur-up lazyload" alt="">
+                </a>
+            </div>
+        </div>
+        <div class="product-details">
+            <div class="rating-details">
+                <span class="font-light grid-content">აგროტექნიკა</span>
+            </div>
+            <div class="main-price">
+                <a href="product_saw_2.php" class="font-default">
+                    <h3 class="ms-0">ბენზო ცელი "როიალ პარტნიორი"</h3>
+                </a>
+                <div class="listing-content">
+                    <span class="font-light">აგროტექნიკა</span>
+                </div>
+                <h3 class="active-price-detail">საცალო ფასი: ₾350.00</h3>
+                <button onclick="location.href = 'product_saw_2.php';"
+                    class="btn listing-content">დეტალურად</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="productcheck" data-category="tech">
+    <div class="product-box">
+        <div class="img-wrapper">
+            <div class="front">
+                <a href="product_saw_3.php">
+                    <img src="assets/images/products/saw-1.jpg" class="bg-img blur-up lazyload" alt="">
+                </a>
+            </div>
+        </div>
+        <div class="product-details">
+            <div class="rating-details">
+                <span class="font-light grid-content">აგროტექნიკა</span>
+            </div>
+            <div class="main-price">
+                <a href="product_saw_3.php" class="font-default">
+                    <h3 class="ms-0">ბენზო ცელი "შტრაუსი"</h3>
+                </a>
+                <div class="listing-content">
+                    <span class="font-light">აგროტექნიკა</span>
+                </div>
+                <h3 class="active-price-detail">საცალო ფასი: ₾300.00</h3>
+                <button onclick="location.href = 'product_saw_3.php';"
+                    class="btn listing-content">დეტალურად</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="productcheck" data-category="tech">
+    <div class="product-box">
+        <div class="img-wrapper">
+            <div class="front">
+                <a href="product_line_1.php">
+                    <img src="assets/images/products/line-1.jpg" class="bg-img blur-up lazyload" alt="">
+                </a>
+            </div>
+        </div>
+        <div class="product-details">
+            <div class="rating-details">
+                <span class="font-light grid-content">აგროტექნიკა</span>
+            </div>
+            <div class="main-price">
+                <a href="product_line_1.php" class="font-default">
+                    <h3 class="ms-0">ბალახის საჭრელი ძუა 100 მ. 4.00</h3>
+                </a>
+                <div class="listing-content">
+                    <span class="font-light">აგროტექნიკა</span>
+                </div>
+                <h3 class="active-price-detail">საცალო ფასი: ₾75.00</h3>
+                <button onclick="location.href = 'product_line_1.php';"
+                    class="btn listing-content">დეტალურად</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="productcheck" data-category="tech">
+    <div class="product-box">
+        <div class="img-wrapper">
+            <div class="front">
+                <a href="product_line_2.php">
+                    <img src="assets/images/products/line-2.jpg" class="bg-img blur-up lazyload" alt="">
+                </a>
+            </div>
+        </div>
+        <div class="product-details">
+            <div class="rating-details">
+                <span class="font-light grid-content">აგროტექნიკა</span>
+            </div>
+            <div class="main-price">
+                <a href="product_line_2.php" class="font-default">
+                    <h3 class="ms-0">ბალახის საჭრელი ძუა 500 მ. 4.00</h3>
+                </a>
+                <div class="listing-content">
+                    <span class="font-light">აგროტექნიკა</span>
+                </div>
+                <h3 class="active-price-detail">საცალო ფასი: ₾310.00</h3>
+                <button onclick="location.href = 'product_line_2.php';"
+                    class="btn listing-content">დეტალურად</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="productcheck" data-category="tech">
+    <div class="product-box">
+        <div class="img-wrapper">
+            <div class="front">
+                <a href="product_line_3.php">
+                    <img src="assets/images/products/line-3.jpg" class="bg-img blur-up lazyload" alt="">
+                </a>
+            </div>
+        </div>
+        <div class="product-details">
+            <div class="rating-details">
+                <span class="font-light grid-content">აგროტექნიკა</span>
+            </div>
+            <div class="main-price">
+                <a href="product_line_3.php" class="font-default">
+                    <h3 class="ms-0">ბალახის საჭრელი ძუა გრეხილი</h3>
+                </a>
+                <div class="listing-content">
+                    <span class="font-light">აგროტექნიკა</span>
+                </div>
+                <h3 class="active-price-detail">საცალო ფასი: ₾18.00</h3>
+                <button onclick="location.href = 'product_line_3.php';"
+                    class="btn listing-content">დეტალურად</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="productcheck" data-category="tech">
+    <div class="product-box">
+        <div class="img-wrapper">
+            <div class="front">
+                <a href="product_filter_1.php">
+                    <img src="assets/images/products/filter-1.jpg" class="bg-img blur-up lazyload" alt="">
+                </a>
+            </div>
+        </div>
+        <div class="product-details">
+            <div class="rating-details">
+                <span class="font-light grid-content">აგროტექნიკა</span>
+            </div>
+            <div class="main-price">
+                <a href="product_filter_1.php" class="font-default">
+                    <h3 class="ms-0">ჰაერის ფილტრი 178F</h3>
+                </a>
+                <div class="listing-content">
+                    <span class="font-light">აგროტექნიკა</span>
+                </div>
+                <h3 class="active-price-detail">საცალო ფასი: ₾38.00</h3>
+                <button onclick="location.href = 'product_filter_1.php';"
+                    class="btn listing-content">დეტალურად</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="productcheck" data-category="tech">
+    <div class="product-box">
+        <div class="img-wrapper">
+            <div class="front">
+                <a href="product_filter_2.php">
+                    <img src="assets/images/products/filter-2.jpg" class="bg-img blur-up lazyload" alt="">
+                </a>
+            </div>
+        </div>
+        <div class="product-details">
+            <div class="rating-details">
+                <span class="font-light grid-content">აგროტექნიკა</span>
+            </div>
+            <div class="main-price">
+                <a href="product_filter_2.php" class="font-default">
+                    <h3 class="ms-0">ჰაერის ფილტრი 186F</h3>
+                </a>
+                <div class="listing-content">
+                    <span class="font-light">აგროტექნიკა</span>
+                </div>
+                <h3 class="active-price-detail">საცალო ფასი: ₾44.00</h3>
+                <button onclick="location.href = 'product_filter_2.php';"
+                    class="btn listing-content">დეტალურად</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="productcheck" data-category="tech">
+    <div class="product-box">
+        <div class="img-wrapper">
+            <div class="front">
+                <a href="product_filter_3.php">
+                    <img src="assets/images/products/filter-3.jpg" class="bg-img blur-up lazyload" alt="">
+                </a>
+            </div>
+        </div>
+        <div class="product-details">
+            <div class="rating-details">
+                <span class="font-light grid-content">აგროტექნიკა</span>
+            </div>
+            <div class="main-price">
+                <a href="product_filter_3.php" class="font-default">
+                    <h3 class="ms-0">ჰაერის ფილტრი 170F</h3>
+                </a>
+                <div class="listing-content">
+                    <span class="font-light">აგროტექნიკა</span>
+                </div>
+                <h3 class="active-price-detail">საცალო ფასი: ₾19.00</h3>
+                <button onclick="location.href = 'product_filter_3.php';"
+                    class="btn listing-content">დეტალურად</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="productcheck" data-category="tech">
+    <div class="product-box">
+        <div class="img-wrapper">
+            <div class="front">
+                <a href="product_filter_4.php">
+                    <img src="assets/images/products/filter-4.jpg" class="bg-img blur-up lazyload" alt="">
+                </a>
+            </div>
+        </div>
+        <div class="product-details">
+            <div class="rating-details">
+                <span class="font-light grid-content">აგროტექნიკა</span>
+            </div>
+            <div class="main-price">
+                <a href="product_filter_4.php" class="font-default">
+                    <h3 class="ms-0">ჰაერის ფილტრი 177F</h3>
+                </a>
+                <div class="listing-content">
+                    <span class="font-light">აგროტექნიკა</span>
+                </div>
+                <h3 class="active-price-detail">საცალო ფასი: ₾38.00</h3>
+                <button onclick="location.href = 'product_filter_4.php';"
+                    class="btn listing-content">დეტალურად</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="productcheck" data-category="tech">
+    <div class="product-box">
+        <div class="img-wrapper">
+            <div class="front">
+                <a href="product_converter.php">
+                    <img src="assets/images/products/converter-1.jpg" class="bg-img blur-up lazyload" alt="">
+                </a>
+            </div>
+        </div>
+        <div class="product-details">
+            <div class="rating-details">
+                <span class="font-light grid-content">აგროტექნიკა</span>
+            </div>
+            <div class="main-price">
+                <a href="product_converter.php" class="font-default">
+                    <h3 class="ms-0">მისაბმელის გადამყვანი</h3>
+                </a>
+                <div class="listing-content">
+                    <span class="font-light">აგროტექნიკა</span>
+                </div>
+                <h3 class="active-price-detail">საცალო ფასი: ₾31.00</h3>
+                <button onclick="location.href = 'product_converter.php';"
+                    class="btn listing-content">დეტალურად</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="productcheck" data-category="tech">
+    <div class="product-box">
+        <div class="img-wrapper">
+            <div class="front">
+                <a href="product_trailer.php">
+                    <img src="assets/images/products/trailer.jpg" class="bg-img blur-up lazyload" alt="">
+                </a>
+            </div>
+        </div>
+        <div class="product-details">
+            <div class="rating-details">
+                <span class="font-light grid-content">აგროტექნიკა</span>
+            </div>
+            <div class="main-price">
+                <a href="product_trailer.php" class="font-default">
+                    <h3 class="ms-0">მისაბმელი</h3>
+                </a>
+                <div class="listing-content">
+                    <span class="font-light">აგროტექნიკა</span>
+                </div>
+                <h3 class="active-price-detail">საცალო ფასი: ₾44.00</h3>
+                <button onclick="location.href = 'product_trailer.php';"
+                    class="btn listing-content">დეტალურად</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="productcheck" data-category="tech">
+    <div class="product-box">
+        <div class="img-wrapper">
+            <div class="front">
+                <a href="product_wire_1.php">
+                    <img src="assets/images/products/wire-1.jpg" class="bg-img blur-up lazyload" alt="">
+                </a>
+            </div>
+        </div>
+        <div class="product-details">
+            <div class="rating-details">
+                <span class="font-light grid-content">აგროტექნიკა</span>
+            </div>
+            <div class="main-price">
+                <a href="product_wire_1.php" class="font-default">
+                    <h3 class="ms-0">ცელის გაზის მავთული</h3>
+                </a>
+                <div class="listing-content">
+                    <span class="font-light">აგროტექნიკა</span>
+                </div>
+                <h3 class="active-price-detail">საცალო ფასი: ₾14.00</h3>
+                <button onclick="location.href = 'product_wire_1.php';"
+                    class="btn listing-content">დეტალურად</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="productcheck" data-category="tech">
+    <div class="product-box">
+        <div class="img-wrapper">
+            <div class="front">
+                <a href="product_wire_2.php">
+                    <img src="assets/images/products/wire-2.jpg" class="bg-img blur-up lazyload" alt="">
+                </a>
+            </div>
+        </div>
+        <div class="product-details">
+            <div class="rating-details">
+                <span class="font-light grid-content">აგროტექნიკა</span>
+            </div>
+            <div class="main-price">
+                <a href="product_wire_2.php" class="font-default">
+                    <h3 class="ms-0">უკან სვლის მავთული</h3>
+                </a>
+                <div class="listing-content">
+                    <span class="font-light">აგროტექნიკა</span>
+                </div>
+                <h3 class="active-price-detail">საცალო ფასი: ₾9.00</h3>
+                <button onclick="location.href = 'product_wire_2.php';"
+                    class="btn listing-content">დეტალურად</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="productcheck" data-category="tech">
+    <div class="product-box">
+        <div class="img-wrapper">
+            <div class="front">
+                <a href="product_wire_3.php">
+                    <img src="assets/images/products/wire-3.jpg" class="bg-img blur-up lazyload" alt="">
+                </a>
+            </div>
+        </div>
+        <div class="product-details">
+            <div class="rating-details">
+                <span class="font-light grid-content">აგროტექნიკა</span>
+            </div>
+            <div class="main-price">
+                <a href="product_wire_3.php" class="font-default">
+                    <h3 class="ms-0">ცეპლენიის მავთული</h3>
+                </a>
+                <div class="listing-content">
+                    <span class="font-light">აგროტექნიკა</span>
+                </div>
+                <h3 class="active-price-detail">საცალო ფასი: ₾9.00</h3>
+                <button onclick="location.href = 'product_wire_3.php';"
+                    class="btn listing-content">დეტალურად</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="productcheck" data-category="tech">
+    <div class="product-box">
+        <div class="img-wrapper">
+            <div class="front">
+                <a href="product_blades_1.php">
+                    <img src="assets/images/products/blades-1.jpg" class="bg-img blur-up lazyload" alt="">
+                </a>
+            </div>
+        </div>
+        <div class="product-details">
+            <div class="rating-details">
+                <span class="font-light grid-content">აგროტექნიკა</span>
+            </div>
+            <div class="main-price">
+                <a href="product_blades_1.php" class="font-default">
+                    <h3 class="ms-0">მიწის სამარგლი (პარალელური საჭრელი პირით) 28x9</h3>
+                </a>
+                <div class="listing-content">
+                    <span class="font-light">აგროტექნიკა</span>
+                </div>
+                <h3 class="active-price-detail">საცალო ფასი: ₾144.00</h3>
+                <button onclick="location.href = 'product_blades_1.php';"
+                    class="btn listing-content">დეტალურად</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="productcheck" data-category="tech">
+    <div class="product-box">
+        <div class="img-wrapper">
+            <div class="front">
+                <a href="product_blades_2.php">
+                    <img src="assets/images/products/blades-2.jpg" class="bg-img blur-up lazyload" alt="">
+                </a>
+            </div>
+        </div>
+        <div class="product-details">
+            <div class="rating-details">
+                <span class="font-light grid-content">აგროტექნიკა</span>
+            </div>
+            <div class="main-price">
+                <a href="product_blades_2.php" class="font-default">
+                    <h3 class="ms-0">მიწის სამარგლი (დახრილი საჭრელი პირით) 28x9</h3>
+                </a>
+                <div class="listing-content">
+                    <span class="font-light">აგროტექნიკა</span>
+                </div>
+                <h3 class="active-price-detail">საცალო ფასი: ₾144.00</h3>
+                <button onclick="location.href = 'product_blades_2.php';"
+                    class="btn listing-content">დეტალურად</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="productcheck" data-category="tech">
+    <div class="product-box">
+        <div class="img-wrapper">
+            <div class="front">
+                <a href="product_blades_3.php">
+                    <img src="assets/images/products/blades-3.jpg" class="bg-img blur-up lazyload" alt="">
+                </a>
+            </div>
+        </div>
+        <div class="product-details">
+            <div class="rating-details">
+                <span class="font-light grid-content">აგროტექნიკა</span>
+            </div>
+            <div class="main-price">
+                <a href="product_blades_3.php" class="font-default">
+                    <h3 class="ms-0">მიწის სათოხნი პირი</h3>
+                </a>
+                <div class="listing-content">
+                    <span class="font-light">აგროტექნიკა</span>
+                </div>
+                <h3 class="active-price-detail">საცალო ფასი: ₾144.00</h3>
+                <button onclick="location.href = 'product_blades_3.php';"
+                    class="btn listing-content">დეტალურად</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="productcheck" data-category="tech">
+    <div class="product-box">
+        <div class="img-wrapper">
+            <div class="front">
+                <a href="product_blades_4.php">
+                    <img src="assets/images/products/blades-4.jpg" class="bg-img blur-up lazyload" alt="">
+                </a>
+            </div>
+        </div>
+        <div class="product-details">
+            <div class="rating-details">
+                <span class="font-light grid-content">აგროტექნიკა</span>
+            </div>
+            <div class="main-price">
+                <a href="product_blades_4.php" class="font-default">
+                    <h3 class="ms-0">ბენზო ცელის დანა Maybach</h3>
+                </a>
+                <div class="listing-content">
+                    <span class="font-light">აგროტექნიკა</span>
+                </div>
+                <h3 class="active-price-detail">საცალო ფასი: ₾14.00</h3>
+                <button onclick="location.href = 'product_blades_4.php';"
+                    class="btn listing-content">დეტალურად</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
 
 
 </div>

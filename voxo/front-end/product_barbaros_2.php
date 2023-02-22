@@ -12,8 +12,8 @@
                                 <div class="details-image ratio_asos">
                                     <div>
                                         <div class="product-image-tag">
-                                            <img src="assets/images/products/wire-2.jpg" id="zoom_01"
-                                                data-zoom-image="assets/images/products/wire-2.jpg"
+                                            <img src="assets/images/products/barbaros-2.jpg" id="zoom_01"
+                                                data-zoom-image="assets/images/products/barbaros-2.jpg"
                                                 class="img-fluid w-100 image_zoom_cls-0 blur-up lazyload" alt="">
                                         </div>
                                     </div>
@@ -25,14 +25,14 @@
                             <div class="cloth-details-size">
 
                                 <div class="details-image-concept">
-                                    <h2>უკან სვლის მავთული</h2>
+                                    <h2>საწველი აპარატი ერთ სისტემიანი</h2>
                                 </div>
 
                                 <div class="label-section">
                                     <span class="badge badge-grey-color">აგროტეცნიკა</span>
                                 </div>
 
-                                <h3 class="price-detail">₾<span id="pricetag">9.00</span></h3>
+                                <h3 class="price-detail">₾<span id="pricetag">1700.00</span></h3>
 
                                 <div id="selectSize" class="addeffect-section product-description border-product">
 
@@ -43,7 +43,7 @@
 
                                     <div class="size-box">
                                         <ul>
-                                            <li class="pricechange active" id="activeprice" value="9" realvalue="9">
+                                            <li class="pricechange active" id="activeprice" value="1700" realvalue="1700">
                                                 <a href="javascript:void(0)">16 ლიტრი</a>
                                             </li>
                                         </ul>
@@ -94,6 +94,39 @@
                 </div>
             </div>
 
+            <div class="col-12">
+                <div class="cloth-review">
+                    <nav>
+                        <div class="nav nav-tabs" id="nav-tab" role="tablist">
+                            <button class="nav-link active" id="nav-home-tab" data-bs-toggle="tab"
+                                data-bs-target="#desc" type="button">დახასიათება</button>
+                        </div>
+                    </nav>
+
+                    <div class="tab-content" id="nav-tabContent">
+                        <div class="tab-pane fade show active" id="desc">
+                            <div class="shipping-chart">
+                                <div class="part">
+                                    <h4 class="inner-title mb-2">საწველი აპარატი ერთ სისტემიანი</h4>
+                                    <ul>
+                                        <li>მოდელი: რძის საწველი ერთიანი აპარატი ბარბაროსი </li>
+                                        <li>ბრენდი: ბარბაროსი - BARBAROS  </li>
+                                        <li>მწარმოებლურობა: 24-მდე ძროხა საათში</li>
+                                        <li>სათლი: უჟანგავი ლითონი</li>
+                                        <li>ტევადობა: 20 ლიტრი</li>
+                                        <li>ტიპი: რეზინის საქშენები </li>
+                                        <li>ძრავის სიმძლავრე: 0,75 ცხ/ძ 0,55 კვ </li>
+                                        <li>Მთლიანი წონა: 50 კგ</li>
+                                        <li>ტუმბვის სისტემა: მშრალი 70s</li>
+                                        <li>წარმოშობის ქვეყანა: თურქეთი</li>
+                                        <li>საქონლის კოდი: 8680640074337</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
 </section>
 <!-- Shop Section end -->
