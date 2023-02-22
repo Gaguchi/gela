@@ -179,25 +179,29 @@
 
     <!-- Portfolio Section Start -->
     <section id="portfolio" class="portfolio section">
+        <div class="title title-2 text-center">
+                        <h2>ახალი პროდუქცია</h2>
+                        <h5>შეიძინე ახალი პროდუქცია</h5>
+                    </div>
         <div class="container">
             <div class="row gx-2">
                 <div class="col-12">
                     <div class="filters button filter-button-group">
                         <ul>
                             <li class="active btn btn-submit" data-filter="*">
-                                <h4>ყველა</h4>
+                                <h4>ყველა ახალი</h4>
                             </li>
                             <li class="btn btn-submit" data-filter=".herbicides">
-                                <h4>ჰერბიციდები</h4>
+                                <h4>ახალი ჰერბიციდები</h4>
                             </li>
                             <li class="btn btn-submit" data-filter=".fungicides">
-                                <h4>ფუნგიციდები</h4>
+                                <h4>ახალი ფუნგიციდები</h4>
                             </li>
                             <li class="btn btn-submit" data-filter=".insecticides">
-                                <h4>ინსექტიციდები</h4>
+                                <h4>ახალი ინსექტიციდები</h4>
                             </li>
                             <li class="btn btn-submit" data-filter=".fertilizers">
-                                <h4>სასუქები</h4>
+                                <h4>ახალი სასუქები</h4>
                             </li>
                         </ul>
                     </div>
@@ -488,7 +492,7 @@
     <section>
         <div class="container reveal mb-3">
             <div class="row">
-                <img src="assets/images/banner2.jpg" alt="">
+                <a href="shop.php"><img src="assets/images/banner2.jpg" alt="" style="max-width: inherit;"></a>
             </div>
         </div>
     </section>

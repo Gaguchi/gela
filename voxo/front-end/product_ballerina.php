@@ -32,21 +32,20 @@
                                         <span class="badge badge-grey-color">ჰერბიციდი</span>
                                     </div>
 
-                                    <h3 class="price-detail">₾<span id="pricetag">27.00</span> <del id="oldprice"></del> <span id="discount"></span></h3>
-                                    <h3 class="active-price-detail">საცალო ფასი: ₾<span id="unitprice">27.00</span></h3><h3 class="active-price-discount"> საბითუმო ფასი: ₾<span id="wholesaleprice">25.00</span></h3>
+                                    <h3 class="price-detail">₾<span id="pricetag">30.00</span> <del id="oldprice"></del> <span id="discount"></span></h3>
+                                    <h3 class="active-price-detail">საცალო ფასი: ₾<span id="unitprice">30.00</span></h3><h3 class="active-price-discount"> საბითუმო ფასი: ₾<span id="wholesaleprice">25.00</span></h3>
                                     <h3 class="mb-3"><span id="until-discount">დარჩა 10 საბითუმო ფასამდე</span></h3>
 
                                     <div id="selectSize" class="addeffect-section product-description border-product">
 
                                         <h6 class="product-title size-text">აირჩიეთ მოცულობა: 
                                         </h6>
-
                                         <div class="size-box">
                                             <ul>
-                                                <li class="pricechange active" id="activeprice" value="27" realvalue="25">
+                                                <li class="pricechange active" id="activeprice" value="30" realvalue="25">
                                                     <a href="javascript:void(0)">500 მლ.გრ.</a>
                                                 </li>
-                                                <li class="pricechange" value="45" realvalue="40">
+                                                <li class="pricechange" value="205" realvalue="200">
                                                     <a href="javascript:void(0)">5 ლ.</a>
                                                 </li>
                                             </ul>

@@ -24,7 +24,7 @@
                             2,4-D და MCPA-ს მიმართ რეზისტენტული და ზოგიერთი მრავალწლიანი ფესვის გასროლის სარეველა
                             მარცვლეულის, სიმინდის, ფეტვისა და სორგოს კულტურებში.</p>
                     </div>
-                    <h3 class="active-price-detail">საცალო ფასი: ₾27.00</h3>
+                    <h3 class="active-price-detail">საცალო ფასი: ₾30.00</h3>
                     <h3 class="active-price-discount"> საბითუმო ფასი: ₾25.00</h3>
                     <button onclick="location.href = 'product_ballerina.php';"
                         class="btn listing-content">დეტალურად</button>

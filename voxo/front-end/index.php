@@ -71,3 +71,19 @@
 </section> -->
 <!-- Map Section End -->
 <?php include 'footer.php'?>
+<script>
+    
+/*=====================
+    26. create video element
+ ==========================*/
+
+ const box = document.createElement('p'); // is a node
+ box.innerHTML = 'test satu dua tiga';
+
+
+ $(window).on('load', function() {
+    if ($("#generate-video").length){
+    $( "#generate-video" ).prepend( '<video id="background-video" autoplay loop muted poster="assets/videos/thumbnail.png"><source src="assets/videos/video.mp4" type="video/mp4"></video>' );
+}});
+
+</script>

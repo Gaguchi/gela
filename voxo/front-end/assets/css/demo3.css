@@ -20329,7 +20329,7 @@ transition: all 0.5s ease;
 }
 
 #car:hover{
-transform: translate(-132px,-10px);
+transform: translate(-100px,-10px);
 transition: all 0.5s ease;
 }
 

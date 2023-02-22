@@ -724,7 +724,7 @@ $('.dropdown .dropdown-menu li').click(function () {
     25. Text effect
  ==========================*/
 
- var words = ['ოდიში აგრო','ქ. ზუგდიდი', 'სოხუმის ქ. 192', 'ჰერბიციდები', 'პესტიციდები', 'ფუნგიციდები', 'სასუქები'],
+ var words = ['ოდიში აგრო','ქ. ზუგდიდი', 'სოხუმის ქ. 92', 'ჰერბიციდები', 'პესტიციდები', 'ფუნგიციდები', 'სასუქები'],
  part,
  i = 0,
  offset = 0,
@@ -885,19 +885,6 @@ wordflick();
     document.querySelector(".preloader").style.display = "none";
 }
 
-/*=====================
-    26. create video element
- ==========================*/
-
- const box = document.createElement('p'); // is a node
- box.innerHTML = 'test satu dua tiga';
-
-
- $(window).on('load', function() {
-    if ($("#generate-video").length){
-    $( "#generate-video" ).prepend( '<video id="background-video" autoplay loop muted poster="assets/videos/thumbnail.png"><source src="assets/videos/video.mp4" type="video/mp4"></video>' );
-}});
-
 
 /*=====================
     25. Price Change
@@ -1028,5 +1015,19 @@ $(".priceupdate").click(function() {
 //     $("#pricetag").text(price.toFixed(2));
 // });
 
+/*=====================
+    26. create video element
+ ==========================*/
+
+ const box = document.createElement('p'); // is a node
+ box.innerHTML = 'test satu dua tiga';
+
+
+ $(document).ready( function() {
+    if ($("#generate-video").length){
+    $( "#generate-video" ).prepend( '<video id="background-video" autoplay loop muted poster="assets/videos/thumbnail.png"><source src="assets/videos/video.mp4" type="video/mp4"></video>' );
+}});
+
 
 AOS.init();
+

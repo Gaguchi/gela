@@ -32,20 +32,21 @@
                     <div class="material-details">
                         <div class="title title1 title-effect mb-1 title-left">
                             <h2>დაგვიკავშირდით</h2>
-                            <p class="ms-0 w-100">დაგვიტოვეთ თქვენი საკონტაქტო ინფორმაცია და ჩვენ აუცილებლად დაგიკავშირდებით</p>
+                            <p class="ms-0 w-100">დაგვიტოვეთ თქვენი საკონტაქტო ინფორმაცია და ჩვენ აუცილებლად
+                                დაგიკავშირდებით</p>
                         </div>
                     </div>
-                        <form action="form-to-email-contact.php" method="post">
-                    <div class="row g-4 mt-md-1 mt-2">
+                    <form action="form-to-email-contact.php" method="post">
+                        <div class="row g-4 mt-md-1 mt-2">
                             <div class="col-md-6">
                                 <label for="first" class="form-label">თქვენი სახელი</label>
-                                <input name="firstname" type="text" class="form-control" id="first" placeholder="მოგვწერეთ თქვენი სახელი"
-                                    required>
+                                <input name="firstname" type="text" class="form-control" id="first"
+                                    placeholder="მოგვწერეთ თქვენი სახელი" required>
                             </div>
                             <div class="col-md-6">
                                 <label for="last" class="form-label">თქვენი გვარი</label>
-                                <input name="lastname" type="text" class="form-control" id="last" placeholder="მოგვწერეთ თქვენი გვარი"
-                                    required>
+                                <input name="lastname" type="text" class="form-control" id="last"
+                                    placeholder="მოგვწერეთ თქვენი გვარი" required>
                             </div>
                             <div class="col-md-6">
                                 <label for="email" class="form-label">ელ-ფოსტა</label>
@@ -66,8 +67,8 @@
                             <div class="col-auto">
                                 <button class="btn btn-solid-default" type="submit">გაგზავნა</button>
                             </div>
-                    </div>
-                        </form>
+                        </div>
+                    </form>
                 </div>
             </div>
 
@@ -120,9 +121,7 @@
         <div class="row gy-4">
             <div class="col-12 p-0">
                 <div class="location-map">
-                    <iframe
-                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7227.225249699896!2d55.17263937326456!3d25.081115462415855!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f43496ad9c645%3A0xbde66e5084295162!2sDubai%20-%20United%20Arab%20Emirates!5e0!3m2!1sen!2sin!4v1632538854272!5m2!1sen!2sin"
-                        loading="lazy"></iframe>
+                <iframe src="https://yandex.com/map-widget/v1/?um=constructor%3Af985e6e0770a2a686897f87b05a1a17e01be3be69a0cd33e5356de193e29e623&amp;source=constructor" width="100%" height="400" frameborder="0"></iframe>
                 </div>
             </div>
         </div>
