@@ -175,7 +175,7 @@
                 <div class="row gy-3">
                     <div class="col-md-6">
                         <ul>
-                            <li class="font-dark">We accept:</li>
+                            <li class="font-dark">ჩვენ ვიღებტ:</li>
                             <li>
                                 <a href="javascript:void(0)">
                                     <img src="assets/images/payment-icon/1.jpg" class="img-fluid blur-up lazyload"
@@ -199,7 +199,7 @@
                         </ul>
                     </div>
                     <div class="col-md-6">
-                        <p class="mb-0 font-dark">© 2021, Voxo Theme. Made with heart by Pixelstrap</p>
+                        <p class="mb-0 font-dark">© 2023 made by Boris K.</p>
                     </div>
                 </div>
             </div>

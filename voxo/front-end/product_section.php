@@ -48,7 +48,7 @@
                 </div>
                 <div class="main-price">
                     <a href="product_dublon_gold.php" class="font-default">
-                        <h3 class="ms-0">დუბლინ გოლდი</h3>
+                        <h3 class="ms-0">დუბლონ გოლდი</h3>
                     </a>
                     <div class="listing-content">
                         <span class="font-light">ჰერბიციდი</span>
@@ -85,7 +85,7 @@
                         <span class="font-light">ჰერბიციდი</span>
                         <p class="font-light">უწყვეტი მოქმედების უნივერსალური ჰერბიციდი.</p>
                     </div>
-                    <h3 class="active-price-detail">საცალო ფასი: ₾47.00</h3>
+                    <h3 class="active-price-detail">საცალო ფასი: ₾50.00</h3>
                     <h3 class="active-price-discount"> საბითუმო ფასი: ₾45.00</h3>
                     <button onclick="location.href = 'product_tornado.php';"
                         class="btn listing-content">დეტალურად</button>
@@ -179,7 +179,7 @@
                         <p class="font-light">დამხმარე საშუალება (სურფაქტანტი) ჰერბიციდებთან კომბინირებული გამოყენებისა
                             და მათი ეფექტურობის გაზრდისთვის.</p>
                     </div>
-                    <h3 class="active-price-detail">საცალო ფასი: ₾38.00</h3>
+                    <h3 class="active-price-detail">საცალო ფასი: ₾40.00</h3>
                     <h3 class="active-price-discount"> საბითუმო ფასი: ₾35.00</h3>
                     <button onclick="location.href = 'product_adieu.php';"
                         class="btn listing-content">დეტალურად</button>
@@ -210,7 +210,7 @@
                         <p class="font-light">პროფილაქტიკური და სამკურნალო სისტემური ფუნგიციდი მარცვლეულის, ბრინჯის,
                             რაფსის და ყურძნის დაავადებების კონტროლისთვის.</p>
                     </div>
-                    <h3 class="active-price-detail">საცალო ფასი: ₾12.00</h3>
+                    <h3 class="active-price-detail">საცალო ფასი: ₾15.00</h3>
                     <h3 class="active-price-discount"> საბითუმო ფასი: ₾10.00</h3>
                     <button onclick="location.href = 'product_colossal.php';"
                         class="btn listing-content">დეტალურად</button>
@@ -246,7 +246,7 @@
                             დაცვისას არ არის ფიტოტოქსიკური. ფიტოტოქსიკური ნიშნების შეიძლება გამოვლინდეს წვიმიან და ცივ
                             ამინდებში, როდესაც ჰაერის ტემპერატურა 8°C-ზე დაბალია.</p>
                     </div>
-                    <h3 class="active-price-detail">საცალო ფასი: ₾42.00</h3>
+                    <h3 class="active-price-detail">საცალო ფასი: ₾45.00</h3>
                     <h3 class="active-price-discount"> საბითუმო ფასი: ₾40.00</h3>
                     <button onclick="location.href = 'product_cooper.php';"
                         class="btn listing-content">დეტალურად</button>
@@ -318,8 +318,8 @@
                             შესხურების გზით, 3-5 ლ/ჰა დოზით. თავსებადია სხვა პესტიციდებთან, გარდა ზეთოვანი და ტუტე
                             რეაქციის მქონე პრეპარატებისა.</p>
                     </div>
-                    <h3 class="active-price-detail">საცალო ფასი: ₾160.00</h3>
-                    <h3 class="active-price-discount"> საბითუმო ფასი: ₾155.00</h3>
+                    <h3 class="active-price-detail">საცალო ფასი: ₾25.00</h3>
+                    <h3 class="active-price-discount"> საბითუმო ფასი: ₾20.00</h3>
                     <button onclick="location.href = 'product_pinazol.php';"
                         class="btn listing-content">დეტალურად</button>
                 </div>
@@ -662,7 +662,7 @@
                         <span class="font-light">სასუქი</span>
                         <p class="font-light">წონასწორობის ბრენდი კვალი ელემენტებით.</p>
                     </div>
-                    <h3 class="active-price-detail">საცალო ფასი: ₾48.00</h3>
+                    <h3 class="active-price-detail">საცალო ფასი: ₾50.00</h3>
                     <h3 class="active-price-discount"> საბითუმო ფასი: ₾45.00</h3>
                     <button onclick="location.href = 'product_kas_32.php';"
                         class="btn listing-content">დეტალურად</button>
@@ -729,7 +729,7 @@
                             ფიზიოლოგიური დაცვის უნარის გაძლიერებას. შეთავსებადია სხვა პესტიციდებთან და სასუქებთან გარდა
                             გოგირდისა და შაბიამნისა.</p>
                     </div>
-                    <h3 class="active-price-detail">საცალო ფასი: ₾82.00</h3>
+                    <h3 class="active-price-detail">საცალო ფასი: ₾85.00</h3>
                     <h3 class="active-price-discount"> საბითუმო ფასი: ₾80.00</h3>
                     <button onclick="location.href = 'product_fosbel.php';"
                         class="btn listing-content">დეტალურად</button>
@@ -757,12 +757,12 @@
                     </a>
                     <div class="listing-content">
                         <span class="font-light">ინსექტიციდი</span>
-                        <p class="font-light">აბამეტი არის წამყვანი აკარიციდი/ინსექტიციდი და მოქმედებს ძირითადად
+                        <p class="font-light">აბამეთი არის წამყვანი აკარიციდი/ინსექტიციდი და მოქმედებს ძირითადად
                             გადაყლაპვით, მაგრამ ასევე აქვს კონტაქტური და ტრანსლამინარული აქტივობა, რაც იმას ნიშნავს, რომ
                             აქტიური ინგრედიენტი გადადის ფოთლის ქსოვილში და ქმნის აბამექტინის ტოქსიკურ რეზერვუარს,
                             რომელიც აგრძელებს მავნებლების მოკვლას, რადგან ისინი იკვებებიან მესფილის ქსოვილით.</p>
                     </div>
-                    <h3 class="active-price-detail">საცალო ფასი: ₾33.00</h3>
+                    <h3 class="active-price-detail">საცალო ფასი: ₾35.00</h3>
                     <h3 class="active-price-discount"> საბითუმო ფასი: ₾30.00</h3>
                     <button onclick="location.href = 'product_abamet.php';"
                         class="btn listing-content">დეტალურად</button>
@@ -835,7 +835,7 @@
                             გამომუშავებულ ენერგიას. ამიაკის ტოქსიკურ ნიშნულამდე დაგროვების შედეგად მცენარეში ხდება
                             მწვანე მასის სწრაფი ხმობა და განადგურება.</p>
                     </div>
-                    <h3 class="active-price-detail">საცალო ფასი: ₾63.00</h3>
+                    <h3 class="active-price-detail">საცალო ფასი: ₾65.00</h3>
                     <h3 class="active-price-discount"> საბითუმო ფასი: ₾60.00</h3>
                     <button onclick="location.href = 'product_galant.php';"
                         class="btn listing-content">დეტალურად</button>
@@ -870,7 +870,7 @@
                             უნარი, რაც ზრდის დაცვითი მოქმედების ხანგრძლივობას. დაშვებულია ორგანულ სოფლის მეურნეობაში.
                         </p>
                     </div>
-                    <h3 class="active-price-detail">საცალო ფასი: ₾205.00</h3>
+                    <h3 class="active-price-detail">საცალო ფასი: ₾210.00</h3>
                     <h3 class="active-price-discount"> საბითუმო ფასი: ₾200.00</h3>
                     <button onclick="location.href = 'product_blue_bordo.php';"
                         class="btn listing-content">დეტალურად</button>
@@ -903,7 +903,7 @@
                             ბოსტნეულისა და სხვა სასოფლო–სამეურნეო კულტურების ძირითადი სოკოვანი დაავადებებისაგან
                             დასაცავად.</p>
                     </div>
-                    <h3 class="active-price-detail">საცალო ფასი: ₾16.00</h3>
+                    <h3 class="active-price-detail">საცალო ფასი: ₾18.00</h3>
                     <h3 class="active-price-discount"> საბითუმო ფასი: ₾15.00</h3>
                     <button onclick="location.href = 'product_nixon.php';"
                         class="btn listing-content">დეტალურად</button>
@@ -938,7 +938,7 @@
                             და ანადგურებს იმ ტკიპასაც, რომელიც წამლობისას არ იმყოფებოდა კონტაქტში. მას გააჩნია შერჩევითი
                             მოქმედების უნარი.</p>
                     </div>
-                    <h3 class="active-price-detail">საცალო ფასი: ₾33.00</h3>
+                    <h3 class="active-price-detail">საცალო ფასი: ₾35.00</h3>
                     <h3 class="active-price-discount"> საბითუმო ფასი: ₾30.00</h3>
                     <button onclick="location.href = 'product_actec.php';"
                         class="btn listing-content">დეტალურად</button>
@@ -962,7 +962,7 @@
                 </div>
                 <div class="main-price">
                     <a href="product_sulfavita.php" class="font-default">
-                        <h3 class="ms-0">კარბამიდი</h3>
+                        <h3 class="ms-0">სულფოვიტა</h3>
                     </a>
                     <div class="listing-content">
                         <span class="font-light">ფუნგიციდი</span>
@@ -973,7 +973,7 @@
                             ნაწილაკების იდეალური ზომა განაპირობებს კარგ ხსნადობას, წარმოქმნის ერთგვაროვან და მდგრად
                             სუსპენზიას. სულფოვიტას გამოყენება დაშვებულია ორგანულ მეურნეობაში.</p>
                     </div>
-                    <h3 class="active-price-detail">საცალო ფასი: ₾16.00</h3>
+                    <h3 class="active-price-detail">საცალო ფასი: ₾18.00</h3>
                     <h3 class="active-price-discount"> საბითუმო ფასი: ₾15.00</h3>
                     <button onclick="location.href = 'product_sulfavita.php';"
                         class="btn listing-content">დეტალურად</button>
