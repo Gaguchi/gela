@@ -349,8 +349,8 @@
                         <p class="font-light">მრავალმხრივი, მაღალი ხარისხის მარცვლოვანი სასუქი, რომელიც შეიცავს აზოტს და
                             ფოსფორს.</p>
                     </div>
-                    <h3 class="active-price-detail">საცალო ფასი: ₾165.00</h3>
-                    <h3 class="active-price-discount"> საბითუმო ფასი: ₾160.00</h3>
+                    <h3 class="active-price-detail">საცალო ფასი: ₾160.00</h3>
+                    <h3 class="active-price-discount"> საბითუმო ფასი: ₾155.00</h3>
                     <button onclick="location.href = 'product_ammofos.php';"
                         class="btn listing-content">დეტალურად</button>
                 </div>

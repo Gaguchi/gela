@@ -32,8 +32,8 @@
                                         <span class="badge badge-grey-color">სასუქი</span>
                                     </div>
 
-                                    <h3 class="price-detail">₾<span id="pricetag">48.00</span> <del id="oldprice"></del> <span id="discount"></span></h3>
-                                    <h3 class="active-price-detail">საცალო ფასი: ₾<span id="unitprice">48.00</span></h3><h3 class="active-price-discount"> საბითუმო ფასი: ₾<span id="wholesaleprice">45.00</span></h3><h3 class="mb-3"><span id="until-discount">დარჩა 10 საბითუმო ფასამდე</span></h3>
+                                    <h3 class="price-detail">₾<span id="pricetag">50.00</span> <del id="oldprice"></del> <span id="discount"></span></h3>
+                                    <h3 class="active-price-detail">საცალო ფასი: ₾<span id="unitprice">50.00</span></h3><h3 class="active-price-discount"> საბითუმო ფასი: ₾<span id="wholesaleprice">45.00</span></h3><h3 class="mb-3"><span id="until-discount">დარჩა 10 საბითუმო ფასამდე</span></h3>
 
                                     <div id="selectSize" class="addeffect-section product-description border-product">
 
@@ -44,7 +44,7 @@
 
                                         <div class="size-box">
                                             <ul>
-                                                <li class="pricechange active" id="activeprice" value="48" realvalue="45">
+                                                <li class="pricechange active" id="activeprice" value="50" realvalue="45">
                                                     <a href="javascript:void(0)">10 ლ.</a>
                                                 </li>
                                                 <li class="pricechange" value="85" realvalue="80">

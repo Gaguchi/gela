@@ -32,8 +32,8 @@
                                         <span class="badge badge-grey-color">დამხმარე</span>
                                     </div>
 
-                                    <h3 class="price-detail">₾<span id="pricetag">38.00</span> <del id="oldprice"></del> <span id="discount"></span></h3>
-                                    <h3 class="active-price-detail">საცალო ფასი: ₾<span id="unitprice">38.00</span></h3><h3 class="active-price-discount"> საბითუმო ფასი: ₾<span id="wholesaleprice">35.00</span></h3>
+                                    <h3 class="price-detail">₾<span id="pricetag">40.00</span> <del id="oldprice"></del> <span id="discount"></span></h3>
+                                    <h3 class="active-price-detail">საცალო ფასი: ₾<span id="unitprice">40.00</span></h3><h3 class="active-price-discount"> საბითუმო ფასი: ₾<span id="wholesaleprice">35.00</span></h3>
                                     <h3 class="mb-3"><span id="until-discount">დარჩა 10 საბითუმო ფასამდე</span></h3>
 
                                     <div id="selectSize" class="addeffect-section product-description border-product">
@@ -44,7 +44,7 @@
                                                 <li class="pricechange" value="12" realvalue="10">
                                                     <a href="javascript:void(0)">200 გრ.</a>
                                                 </li>
-                                                <li class="pricechange active" id="activeprice" value="38" realvalue="35">
+                                                <li class="pricechange active" id="activeprice" value="40" realvalue="35">
                                                     <a href="javascript:void(0)">1 ლ.</a>
                                                 </li>
                                             </ul>

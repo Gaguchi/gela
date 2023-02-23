@@ -32,8 +32,8 @@
                                         <span class="badge badge-grey-color">ფუნგიციდი</span>
                                     </div>
 
-                                    <h3 class="price-detail">₾<span id="pricetag">33.00</span> <del id="oldprice"></del> <span id="discount"></span></h3>
-                                    <h3 class="active-price-detail">საცალო ფასი: ₾<span id="unitprice">33.00</span></h3><h3 class="active-price-discount"> საბითუმო ფასი: ₾<span id="wholesaleprice">30.00</span></h3>
+                                    <h3 class="price-detail">₾<span id="pricetag">35.00</span> <del id="oldprice"></del> <span id="discount"></span></h3>
+                                    <h3 class="active-price-detail">საცალო ფასი: ₾<span id="unitprice">35.00</span></h3><h3 class="active-price-discount"> საბითუმო ფასი: ₾<span id="wholesaleprice">30.00</span></h3>
                                     <h3 class="mb-3"><span id="until-discount">დარჩა 10 საბითუმო ფასამდე</span></h3>
 
                                     <div id="selectSize" class="addeffect-section product-description border-product">
@@ -43,7 +43,7 @@
 
                                         <div class="size-box">
                                             <ul>
-                                                <li class="pricechange active" id="activeprice" value="33" realvalue="30">
+                                                <li class="pricechange active" id="activeprice" value="35" realvalue="30">
                                                     <a href="javascript:void(0)">100 გრ.</a>
                                                 </li>
                                             </ul>

@@ -32,8 +32,8 @@
                                         <span class="badge badge-grey-color">ფუნგიციდი</span>
                                     </div>
 
-                                    <h3 class="price-detail">₾<span id="pricetag">12.00</span> <del id="oldprice"></del> <span id="discount"></span></h3>
-                                    <h3 class="active-price-detail">საცალო ფასი: ₾<span id="unitprice">12.00</span></h3><h3 class="active-price-discount"> საბითუმო ფასი: ₾<span id="wholesaleprice">10.00</span></h3><h3 class="mb-3"><span id="until-discount">დარჩა 10 საბითუმო ფასამდე</span></h3>
+                                    <h3 class="price-detail">₾<span id="pricetag">85.00</span> <del id="oldprice"></del> <span id="discount"></span></h3>
+                                    <h3 class="active-price-detail">საცალო ფასი: ₾<span id="unitprice">85.00</span></h3><h3 class="active-price-discount"> საბითუმო ფასი: ₾<span id="wholesaleprice">80.00</span></h3><h3 class="mb-3"><span id="until-discount">დარჩა 10 საბითუმო ფასამდე</span></h3>
 
                                     <div id="selectSize" class="addeffect-section product-description border-product">
 
@@ -44,10 +44,10 @@
 
                                         <div class="size-box">
                                             <ul>
-                                                <li class="pricechange active" id="activeprice" value="12" realvalue="10">
+                                                <li class="pricechange" value="15" realvalue="12">
                                                     <a href="javascript:void(0)">100 მლ.</a>
                                                 </li>
-                                                <li class="pricechange" value="82"  realvalue="80">
+                                                <li class="pricechange active" id="activeprice" value="85"  realvalue="80">
                                                     <a href="javascript:void(0)">1 ლ.</a>
                                                 </li>
                                             </ul>
