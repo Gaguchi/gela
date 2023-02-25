@@ -324,7 +324,8 @@
 
     <!-- script js -->
     <script src="assets/js/theme-setting.js"></script>
-    <script src="assets/js/script.js"></script>
+    <script src="assets/js/script2.js"></script>
+    <script src="assets/js/video.js"></script>
 
 
     <script>
