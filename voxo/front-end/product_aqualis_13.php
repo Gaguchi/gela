@@ -25,7 +25,7 @@
                                 <div class="cloth-details-size">
 
                                     <div class="details-image-concept">
-                                        <h2>აკვალის 10.26.26</h2>
+                                        <h2>აკვალის 13.40.13</h2>
                                     </div>
 
                                     <div class="label-section">
@@ -170,25 +170,25 @@
                                                 <th>გოგირდი, არანაკლებ</th><td>1.5%</td>
                                             </tr>
                                             <tr>
-                                                <th>მიკროელემენტებს</th><td></td>
+                                                <th>მიკროელემენტები</th><td></td>
                                             </tr>
                                             <tr class="subtable">
-                                                <th><span>ბ</span></th><td>0.02%</td>
+                                                <th><span>B</span></th><td>0.02%</td>
                                             </tr>
                                             <tr class="subtable">
-                                                <th><span>კუ</span></th><td>0.005%</td>
+                                                <th><span>Cu</span></th><td>0.005%</td>
                                             </tr>
                                             <tr class="subtable">
-                                                <th><span>მნ</span></th><td>0.005%</td>
+                                                <th><span>Mn</span></th><td>0.005%</td>
                                             </tr>
                                             <tr class="subtable">
-                                                <th><span>ზნ</span></th><td>0.01%</td>
+                                                <th><span>Zn</span></th><td>0.01%</td>
                                             </tr>
                                             <tr class="subtable">
-                                                <th><span>ფე</span></th><td>0.07%</td>
+                                                <th><span>Fe</span></th><td>0.07%</td>
                                             </tr>
                                             <tr class="subtable">
-                                                <th><span>მო</span></th><td>0.004%</td>
+                                                <th><span>Mo</span></th><td>0.004%</td>
                                             </tr>
                                         </table>
                                     </div>

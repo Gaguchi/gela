@@ -133,14 +133,11 @@
 
                             <div class="tab-pane fade" id="speci">
                                 <div class="pro mb-4">
-                                                <h3 class="inner-title mb-2">Ძირითადი ინგრედიენტები:</h3>
+                                                <h3 class="inner-title mb-2">ძირითადი ინგრედიენტები:</h3>
                                     <div class="table-responsive">
                                         <table class="table table-part">
                                             <tr>
-                                                <th>მანკოცები</th><td>640 გ/კგ</td>
-                                            </tr>
-                                            <tr>
-                                                <th>მეტალაქსილი</th><td>80 გ/კგ</td>
+                                                <th>გოგირდი</th><td>800 გ/კგ</td>
                                             </tr>
                                         </table>
                                     </div>

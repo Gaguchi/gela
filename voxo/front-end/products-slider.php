@@ -21,7 +21,7 @@
                                     <h3 class="theme-color">
                                     ₾25.00
                                     </h3>
-                                    <a href="products_ballerina.php" class="font-default">
+                                    <a href="product_ballerina.php" class="font-default">
                                         <h5>ბალერინა</h5>
                                     </a>
                                 </div>
@@ -31,7 +31,7 @@
                         <div>
                             <div class="product-box">
                                 <div class="img-wrapper">
-                                    <a href="products_tornado.php">
+                                    <a href="product_tornado.php">
                                         <img src="assets/images/shoes/product/2.jpg"
                                             class="bg-img img-fluid blur-up lazyload" alt="">
                                     </a>
@@ -40,7 +40,7 @@
                                     <h3 class="theme-color">
                                     ₾45.00
                                     </h3>
-                                    <a href="products_tornado.php" class="font-default">
+                                    <a href="product_tornado.php" class="font-default">
                                         <h5>ტორნადო</h5>
                                     </a>
                                 </div>

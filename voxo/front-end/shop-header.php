@@ -193,7 +193,7 @@
                                                     <input class="checkbox_animated check-it" type="checkbox" name="category" value="tech"
                                                         id="flexCheckDefault17">
                                                     <label class="form-check-label"
-                                                        for="flexCheckDefault17">აგროტეცნიკა</label>
+                                                        for="flexCheckDefault17">აგროტექნიკა</label>
                                                 </div>
                                             </li>
                                         </ul>

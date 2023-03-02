@@ -144,6 +144,9 @@
                                             <li>
                                                 <a href="shop_fertcombo.php">კომბინირებული სასუქი</a>
                                             </li>
+                                            <li>
+                                                <a href="shop_tech.php">აგროტექნიკა</a>
+                                            </li>
                                         </ul>
                                     </div>
                                 </div>

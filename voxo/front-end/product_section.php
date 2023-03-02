@@ -525,7 +525,7 @@
                 </div>
                 <div class="main-price">
                     <a href="product_aqualis_13.php" class="font-default">
-                        <h3 class="ms-0">აკვალის 10.26.26</h3>
+                        <h3 class="ms-0">აკვალის 13.40.13</h3>
                     </a>
                     <div class="listing-content">
                         <span class="font-light">წყალხსნადი სასუქი</span>
@@ -982,61 +982,6 @@
         </div>
     </div>
 
-    <div class="productcheck" data-category="tech">
-        <div class="product-box">
-            <div class="img-wrapper">
-                <div class="front">
-                    <a href="product_tire.php">
-                        <img src="assets/images/products/tires.jpg" class="bg-img blur-up lazyload" alt="">
-                    </a>
-                </div>
-            </div>
-            <div class="product-details">
-                <div class="rating-details">
-                    <span class="font-light grid-content">აგროტექნიკა</span>
-                </div>
-                <div class="main-price">
-                    <a href="product_tire.php" class="font-default">
-                        <h3 class="ms-0">მაღალი გამავლობის საბურავი კამერით</h3>
-                    </a>
-                    <div class="listing-content">
-                        <span class="font-light">აგროტექნიკა</span>
-                    </div>
-                    <h3 class="active-price-detail">ფასი: ₾70.00</h3>
-                    <button onclick="location.href = 'product_tire.php';"
-                        class="btn listing-content">დეტალურად</button>
-                </div>
-            </div>
-        </div>
-    </div>
-
-<div class="productcheck" data-category="tech">
-    <div class="product-box">
-        <div class="img-wrapper">
-            <div class="front">
-                <a href="product_tire_disk.php">
-                    <img src="assets/images/products/tires-disks.jpg" class="bg-img blur-up lazyload" alt="">
-                </a>
-            </div>
-        </div>
-        <div class="product-details">
-            <div class="rating-details">
-                <span class="font-light grid-content">აგროტექნიკა</span>
-            </div>
-            <div class="main-price">
-                <a href="product_tire_disk.php" class="font-default">
-                    <h3 class="ms-0">მაღალი გამავლობის საბურავი დისკით</h3>
-                </a>
-                <div class="listing-content">
-                    <span class="font-light">აგროტექნიკა</span>
-                </div>
-                <h3 class="active-price-detail">საცალო ფასი: ₾165.00</h3>
-                <button onclick="location.href = 'product_tire_disk.php';"
-                    class="btn listing-content">დეტალურად</button>
-            </div>
-        </div>
-    </div>
-</div>
 
 <div class="productcheck" data-category="tech">
     <div class="product-box">
@@ -2189,6 +2134,61 @@
     </div>
 </div>
 
+<div class="productcheck" data-category="tech">
+        <div class="product-box">
+            <div class="img-wrapper">
+                <div class="front">
+                    <a href="product_tire.php">
+                        <img src="assets/images/products/tires.jpg" class="bg-img blur-up lazyload" alt="">
+                    </a>
+                </div>
+            </div>
+            <div class="product-details">
+                <div class="rating-details">
+                    <span class="font-light grid-content">აგროტექნიკა</span>
+                </div>
+                <div class="main-price">
+                    <a href="product_tire.php" class="font-default">
+                        <h3 class="ms-0">მაღალი გამავლობის საბურავი კამერით</h3>
+                    </a>
+                    <div class="listing-content">
+                        <span class="font-light">აგროტექნიკა</span>
+                    </div>
+                    <h3 class="active-price-detail">ფასი: ₾70.00</h3>
+                    <button onclick="location.href = 'product_tire.php';"
+                        class="btn listing-content">დეტალურად</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+<div class="productcheck" data-category="tech">
+    <div class="product-box">
+        <div class="img-wrapper">
+            <div class="front">
+                <a href="product_tire_disk.php">
+                    <img src="assets/images/products/tires-disks.jpg" class="bg-img blur-up lazyload" alt="">
+                </a>
+            </div>
+        </div>
+        <div class="product-details">
+            <div class="rating-details">
+                <span class="font-light grid-content">აგროტექნიკა</span>
+            </div>
+            <div class="main-price">
+                <a href="product_tire_disk.php" class="font-default">
+                    <h3 class="ms-0">მაღალი გამავლობის საბურავი დისკით</h3>
+                </a>
+                <div class="listing-content">
+                    <span class="font-light">აგროტექნიკა</span>
+                </div>
+                <h3 class="active-price-detail">საცალო ფასი: ₾165.00</h3>
+                <button onclick="location.href = 'product_tire_disk.php';"
+                    class="btn listing-content">დეტალურად</button>
+            </div>
+        </div>
+    </div>
+</div>
 
 
 
