@@ -18748,6 +18748,15 @@ span#wholesaleprice {
   width: 500px;
 }
 
+
+table {
+  width: -webkit-fill-available;
+}
+
+thead, tbody, tfoot, tr, td, th {
+  border-width: 1px;
+}
+
 .services-section .service-details {
   display: -webkit-box !important;
   display: -ms-flexbox !important;
