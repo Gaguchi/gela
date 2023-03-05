@@ -18070,8 +18070,12 @@ span#wholesaleprice {
 
 .cloth-review .tab-pane table tbody tr td {
   padding: 1.2rem 0.5rem;
-  white-space: nowrap;
-  text-align: center;
+  white-space: pre-wrap;
+  text-align: left;
+}
+
+.underline{
+  text-decoration: underline;
 }
 
 .cloth-review .review-box .form-control:focus {
