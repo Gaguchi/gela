@@ -349,8 +349,8 @@
                         <p class="font-light">მრავალმხრივი, მაღალი ხარისხის მარცვლოვანი სასუქი, რომელიც შეიცავს აზოტს და
                             ფოსფორს.</p>
                     </div>
-                    <h3 class="active-price-detail">საცალო ფასი: ₾160.00</h3>
-                    <h3 class="active-price-discount"> საბითუმო ფასი: ₾155.00</h3>
+                    <h3 class="active-price-detail">საცალო ფასი: ₾145.00</h3>
+                    <h3 class="active-price-discount"> საბითუმო ფასი: ₾150.00</h3>
                     <button onclick="location.href = 'product_ammofos.php';"
                         class="btn listing-content">დეტალურად</button>
                 </div>
@@ -380,8 +380,8 @@
                         <p class="font-light">კარბამიდი (შარდოვანა) - ყველაზე კონცენტრირებული მარცვლოვანი აზოტის სასუქი
                             (46,2% აზოტი).</p>
                     </div>
-                    <h3 class="active-price-detail">საცალო ფასი: ₾165.00</h3>
-                    <h3 class="active-price-discount"> საბითუმო ფასი: ₾160.00</h3>
+                    <h3 class="active-price-detail">საცალო ფასი: ₾150.00</h3>
+                    <h3 class="active-price-discount"> საბითუმო ფასი: ₾145.00</h3>
                     <button onclick="location.href = 'product_karbamid.php';"
                         class="btn listing-content">დეტალურად</button>
                 </div>
@@ -470,8 +470,8 @@
                         <span class="font-light">კომბინირებული სასუქი</span>
                         <p class="font-light">უნივერსალური მაღალი ხარისხის კომპლექსური სასუქი.</p>
                     </div>
-                    <h3 class="active-price-detail">საცალო ფასი: ₾140.00</h3>
-                    <h3 class="active-price-discount"> საბითუმო ფასი: ₾135.00</h3>
+                    <h3 class="active-price-detail">საცალო ფასი: ₾130.00</h3>
+                    <h3 class="active-price-discount"> საბითუმო ფასი: ₾125.00</h3>
                     <button onclick="location.href = 'product_avrora_16.php';"
                         class="btn listing-content">დეტალურად</button>
                 </div>
@@ -501,9 +501,39 @@
                         <p class="font-light">კარბამიდი (შარდოვანა) - ყველაზე კონცენტრირებული მარცვლოვანი აზოტის სასუქი
                             (46,2% აზოტი).</p>
                     </div>
-                    <h3 class="active-price-detail">საცალო ფასი: ₾155.00</h3>
-                    <h3 class="active-price-discount"> საბითუმო ფასი: ₾150.00</h3>
+                    <h3 class="active-price-detail">საცალო ფასი: ₾135.00</h3>
+                    <h3 class="active-price-discount"> საბითუმო ფასი: ₾130.00</h3>
                     <button onclick="location.href = 'product_avrora_10.php';"
+                        class="btn listing-content">დეტალურად</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="productcheck" data-category="evrochim watersolublefertilizer fertilizer">
+        <div class="product-box">
+            <div class="img-wrapper">
+                <div class="front">
+                    <a href="product_senfa_18.php">
+                        <img src="assets/images/products/senfa.jpg" class="bg-img blur-up lazyload" alt="">
+                    </a>
+                </div>
+            </div>
+            <div class="product-details">
+                <div class="rating-details">
+                    <span class="font-light grid-content">წყალხსნადი სასუქი</span>
+                </div>
+                <div class="main-price">
+                    <a href="product_senfa_18.php" class="font-default">
+                        <h3 class="ms-0">სენფა 18.18.18</h3>
+                    </a>
+                    <div class="listing-content">
+                        <span class="font-light">წყალხსნადი სასუქი</span>
+                    </div>
+                    <h3 class="active-price-detail">საცალო ფასი: ₾140.00</h3>
+                    <h3 class="active-price-discount"> საბითუმო ფასი: ₾135.00</h3>
+                    <button onclick="location.href = 'product_senfa_18.php';"
                         class="btn listing-content">დეტალურად</button>
                 </div>
             </div>
@@ -600,8 +630,8 @@
                             მიკროელემენტები პროდუქტის მაქსიმალური ხარისხისა და მოსავლიანობისთვის. მარცვლეულში გლუტენის
                             მატება, ჭარხალში შაქრის მომატება.</p>
                     </div>
-                    <h3 class="active-price-detail">საცალო ფასი: ₾140.00</h3>
-                    <h3 class="active-price-discount"> საბითუმო ფასი: ₾135.00</h3>
+                    <h3 class="active-price-detail">საცალო ფასი: ₾135.00</h3>
+                    <h3 class="active-price-discount"> საბითუმო ფასი: ₾130.00</h3>
                     <button onclick="location.href = 'product_aqualis_15.php';"
                         class="btn listing-content">დეტალურად</button>
                 </div>

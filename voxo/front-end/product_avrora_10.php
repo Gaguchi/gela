@@ -32,8 +32,8 @@
                                         <span class="badge badge-grey-color">კომბინირებული სასუქი</span>
                                     </div>
 
-                                    <h3 class="price-detail">₾<span id="pricetag">155.00</span> <del id="oldprice"></del> <span id="discount"></span></h3>
-                                    <h3 class="active-price-detail">საცალო ფასი: ₾<span id="unitprice">155.00</span></h3><h3 class="active-price-discount"> საბითუმო ფასი: ₾<span id="wholesaleprice">150.00</span></h3><h3 class="mb-3"><span id="until-discount">დარჩა 10 საბითუმო ფასამდე</span></h3>
+                                    <h3 class="price-detail">₾<span id="pricetag">135.00</span> <del id="oldprice"></del> <span id="discount"></span></h3>
+                                    <h3 class="active-price-detail">საცალო ფასი: ₾<span id="unitprice">135.00</span></h3><h3 class="active-price-discount"> საბითუმო ფასი: ₾<span id="wholesaleprice">130.00</span></h3><h3 class="mb-3"><span id="until-discount">დარჩა 10 საბითუმო ფასამდე</span></h3>
 
                                     <div id="selectSize" class="addeffect-section product-description border-product">
                                         <h6 class="product-title size-text">აირჩიეთ მოცულობა: 
@@ -43,7 +43,7 @@
 
                                         <div class="size-box">
                                             <ul>
-                                                <li class="pricechange active" id="activeprice" value="155" realvalue="150">
+                                                <li class="pricechange active" id="activeprice" value="135" realvalue="130">
                                                     <a href="javascript:void(0)">50 კგ.</a>
                                                 </li>
                                             </ul>
