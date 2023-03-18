@@ -119,7 +119,7 @@
                                 <div class="shipping-chart">
                                     <div class="part">
                                         <h4 class="inner-title mb-2">კოლოსალი</h4>
-                                        <p class="font-light">პროფილაქტიკური და სამკურნალო სისტემური ფუნგიციდი მარცვლეულის, ბრინჯის, რაფსის და ყურძნის დაავადებების კონტროლისთვის</p>
+                                        <p class="font-light">პროფილაქტიკური და სამკურნალო სისტემური ფუნგიციდი მარცვლეულის, ბრინჯის, რაფსის და ვაზის დაავადებების კონტროლისთვის</p>
                                     </div>
                                     <div class="row g-3 align-items-center">
                                         <div class="col-lg-8">

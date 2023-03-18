@@ -94,37 +94,6 @@
         </div>
     </div>
 
-    <div class="productcheck" data-category="avgust herbicide">
-        <div class="product-box">
-            <div class="img-wrapper">
-                <div class="front">
-                    <a href="product_ordan.php">
-                        <img src="assets/images/products/ordan.jpg" class="bg-img blur-up lazyload" alt="">
-                    </a>
-                </div>
-            </div>
-            <div class="product-details">
-                <div class="rating-details">
-                    <span class="font-light grid-content">ჰერბიციდი</span>
-                </div>
-                <div class="main-price">
-                    <a href="product_ordan.php" class="font-default">
-                        <h3 class="ms-0">ორდანი</h3>
-                    </a>
-                    <div class="listing-content">
-                        <span class="font-light">ჰერბიციდი</span>
-                        <p class="font-light">ლოკალურ-სისტემური მოქმედების ორკომპონენტიანი ფუნგიციდი კარტოფილის,
-                            პომიდვრის, კიტრის, ხახვისა და ყურძნის დაავადებების კომპლექსისგან დასაცავად.</p>
-                    </div>
-                    <h3 class="active-price-detail">საცალო ფასი: ₾50.00</h3>
-                    <h3 class="active-price-discount"> საბითუმო ფასი: ₾45.00</h3>
-                    <button onclick="location.href = 'product_ordan.php';"
-                        class="btn listing-content">დეტალურად</button>
-                </div>
-            </div>
-        </div>
-    </div>
-
     <div class="productcheck" data-category="avgust insecticide">
         <div class="product-box">
             <div class="img-wrapper">
@@ -187,6 +156,37 @@
             </div>
         </div>
     </div>
+
+<div class="productcheck" data-category="avgust fungicide">
+    <div class="product-box">
+        <div class="img-wrapper">
+            <div class="front">
+                <a href="product_ordan.php">
+                    <img src="assets/images/products/ordan.jpg" class="bg-img blur-up lazyload" alt="">
+                </a>
+            </div>
+        </div>
+        <div class="product-details">
+            <div class="rating-details">
+                <span class="font-light grid-content">ფუნგიციდი</span>
+            </div>
+            <div class="main-price">
+                <a href="product_ordan.php" class="font-default">
+                    <h3 class="ms-0">ორდანი</h3>
+                </a>
+                <div class="listing-content">
+                    <span class="font-light">ფუნგიციდი</span>
+                    <p class="font-light">ლოკალურ-სისტემური მოქმედების ორკომპონენტიანი ფუნგიციდი კარტოფილის,
+                        პომიდვრის, კიტრის, ხახვისა და ყურძნის დაავადებების კომპლექსისგან დასაცავად.</p>
+                </div>
+                <h3 class="active-price-detail">საცალო ფასი: ₾50.00</h3>
+                <h3 class="active-price-discount"> საბითუმო ფასი: ₾45.00</h3>
+                <button onclick="location.href = 'product_ordan.php';"
+                    class="btn listing-content">დეტალურად</button>
+            </div>
+        </div>
+    </div>
+</div>
 
     <div class="productcheck" data-category="avgust fungicide">
         <div class="product-box">

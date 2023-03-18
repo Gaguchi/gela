@@ -29,7 +29,7 @@
                                     </div>
 
                                     <div class="label-section">
-                                        <span class="badge badge-grey-color">ჰერბიციდი</span>
+                                        <span class="badge badge-grey-color">ფუნგიციდი</span>
                                     </div>
 
                                     <h3 class="price-detail">₾<span id="pricetag">50.00</span> <del id="oldprice"></del> <span id="discount"></span></h3>
