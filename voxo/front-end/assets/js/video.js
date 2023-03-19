@@ -12,4 +12,4 @@
 }});
 
 
-AOS.init();
+// AOS.init();

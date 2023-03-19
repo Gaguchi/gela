@@ -38,7 +38,7 @@
     <link rel="stylesheet" type="text/css" href="assets/css/vendors/feather-icon.css">
 
     <!-- Icon Start -->
-    <link rel="icon" href="assets/images/shoes/png/001-hotel-service.png">
+    <link rel="icon" href="assets/images/favicon/favicon.svg">
 
     <!-- animation css -->
     <link rel="stylesheet" type="text/css" href="assets/css/vendors/animate.css">

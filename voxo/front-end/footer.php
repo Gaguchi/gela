@@ -291,7 +291,7 @@
     <script src="assets/js/lazysizes.min.js"></script>
 
     <!-- Add To Home js -->
-    <script src="assets/js/pwa.js"></script>
+    <!-- <script src="assets/js/pwa.js"></script> -->
 
     <!-- Timer Js -->
     <!-- <script src="assets/js/timer1.js"></script> -->
