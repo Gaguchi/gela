@@ -723,8 +723,8 @@
                         <p class="font-light">ამონიუმის ნიტრატის სასუქი (UAN) არის უნივერსალური მარცვლოვანი აზოტის
                             სასუქი, რომელიც შეიცავს აზოტს ამონიუმის და ნიტრატის სახით (33.5% აზოტი).</p>
                     </div>
-                    <h3 class="active-price-detail">საცალო ფასი: ₾105.00</h3>
-                    <h3 class="active-price-discount"> საბითუმო ფასი: ₾100.00</h3>
+                    <h3 class="active-price-detail">საცალო ფასი: ₾80.00</h3>
+                    <h3 class="active-price-discount"> საბითუმო ფასი: ₾75.00</h3>
                     <button onclick="location.href = 'product_rus_gvar.php';"
                         class="btn listing-content">დეტალურად</button>
                 </div>
@@ -830,8 +830,8 @@
                             % -ით, ხოლო ნიადაგში აზოტის დეფიციტი განაპირობებს მცენარის განვითარების შეჩერებას და დაბალ
                             მოსავლიანობას.</p>
                     </div>
-                    <h3 class="active-price-detail">საცალო ფასი: ₾74.00</h3>
-                    <h3 class="active-price-discount"> საბითუმო ფასი: ₾72.00</h3>
+                    <h3 class="active-price-detail">საცალო ფასი: ₾72.00</h3>
+                    <h3 class="active-price-discount"> საბითუმო ფასი: ₾70.00</h3>
                     <button onclick="location.href = 'product_gvarjila.php';"
                         class="btn listing-content">დეტალურად</button>
                 </div>
