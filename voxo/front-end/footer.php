@@ -329,6 +329,43 @@
 
 
     <script>
+document.addEventListener("DOMContentLoaded", function() {
+    console.log("Script is running"); // Check if the script is running
+
+    // Hide the preloader
+    var preloader = document.querySelector(".preloader");
+    console.log("Preloader:", preloader); // Check if the preloader exists
+    if (preloader) {
+        preloader.style.display = "none";
+    }
+
+    // Hide all elements with .price-detail class
+    var priceDetailElements = document.querySelectorAll(".price-detail");
+    console.log("Price detail elements:", priceDetailElements); // Check if the price detail elements exist
+    for (var i = 0; i < priceDetailElements.length; i++) {
+        priceDetailElements[i].style.display = "none";
+    }
+
+    // Hide all elements with .active-price-detail class
+    var activePriceDetailElements = document.querySelectorAll(".active-price-detail");
+    console.log("Active price detail elements:", activePriceDetailElements); // Check if the active price detail elements exist
+    for (var i = 0; i < activePriceDetailElements.length; i++) {
+        activePriceDetailElements[i].style.display = "none";
+    }
+
+    // Hide all elements with .active-price-detail class
+    var activePriceDetailElements = document.querySelectorAll(".active-price-discount");
+    console.log("Active price detail elements:", activePriceDetailElements); // Check if the active price detail elements exist
+    for (var i = 0; i < activePriceDetailElements.length; i++) {
+        activePriceDetailElements[i].style.display = "none";
+    }
+    
+    // Hide the preloader
+    var discount = document.getElementById("until-discount");
+    if (discount) {
+        discount.style.display = "none";
+    }
+});
     </script>
 </body>
 </html>

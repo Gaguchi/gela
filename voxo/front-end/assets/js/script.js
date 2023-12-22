@@ -880,84 +880,95 @@ wordflick();
     25. Preloader
  ==========================*/
 
- window.onload = function(){
-    //hide the preloader
+window.onload = function() {
+    // Hide the preloader
     document.querySelector(".preloader").style.display = "none";
-}
 
+    // Hide all elements with .price-detail class
+    var priceDetailElements = document.querySelectorAll(".price-detail");
+    for (var i = 0; i < priceDetailElements.length; i++) {
+        priceDetailElements[i].style.display = "none";
+    }
+
+    // Hide all elements with .active-price-detail class
+    var activePriceDetailElements = document.querySelectorAll(".active-price-detail");
+    for (var i = 0; i < activePriceDetailElements.length; i++) {
+        activePriceDetailElements[i].style.display = "none";
+    }
+};
 
 /*=====================
     25. Price Change
  ==========================*/
- var price = 0;
- var oldprice = 0;
- var discount = 0;
- var unitprice = 0;
- var unitpricediscount = 0;
+//  var price = 0;
+//  var oldprice = 0;
+//  var discount = 0;
+//  var unitprice = 0;
+//  var unitpricediscount = 0;
 
  
- $(".pricechange").click(function() {
-    $(".pricechange").removeAttr("id");
-    $(this).attr("id","activeprice");
-    if ($(".input-number").val() < 11) {
-        $("#until-discount").show();
-        $("#oldprice").hide();
-        $("#discount").hide();
-        $("#until-discount").text("დარჩა "+ (11 - $(".input-number").val()) +" საბითუმო ფასამდე")
-        price = $("#activeprice").attr('value')*$(".input-number").val();
-        unitprice = $("#activeprice").attr('value')*1;
-        unitpricediscount = $("#activeprice").attr('realvalue')*1;
-    } else {
-        $("#oldprice").show();
-        $("#discount").show();
-        $("#until-discount").hide();
-        unitprice = $("#activeprice").attr('value')*1;
-        unitpricediscount = $("#activeprice").attr('realvalue')*1;
-        price = $("#activeprice").attr('realvalue')*$(".input-number").val();
-        oldprice = $("#activeprice").attr('value')*$(".input-number").val();
-        discount = $("#activeprice").attr('value')*$(".input-number").val() - $("#activeprice").attr('realvalue')*$(".input-number").val();
-    };
+//  $(".pricechange").click(function() {
+//     $(".pricechange").removeAttr("id");
+//     $(this).attr("id","activeprice");
+//     if ($(".input-number").val() < 11) {
+//         $("#until-discount").show();
+//         $("#oldprice").hide();
+//         $("#discount").hide();
+//         $("#until-discount").text("დარჩა "+ (11 - $(".input-number").val()) +" საბითუმო ფასამდე")
+//         price = $("#activeprice").attr('value')*$(".input-number").val();
+//         unitprice = $("#activeprice").attr('value')*1;
+//         unitpricediscount = $("#activeprice").attr('realvalue')*1;
+//     } else {
+//         $("#oldprice").show();
+//         $("#discount").show();
+//         $("#until-discount").hide();
+//         unitprice = $("#activeprice").attr('value')*1;
+//         unitpricediscount = $("#activeprice").attr('realvalue')*1;
+//         price = $("#activeprice").attr('realvalue')*$(".input-number").val();
+//         oldprice = $("#activeprice").attr('value')*$(".input-number").val();
+//         discount = $("#activeprice").attr('value')*$(".input-number").val() - $("#activeprice").attr('realvalue')*$(".input-number").val();
+//     };
 
-    $("#oldprice").text('₾' + oldprice.toFixed(2));
-    $("#discount").text('დანაზოგი: ₾' + discount.toFixed(2));
-    $("#pricetag").text(price.toFixed(2));
-    $("#unitprice").text(unitprice.toFixed(2));
-    $("#wholesaleprice").text(unitpricediscount.toFixed(2));
-});
-
-
-// $(".pricechange").click(function() {
-//     unitprice = $("#activeprice").attr('value');
-//     unitpricediscount = $("#activeprice").attr('realvalue');
-    
-//     console.log(unitprice);
-//     console.log(unitpricediscount);
-    
-
-//     $("#unitprice").text(unitprice);
-//     $("#wholesaleprice").text(unitpricediscount);
+//     $("#oldprice").text('₾' + oldprice.toFixed(2));
+//     $("#discount").text('დანაზოგი: ₾' + discount.toFixed(2));
+//     $("#pricetag").text(price.toFixed(2));
+//     $("#unitprice").text(unitprice.toFixed(2));
+//     $("#wholesaleprice").text(unitpricediscount.toFixed(2));
 // });
 
-$(".priceupdate").click(function() {
-    if ($(".input-number").val() < 11) {
-        $("#until-discount").show();
-        $("#oldprice").hide();
-        $("#discount").hide();
-        $("#until-discount").text("დარჩა "+ (11 - $(".input-number").val()) +" საბითუმო ფასამდე")
-        price = $("#activeprice").attr('value')*$(".input-number").val();
-    } else {
-        $("#oldprice").show();
-        $("#discount").show();
-        $("#until-discount").hide();
-        price = $("#activeprice").attr('realvalue')*$(".input-number").val();
-        oldprice = $("#activeprice").attr('value')*$(".input-number").val();
-        discount = $("#activeprice").attr('value')*$(".input-number").val() - $("#activeprice").attr('realvalue')*$(".input-number").val();
-    };
 
-    $("#oldprice").text('₾' + oldprice.toFixed(2));
-    $("#discount").text('დანაზოგი: ₾' + discount.toFixed(2));
-    $("#pricetag").text(price.toFixed(2));
-});
+// // $(".pricechange").click(function() {
+// //     unitprice = $("#activeprice").attr('value');
+// //     unitpricediscount = $("#activeprice").attr('realvalue');
+    
+// //     console.log(unitprice);
+// //     console.log(unitpricediscount);
+    
+
+// //     $("#unitprice").text(unitprice);
+// //     $("#wholesaleprice").text(unitpricediscount);
+// // });
+
+// $(".priceupdate").click(function() {
+//     if ($(".input-number").val() < 11) {
+//         $("#until-discount").show();
+//         $("#oldprice").hide();
+//         $("#discount").hide();
+//         $("#until-discount").text("დარჩა "+ (11 - $(".input-number").val()) +" საბითუმო ფასამდე")
+//         price = $("#activeprice").attr('value')*$(".input-number").val();
+//     } else {
+//         $("#oldprice").show();
+//         $("#discount").show();
+//         $("#until-discount").hide();
+//         price = $("#activeprice").attr('realvalue')*$(".input-number").val();
+//         oldprice = $("#activeprice").attr('value')*$(".input-number").val();
+//         discount = $("#activeprice").attr('value')*$(".input-number").val() - $("#activeprice").attr('realvalue')*$(".input-number").val();
+//     };
+
+//     $("#oldprice").text('₾' + oldprice.toFixed(2));
+//     $("#discount").text('დანაზოგი: ₾' + discount.toFixed(2));
+//     $("#pricetag").text(price.toFixed(2));
+// });
 
 
 
